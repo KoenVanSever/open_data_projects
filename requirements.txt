@@ -1,0 +1,13 @@
+matplotlib
+pandas
+numpy
+seaborn
+jupyter
+jupyterlab
+ipython
+xlrd
+openpyxl
+plotly
+orca
+sklearn
+bs4
