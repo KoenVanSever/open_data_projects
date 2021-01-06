@@ -2,6 +2,7 @@
 
 import urllib3
 import bs4
+import matplotlib.pyplot as plt
 
 def load_page(domain, search_page):
     http = urllib3.PoolManager(num_pools = 1)
@@ -38,3 +39,27 @@ def process_datahub(search, domain = "https://datahub.io"):
     resp = load_page(domain, search)
     resources = process_data_page(resp, search)
     return resp, resources
+
+def plot_stack_gdp(df):
+    plt.clf()
+    fig, ax = plt.subplots(1,1)
+    ax.stackplot(df.columns, [df.loc[x] for x in df.index])
+    labels = df.index
+    ax.legend(loc = "center", bbox_to_anchor = (0.5, -0.25), ncol = len(df.columns), labels = labels)
+    ax.set_xticks(df.columns)
+    ax.xaxis.set_tick_params(rotation = 45)
+    return fig, ax
+
+def plot_bar_perc(df):
+    plt.clf()
+    fig, ax = plt.subplots(1,1)
+    for col in df.columns:
+        b = 0
+        for i, t in enumerate(df[col]):
+            ax.bar(x = col, height = t, bottom = b)
+            b += t
+    labels = df.index
+    ax.legend(loc = "center", bbox_to_anchor = (0.5, -0.25), ncol = len(df.columns), labels = labels)
+    ax.set_xticks(df.columns)
+    ax.xaxis.set_tick_params(rotation = 45)
+    return fig, ax
