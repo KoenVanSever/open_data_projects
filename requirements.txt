@@ -12,3 +12,4 @@ orca
 sklearn
 bs4
 kaggle
+folium

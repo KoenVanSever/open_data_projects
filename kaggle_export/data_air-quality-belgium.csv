@@ -1,0 +1,616 @@
+City;Location;Coordinates;Country Code;Pollutant;Source Name;Unit;Value;Last Updated;Country
+Flanders;Belgium - Flanders - 40AB02 - BERENDRECHT;51.34073,4.3218203;BE;PM10;EEA Belgium;µg/m³;39.2;2017-03-13T13:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41R012 - UCCLE;50.79663,4.3585386;BE;SO2;EEA Belgium;µg/m³;2.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N046 - GELLIK;50.882298,5.618874;BE;NO2;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R897 - ANTWERPEN;51.250107,4.3421044;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43H201 - LIEGE;50.624992,5.5474644;BE;SO2;EEA Belgium;µg/m³;0.5;2016-12-21T14:00:00+01:00;Belgium
+Wallonia;Belgium - Wallonia - 43N093 - SINSIN;50.27448,5.2351685;BE;O3;EEA Belgium;µg/m³;44.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R701 - GENT;51.05833,3.729298;BE;O3;EEA Belgium;µg/m³;35.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R501 - CHARLEROI;50.409313,4.452172;BE;CO;EEA Belgium;µg/m³;11.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R502 - LODELINSART;50.428997,4.4586806;BE;NO2;EEA Belgium;µg/m³;26.0;2017-07-21T00:00:00+02:00;Belgium
+Limburg;Belgium - Limburg - BELGK06;50.92789,5.47062;BE;PM2.5;EEA Belgium;µg/m³;25.0;2019-01-31T09:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELSA04;51.31393,4.403868;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BELSZ02;50.91302,4.512184;BE;NO2;EEA Belgium;µg/m³;4.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB011;50.858032,4.2883363;BE;NO2;EEA Belgium;µg/m³;3.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETM204;50.611923,5.61115;BE;PM10;EEA Belgium;µg/m³;4.771;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN012;51.254574,3.362536;BE;PM2.5;EEA Belgium;µg/m³;10.5;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETN040;50.76814,4.2251945;BE;O3;EEA Belgium;µg/m³;45.5;2020-12-20T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETN054;50.711704,5.1031585;BE;PM2.5;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN073;50.502716,4.988423;BE;O3;EEA Belgium;µg/m³;47.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR001;50.849667,4.33382;BE;CO;EEA Belgium;µg/m³;0.17;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR002;50.825127,4.384719;BE;CO;EEA Belgium;µg/m³;0.13;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR731;51.12469,3.7395043;BE;PM10;EEA Belgium;µg/m³;17.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR801;51.209663,4.431821;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40GK06 - GENK;50.92789,5.47062;BE;PM2.5;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 40GK09 - GENK;50.93463,5.4927883;BE;SO2;EEA Belgium;µg/m³;3.0;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40HB23 - HOBOKEN;51.1703,4.341005;BE;PM2.5;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41B011 - BERCHEM S.A;50.858032,4.2883363;BE;PM2.5;EEA Belgium;µg/m³;5.05;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41B011 - BERCHEM S.A;50.858032,4.2883363;BE;NO2;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N045 - HASSELT;50.939713,5.3683786;BE;SO2;EEA Belgium;µg/m³;1.0;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42R801 - BORGERHOUT;51.209663,4.431821;BE;NO2;EEA Belgium;µg/m³;23.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R815 - ZWIJNDRECHT;51.2147,4.3322062;BE;SO2;EEA Belgium;µg/m³;1.0;2017-03-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42R831 - BERENDRECHT;51.348797,4.3397098;BE;O3;EEA Belgium;µg/m³;54.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R834 - Boom;51.092,4.3801036;BE;NO2;EEA Belgium;µg/m³;12.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N063 - CORROY L.G.;50.655437,4.6682878;BE;CO;EEA Belgium;µg/m³;10.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N093 - SINSIN;50.27448,5.2351685;BE;PM10;EEA Belgium;µg/m³;9.271;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N121 - OFFAGNE;49.87713,5.2023873;BE;NO2;EEA Belgium;µg/m³;4.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R240 - ENGIS;50.583614,5.397446;BE;PM10;EEA Belgium;µg/m³;19.771;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BELRL01;50.95318,3.1211555;BE;PM2.5;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN012;51.254574,3.362536;BE;PM10;EEA Belgium;µg/m³;17.1;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN029;51.01628,2.582323;BE;O3;EEA Belgium;µg/m³;41.5;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN085;50.303207,6.001736;BE;NO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR222;50.613415,5.570223;BE;PM10;EEA Belgium;µg/m³;3.771;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR240;50.583614,5.397446;BE;SO2;EEA Belgium;µg/m³;2.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR501;50.40931,4.452172;BE;NO2;EEA Belgium;µg/m³;4.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR512;50.40781,4.395897;BE;SO2;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR740;51.150135,3.808735;BE;NO2;EEA Belgium;µg/m³;7.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR834;51.092,4.3801036;BE;PM10;EEA Belgium;µg/m³;11.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR893;51.28138,4.385771;BE;SO2;EEA Belgium;µg/m³;2.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41MEU1 - MEUDON;50.8951,4.392718;BE;PM10;EEA Belgium;µg/m³;8.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41N043 - HAREN;50.88356,4.382963;BE;CO;EEA Belgium;µg/m³;12.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N016 - DESSEL;51.233654,5.163979;BE;NO2;EEA Belgium;µg/m³;10.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N045 - HASSELT;50.939713,5.3683786;BE;PM2.5;EEA Belgium;µg/m³;25.0;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42R802 - BORGERHOUT;51.20952,4.4317923;BE;NO2;EEA Belgium;µg/m³;31.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R811 - SCHOTEN;51.2521,4.491362;BE;O3;EEA Belgium;µg/m³;55.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R830 - DOEL;51.31823,4.262634;BE;SO2;EEA Belgium;µg/m³;8.0;2017-01-06T11:00:00+01:00;Belgium
+Wallonia;Belgium - Wallonia - 43N063 - CORROY L.G.;50.655437,4.6682878;BE;PM10;EEA Belgium;µg/m³;8.771;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R240 - ENGIS;50.583614,5.397446;BE;SO2;EEA Belgium;µg/m³;3.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R740 - ST.KRUIS-WI;51.150135,3.8087354;BE;O3;EEA Belgium;µg/m³;45.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R502 - LODELINSART;50.428997,4.4586806;BE;PM10;EEA Belgium;µg/m³;12.271;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E704 - WACHTEBEKE;51.1761,3.8699281;BE;NO2;EEA Belgium;µg/m³;12.5;2017-07-21T00:00:00+02:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BELAL05;51.26312,4.2788897;BE;PM2.5;EEA Belgium;µg/m³;7.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELSA04;51.31393,4.403868;BE;PM10;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETM702;51.166023,3.7621374;BE;NO2;EEA Belgium;µg/m³;10.5;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN060;50.61672,3.4576244;BE;NO2;EEA Belgium;µg/m³;5.5;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETN066;50.62886,6.002329;BE;SO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN121;49.87713,5.202387;BE;O3;EEA Belgium;µg/m³;53.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR750;51.196064,3.82292;BE;SO2;EEA Belgium;µg/m³;1.0;2020-01-17T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR815;51.2147,4.3322062;BE;PM2.5;EEA Belgium;µg/m³;19.0;2018-01-04T04:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR817;51.17713,4.4179487;BE;NO2;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40OB01 - OOSTROZEBEK;50.91723,3.3073857;BE;PM2.5;EEA Belgium;µg/m³;40.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R001 - MOLENBEEK;50.849667,4.33382;BE;PM10;EEA Belgium;µg/m³;12.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N045 - HASSELT;50.939713,5.3683786;BE;O3;EEA Belgium;µg/m³;2.5;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42R020 - VILVOORDE;50.941387,4.436721;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R805 - ANTWERPEN;51.20823,4.4215593;BE;NO2;EEA Belgium;µg/m³;23.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R811 - SCHOTEN;51.2521,4.491362;BE;PM10;EEA Belgium;µg/m³;14.2;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N060 - HAVINNES;50.61672,3.4576244;BE;O3;EEA Belgium;µg/m³;49.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N066 - EUPEN;50.62886,6.002329;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N070 - MONS;50.46519,3.9397144;BE;O3;EEA Belgium;µg/m³;41.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R221 - LIEGE;50.658443,5.6278353;BE;PM10;EEA Belgium;µg/m³;12.771;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R701 - GENT;51.05833,3.729298;BE;PM10;EEA Belgium;µg/m³;127.2;2017-07-20T23:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R702 - Gent (G.Carlierlaan);51.040688,3.7349715;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R740 - ST.KRUIS-WI;51.150135,3.8087354;BE;NO2;EEA Belgium;µg/m³;12.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E703 - OOSTEEKLO;51.190315,3.6872957;BE;NO2;EEA Belgium;µg/m³;7.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E716 - MARIAKERKE;51.066986,3.682813;BE;NO2;EEA Belgium;µg/m³;5.5;2017-07-21T00:00:00+02:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETMEU1;50.8951,4.392718;BE;PM10;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETN016;51.233654,5.163979;BE;O3;EEA Belgium;µg/m³;42.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETN043;50.88356,4.382963;BE;SO2;EEA Belgium;µg/m³;0.3;2020-12-20T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETN046;50.882298,5.618874;BE;O3;EEA Belgium;µg/m³;41.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN085;50.303207,6.001736;BE;CO;EEA Belgium;µg/m³;0.14;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR740;51.150135,3.808735;BE;PM10;EEA Belgium;µg/m³;14.7;2020-12-20T02:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41R001 - MOLENBEEK;50.849667,4.33382;BE;O3;EEA Belgium;µg/m³;49.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R841 - MECHELEN;51.002525,4.4693213;BE;NO2;EEA Belgium;µg/m³;44.5;2017-01-06T11:00:00+01:00;Belgium
+Wallonia;Belgium - Wallonia - 43N063 - CORROY L.G.;50.655437,4.6682878;BE;O3;EEA Belgium;µg/m³;53.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R222 - SERAING;50.61341,5.570223;BE;PM2.5;EEA Belgium;µg/m³;3.62;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R223 - JEMEPPE;50.62067,5.5164046;BE;PM10;EEA Belgium;µg/m³;12.771;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R240 - ENGIS;50.583614,5.397446;BE;O3;EEA Belgium;µg/m³;40.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N052 - ZWEVEGEM;50.814873,3.3224943;BE;PM2.5;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R710 - DESTELBERGE;51.06128,3.7752624;BE;NO2;EEA Belgium;µg/m³;6.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R750 - ZELZATE;51.196064,3.82292;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BELOB02;50.91495,3.3762116;BE;PM10;EEA Belgium;µg/m³;17.6;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB006;50.83863,4.374388;BE;NO2;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETMEU1;50.8951,4.392718;BE;PM2.5;EEA Belgium;µg/m³;3.3;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN100;50.095684,4.594763;BE;SO2;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN113;50.027027,5.593017;BE;O3;EEA Belgium;µg/m³;57.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN132;49.71928,5.630398;BE;CO;EEA Belgium;µg/m³;0.145;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR012;50.79663,4.358539;BE;PM2.5;EEA Belgium;µg/m³;6.95;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR701;51.05833,3.729298;BE;CO;EEA Belgium;µg/m³;0.185;2020-12-19T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR702;51.040688,3.7349715;BE;PM2.5;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR710;51.06128,3.7752624;BE;PM2.5;EEA Belgium;µg/m³;7.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR801;51.209663,4.431821;BE;O3;EEA Belgium;µg/m³;38.0;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40WZ02 - MOL;51.1928,5.2215343;BE;SO2;EEA Belgium;µg/m³;0.5;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R002 - IXELLES;50.825127,4.384719;BE;NO2;EEA Belgium;µg/m³;30.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42M802 - ANTWERPEN;51.26099,4.424399;BE;PM10;EEA Belgium;µg/m³;17.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N035 - AARSCHOT;50.977543,4.837618;BE;O3;EEA Belgium;µg/m³;56.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R020 - VILVOORDE;50.941387,4.436721;BE;CO;EEA Belgium;µg/m³;7.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R222 - SERAING;50.61341,5.570223;BE;O3;EEA Belgium;µg/m³;36.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N029 - HOUTEM;51.01628,2.5823228;BE;PM2.5;EEA Belgium;µg/m³;5.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R701 - GENT;51.05833,3.729298;BE;CO;EEA Belgium;µg/m³;10.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R710 - DESTELBERGE;51.06128,3.7752624;BE;O3;EEA Belgium;µg/m³;54.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R731 - EVERGEM;51.12469,3.7395043;BE;PM10;EEA Belgium;µg/m³;16.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R731 - EVERGEM;51.12469,3.7395043;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETE714;51.278965,3.248624;BE;NO2;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETMEU1;50.8951,4.392718;BE;O3;EEA Belgium;µg/m³;46.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETN051;50.798916,3.9302933;BE;NO2;EEA Belgium;µg/m³;2.0;2020-12-19T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETN054;50.711704,5.1031585;BE;O3;EEA Belgium;µg/m³;48.5;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN070;50.46519,3.9397144;BE;CO;EEA Belgium;µg/m³;0.16;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR001;50.849667,4.33382;BE;NO2;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR002;50.825127,4.384719;BE;SO2;EEA Belgium;µg/m³;1.05;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETR010;50.86511,4.428427;BE;NO2;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR221;50.658443,5.627835;BE;NO2;EEA Belgium;µg/m³;4.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR222;50.613415,5.570223;BE;CO;EEA Belgium;µg/m³;0.16;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR240;50.583614,5.397446;BE;PM10;EEA Belgium;µg/m³;9.271;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR710;51.06128,3.7752624;BE;NO2;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR805;51.20823,4.4215593;BE;NO2;EEA Belgium;µg/m³;9.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR830;51.31823,4.262634;BE;NO2;EEA Belgium;µg/m³;21.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR831;51.348797,4.3397098;BE;SO2;EEA Belgium;µg/m³;1.0;2020-01-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR894;51.2835,4.349496;BE;SO2;EEA Belgium;µg/m³;5.5;2018-01-18T04:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETWOL1;50.85658,4.425704;BE;O3;EEA Belgium;µg/m³;19.5;2020-12-08T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40RL01 - ROESELARE;50.95318,3.1211555;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R803 - ANTWERPEN;51.22863,4.4284544;BE;PM10;EEA Belgium;µg/m³;16.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R805 - ANTWERPEN;51.20823,4.4215593;BE;PM2.5;EEA Belgium;µg/m³;4.65;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R841 - MECHELEN;51.002525,4.4693213;BE;PM10;EEA Belgium;µg/m³;30.7;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42R897 - ANTWERPEN;51.250107,4.3421044;BE;NO2;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N063 - CORROY L.G.;50.655437,4.6682878;BE;PM2.5;EEA Belgium;µg/m³;0.719;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44M705 - ROESELARE;50.94536,3.1524017;BE;NO2;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44M705 - ROESELARE;50.94536,3.1524017;BE;O3;EEA Belgium;µg/m³;55.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N029 - HOUTEM;51.01628,2.5823228;BE;PM10;EEA Belgium;µg/m³;13.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R740 - ST.KRUIS-WI;51.150135,3.8087354;BE;PM10;EEA Belgium;µg/m³;16.7;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R510 - CHATELINEAU;50.416435,4.52113;BE;PM10;EEA Belgium;µg/m³;12.271;2017-07-21T00:00:00+02:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BELSZ02;50.91302,4.512184;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB004;50.85081,4.3485875;BE;CO;EEA Belgium;µg/m³;0.13;2020-12-20T02:00:00+01:00;Belgium
+Brabant wallon;Belgium - Brabant wallon - BETN063;50.655437,4.668288;BE;O3;EEA Belgium;µg/m³;56.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN070;50.46519,3.9397144;BE;O3;EEA Belgium;µg/m³;49.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN085;50.303207,6.001736;BE;O3;EEA Belgium;µg/m³;46.5;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR001;50.849667,4.33382;BE;PM10;EEA Belgium;µg/m³;7.5;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR223;50.62067,5.516405;BE;SO2;EEA Belgium;µg/m³;3.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR512;50.40781,4.395897;BE;CO;EEA Belgium;µg/m³;0.17;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR805;51.20823,4.4215593;BE;PM10;EEA Belgium;µg/m³;11.6;2020-12-20T02:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41N043 - HAREN;50.88356,4.382963;BE;SO2;EEA Belgium;µg/m³;12.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N045 - HASSELT;50.939713,5.3683786;BE;PM10;EEA Belgium;µg/m³;38.7;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42R801 - BORGERHOUT;51.209663,4.431821;BE;PM10;EEA Belgium;µg/m³;17.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R803 - ANTWERPEN;51.22863,4.4284544;BE;PM2.5;EEA Belgium;µg/m³;5.58;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R892 - KALLO;51.26304,4.27889;BE;SO2;EEA Belgium;µg/m³;2.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43M204 - ANGLEUR;50.611923,5.61115;BE;PM2.5;EEA Belgium;µg/m³;4.1035;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N070 - MONS;50.46519,3.9397144;BE;CO;EEA Belgium;µg/m³;7.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N085 - VIELSALM;50.303207,6.001736;BE;CO;EEA Belgium;µg/m³;8.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N113 - SAINT-ODE;50.027027,5.593017;BE;PM2.5;EEA Belgium;µg/m³;1.2025;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R512 - MARCHIENNE;50.40781,4.395897;BE;NO2;EEA Belgium;µg/m³;16.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R512 - MARCHIENNE;50.40781,4.395897;BE;PM2.5;EEA Belgium;µg/m³;0.719;2017-07-21T00:00:00+02:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETN043;50.88356,4.382963;BE;PM10;EEA Belgium;µg/m³;12.5;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETN067;50.612278,5.9927526;BE;PM2.5;EEA Belgium;µg/m³;0.0;2020-12-20T03:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR240;50.583614,5.397446;BE;NO2;EEA Belgium;µg/m³;11.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR731;51.12469,3.7395043;BE;PM2.5;EEA Belgium;µg/m³;11.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR817;51.17713,4.4179487;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41B004 - STE.CATHERI;50.85081,4.3485875;BE;NO2;EEA Belgium;µg/m³;14.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R830 - DOEL;51.31823,4.262634;BE;NO2;EEA Belgium;µg/m³;4.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R834 - Boom;51.092,4.3801036;BE;PM10;EEA Belgium;µg/m³;13.7;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N060 - HAVINNES;50.61672,3.4576244;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N073 - VEZIN;50.502716,4.988423;BE;NO2;EEA Belgium;µg/m³;8.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N113 - SAINT-ODE;50.027027,5.593017;BE;O3;EEA Belgium;µg/m³;45.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R240 - ENGIS;50.583614,5.397446;BE;NO2;EEA Belgium;µg/m³;10.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N012 - MOERKERKE;51.254574,3.362536;BE;NO2;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N029 - HOUTEM;51.01628,2.5823228;BE;O3;EEA Belgium;µg/m³;53.0;2017-07-21T00:00:00+02:00;Belgium
+Limburg;Belgium - Limburg - BETN027;51.133717,5.6066594;BE;NO2;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETN043;50.88356,4.382963;BE;NO2;EEA Belgium;µg/m³;8.5;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN052;50.814873,3.3224943;BE;O3;EEA Belgium;µg/m³;38.5;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR221;50.658443,5.627835;BE;PM10;EEA Belgium;µg/m³;3.271;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR721;51.08896,3.7161193;BE;SO2;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR815;51.2147,4.3322062;BE;NO2;EEA Belgium;µg/m³;11.5;2018-01-04T04:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR822;51.26429,4.34128;BE;NO2;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR891;51.255806,4.38536;BE;NO2;EEA Belgium;µg/m³;10.5;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40SZ02 - STEENOKKERZ;50.91302,4.512184;BE;NO2;EEA Belgium;µg/m³;26.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R001 - MOLENBEEK;50.849667,4.33382;BE;CO;EEA Belgium;µg/m³;11.5;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R012 - UCCLE;50.79663,4.3585386;BE;O3;EEA Belgium;µg/m³;49.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R817 - ANTWERPEN;51.17713,4.4179487;BE;PM2.5;EEA Belgium;µg/m³;4.65;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R894 - ANTWERPEN;51.2835,4.349496;BE;SO2;EEA Belgium;µg/m³;3.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N060 - HAVINNES;50.61672,3.4576244;BE;PM2.5;EEA Belgium;µg/m³;0.719;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N113 - SAINT-ODE;50.027027,5.593017;BE;PM10;EEA Belgium;µg/m³;4.271;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N132 - HABAY-LA-N.;49.71928,5.630398;BE;CO;EEA Belgium;µg/m³;10.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N132 - HABAY-LA-N.;49.71928,5.630398;BE;PM2.5;EEA Belgium;µg/m³;0.719;2017-07-20T16:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N029 - HOUTEM;51.01628,2.5823228;BE;NO2;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETE009;50.954918,4.435417;BE;NO2;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETE013;50.811703,4.328385;BE;NO2;EEA Belgium;µg/m³;3.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETN016;51.233654,5.163979;BE;PM2.5;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETN035;50.977543,4.837618;BE;SO2;EEA Belgium;µg/m³;0.0;2020-01-24T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETN051;50.798916,3.9302933;BE;O3;EEA Belgium;µg/m³;44.5;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR222;50.613415,5.570223;BE;O3;EEA Belgium;µg/m³;50.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR222;50.613415,5.570223;BE;NO2;EEA Belgium;µg/m³;2.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR801;51.209663,4.431821;BE;SO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR894;51.2835,4.349496;BE;NO2;EEA Belgium;µg/m³;28.5;2018-01-18T04:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41N043 - HAREN;50.88356,4.382963;BE;PM10;EEA Belgium;µg/m³;2.5;2017-07-20T21:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R001 - MOLENBEEK;50.849667,4.33382;BE;PM2.5;EEA Belgium;µg/m³;4.6;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R002 - IXELLES;50.825127,4.384719;BE;CO;EEA Belgium;µg/m³;12.0;2017-07-20T23:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N040 - ST.P.LEEUWG;50.76814,4.2251945;BE;NO2;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R815 - ZWIJNDRECHT;51.2147,4.3322062;BE;PM2.5;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N012 - MOERKERKE;51.254574,3.362536;BE;PM10;EEA Belgium;µg/m³;16.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N051 - IDEGEM;50.798916,3.9302933;BE;NO2;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R721 - WONDELGEM;51.08896,3.7161193;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R731 - EVERGEM;51.12469,3.7395043;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R750 - ZELZATE;51.196064,3.82292;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R501 - CHARLEROI;50.409313,4.452172;BE;PM2.5;EEA Belgium;µg/m³;3.1365;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELHB23;51.1703,4.341005;BE;PM10;EEA Belgium;µg/m³;13.1;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB006;50.83863,4.374388;BE;CO;EEA Belgium;µg/m³;0.23;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETH201;50.624992,5.547464;BE;PM10;EEA Belgium;µg/m³;3.771;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETM204;50.611923,5.61115;BE;PM2.5;EEA Belgium;µg/m³;1.686;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETN016;51.233654,5.163979;BE;SO2;EEA Belgium;µg/m³;0.0;2020-01-20T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETN027;51.133717,5.6066594;BE;O3;EEA Belgium;µg/m³;43.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN060;50.61672,3.4576244;BE;O3;EEA Belgium;µg/m³;39.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN070;50.46519,3.9397144;BE;PM10;EEA Belgium;µg/m³;8.271;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN073;50.502716,4.988423;BE;NO2;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN121;49.87713,5.202387;BE;PM2.5;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR001;50.849667,4.33382;BE;SO2;EEA Belgium;µg/m³;1.55;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR511;50.37759,4.4247;BE;PM2.5;EEA Belgium;µg/m³;2.653;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR892;51.26304,4.27889;BE;SO2;EEA Belgium;µg/m³;2.0;2020-12-19T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40GK06 - GENK;50.92789,5.47062;BE;PM10;EEA Belgium;µg/m³;16.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 40HB23 - HOBOKEN;51.1703,4.341005;BE;NO2;EEA Belgium;µg/m³;12.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 40TS21 - TESSENDERLO;51.06571,5.1075363;BE;SO2;EEA Belgium;µg/m³;2.0;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42N035 - AARSCHOT;50.977543,4.837618;BE;PM10;EEA Belgium;µg/m³;14.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R817 - ANTWERPEN;51.17713,4.4179487;BE;NO2;EEA Belgium;µg/m³;9.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N073 - VEZIN;50.502716,4.988423;BE;PM2.5;EEA Belgium;µg/m³;1.686;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N100 - DOURBES;50.095684,4.594763;BE;NO2;EEA Belgium;µg/m³;2.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N132 - HABAY-LA-N.;49.71928,5.630398;BE;PM10;EEA Belgium;µg/m³;1.771;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N132 - HABAY-LA-N.;49.71928,5.630398;BE;NO2;EEA Belgium;µg/m³;1.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R701 - GENT;51.05833,3.729298;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R710 - DESTELBERGE;51.06128,3.7752624;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB004;50.85081,4.3485875;BE;NO2;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB011;50.858032,4.2883363;BE;PM10;EEA Belgium;µg/m³;4.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETE716;51.066986,3.682813;BE;NO2;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+Brabant wallon;Belgium - Brabant wallon - BETN063;50.655437,4.668288;BE;PM2.5;EEA Belgium;µg/m³;1.686;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETN066;50.62886,6.002329;BE;NO2;EEA Belgium;µg/m³;1.5;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN093;50.27448,5.235169;BE;NO2;EEA Belgium;µg/m³;1.5;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN093;50.27448,5.235169;BE;PM2.5;EEA Belgium;µg/m³;0.719;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN100;50.095684,4.594763;BE;PM10;EEA Belgium;µg/m³;4.771;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN121;49.87713,5.202387;BE;PM10;EEA Belgium;µg/m³;1.271;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN132;49.71928,5.630398;BE;PM10;EEA Belgium;µg/m³;2.271;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR501;50.40931,4.452172;BE;PM10;EEA Belgium;µg/m³;7.271;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR512;50.40781,4.395897;BE;NO2;EEA Belgium;µg/m³;5.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR731;51.12469,3.7395043;BE;SO2;EEA Belgium;µg/m³;0.0;2020-01-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR740;51.150135,3.808735;BE;O3;EEA Belgium;µg/m³;39.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR892;51.26304,4.27889;BE;NO2;EEA Belgium;µg/m³;9.5;2020-12-19T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETWOL1;50.85658,4.425704;BE;CO;EEA Belgium;µg/m³;0.21;2020-12-08T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40AB01 - ANTWERPEN;51.281013,4.329848;BE;PM2.5;EEA Belgium;µg/m³;10.0;2017-03-07T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40AB02 - BERENDRECHT;51.34073,4.3218203;BE;PM2.5;EEA Belgium;µg/m³;31.0;2017-03-13T13:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40SZ02 - STEENOKKERZ;50.91302,4.512184;BE;PM2.5;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41WOL1 - WOL.ST.L.;50.85658,4.4257035;BE;PM10;EEA Belgium;µg/m³;11.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N054 - WALSHOUTEM;50.711704,5.1031585;BE;PM2.5;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R010 - ST.STEVENSW;50.86511,4.428427;BE;NO2;EEA Belgium;µg/m³;6.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R831 - BERENDRECHT;51.348797,4.3397098;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R893 - ANTWERPEN;51.28138,4.385771;BE;NO2;EEA Belgium;µg/m³;42.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N060 - HAVINNES;50.61672,3.4576244;BE;PM10;EEA Belgium;µg/m³;10.271;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N113 - SAINT-ODE;50.027027,5.593017;BE;NO2;EEA Belgium;µg/m³;3.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44M705 - ROESELARE;50.94536,3.1524017;BE;PM10;EEA Belgium;µg/m³;14.7;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELR833;51.32766,4.362261;BE;NO2;EEA Belgium;µg/m³;33.5;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB011;50.858032,4.2883363;BE;PM2.5;EEA Belgium;µg/m³;2.85;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETE715;51.245865,3.1749842;BE;NO2;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETN035;50.977543,4.837618;BE;O3;EEA Belgium;µg/m³;50.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETN035;50.977543,4.837618;BE;NO2;EEA Belgium;µg/m³;3.0;2020-12-20T02:00:00+01:00;Belgium
+Brabant wallon;Belgium - Brabant wallon - BETN063;50.655437,4.668288;BE;NO2;EEA Belgium;µg/m³;2.5;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETR020;50.941387,4.436721;BE;NO2;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR222;50.613415,5.570223;BE;PM2.5;EEA Belgium;µg/m³;0.719;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR897;51.250107,4.3421044;BE;NO2;EEA Belgium;µg/m³;15.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR897;51.250107,4.3421044;BE;SO2;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETWOL1;50.85658,4.425704;BE;PM10;EEA Belgium;µg/m³;4.0;2020-10-25T03:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40AL01 - LINKEROEVER;51.236195,4.385224;BE;PM10;EEA Belgium;µg/m³;16.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N054 - WALSHOUTEM;50.711704,5.1031585;BE;O3;EEA Belgium;µg/m³;38.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R020 - VILVOORDE;50.941387,4.436721;BE;PM2.5;EEA Belgium;µg/m³;4.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R817 - ANTWERPEN;51.17713,4.4179487;BE;PM10;EEA Belgium;µg/m³;14.2;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N093 - SINSIN;50.27448,5.2351685;BE;NO2;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N100 - DOURBES;50.095684,4.594763;BE;PM2.5;EEA Belgium;µg/m³;2.653;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R223 - JEMEPPE;50.62067,5.5164046;BE;PM2.5;EEA Belgium;µg/m³;8.925;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R721 - WONDELGEM;51.08896,3.7161193;BE;NO2;EEA Belgium;µg/m³;6.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R750 - ZELZATE;51.196064,3.82292;BE;PM10;EEA Belgium;µg/m³;15.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R501 - CHARLEROI;50.409313,4.452172;BE;NO2;EEA Belgium;µg/m³;21.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R502 - LODELINSART;50.428997,4.4586806;BE;O3;EEA Belgium;µg/m³;30.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E008 - Grimbergen;50.926094,4.39592;BE;NO2;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BELAL03;51.253963,4.2014604;BE;PM2.5;EEA Belgium;µg/m³;9.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETN016;51.233654,5.163979;BE;NO2;EEA Belgium;µg/m³;8.5;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN060;50.61672,3.4576244;BE;PM10;EEA Belgium;µg/m³;7.771;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN060;50.61672,3.4576244;BE;SO2;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Brabant wallon;Belgium - Brabant wallon - BETN063;50.655437,4.668288;BE;SO2;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Brabant wallon;Belgium - Brabant wallon - BETN063;50.655437,4.668288;BE;PM10;EEA Belgium;µg/m³;3.271;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR012;50.79663,4.358539;BE;NO2;EEA Belgium;µg/m³;2.5;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETR020;50.941387,4.436721;BE;PM2.5;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR221;50.658443,5.627835;BE;O3;EEA Belgium;µg/m³;46.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR222;50.613415,5.570223;BE;SO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR501;50.40931,4.452172;BE;CO;EEA Belgium;µg/m³;0.17;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR750;51.196064,3.82292;BE;PM10;EEA Belgium;µg/m³;39.375;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR831;51.348797,4.3397098;BE;PM2.5;EEA Belgium;µg/m³;7.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR834;51.092,4.3801036;BE;NO2;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40OB02 - WIELSBEKE;50.91495,3.3762116;BE;PM10;EEA Belgium;µg/m³;15.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N016 - DESSEL;51.233654,5.163979;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N027 - BREE;51.133717,5.6066594;BE;NO2;EEA Belgium;µg/m³;13.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R801 - BORGERHOUT;51.209663,4.431821;BE;O3;EEA Belgium;µg/m³;33.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R805 - ANTWERPEN;51.20823,4.4215593;BE;PM10;EEA Belgium;µg/m³;14.7;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N085 - VIELSALM;50.303207,6.001736;BE;O3;EEA Belgium;µg/m³;44.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R222 - SERAING;50.61341,5.570223;BE;CO;EEA Belgium;µg/m³;10.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R511 - MARCINELLE;50.377594,4.4247003;BE;PM10;EEA Belgium;µg/m³;14.771;2017-07-21T00:00:00+02:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BELAL04;51.29067,4.2933292;BE;PM2.5;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BELAL04;51.29067,4.2933292;BE;PM10;EEA Belgium;µg/m³;13.1;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BELOB01;50.91723,3.3073857;BE;PM2.5;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETR020;50.941387,4.436721;BE;SO2;EEA Belgium;µg/m³;0.5;2020-02-06T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR750;51.196064,3.82292;BE;CO;EEA Belgium;µg/m³;1.31;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR802;51.20952,4.4317923;BE;PM10;EEA Belgium;µg/m³;11.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR803;51.22863,4.4284544;BE;NO2;EEA Belgium;µg/m³;10.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR820;51.320415,4.4448104;BE;NO2;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR831;51.348797,4.3397098;BE;O3;EEA Belgium;µg/m³;39.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR831;51.348797,4.3397098;BE;PM10;EEA Belgium;µg/m³;10.5;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40AL01 - LINKEROEVER;51.236195,4.385224;BE;PM2.5;EEA Belgium;µg/m³;5.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 40HB23 - HOBOKEN;51.1703,4.341005;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42M802 - ANTWERPEN;51.26099,4.424399;BE;NO2;EEA Belgium;µg/m³;15.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R811 - SCHOTEN;51.2521,4.491362;BE;PM2.5;EEA Belgium;µg/m³;5.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R815 - ZWIJNDRECHT;51.2147,4.3322062;BE;PM10;EEA Belgium;µg/m³;13.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R841 - MECHELEN;51.002525,4.4693213;BE;PM2.5;EEA Belgium;µg/m³;24.5;2017-01-06T11:00:00+01:00;Belgium
+Wallonia;Belgium - Wallonia - 43N067 - MEMBACH;50.612278,5.9927526;BE;PM2.5;EEA Belgium;µg/m³;1.686;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R222 - SERAING;50.61341,5.570223;BE;NO2;EEA Belgium;µg/m³;11.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R512 - MARCHIENNE;50.40781,4.395897;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E007 - Sint-Pieters-Leeuw;50.7953,4.2526283;BE;NO2;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELHB23;51.1703,4.341005;BE;SO2;EEA Belgium;µg/m³;2.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETE007;50.7953,4.2526283;BE;NO2;EEA Belgium;µg/m³;2.5;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETN035;50.977543,4.837618;BE;PM2.5;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETN043;50.88356,4.382963;BE;O3;EEA Belgium;µg/m³;45.0;2020-12-20T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETN054;50.711704,5.1031585;BE;PM10;EEA Belgium;µg/m³;10.1;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN073;50.502716,4.988423;BE;PM2.5;EEA Belgium;µg/m³;2.1695;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN093;50.27448,5.235169;BE;PM10;EEA Belgium;µg/m³;2.271;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR002;50.825127,4.384719;BE;NO2;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR223;50.62067,5.516405;BE;CO;EEA Belgium;µg/m³;0.185;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR501;50.40931,4.452172;BE;PM2.5;EEA Belgium;µg/m³;3.1365;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR510;50.416435,4.52113;BE;PM10;EEA Belgium;µg/m³;5.271;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR511;50.37759,4.4247;BE;PM10;EEA Belgium;µg/m³;6.771;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR701;51.05833,3.729298;BE;PM10;EEA Belgium;µg/m³;13.6;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR750;51.196064,3.82292;BE;PM2.5;EEA Belgium;µg/m³;24.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETWOL1;50.85658,4.425704;BE;SO2;EEA Belgium;µg/m³;10.0;2020-02-25T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40AL04 - BEVEREN;51.29067,4.2933292;BE;PM2.5;EEA Belgium;µg/m³;40.5;2017-06-28T10:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 40OB01 - OOSTROZEBEK;50.91723,3.3073857;BE;PM10;EEA Belgium;µg/m³;53.7;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41B004 - STE.CATHERI;50.85081,4.3485875;BE;CO;EEA Belgium;µg/m³;11.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R012 - UCCLE;50.79663,4.3585386;BE;NO2;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41WOL1 - WOL.ST.L.;50.85658,4.4257035;BE;O3;EEA Belgium;µg/m³;48.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42M802 - ANTWERPEN;51.26099,4.424399;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42M802 - ANTWERPEN;51.26099,4.424399;BE;SO2;EEA Belgium;µg/m³;3.5;2017-03-14T12:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42N035 - AARSCHOT;50.977543,4.837618;BE;NO2;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R820 - KAPELLEN;51.320415,4.4448104;BE;SO2;EEA Belgium;µg/m³;2.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R831 - BERENDRECHT;51.348797,4.3397098;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R834 - Boom;51.092,4.3801036;BE;PM2.5;EEA Belgium;µg/m³;4.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R891 - ANTWERPEN;51.255806,4.38536;BE;NO2;EEA Belgium;µg/m³;30.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N085 - VIELSALM;50.303207,6.001736;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N093 - SINSIN;50.27448,5.2351685;BE;PM2.5;EEA Belgium;µg/m³;3.62;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R221 - LIEGE;50.658443,5.6278353;BE;SO2;EEA Belgium;µg/m³;1.0;2016-12-21T14:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 44R710 - DESTELBERGE;51.06128,3.7752624;BE;PM10;EEA Belgium;µg/m³;17.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R740 - ST.KRUIS-WI;51.150135,3.8087354;BE;SO2;EEA Belgium;µg/m³;1.5;2017-01-06T10:00:00+01:00;Belgium
+Wallonia;Belgium - Wallonia - 45R501 - CHARLEROI;50.409313,4.452172;BE;PM10;EEA Belgium;µg/m³;16.771;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELAL01;51.236195,4.385224;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BELAL03;51.253963,4.2014604;BE;PM10;EEA Belgium;µg/m³;15.1;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BELSZ01;50.914577,4.5041833;BE;PM2.5;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELWZ02;51.1928,5.2215343;BE;SO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN029;51.01628,2.582323;BE;SO2;EEA Belgium;µg/m³;1.0;2020-02-06T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETN035;50.977543,4.837618;BE;PM10;EEA Belgium;µg/m³;10.1;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETN043;50.88356,4.382963;BE;PM2.5;EEA Belgium;µg/m³;9.05;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN060;50.61672,3.4576244;BE;PM2.5;EEA Belgium;µg/m³;4.587;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETR020;50.941387,4.436721;BE;PM10;EEA Belgium;µg/m³;11.1;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR221;50.658443,5.627835;BE;PM2.5;EEA Belgium;µg/m³;0.719;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR710;51.06128,3.7752624;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR801;51.209663,4.431821;BE;NO2;EEA Belgium;µg/m³;9.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR802;51.20952,4.4317923;BE;CO;EEA Belgium;µg/m³;0.21;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR802;51.20952,4.4317923;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR803;51.22863,4.4284544;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR822;51.26429,4.34128;BE;SO2;EEA Belgium;µg/m³;14.5;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40GK09 - GENK;50.93463,5.4927883;BE;NO2;EEA Belgium;µg/m³;46.0;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42N040 - ST.P.LEEUWG;50.76814,4.2251945;BE;O3;EEA Belgium;µg/m³;48.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N054 - WALSHOUTEM;50.711704,5.1031585;BE;PM10;EEA Belgium;µg/m³;16.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R801 - BORGERHOUT;51.209663,4.431821;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N051 - IDEGEM;50.798916,3.9302933;BE;O3;EEA Belgium;µg/m³;58.5;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETM705;50.94536,3.1524017;BE;NO2;EEA Belgium;µg/m³;6.0;2020-12-19T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETN046;50.882298,5.618874;BE;NO2;EEA Belgium;µg/m³;4.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN052;50.814873,3.3224943;BE;PM2.5;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETN066;50.62886,6.002329;BE;O3;EEA Belgium;µg/m³;53.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETR020;50.941387,4.436721;BE;CO;EEA Belgium;µg/m³;0.185;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR502;50.428993,4.458681;BE;NO2;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR512;50.40781,4.395897;BE;PM10;EEA Belgium;µg/m³;8.271;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR701;51.05833,3.729298;BE;NO2;EEA Belgium;µg/m³;8.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR891;51.255806,4.38536;BE;SO2;EEA Belgium;µg/m³;3.5;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETWOL1;50.85658,4.425704;BE;NO2;EEA Belgium;µg/m³;25.5;2020-12-08T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40SZ02 - STEENOKKERZ;50.91302,4.512184;BE;PM10;EEA Belgium;µg/m³;13.7;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41MEU1 - MEUDON;50.8951,4.392718;BE;PM2.5;EEA Belgium;µg/m³;34.2;2017-03-13T13:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41N043 - HAREN;50.88356,4.382963;BE;PM2.5;EEA Belgium;µg/m³;2.35;2017-07-20T21:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41WOL1 - WOL.ST.L.;50.85658,4.4257035;BE;CO;EEA Belgium;µg/m³;10.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R822 - ANTWERPEN;51.26429,4.34128;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R891 - ANTWERPEN;51.255806,4.38536;BE;SO2;EEA Belgium;µg/m³;11.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43M204 - ANGLEUR;50.611923,5.61115;BE;PM10;EEA Belgium;µg/m³;16.771;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N070 - MONS;50.46519,3.9397144;BE;NO2;EEA Belgium;µg/m³;16.0;2017-07-19T03:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N121 - OFFAGNE;49.87713,5.2023873;BE;O3;EEA Belgium;µg/m³;44.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44M705 - ROESELARE;50.94536,3.1524017;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R510 - CHATELINEAU;50.416435,4.52113;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R511 - MARCINELLE;50.377594,4.4247003;BE;PM2.5;EEA Belgium;µg/m³;2.1695;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 47E013 - Vorst;50.811703,4.328385;BE;NO2;EEA Belgium;µg/m³;10.5;2017-07-21T00:00:00+02:00;Belgium
+Liege;Belgium - Liege - BETH201;50.624992,5.547464;BE;PM2.5;EEA Belgium;µg/m³;0.719;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETM802;51.26099,4.424399;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN012;51.254574,3.362536;BE;NO2;EEA Belgium;µg/m³;9.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN029;51.01628,2.582323;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN073;50.502716,4.988423;BE;PM10;EEA Belgium;µg/m³;6.271;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN093;50.27448,5.235169;BE;SO2;EEA Belgium;µg/m³;2.5;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN100;50.095684,4.594763;BE;O3;EEA Belgium;µg/m³;55.5;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN132;49.71928,5.630398;BE;PM2.5;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR223;50.62067,5.516405;BE;NO2;EEA Belgium;µg/m³;4.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR701;51.05833,3.729298;BE;O3;EEA Belgium;µg/m³;41.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR710;51.06128,3.7752624;BE;O3;EEA Belgium;µg/m³;47.5;2020-12-20T02:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41B011 - BERCHEM S.A;50.858032,4.2883363;BE;O3;EEA Belgium;µg/m³;57.5;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R001 - MOLENBEEK;50.849667,4.33382;BE;NO2;EEA Belgium;µg/m³;10.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R012 - UCCLE;50.79663,4.3585386;BE;PM10;EEA Belgium;µg/m³;14.5;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41WOL1 - WOL.ST.L.;50.85658,4.4257035;BE;NO2;EEA Belgium;µg/m³;12.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N070 - MONS;50.46519,3.9397144;BE;SO2;EEA Belgium;µg/m³;1.0;2017-01-06T10:00:00+01:00;Belgium
+Wallonia;Belgium - Wallonia - 43N085 - VIELSALM;50.303207,6.001736;BE;PM2.5;EEA Belgium;µg/m³;2.1695;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N132 - HABAY-LA-N.;49.71928,5.630398;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R512 - MARCHIENNE;50.40781,4.395897;BE;PM10;EEA Belgium;µg/m³;9.271;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E715 - ZUIENKERKE;51.245865,3.1749842;BE;NO2;EEA Belgium;µg/m³;8.0;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELAL01;51.236195,4.385224;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BELOB02;50.91495,3.3762116;BE;PM2.5;EEA Belgium;µg/m³;12.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB008;50.84079,4.376149;BE;NO2;EEA Belgium;µg/m³;11.5;2020-12-17T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETE008;50.926094,4.39592;BE;NO2;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETE814;51.082188,5.1297183;BE;NO2;EEA Belgium;µg/m³;4.5;2020-12-20T02:00:00+01:00;Belgium
+Limburg;Belgium - Limburg - BETN054;50.711704,5.1031585;BE;NO2;EEA Belgium;µg/m³;3.5;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN070;50.46519,3.9397144;BE;NO2;EEA Belgium;µg/m³;3.0;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN093;50.27448,5.235169;BE;O3;EEA Belgium;µg/m³;54.5;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN113;50.027027,5.593017;BE;PM2.5;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR223;50.62067,5.516405;BE;PM10;EEA Belgium;µg/m³;5.271;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR502;50.428993,4.458681;BE;O3;EEA Belgium;µg/m³;41.0;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40LD01 - LAAKDAL;51.109978,5.004864;BE;NO2;EEA Belgium;µg/m³;0.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 40OB02 - WIELSBEKE;50.91495,3.3762116;BE;PM2.5;EEA Belgium;µg/m³;5.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N027 - BREE;51.133717,5.6066594;BE;O3;EEA Belgium;µg/m³;47.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R801 - BORGERHOUT;51.209663,4.431821;BE;SO2;EEA Belgium;µg/m³;1.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R822 - ANTWERPEN;51.26429,4.34128;BE;NO2;EEA Belgium;µg/m³;23.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43H201 - LIEGE;50.624992,5.5474644;BE;PM10;EEA Belgium;µg/m³;10.771;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N121 - OFFAGNE;49.87713,5.2023873;BE;PM2.5;EEA Belgium;µg/m³;3.1365;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44M702 - ERTVELDE;51.166023,3.7621374;BE;NO2;EEA Belgium;µg/m³;6.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R702 - Gent (G.Carlierlaan);51.040688,3.7349715;BE;NO2;EEA Belgium;µg/m³;14.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R731 - EVERGEM;51.12469,3.7395043;BE;NO2;EEA Belgium;µg/m³;11.5;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETM705;50.94536,3.1524017;BE;O3;EEA Belgium;µg/m³;40.5;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN029;51.01628,2.582323;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR702;51.040688,3.7349715;BE;PM10;EEA Belgium;µg/m³;13.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR803;51.22863,4.4284544;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40SZ01 - STEENOKKERZ;50.914577,4.5041833;BE;NO2;EEA Belgium;µg/m³;10.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41MEU1 - MEUDON;50.8951,4.392718;BE;NO2;EEA Belgium;µg/m³;4.5;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41N043 - HAREN;50.88356,4.382963;BE;NO2;EEA Belgium;µg/m³;14.5;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41N043 - HAREN;50.88356,4.382963;BE;O3;EEA Belgium;µg/m³;52.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41WOL1 - WOL.ST.L.;50.85658,4.4257035;BE;SO2;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R820 - KAPELLEN;51.320415,4.4448104;BE;NO2;EEA Belgium;µg/m³;17.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R841 - MECHELEN;51.002525,4.4693213;BE;O3;EEA Belgium;µg/m³;3.0;2017-01-06T11:00:00+01:00;Belgium
+Wallonia;Belgium - Wallonia - 43N093 - SINSIN;50.27448,5.2351685;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N100 - DOURBES;50.095684,4.594763;BE;PM10;EEA Belgium;µg/m³;15.271;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R221 - LIEGE;50.658443,5.6278353;BE;O3;EEA Belgium;µg/m³;32.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N052 - ZWEVEGEM;50.814873,3.3224943;BE;O3;EEA Belgium;µg/m³;54.0;2017-07-21T00:00:00+02:00;Belgium
+Limburg;Belgium - Limburg - BELGK06;50.92789,5.47062;BE;PM10;EEA Belgium;µg/m³;38.7;2019-01-31T09:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELHB23;51.1703,4.341005;BE;NO2;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BELSZ02;50.91302,4.512184;BE;PM2.5;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB011;50.858032,4.2883363;BE;O3;EEA Belgium;µg/m³;46.5;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETM705;50.94536,3.1524017;BE;PM2.5;EEA Belgium;µg/m³;9.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETN016;51.233654,5.163979;BE;PM10;EEA Belgium;µg/m³;11.6;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN060;50.61672,3.4576244;BE;CO;EEA Belgium;µg/m³;0.18;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR012;50.79663,4.358539;BE;O3;EEA Belgium;µg/m³;48.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR223;50.62067,5.516405;BE;PM2.5;EEA Belgium;µg/m³;5.1;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR502;50.428993,4.458681;BE;PM2.5;EEA Belgium;µg/m³;2.653;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR512;50.40781,4.395897;BE;PM2.5;EEA Belgium;µg/m³;4.587;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR701;51.05833,3.729298;BE;SO2;EEA Belgium;µg/m³;0.0;2020-01-09T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR731;51.12469,3.7395043;BE;NO2;EEA Belgium;µg/m³;15.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR834;51.092,4.3801036;BE;PM2.5;EEA Belgium;µg/m³;6.0;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40HB23 - HOBOKEN;51.1703,4.341005;BE;PM10;EEA Belgium;µg/m³;17.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N054 - WALSHOUTEM;50.711704,5.1031585;BE;NO2;EEA Belgium;µg/m³;13.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N060 - HAVINNES;50.61672,3.4576244;BE;CO;EEA Belgium;µg/m³;12.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N067 - MEMBACH;50.612278,5.9927526;BE;PM10;EEA Belgium;µg/m³;9.271;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R223 - JEMEPPE;50.62067,5.5164046;BE;CO;EEA Belgium;µg/m³;12.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R223 - JEMEPPE;50.62067,5.5164046;BE;NO2;EEA Belgium;µg/m³;26.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N012 - MOERKERKE;51.254574,3.362536;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELHB23;51.1703,4.341005;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN012;51.254574,3.362536;BE;O3;EEA Belgium;µg/m³;38.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETN043;50.88356,4.382963;BE;CO;EEA Belgium;µg/m³;0.215;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETN067;50.612278,5.9927526;BE;PM10;EEA Belgium;µg/m³;1.271;2020-12-20T03:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN085;50.303207,6.001736;BE;PM10;EEA Belgium;µg/m³;1.771;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN085;50.303207,6.001736;BE;SO2;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN121;49.87713,5.202387;BE;NO2;EEA Belgium;µg/m³;2.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR001;50.849667,4.33382;BE;O3;EEA Belgium;µg/m³;41.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR240;50.583614,5.397446;BE;O3;EEA Belgium;µg/m³;30.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR702;51.040688,3.7349715;BE;NO2;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR811;51.2521,4.491362;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41B004 - STE.CATHERI;50.85081,4.3485875;BE;O3;EEA Belgium;µg/m³;41.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R002 - IXELLES;50.825127,4.384719;BE;SO2;EEA Belgium;µg/m³;3.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N016 - DESSEL;51.233654,5.163979;BE;PM2.5;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N016 - DESSEL;51.233654,5.163979;BE;O3;EEA Belgium;µg/m³;50.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R802 - BORGERHOUT;51.20952,4.4317923;BE;PM2.5;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N063 - CORROY L.G.;50.655437,4.6682878;BE;SO2;EEA Belgium;µg/m³;1.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N066 - EUPEN;50.62886,6.002329;BE;NO2;EEA Belgium;µg/m³;5.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N070 - MONS;50.46519,3.9397144;BE;PM10;EEA Belgium;µg/m³;12.271;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N100 - DOURBES;50.095684,4.594763;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N121 - OFFAGNE;49.87713,5.2023873;BE;PM10;EEA Belgium;µg/m³;7.771;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R240 - ENGIS;50.583614,5.397446;BE;PM2.5;EEA Belgium;µg/m³;3.62;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R701 - GENT;51.05833,3.729298;BE;NO2;EEA Belgium;µg/m³;24.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E714 - DUDZELE;51.278965,3.248624;BE;NO2;EEA Belgium;µg/m³;8.0;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELLD01;51.109978,5.004864;BE;NO2;EEA Belgium;µg/m³;3.5;2019-01-09T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BELSZ01;50.914577,4.5041833;BE;NO2;EEA Belgium;µg/m³;4.0;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETE703;51.190315,3.6872957;BE;NO2;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETM705;50.94536,3.1524017;BE;PM10;EEA Belgium;µg/m³;14.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETM802;51.26099,4.424399;BE;NO2;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN052;50.814873,3.3224943;BE;PM10;EEA Belgium;µg/m³;15.6;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETN070;50.46519,3.9397144;BE;PM2.5;EEA Belgium;µg/m³;4.587;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN085;50.303207,6.001736;BE;PM2.5;EEA Belgium;µg/m³;0.0;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN100;50.095684,4.594763;BE;NO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR502;50.428993,4.458681;BE;PM10;EEA Belgium;µg/m³;6.771;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR802;51.20952,4.4317923;BE;NO2;EEA Belgium;µg/m³;9.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR805;51.20823,4.4215593;BE;PM2.5;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR811;51.2521,4.491362;BE;O3;EEA Belgium;µg/m³;44.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels;Belgium - Brussels - 41R001 - MOLENBEEK;50.849667,4.33382;BE;SO2;EEA Belgium;µg/m³;15.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R831 - BERENDRECHT;51.348797,4.3397098;BE;NO2;EEA Belgium;µg/m³;11.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43H201 - LIEGE;50.624992,5.5474644;BE;PM2.5;EEA Belgium;µg/m³;3.62;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N063 - CORROY L.G.;50.655437,4.6682878;BE;NO2;EEA Belgium;µg/m³;7.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N073 - VEZIN;50.502716,4.988423;BE;O3;EEA Belgium;µg/m³;32.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N085 - VIELSALM;50.303207,6.001736;BE;NO2;EEA Belgium;µg/m³;2.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R221 - LIEGE;50.658443,5.6278353;BE;NO2;EEA Belgium;µg/m³;20.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R510 - CHATELINEAU;50.416435,4.52113;BE;PM2.5;EEA Belgium;µg/m³;1.686;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BELOB01;50.91723,3.3073857;BE;PM10;EEA Belgium;µg/m³;16.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETM802;51.26099,4.424399;BE;PM10;EEA Belgium;µg/m³;12.1;2020-12-20T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN029;51.01628,2.582323;BE;NO2;EEA Belgium;µg/m³;3.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR012;50.79663,4.358539;BE;PM10;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+Liege;Belgium - Liege - BETR240;50.583614,5.397446;BE;PM2.5;EEA Belgium;µg/m³;4.1035;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR721;51.08896,3.7161193;BE;NO2;EEA Belgium;µg/m³;8.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR750;51.196064,3.82292;BE;NO2;EEA Belgium;µg/m³;31.5;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40LD02 - LAAKDAL;51.120384,5.021546;BE;NO2;EEA Belgium;µg/m³;8.0;2017-07-13T16:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 40R833 - STABROEK;51.32766,4.362261;BE;NO2;EEA Belgium;µg/m³;14.0;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41B011 - BERCHEM S.A;50.858032,4.2883363;BE;PM10;EEA Belgium;µg/m³;11.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N016 - DESSEL;51.233654,5.163979;BE;PM10;EEA Belgium;µg/m³;15.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N035 - AARSCHOT;50.977543,4.837618;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R802 - BORGERHOUT;51.20952,4.4317923;BE;CO;EEA Belgium;µg/m³;14.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R803 - ANTWERPEN;51.22863,4.4284544;BE;NO2;EEA Belgium;µg/m³;20.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R815 - ZWIJNDRECHT;51.2147,4.3322062;BE;NO2;EEA Belgium;µg/m³;8.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R893 - ANTWERPEN;51.28138,4.385771;BE;SO2;EEA Belgium;µg/m³;14.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N073 - VEZIN;50.502716,4.988423;BE;PM10;EEA Belgium;µg/m³;5.771;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N085 - VIELSALM;50.303207,6.001736;BE;PM10;EEA Belgium;µg/m³;6.271;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N100 - DOURBES;50.095684,4.594763;BE;O3;EEA Belgium;µg/m³;54.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R221 - LIEGE;50.658443,5.6278353;BE;PM2.5;EEA Belgium;µg/m³;2.653;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R222 - SERAING;50.61341,5.570223;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R701 - GENT;51.05833,3.729298;BE;PM2.5;EEA Belgium;µg/m³;29.0;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BELRL01;50.95318,3.1211555;BE;PM10;EEA Belgium;µg/m³;15.6;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN113;50.027027,5.593017;BE;NO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN132;49.71928,5.630398;BE;NO2;EEA Belgium;µg/m³;3.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR012;50.79663,4.358539;BE;SO2;EEA Belgium;µg/m³;0.2;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR510;50.416435,4.52113;BE;PM2.5;EEA Belgium;µg/m³;2.653;2020-12-20T02:00:00+01:00;Belgium
+Hainaut;Belgium - Hainaut - BETR510;50.416435,4.52113;BE;SO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR811;51.2521,4.491362;BE;NO2;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR811;51.2521,4.491362;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR815;51.2147,4.3322062;BE;PM10;EEA Belgium;µg/m³;38.4;2018-01-04T04:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR817;51.17713,4.4179487;BE;PM10;EEA Belgium;µg/m³;12.6;2020-12-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40RL01 - ROESELARE;50.95318,3.1211555;BE;PM10;EEA Belgium;µg/m³;16.7;2017-07-21T00:00:00+02:00;Belgium
+Brussels;Belgium - Brussels - 41R012 - UCCLE;50.79663,4.3585386;BE;PM2.5;EEA Belgium;µg/m³;5.45;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N045 - HASSELT;50.939713,5.3683786;BE;NO2;EEA Belgium;µg/m³;49.5;2017-01-06T11:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 42N046 - GELLIK;50.882298,5.618874;BE;O3;EEA Belgium;µg/m³;45.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R020 - VILVOORDE;50.941387,4.436721;BE;NO2;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R802 - BORGERHOUT;51.20952,4.4317923;BE;PM10;EEA Belgium;µg/m³;17.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R892 - KALLO;51.26304,4.27889;BE;NO2;EEA Belgium;µg/m³;18.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N066 - EUPEN;50.62886,6.002329;BE;O3;EEA Belgium;µg/m³;44.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N070 - MONS;50.46519,3.9397144;BE;PM2.5;EEA Belgium;µg/m³;1.686;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N132 - HABAY-LA-N.;49.71928,5.630398;BE;O3;EEA Belgium;µg/m³;40.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R222 - SERAING;50.61341,5.570223;BE;PM10;EEA Belgium;µg/m³;15.771;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N029 - HOUTEM;51.01628,2.5823228;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N052 - ZWEVEGEM;50.814873,3.3224943;BE;NO2;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N052 - ZWEVEGEM;50.814873,3.3224943;BE;PM10;EEA Belgium;µg/m³;14.7;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R512 - MARCHIENNE;50.40781,4.395897;BE;CO;EEA Belgium;µg/m³;10.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E814 - Ham;51.082188,5.1297183;BE;NO2;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BELMN01;50.79347,3.1096418;BE;PM10;EEA Belgium;µg/m³;16.1;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETE704;51.1761,3.8699281;BE;NO2;EEA Belgium;µg/m³;5.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETMEU1;50.8951,4.392718;BE;NO2;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Vlaams-Brabant;Belgium - Vlaams-Brabant - BETN040;50.76814,4.2251945;BE;NO2;EEA Belgium;µg/m³;3.0;2020-12-20T02:00:00+01:00;Belgium
+Namur;Belgium - Namur - BETN100;50.095684,4.594763;BE;PM2.5;EEA Belgium;µg/m³;1.686;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN113;50.027027,5.593017;BE;PM10;EEA Belgium;µg/m³;1.271;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN132;49.71928,5.630398;BE;SO2;EEA Belgium;µg/m³;1.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETR001;50.849667,4.33382;BE;PM2.5;EEA Belgium;µg/m³;4.95;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR820;51.320415,4.4448104;BE;SO2;EEA Belgium;µg/m³;1.0;2020-01-20T02:00:00+01:00;Belgium
+Flanders;Belgium - Flanders - 40SZ01 - STEENOKKERZ;50.914577,4.5041833;BE;PM2.5;EEA Belgium;µg/m³;4.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42N035 - AARSCHOT;50.977543,4.837618;BE;PM2.5;EEA Belgium;µg/m³;4.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R020 - VILVOORDE;50.941387,4.436721;BE;PM10;EEA Belgium;µg/m³;14.2;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R811 - SCHOTEN;51.2521,4.491362;BE;NO2;EEA Belgium;µg/m³;8.5;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 42R894 - ANTWERPEN;51.2835,4.349496;BE;NO2;EEA Belgium;µg/m³;34.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43N060 - HAVINNES;50.61672,3.4576244;BE;NO2;EEA Belgium;µg/m³;5.5;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 43R223 - JEMEPPE;50.62067,5.5164046;BE;SO2;EEA Belgium;µg/m³;0.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44N012 - MOERKERKE;51.254574,3.362536;BE;O3;EEA Belgium;µg/m³;57.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R702 - Gent (G.Carlierlaan);51.040688,3.7349715;BE;PM10;EEA Belgium;µg/m³;15.7;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R750 - ZELZATE;51.196064,3.82292;BE;CO;EEA Belgium;µg/m³;6.0;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 44R750 - ZELZATE;51.196064,3.82292;BE;NO2;EEA Belgium;µg/m³;11.0;2017-07-21T00:00:00+02:00;Belgium
+Wallonia;Belgium - Wallonia - 45R502 - LODELINSART;50.428997,4.4586806;BE;PM2.5;EEA Belgium;µg/m³;1.2025;2017-07-21T00:00:00+02:00;Belgium
+Flanders;Belgium - Flanders - 47E009 - Zemst;50.954918,4.435417;BE;NO2;EEA Belgium;µg/m³;5.0;2017-07-21T00:00:00+02:00;Belgium
+Antwerpen;Belgium - Antwerpen - BELLD02;51.120384,5.021546;BE;NO2;EEA Belgium;µg/m³;8.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB004;50.85081,4.3485875;BE;O3;EEA Belgium;µg/m³;42.0;2020-12-20T02:00:00+01:00;Belgium
+Brussels-Capital Region;Belgium - Brussels-Capital Region - BETB008;50.84079,4.376149;BE;CO;EEA Belgium;µg/m³;0.215;2020-12-17T02:00:00+01:00;Belgium
+West-Vlaanderen;Belgium - West-Vlaanderen - BETN052;50.814873,3.3224943;BE;NO2;EEA Belgium;µg/m³;6.5;2020-12-20T02:00:00+01:00;Belgium
+Brabant wallon;Belgium - Brabant wallon - BETN063;50.655437,4.668288;BE;CO;EEA Belgium;µg/m³;0.16;2020-12-20T02:00:00+01:00;Belgium
+Luxembourg;Belgium - Luxembourg - BETN132;49.71928,5.630398;BE;O3;EEA Belgium;µg/m³;55.5;2020-12-20T02:00:00+01:00;Belgium
+Oost-Vlaanderen;Belgium - Oost-Vlaanderen - BETR701;51.05833,3.729298;BE;PM2.5;EEA Belgium;µg/m³;7.5;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR801;51.209663,4.431821;BE;PM2.5;EEA Belgium;µg/m³;7.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR831;51.348797,4.3397098;BE;NO2;EEA Belgium;µg/m³;10.0;2020-12-20T02:00:00+01:00;Belgium
+Antwerpen;Belgium - Antwerpen - BETR893;51.28138,4.385771;BE;NO2;EEA Belgium;µg/m³;16.5;2020-12-20T02:00:00+01:00;Belgium
