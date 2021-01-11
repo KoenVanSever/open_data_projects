@@ -1,0 +1,11 @@
+TOTAL	Insgesamt
+ENFORC	Erzwungene Rückkehr
+VOLUNT	Freiwillige Rückkehr
+ASSIST	Unterstützte Rückkehr
+NASSIST	Nicht-unterstützte Rückkehr
+THRD	Rückkehr in ein anderes Drittland
+EURA	Rückkehr im Rahmen eines EU-Rückübernahmeabkommens (EURA)
+RA_OTH	Rückkehr im Rahmen eines anderen Rückübernahmeabkommens
+NRA	Rückkehr nicht im Rahmen eines bestehenden Rückübernahmeabkommens
+OTH	Sonstige
+UNK	Unbekannt

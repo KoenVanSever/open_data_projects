@@ -1,0 +1,24 @@
+TOT_REF	Personnes refusées aux frontières extérieures
+REF_LAND	Personnes refusées à la frontière terrestre
+REF_SEA	Personnes refusées à la frontière maritime
+REF_AIR	Personnes refusées à la frontière aérienne
+TOTDECISION	Ressortissants de pays tiers, devant quitter le territoire par obligation (article 7.1.a du règlement 862/2007)
+TOT_RET	Personnes ayant quitté le territoire
+VOLUNT	Retour volontaire
+ENFORCE	Retour forcé
+ASSIST	Aide au retour
+N_ASSIST	Retour non assisté
+RET_THRD	Personnes ayant quitté le territoire pour un pays tiers
+EURA	De retour sous EURA
+OTH_READM	De retour sous autre accord de readmission
+N_READM	De retour sans un accord de réadmission existant
+FOR_P_HHAB	Proportion des étrangers qui ont acquis la citoyenneté
+NEU27_2020_P_HHAB	Proportion des ressortissants de pays hors UE-27 (à partir de 2020) qui ont acquis la citoyenneté
+NEU28_P_HHAB	Proportion des ressortissants de pays hors UE-28 (2013-2020) qui ont acquis la citoyenneté
+NEU_P_HHAB	Proportion des ressortissants de pays hors UE qui ont acquis la citoyenneté
+EU_P_HHAB	Proportion des ressortissants de pays de l'UE qui ont acquis la citoyenneté
+CITIZ	Pays de citoyenneté
+TRANSIT	Pays de transit
+OTH_THRD	Autres pays tiers
+OTH	Autre
+UNK	Inconnu

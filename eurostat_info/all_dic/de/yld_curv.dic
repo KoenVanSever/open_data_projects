@@ -1,0 +1,5 @@
+CIRR	CIRR-Renditenstrukturkurve für Exportkredite
+PAR	Pari-Renditenstrukturkurve
+SPOT_RT	Nullkupon-Renditenstrukturkurve
+CORB_AAA	AAA-eingestufte Renditenstrukturkurve für Unternehmensanleihen
+INS_FWD	Renditenstrukturkurve des momentanen Terminzins

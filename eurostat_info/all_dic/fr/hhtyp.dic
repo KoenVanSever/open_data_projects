@@ -1,0 +1,58 @@
+TOTAL	Total
+A1	Personne seule
+A1_LT30	Un adulte de moins de 30 ans
+A1_30_64	Un adulte entre 30 et 64 ans
+A1_LT64	Un adulte de moins de 64 ans
+A1_LT65	Un adulte de moins de 65 ans
+A1_GE65	Un adulte de 65 ans ou plus
+A1_DCH	Personne seule avec enfants dépendants
+A1_CHLT25	Parent seul avec enfant(s) de moins de 25 ans
+A1F	Femme seule
+A1M	Homme seul
+A1F_CH	Mère seule avec enfants
+A2	Deux adultes
+A2_2LT65	Deux adultes moins de 65 ans
+A2_GE1_GE65	Deux adultes dont l'un au moins a 65 ans ou plus
+A2_DCH	Deux adultes avec enfants dépendants
+A2_1DCH	Deux adultes avec un enfant dépendant
+A2_2DCH	Deux adultes avec deux enfants dépendants
+A2_2CH_LT14	Deux adultes avec deux enfants de moins de 14 ans
+A2_GE3DCH	Deux adultes avec trois enfants dépendants ou plus
+A_GE2_NDCH	Deux adultes ou plus sans enfants dépendants
+A_GE2_DCH	Deux adultes ou plus avec enfants dépendants
+A_GE3	Trois adultes ou plus
+A_GE3_DCH	Trois adultes ou plus avec enfants dépendants
+CPL_CHLT25	Couple avec enfant(s) âgé(s) de moins de 25 ans
+CPL_CHLT25_OTH	Couple ou parent seul avec enfant(s) âgé(s) de moins de 25 ans et d'autres personnes vivant dans le ménage
+CPL_NCH	Couple sans enfants
+CPL_NCHLT25	Couple sans enfant(s) âgé(s) de moins de 25 ans ("Couple sans enfants")
+CPL_NCH_NOTH	Couple sans enfant sans autres personnes
+CPL_OTH	Couple vivant avec d'autres personnes
+CHILD	Personne vivant comme enfant dans la maison parentale
+CH_MCPL	Enfant vivant avec les deux parents mariés
+CH_CCPL	Enfant vivant avec les deux parents cohabitant
+CH_A0	Enfant ne  vivant pas avec parents
+CH_A1	Enfant vivant avec un parent seul
+OTH	Autre
+OTH_NCH	Autres sans enfant
+OTH_CH	Autres avec des enfants
+ALL_NDCH	Tous types sans enfants dépendants
+ALL_DCH	Tous types avec enfants dépendants
+HH_NDCH	Ménages sans enfants dépendants
+HH_DCH	Ménages avec enfants dépendants
+HH_O1	Ménages dans les régions de l'Objectif 1 / Régions de "convergence"
+OTHER	Autres ménages
+HH_NO1	Ménages d'une région hors objectif 1 / Régions relevant des objectifs de "compétitivité et d'emploi"
+HH_DEG1	Ménages habitant dans les villes
+HH_DEG2	Ménages habitant dans les villes moins peuplées et dans les banlieues
+HH_DEG3	Ménages habitant dans les zones rurales
+HH_DEV_L	Ménages dans des régions moins développées
+HH_DEV_M	Ménages dans des régions plus développées
+HH_DEV_T	Ménages dans des régions en transition
+HHI_Q1	Nombre de ménages dans le premier quartile de revenu
+HHI_Q2	Nombre de ménages dans le deuxième quartile de revenu
+HHI_Q3	Nombre de ménages dans le troisième quartile de revenu
+HHI_Q4	Nombre de ménages dans le quatrième quartile de revenu
+INST	Ménage collectif
+RESTHOME	Sanatorium, cures
+UNK	Inconnu

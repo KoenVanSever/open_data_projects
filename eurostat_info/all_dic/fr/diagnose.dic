@@ -1,0 +1,28 @@
+TOTAL	Total
+MUSC_SKE	Troubles musculo-squelettiques
+HEAR	Audition
+SKIN	Problèmes de peau
+CARDIO_VASC	Troubles cardio-vasculaires
+PULMO	Troubles pulmonaires
+STOMACH	Problèmes d'estomac, de foie, de rein ou digestifs
+INFECT	Maladies infectieuses
+STRESS	Stress, dépression, anxiété
+HEAD_EYE	Maux de tête, fatigue visuelle, migraines
+CANCER	Cancer
+OTH	Autre(s)
+NSP	Non spécifié
+ALLERGIC	Effets allergiques
+CARDIO_V	Troubles cardio-vasculaires
+DENTAL	Problèmes dentaires
+EYE	Lésions oculaires
+GASTROIN	Troubles gastriques
+HEMATOLO	Troubles hématologiques
+HEARING	Troubles auditifs
+HEPATIC	Troubles hépatiques
+IRRI_SKI	Effets irritants de la peau ou des muqueuses
+NEUROLOG	Troubles neurologiques
+PULMONAR	Troubles pulmonaires
+INFECTIO	Maladies infectieuses
+SKIN_DIS	Problèmes de peau
+OTHER	Autre non mentionné ailleurs
+UNK	Non connu

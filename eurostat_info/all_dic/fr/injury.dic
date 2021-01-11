@@ -1,0 +1,50 @@
+TOTAL	Total
+INJ010	Plaies et blessures superficielles
+INJ011	Blessures superficielles
+INJ012	Plaies ouvertes
+INJ019	Autres types de plaies et de blessures superficielles
+CONT_BRU	Contusions, hématomes
+CUT_LACE	Coupures, lacérations, lésions des nerfs ou des tendons
+INJ020	Fractures osseuses
+INJ021	Fractures fermées
+INJ022	Fractures ouvertes
+INJ029	Autres types de fractures osseuses
+INJ030	Luxations, entorse et foulures
+INJ031	Luxations et sub-luxations
+INJ032	Entorses et foulures
+INJ039	Autres types de luxations, d'entorses et de foulures
+INJ040	Amputations traumatiques (pertes de parties du corps)
+INJ050	Commotions et traumatismes internes
+INJ051	Commotions
+INJ052	Traumatismes internes
+INJ059	Autres types de commotions et de traumatismes internes
+INJ060	Brûlures, brûlures par exposition à un liquide bouillant et gelures
+INJ061	Brûlures et brûlures par exposition à un liquide bouillant (thermiques)
+INJ062	Brûlures chimiques (corrosions)
+INJ063	Gelures
+INJ069	Autres types de brûlures, de brûlures par exposition à un liquide bouillant et de gelures
+INJ070	Empoisonnements et infections
+INJ071	Empoisonnements aigus
+INJ072	Infections aiguës
+POIS_ASP	Empoisonnements, intoxications par gaz et asphyxies
+INJ079	Autres types d'empoisonnements et d'infections
+INJ080	Noyades et asphyxies
+INJ081	Asphyxies
+INJ082	Noyades et submersions non mortelles
+INJ089	Autres types de noyades et d'asphyxies
+INJ090	Effets du bruit, des vibrations et de la pression
+INJ091	Pertes auditives aiguës
+INJ092	Effets de la pression
+INJ099	Autres effets du bruit, des vibrations et de la pression
+INJ100	Effets des extrêmes de température, de la lumière et des radiations
+INJ101	Chaleurs et coups de soleil
+INJ102	Effets des radiations (non thermiques)
+INJ103	Effets du froid
+INJ109	Autres effets des extrêmes de température, de la lumière et des radiations
+INJ110	Chocs
+INJ111	Chocs consécutifs aux agressions et aux menaces
+INJ112	Chocs traumatiques
+INJ119	Autres types de chocs
+INJ120	Blessures multiples
+OTH	Autre non mentionné ailleurs
+UNK	Non connu

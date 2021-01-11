@@ -1,0 +1,16 @@
+HAZ_NHAZ	Dangereux et non-dangereux - Total
+HAZ	Dangereux
+HLTH	Danger pour la santé
+HLTH_CMR	Danger cancérogènes, mutagènes et reprotoxiques (CMR) pour la santé
+HLTH_CHRTOX	Danger chronique toxique pour la santé
+HLTH_VTOX	Danger très toxique pour la santé
+HLTH_TOX	Danger toxique pour la santé
+HLTH_HRM	Danger de nuisibilité pour la santé
+ENV	Danger pour l'environnement
+ENV_SEVCHR	Danger chronique grave pour l'environnement
+ENV_SGNCHR	Danger significatif chronique pour l'environnement
+ENV_MODCHR	Danger chronique modéré pour l'environnement
+ENV_CHR	Danger chronique pour l'environnement
+ENV_SGNACU	Danger significatif aigu pour l'environnement
+NHAZ	Non-dangereux
+OTH	Autres

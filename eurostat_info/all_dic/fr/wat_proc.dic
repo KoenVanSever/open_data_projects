@@ -1,0 +1,54 @@
+TOTAL	Total
+PRECIP	Précipitation
+EVAP_TSP	Évapotranspiration réelle
+INTFL	Flux interne
+INFL_NBT	Apport externe réel
+OUTFL	Flux sortant réel total
+OUTFL_SEA	Flux sortant réel dans la mer
+OUTFL_NBT	Flux sortant réel dans les territoires voisins
+RFW_RES	Ressources renouvelables en eau douce
+AQUI	Recharge de la couche aquifère
+GWAA	Eaux souterraines disponibles pour prélèvement annuel
+FW_95LTAA	Ressources régulières en eaux douces pour 95% du temps, LTAA
+ABST	Total des prélèvements bruts
+ABS_PWS	Prélèvement en eau pour l'approvisionnement public en eau
+ABS_AGR	Prélèvement en eau pour l'agriculture
+ABS_AGR_IR	Prélèvement en eau pour l'agriculture - irrigation
+ABS_AGR_AQ	Prélèvement en eau pour l'agriculture - aquaculture
+ABS_MIN	Prélèvement en eau pour l'indistrie extractive
+ABS_IND	Prélèvement d'eau pour les industries manufacturières
+ABS_IND_CL	Prélèvement d'eau pour les industries manufacturières - refroidissement
+ABS_ELC_CL	Prélèvement d'eau pour la production d'électricité - refroidissenement
+ABS_CON	Prélèvement d'eau pour la construction 
+ABS_SER	Prélèvement d'eaux pour le secteur des services
+ABS_HH	Prélèvement d'eau pour les ménages privés
+ABS_OTH	Prélèvement d'eau à d'autres fins
+ABS_NET	Prélèvement d'eau - net
+REW	Eaux restituées (sans utilisation)
+IMP	Importations d'eau
+IMP_REG	Eau provenant d'autres régions (importations)
+EXP	Exportations d'eau
+EXP_REG	Eau transférée vers d'autres régions (exportations)
+LOSS	Pertes pendant le transport - total
+LOSS_EVAP	Pertes par évaporation
+LOSS_LEAK	Pertes par fuites
+LOSS_USE	Pertes pendant l'utilisation - total
+AVL_USE	Quantité d'eau disponible pour l'utilisation
+GEN_HYDRO	Utilisation de l'eau pour l'énergie hydroélectrique (l'hydroélectricité)
+ART_RES	Réservoirs artificiels
+PWS	Approvisionnement public en eau
+SOWS	Auto-approvisionnement et autres
+PWS_SOWS	Approvisionnement public, auto-approvisionnement et autres
+CONS_USE	Utilisation de l'eau de consommation
+CONSUM	Quantité d'eau consommée - total
+POP_PWS	Population connectée à un système public d'approvisionnement en eau (%)
+CWD	Eaux de refroidissement rejetées- total
+CWD_IW	Eaux de refroidissement rejetées dans les eaux intérieures
+CWD_SEA	Eaux de refroidissement rejetées dans les eaux marines
+ABS_DSW	Eaux désalinisées
+ABS_RUW	Eaux réutilisées
+DIS	Total des rejets de stations d'épuration des eaux usées (urbaines et  autres)
+DIS_IW	Rejets dans les eaux intérieures - total
+DIS_SEA	Rejets dans les eaux marines - total
+WEI	Indice d'exploitation de l'eau 
+VOL_RES	Volume des réservoirs exploitable

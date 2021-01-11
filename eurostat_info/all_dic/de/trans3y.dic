@@ -1,0 +1,19 @@
+TOTAL	Insgesamt
+TO_FT	Übergang zu einer Vollzeit-Beschäftigung
+TO_PT	Übergang zu einer Teilzeit-Beschäftigung
+TO_EMP	Übergang zu Erwerbperson
+TO_NSAL	Übergang zu Erwerbpersonen ausgenommen Arbeitnehmer
+TO_UNE	Übergang zu Arbeitslosigkeit
+TO_INAC	Übergang zu Nichterwerbstätigkeit
+TO_PERM	Übergang zu Arbeitnehmer mit unbefristetem Arbeitsstelle
+TO_TEMP	Übergang zu Arbeitnehmer mit befristetem Arbeitsstelle
+TO_1UP	Übergang zum nächst höheren Einkommensdezil
+TO_GT1UP	Übergang zu mehr als einem Einkommensdezil höher
+TO_1DW	Übergang zum nächst niedrigerem Einkommensdezil
+TO_GT1DW	Übergang zu mehr als einem Einkommensdezil niedriger
+TO_NONE	Übergang zu keinem Einkommen
+TO_GESEC	Übergang zu der gleichen oder einer höheren Beschäftigungssicherheit als im vergangenen Jahr
+TO_LTSEC	Übergang zu einer geringeren Beschäftigungssicherheit als im vergangenen Jahr
+TO_GEQUA	Übergang zu dem gleichen oder einem höheren Qualifikationslevel (Erwerbsstatus und Erwerbseinkommen) als im vergangenen Jahr
+TO_LTQUA	Übergang zu einem geringeren Qualifikationslevel (Erwerbsstatus und Erwerbseinkommen) als im vergangenen Jahr
+NO_CHG	Keine Änderung

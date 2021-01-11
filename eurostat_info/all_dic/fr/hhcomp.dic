@@ -1,0 +1,90 @@
+TOTAL	Total
+HHC_10	Enfants (vivant avec d'autres adultes)
+HHC_20	Adulte seul - total
+HHC_21	Adulte seul avec enfants
+HHC_22	Adulte seul sans enfants
+HHC_30	Couple - total
+HHC_31	Couple avec enfants
+HHC_32	Couple sans enfants
+HIC_30	Adulte vivant en couple - total
+HIC_31	Adulte vivant en couple avec enfants
+HIC_32	Adulte vivant en couple sans enfants
+HHC_40	Autre type de ménage - total
+HHC_41	Autre type de ménage avec enfants
+HHC_42	Autre type de ménage sans enfants
+HIC_40	Adulte vivant dans un autre type de ménage - total
+HIC_41	Adulte vivant dans un autre type de ménage avec enfants
+HIC_42	Adulte vivant dans un autre type de ménage sans enfants
+HHC_50	Total des adultes
+HHC_51	Adulte (total) avec enfants
+HHC_52	Adulte (total) sans enfants
+HWC_50	Total (tous les ménages)
+HWC_51	Ménages avec enfants dependants - total
+HWC_52	Ménages sans enfants dependants - total
+FAM	Ménage composé d'un noyau familial
+FAM1	Ménage composé d'un noyau familial unique
+CPL_YCH	Ménage composé d'un couple avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+CPL_NYCH	Ménage composé d'un couple sans enfant âgé de moins de 25 ans résidant avec lui
+MAR	Ménage composé d'un couple marié
+MAR_NCH	Ménage composé d'un couple marié sans enfant résidant avec lui
+MARO_NCH	Ménage composé d'un couple de sexe opposé marié sans enfant résidant avec lui
+MARS_NCH	Ménage composé d'un couple de même sexe marié sans enfant résidant avec lui
+MAR_YCH	Ménage composé d'un couple marié avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+MARO_YCH	Ménage composé d'un couple de sexe opposé marié avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+MARS_YCH	Ménage composé d'un couple de même sexe marié avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+MAR_OCH	Ménage composé d'un couple marié dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+MARO_OCH	Ménage composé d'un couple de sexe opposé marié dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+MARS_OCH	Ménage composé d'un couple de même sexe marié dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+REP	Ménage composé d'un couple en partenariat enregistré
+REP_NCH	Ménage composé d'un couple en partenariat enregistré sans enfant résidant avec lui
+REPO_NCH	Ménage composé d'un couple de sexe opposé en partenariat enregistré sans enfant résidant avec lui
+REPS_NCH	Ménage composé d'un couple de même sexe en partenariat enregistré sans enfant résidant avec lui
+REP_YCH	Ménage composé d'un couple en partenariat enregistré avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+REPO_YCH	Ménage composé d'un couple de sexe opposé en partenariat enregistré avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+REPS_YCH	Ménage composé d'un couple de même sexe en partenariat enregistré avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+REP_OCH	Ménage composé d'un couple en partenariat enregistré dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+REPO_OCH	Ménage composé d'un couple de sexe opposé en partenariat enregistré dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+REPS_OCH	Ménage composé d'un couple de même sexe en partenariat enregistré dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+CSU	Ménage composé d'un couple en union consensuelle
+CSU_NCH	Ménage composé d'un couple en union consensuelle sans enfant résidant avec lui
+CSUO_NCH	Ménage composé d'un couple de sexe opposé en union consensuelle sans enfant résidant avec lui
+CSUS_NCH	Ménage composé d'un couple de même sexe en union consensuelle sans enfant résidant avec lui
+CSU_YCH	Ménage composé d'un couple en union consensuelle avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+CSUO_YCH	Ménage composé d'un couple de sexe opposé en union consensuelle avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+CSUS_YCH	Ménage composé d'un couple de même sexe en union consensuelle avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+CSU_OCH	Ménage composé d'un couple en union consensuelle dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+CSUO_OCH	Ménage composé d'un couple de sexe opposé en union consensuelle dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+CSUS_OCH	Ménage composé d'un couple de même sexe en union consensuelle dont le plus jeune enfant résidant avec lui est âgé de 25 ans ou plus
+PAR_YCH_P	Ménage composé d'au moins un parent avec au moins un enfant âgé de moins de 25 ans résidant avec lui et une autre personne
+PAR1_YCH	Ménage composé d'un parent isolé avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+M1	Ménage composé d'un homme seul
+M1_CH	Ménage composé d'un père isolé vivant avec au moins un enfant
+M1_YCH	Ménage composé d'un père isolé avec au moins un enfant âgé de moins de 25 ans résidant avec lui
+M1_OCH	Ménage composé d'un père isolé avec au moins un enfant âgé de 25 ans ou plus résidant avec lui
+F1	Ménage composé d'une femme seule
+F1_CH	Ménage composé d'une mère isolée vivant avec au moins un enfant
+F1_YCH	Ménage composé d'une mère isolée avec au moins un enfant âgé de moins de 25 ans résidant avec elle
+F1_OCH	Ménage composé d'une mère isolée avec au moins un enfant âgé de 25 ans ou plus résidant avec elle
+P1_CH	Ménage composé d'une mère isolée ou d'un père isolé vivant avec au moins un enfant
+FAM_GE2	Ménage composé de deux ou plus noyaux familiaux
+NFAM	Ménage composé d'un noyau non-familial
+P1	Ménage composé d'une personne
+A1	Ménage composé d'un adulte
+A1_DCH	Ménage composé d'un adulte avec enfants dépendants
+A2	Ménage composé de deux adultes
+A2_DCH	Ménage composé de deux adultes avec enfants dépendants
+A2_DCH1	Ménage composé de deux adultes avec un enfant dépendant
+A2_DCH2	Ménage composé de deux adultes avec deux enfants dépendants
+A2_DCH_GE3	Ménage composé de deux adultes avec trois enfants dépendants ou plus
+A_GE2_DCH	Ménage composé de deux adultes ou plus avec enfants dépendants
+A_GE2_NDCH	Ménage composé de deux adultes ou plus sans enfants dépendants
+A_GE3	Ménage composé de trois adultes ou plus
+A_GE3_DCH	Ménage composé de trois adultes ou plus avec enfants dépendants
+MULTI	Ménage multiple non composé d'un noyau familial
+DCH	Ménage avec enfants dépendants
+NDCH	Ménage sans enfants dépendants
+A1_GE65	Ménage composé d'un adulte âgé de 65 ans ou plus
+A2_GE1_GE65	Ménage composé de deux adultes dont l'un est âgé de 65 ans ou plus
+OTH	Autres
+NRP	Sans réponse
+UNK	Inconnu

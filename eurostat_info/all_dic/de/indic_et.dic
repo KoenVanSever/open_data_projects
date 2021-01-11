@@ -1,0 +1,41 @@
+PC_TOT_IMP	Einfuhranteil nach Handelspartner an den gesamten Einfuhren (%)
+PC_TOT_EXP	Ausfuhranteil nach  Handelspartner an den gesamten Ausfuhren  (%)
+RT_EXP_IMP	Ausfuhr/Einfuhr-Verhältnis
+IVOL_IMP	Einfuhr-Volumenindizes (2015=100)
+IVOL_EXP	Ausfuhr-Volumenindizes (2015=100)
+RT_IVOL	Volumenverhältnis (Ausfuhr/Einfuhr)
+PC_IMP_EU	Anteil der Einfuhren aus der EU an den Gesamteinfuhren (%)
+PC_EXP_EU	Anteil der Ausfuhren in die EU an den Ausfuhren insgesamt (%)
+PC_IMP_WRL	Anteil der Gesamteinfuhren am Weltimport (%)
+PC_EXP_WRL	Anteil der Gesamtausfuhren am Weltexport (%)
+TRD_VAL	Handelsbeziehungen in Millionen ECU/EURO
+TRD_VAL_RT12	Wachstumsrate M/M-12 der Handelsbeziehungen in Werten
+TRD_VAL_SCA	Saisonbereinigte und Kalenderbereinigte Handelsbeziehungen in Werten in Millionen ECU/EURO
+TRD_VAL_SCA_RT1	Wachstumsrate M/M-1 der saisonbereinigten und Kalenderbereinigte Handelsbeziehungen in Werten
+IVU	Index des Einheitswertes (2015=100)
+IVU_EXP	Export Index des Einheitswertes (2015=100)
+IVU_IMP	Import Index des Einheitswertes (2015=100)
+RT_IVU	Terms of trade (Ausfuhr/Einfuhr)
+IVU_RT1	Wachstumsrate M/M-1 der Indizes des Einheitswertes
+IVU_RT12	Wachstumsrate M/M-12 der Indizes des Einheitswertes
+IVOLU	Volumenindizes des Einheitswertes (2015=100)
+IVOL_NSA	Volumenindizes - Unbereinigte Daten (2015=100)
+IVOL_NSA_RT12	Wachstumsrate M/M-12 der Volumenindizes - Unbereinigte Daten
+IVOL_SCA	Saisonbereinigte und Kalenderbereinigte Volumenindizes (2015=100)
+IVOL_SCA_RT1	Wachstumsrate M/M-1 der saisonbereinigten und Kalenderbereinigte Volumenindizes
+CONT_IMP_EU	Einfuhranteil nach Mitgliedstaaten (%)
+CONT_EXP_EU	Ausfuhranteil nach Mitgliedstaaten (%)
+MIO_BAL_VAL	Bilanzsaldo in Millionen ECU/EURO
+MIO_EXP_VAL	Ausfuhren in Millionen ECU/EURO
+MIO_IMP_VAL	Einfuhren in Millionen ECU/EURO
+PC_IMP_PROD	Einfuhranteil nach Produkten (%)
+PC_EXP_PROD	Ausfuhranteil nach Produkten(%)
+PC_IMP_PART	Einfuhranteil nach Handelspartner (%)
+PC_EXP_PART	Ausfuhranteil nach Handelspartner(%)
+ENT_NR	Anzahl der Unternehmen
+AVG_IMP_VAL	Gemittelte Wert von Einfuhren
+AVG_EXP_VAL	Gemittelte Wert von Ausfuhren
+IMP_VAL	Wert von Einfuhren 
+EXP_VAL	Wert von Ausfuhren
+PC_IMP_SZCL	Einfuhranteil nach Größenklasse (%)
+PC_EXP_SZCL	Ausfuhranteil nach Größenklasse (%)

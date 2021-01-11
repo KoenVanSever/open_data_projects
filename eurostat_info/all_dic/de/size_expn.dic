@@ -1,0 +1,16 @@
+PC0-1	0 (0 ausgeschlossen) bis 1 Prozent
+PC0-4	0 bis 4 Prozent
+PC1-4	1 bis 4 Prozent
+PC5-9	5 bis 9 Prozent
+PC10-24	10 bis 24 Prozent
+PC_GE25	25 Prozent oder mehr
+PC_GE50	50 Prozent oder mehr
+KE_LT10	Weniger als 10 000 Euro
+KE10-49	10 000 bis 49 999 Euro
+KE50-99	50 000 bis 99 999 Euro
+KE100-249	100 000 bis 249 999 Euro
+KE250-499	250 000 bis 499 999 Euro
+KE500-999	500 000 bis 999 999 Euro
+ME_GE1	1 Million Euro und mehr
+NAP	Nicht anwendbar
+UNK	Unbekannt

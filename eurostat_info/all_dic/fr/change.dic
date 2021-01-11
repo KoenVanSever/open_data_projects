@@ -1,0 +1,14 @@
+TOTAL	Total
+INCR	Augmentation
+SAME	Pareil
+DECR	Diminution
+SUBS	Changement significatif
+VPOS	Changement très positif
+POS	Changement positif
+MOD	Changement modéré
+NONE	Aucun changement
+NEG	Changement négatif
+VNEG	Changement très négatif
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

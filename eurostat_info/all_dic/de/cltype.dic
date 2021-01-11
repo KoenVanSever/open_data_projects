@@ -1,0 +1,12 @@
+M11	Unternehmen
+M111	Unternehmen von NACE Rev.1.1 Abschnitt D
+M112	Unternehmen von NACE Rev.1.1 Abschnitt K
+M113	Unternehmen von NACE Rev.1.1 alle anderen Anschnitte
+M12	Öffentlicher Sektor
+M13	Haushalte
+TOTAL	Insgesamt
+EXPON	Ausschließlich Exporteur
+EXP	Exporteur
+IMPON	Ausschließlich Importeur
+IMP	Importeur
+TWT	Im- und Exporteur

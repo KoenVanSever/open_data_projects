@@ -1,0 +1,183 @@
+CPA_A01	Erzeugnisse der Landwirtschaft und Jagd sowie damit verbundene Dienstleistungen
+CPA_A02	Forstwirtschaftliche Erzeugnisse und Dienstleistungen
+CPA_A03	Fische und Fischereierzeugnisse; Aquakulturerzeugnisse; Dienstleistungen für die Fischerei
+CPA_B	Bergbauerzeugnisse; Steine und Erden
+CPA_C10-12	Nahrungs- und Futtermittel, Getränke und Tabakerzeugnisse
+CPA_C13-15	Textilien, Bekleidung, Leder und Lederwaren
+CPA_C16	Holz sowie Holz- und Korkwaren (ohne Möbel); Flecht- und Korbwaren
+CPA_C17	Papier, Pappe und Waren daraus
+CPA_C18	Dienstleistungen der Vervielfältigung von bespielten Ton-, Bild- und Datenträgern, Druckereileistungen
+CPA_C19	Kokereierzeugnisse und Mineralölerzeugnisse
+CPA_C20	Chemische Erzeugnisse
+CPA_C21	Pharmazeutische Erzeugnisse
+CPA_C22	Gummi- und Kunststoffwaren
+CPA_C23	Glas- und Glaswaren, Keramik, verarbeitete Steine und Erden
+CPA_C24	Metalle und Metallerzeugnisse
+CPA_C25	Metallerzeugnisse
+CPA_C26	Datenverarbeitungsgeräte, elektronische und optische Erzeugnisse
+CPA_C27	Elektrische Ausrüstungen
+CPA_C28	Maschinen
+CPA_C29	Kraftwagen und Kraftwagenteile
+CPA_C30	Sonstige Fahrzeuge
+CPA_C31_32	Möbel und Waren, a.n.g.
+CPA_C33	Reparatur- und Installationsarbeiten an Maschinen und Ausrüstungen
+CPA_D	Energie und Dienstleistungen der Energieversorgung
+CPA_E36	Wasser; Dienstleistungen der Wasserversorgung sowie des Wasserhandels durch Rohrleitungen
+CPA_E37-39	Abwasserentsorgungsdienstleistungen; Dienstleistungen der Sammlung, Behandlung und Beseitigung von Abfällen sowie zur Rückgewinnung von Wertstoffen; Dienstleistungen der Beseitigung von Umweltverschmutzungen und sonstigen Entsorgung
+CPA_F	Gebäude und Bauarbeiten
+CPA_G45	Handelsleistungen mit Kraftfahrzeugen; Instandhaltungs- und Reparaturarbeiten an Kraftfahrzeugen
+CPA_G46	Großhandelsleistungen (ohne Handelsleistungen mit Kraftfahrzeugen)
+CPA_G47	Einzelhandelsleistungen (ohne Handelsleistungen mit Kraftfahrzeugen)
+CPA_H49	Landverkehrsleistungen und Transportleistungen in Rohrfernleitungen
+CPA_H50	Schifffahrtsleistungen
+CPA_H51	Luftfahrtleistungen
+CPA_H52	Lagereileistungen sowie sonstige Unterstützungsdienstleistungen für den Verkehr
+CPA_H53	Postdienstleistungen und private Kurier- und Expressdienstleistungen
+CPA_I	Beherbergungs- und Gastronomiedienstleistungen
+CPA_J58	Dienstleistungen des Verlagswesens
+CPA_J59_60	Dienstleistungen der Herstellung, des Verleihs und Vertriebs von Filmen und Fernsehprogrammen, von Kinos und Tonstudios; Verlagsleistungen bezüglich Musik; Rundfunkveranstaltungsleistungen
+CPA_J61	Telekommunikationsdienstleistungen
+CPA_J62_63	Dienstleistungen der EDV-Programmierung und -Beratung und damit verbundene Dienstleistungen;Informationsdienstleistungen
+CPA_K64	Finanzdienstleistungen, außer Versicherungen und Pensionen
+CPA_K65	Dienstleistungen von Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)
+CPA_K66	Mit den Finanz- und Versicherungsdienstleistungen verbundene Dienstleistungen
+CPA_L68B	Dienstleistungen des Grundstücks- und Wohnungswesen ausschließlich unterstellte Mieten
+CPA_L68A	Unterstellte Mieten für Eigentümerwohnungen
+CPA_M69_70	Rechts- und Steuerberatung, Wirtschaftsprüfungsleistungen; Dienstleistungen der Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatungsleistungen
+CPA_M71	Dienstleistungen von Architektur- und Ingenieurbüros und der technischen, physikalischen und chemischen Untersuchung
+CPA_M72	Forschungs- und Entwicklungsleistungen
+CPA_M73	Werbe- und Marktforschungsleistungen
+CPA_M74_75	Sonstige freiberufliche, wissenschaftliche und technische Dienstleistungen; Dienstleistungen des Veterinärwesens
+CPA_N77	Dienstleistungen der Vermietung von beweglichen Sachen
+CPA_N78	Dienstleistungen der Vermittlung und Überlassung von Arbeitskräften und des Personalmanagements
+CPA_N79	Dienstleistungen von Reisebüros und Reiseveranstaltern und sonstige Reservierungsdienstleistungen
+CPA_N80-82	Wach-, Sicherheits- und Detekteileistungen; Dienstleistungen der Gebäudebetreuung und des Garten- und Landschaftsbaus; Wirtschaftliche Dienstleistungen für Unternehmen und Privatpersonen, a.n.g.
+CPA_O	Dienstleistungen der öffentlichen Verwaltung, der Verteidigung und der Sozialversicherung
+CPA_P	Erziehungs- und Unterrichtsdienstleistungen
+CPA_Q86	Dienstleistungen des Gesundheitswesens
+CPA_Q87_88	Dienstleistungen von Heimen (ohne Erholungs- und Ferienheime); Dienstleistungen des Sozialwesens (ohne Heime), a.n.g.
+CPA_R90-92	Kreative, künstlerische und unterhaltende Dienstleistungen; Dienstleistungen von Bibliotheken, Archiven und Museen, botanischen und zoologischen Gärten; Dienstleistungen des Spiel-, Wett- und Lotteriewesens
+CPA_R93	Dienstleistungen des Sports, der Unterhaltung und der Erholung
+CPA_S94	Dienstleistungen von Interessenvertretungen sowie kirchlichen und sonstigen religiösen Vereinigungen (ohne Sozialwesen und Sport)
+CPA_S95	Reparaturarbeiten an Datenverarbeitungsgeräten und Gebrauchsgütern
+CPA_S96	Sonstige überwiegend persönliche Dienstleistungen
+CPA_T	Dienstleistungen privater Haushalte, die Hauspersonal beschäftigen; von privaten Haushalten produzierte Waren und Dienstleistungen für den Eigenbedarf ohne ausgeprägten Schwerpunkt
+CPA_U	Dienstleistungen exterritorialer Organisationen und Körperschaften
+CPA_A	Erzeugnisse der Landwirtschaft, Forstwirtschaft und Fischerei
+CPA_B-E	Produkte für die Industrie (ohne Bauarbeiten)
+CPA_G-I	Handelsleistungen; Verkehrs- und Lagereileistungen; Beherbergungs- und Gastronomiedienstleistungen
+CPA_J	Informations- und Kommunikationsdienstleistungen
+CPA_K	Finanz- und Versicherungsdienstleistungen
+CPA_L	Dienstleistungen des Grundstücks- und Wohnungswesens
+CPA_M_N	Freiberufliche, wissenschaftliche und technische Dienstleistungen; Sonstige wirtschaftliche Dienstleistungen
+CPA_O-Q	Dienstleistungen der öffentliche Verwaltung, Verteidigung, Erziehung und Unterricht, Gesundheits- und Sozialwesen
+CPA_R-U	Kunst-, Unterhaltungs- und Erholungsdienstleistungen; Sonstige Dienstleistungen; Dienstleistungen privater Haushalte, exterritorialer Organisationen und Körperschaften
+A01	Landwirtschaft, Jagd und damit verbundene Tätigkeiten
+A02	Forstwirtschaft und Holzeinschlag
+A03	Fischerei und Aquakultur
+B	Bergbau und Gewinnung von Steinen und Erden
+C10-12	Herstellung von Nahrungs- und Futtermitteln; Getränkeherstellung und Tabakverarbeitung
+C13-15	Herstellung von Textilien, Bekleidung, Leder, Lederwaren und Schuhen
+C16	Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)
+C17	Herstellung von Papier, Pappe und Waren daraus
+C18	Herstellung von Druckerzeugnissen; Vervielfältigung von bespielten Ton-, Bild- und Datenträgern
+C19	Kokerei und Mineralölverarbeitung
+C20	Herstellung von chemischen Erzeugnissen
+C21	Herstellung von pharmazeutischen Erzeugnissen
+C22	Herstellung von Gummi- und Kunststoffwaren
+C23	Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden
+C24	Metallerzeugung und -bearbeitung
+C25	Herstellung von Metallerzeugnissen
+C26	Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen
+C27	Herstellung von elektrischen Ausrüstungen
+C28	Maschinenbau
+C29	Herstellung von Kraftwagen und Kraftwagenteilen
+C30	Sonstiger Fahrzeugbau
+C31_32	Herstellung von Möbeln und sonstigen Waren
+C33	Reparatur und Installation von Maschinen und Ausrüstungen
+D	Energieversorgung
+E36	Wasserversorgung
+E37-39	Abwasserentsorgung, Abfallentsorgung, Beseitigung von Umweltverschmutzungen und sonstige Entsorgung
+F	Baugewerbe/Bau
+G45	Handel mit Kraftfahrzeugen; Instandhaltung und Reparatur von Kraftfahrzeugen
+G46	Großhandel (ohne Handel mit Kraftfahrzeugen und Krafträdern)
+G47	Einzelhandel (ohne Handel mit Kraftfahrzeugen)
+H49	Landverkehr und Transport in Rohrfernleitungen
+H50	Schifffahrt
+H51	Luftfahrt
+H52	Lagerei sowie Erbringung von sonstigen Dienstleistungen für den Verkehr
+H53	Post-, Kurier- und Expressdienste
+I	Gastgewerbe/Beherbergung und Gastronomie
+J58	Verlagswesen
+J59_60	Herstellung, Verleih und Vertrieb von Filmen und Fernsehprogrammen; Kinos, Rundfunkveranstalter
+J61	Telekommunikation
+J62_63	Programmierungstätigkeiten, Erbringung von Dienstleistungen der Informationstechnologie
+K64	Erbringung von Finanzdienstleistungen
+K65	Versicherungen, Rückversicherungen und Pensionskassen (ohne Sozialversicherung)
+K66	Mit Finanz- und Versicherungsdienstleistungen verbundene Tätigkeiten
+L68B	Grundstücks- und Wohnungswesen ausschließlich unterstellte Mieten
+L68A	Unterstellte Mieten für Eigentümerwohnungen
+M69_70	Rechts- und Steuerberatung, Wirtschaftsprüfung; Verwaltung und Führung von Unternehmen und Betrieben; Unternehmensberatung
+M71	Architektur- und Ingenieurbüros; technische, physikalische und chemische Untersuchung
+M72	Forschung und Entwicklung
+M73	Werbung und Marktforschung
+M74_75	Sonstige freiberufliche, wissenschaftliche und technische Tätigkeiten;Veterinärwesen
+N77	Vermietung von beweglichen Sachen
+N78	Vermittlung und Überlassung von Arbeitskräften
+N79	Reisebüros, Reiseveranstalter und Erbringung sonstiger Reservierungsdienstleistungen
+N80-82	Wach- und Sicherheitsdienste sowie Detekteien, Gebäudebetreuung, Garten- und Landschaftsbau, Erbringung von wirtschaftlichen Dienstleistungen für Unternehmen und Privatpersonen a. n. g.
+O	Öffentliche Verwaltung, Verteidigung; Sozialversicherung
+P	Erziehung und Unterricht
+Q86	Gesundheitswesen
+Q87_88	Heime ohne Erholungs - und Ferienheime; Sozialwesen ohne Heime
+R90-92	Kreative, künstlerische und unterhaltende Tätigkeiten; Bibliotheken, Archive, Museen, botanische und zoologische Gärten; Spiel-, Wett- und Lotteriewesen
+R93	Erbringung von Dienstleistungen des Sports, der Unterhaltung und der Erholung
+S94	Interessenvertretungen sowie kirchliche und sonstige religiöse Vereinigungen (ohne Sozialwesen und Sport)
+S95	Reparatur von Datenverarbeitungsgeräten und Gebrauchsgütern
+S96	Erbringung von sonstigen überwiegend persönlichen Dienstleistungen
+T	Private Haushalte mit Hauspersonal; Herstellung von Waren und Erbringung von Dienstleistungen durch Private Haushalte für den Eigenbedarf ohne ausgeprägten Schwerpunkt
+U	Exterritoriale Organisationen und Körperschaften
+A	Land- und Forstwirtschaft, Fischerei
+B-E	Industrie (ohne Baugewerbe)
+G-I	Handel, Instandhaltung, Verkehr, Gastgewerbe/Beherbergung und Gastronomie
+J	Information und Kommunikation
+K	Erbringung von Finanz- und Versicherungsdienstleistungen
+L	Grundstücks- und Wohnungswesen
+M_N	Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen, Erbringung von sonstigen wirtschaftlichen Dienstleistungen
+O-Q	Öffentliche Verwaltung, Verteidigung, Erziehung und Unterricht, Gesundheits- und Sozialwesen
+R-U	Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen; Private Haushalte, exterritoriale Organisationen und Körperschaften
+TOTAL	Ingesamt
+ADJ_P7	Cif/fob Anpassungen auf Einfuhren
+OP_RES	Direkte Einkäufe im Ausland von Inländern
+TOTADJ	Vorleistungen insgesamt zum Anschaffungspreis
+P11	Marktproduktion
+P12	Produktion für die Eigenverwendung
+P13	Sonstige Nichtmarktproduktion
+ADJ_P6	Cif/fob Anpassungen auf Ausfuhren
+OP_NRES	Einkäufe im Inlandsgebiet von Nicht-Inländern
+P2_ADJ	Insgesamt, angepasst
+D1	Arbeitnehmerentgelt
+D11	Bruttolöhne und gehälter
+D29X39	Sonstige produktionsabgaben abzüglich sonstiger Subventionen
+P51C	Abschreibungen
+B2A3N	Nettobetriebsüberschuß und Nettoselbständigeneinkommen
+B2A3G	Bruttobetriebsüberschuß und Bruttoselbständigeneinkommen
+B3G	Bruttoselbständigeneinkommen
+B1G	Bruttowertschöpfung
+P1	Produktionswert
+P51G	Bruttoanlageinvestitionen
+LE	Bilanz am Jahresende
+IMP	Verwendung von Einfuhrprodukten
+D21X31	Gütersteuern abzüglich Subventionen
+P2	Vorleistungen
+EMP_DC	Erwerbstätigkeit insgesamt - Inlandskonzept
+TU	Verwendung insgesamt zum Anschaffungspreis
+P7_B0	Importe Intra-EU cif
+P7_U2	Importe von Waren und Dienstleistungen aus Mitgliedern der EWU (cif)
+P7_U3	Importe von Waren und Dienstleistungen aus Nichtmitgliedern der EWU(cif)
+P7_D0	Importe Extra-EU cif
+P7	Importe cif
+TS_BP	Aufkommen insgesamt zu Anschaffungspreisen
+NAP	Nicht anwendbar
+CIFOBADJ	Cif/fob Anpassungen
+DISC	Abweichung

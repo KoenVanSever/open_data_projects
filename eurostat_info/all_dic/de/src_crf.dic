@@ -1,0 +1,176 @@
+TOTAL	Insgesamt (alle Sektoren einschliesslich Memo-Positionen und indirektes CO2)
+TOTXMEMO	Insgesamt (ohne Memo-Positionen)
+TOTX4_MEMO	Insgesamt (ohne LULUCF und Memo-Positionen)
+TOTX4_MEMONIA	Insgesamt (ohne LULUCF und Memo-Positionen, einschliesslich internationaler Flugverkehr)
+TOTX4_MEMONIT	Insgesamt (ohne LULUCF und Memo-Positionen, einschliesslich internationaler Verkehr)
+CRF1-6XMEMO	Alle Sektoren (ohne Memo-Positionen)
+CRF1-6X4_MEMO	Alle Sektoren (ohne LULUCF und Memo-Positionen)
+CRF1-6X4_MEMONIA	Alle Sektoren (ohne LULUCF und Memo-Positionen, einschliesslich internationaler Flugverkehr)
+CRF_MEMO	Memo-Positionen
+CRF1	Energie
+CRF1A	Verbrennung von Brennstoffen - sektoraler Ansatz
+CRF1A1	Verbrennung von Brennstoffen in der Energiewirtschaft
+CRF1A1A	Verbrennung von Brennstoffen in der öffentlichen Elektrizitäts- und Wärmeerzeugung
+CRF1A1B	Verbrennung von Brennstoffen in Mineralölraffinerien
+CRF1A1C	Verbrennung von Brennstoffen in der Herstellung von festen Brennstoffen und sonstiger Energieerzeuger
+CRF1A2	Verbrennung von Brennstoffen im Verarbeitenden Gewerbe und Bauwesen
+CRF1A2A	Verbrennung von Brennstoffen in der eisenschaffende Industrie
+CRF1A2B	Verbrennung von Brennstoffen in der Herstellung von Nichteisenmetalle
+CRF1A2C	Verbrennung von Brennstoffen in der chemischen Industrie
+CRF1A2D	Verbrennung von Brennstoffen in der Zellstoff und Papierindustrie
+CRF1A2E	Verbrennung von Brennstoffen in der Lebensmittelverarbeitung, Getränke und Tabak
+CRF1A2F	Verbrennung von Brennstoffen in der mineralischen Industrie
+CRF1A2G	Verbrennung von Brennstoffen im sonstigen Verarbeitenden Gewerbe und Bauwesen
+CRF1A3	Verbrennung von Brennstoffen im Verkehr
+CRF1A3A	Verbrennung von Brennstoffen im zivilen Flugverkehr
+CRF1A3B	Verbrennung von Brennstoffen im Straßenverkehr
+CRF1A3B1	Verbrennung von Treibstoffen durch PKW
+CRF1A3B2	Verbrennung von Treibstoffen durch leichte Nutzfahrzeuge
+CRF1A3B3	Verbrennung von Treibstoffen durch Schwerlastwagen und Busse
+CRF1A3B4	Verbrennung von Treibstoffen durch Motorräder
+CRF1A3B5	Verbrennung von Treibstoffen durch andere Straßenverkehrsmittel
+CRF1A3C	Verbrennung von Brennstoffen im Schienenverkehr
+CRF1A3D	Verbrennung von Brennstoffen im Schiffsverkehr
+CRF1A3E	Verbrennung von Brennstoffen im übrigen Verkehr
+CRF1A4	Sonstige Verbrennung von Brennstoffen
+CRF1A4A	Verbrennung von Brennstoffen in Gewerbe/Handel/Dienstleistungen
+CRF1A4B	Verbrennung von Brennstoffen in Haushalten
+CRF1A4C	Verbrennung von Brennstoffen in Landwirtschaft/Forstwirtschaft/Fischerei
+CRF1A5	Sonstige Feuerungsanlagen a.n.g.
+CRF1A5A	Stationär Feuerungsanlagen a.n.g.
+CRF1A5B	Mobile Feuerungsanlagen a.n.g.
+CRF1B	Treibstoffe - diffuse Emissionen
+CRF1B1	Feste Brennstoffe - diffuse Emissionen
+CRF1B2	Öl, Erdgas und andere Energieerzeugung - diffuse Emissionen
+CRF1C	Transport und Speicherung von CO2 (Memo-Position)
+CRF1D1	Internationale Bunker (Memo-Position)
+CRF1D1A	Internationaler Flugverkehr (Memo-Position)
+CRF1D1B	Internationaler Seeverkehr (Memo-Position)
+CRF1D2	Multilaterale Operationen (Memo-Position)
+CRF1D3	Biomasse - CO2-Emissionen (Memo-Position)
+CRF2	Industrielle Prozesse und Produktverwendung
+CRF2A	Mineralische Industrie
+CRF2A1	Zementklinkerproduktion
+CRF2A2	Kalkbrennen
+CRF2A3	Glasherstellung
+CRF2A4	Andere mineralische Industrie-Verfahren unter Verwendung von Karbonaten
+CRF2B	Chemische Industrie
+CRF2B1	Ammoniakproduktion
+CRF2B2	Salpetersäureproduktion
+CRF2B3	Adipinsäureproduktion
+CRF2B4	Caprolactam, Glyoxal und Glyoxylsäure
+CRF2B5	Carbidproduktion
+CRF2B6	Titandioxid-Produktion
+CRF2B7	Soda-Herstellung
+CRF2B8	Petrochemie und Industrieruß-Produktion
+CRF2B9	Produktion von Fluorchemikalien
+CRF2B10	Andere chemische Industrie
+CRF2C	Metallproduktion
+CRF2C1	Eisen- und Stahlproduktion
+CRF2C2	Produktion von Ferrolegierungen
+CRF2C3	Aluminiumproduktion
+CRF2C4	Magnesiumproduktion
+CRF2C5	Bleiproduktion
+CRF2C6	Zinkproduktion
+CRF2C7	Sonstige Metallproduktion
+CRF2D	Verwendung von nichtenergetischen Produkten aus Brennstoffen und von Lösemitteln
+CRF2D1	Anwendung von Schmiermitteln
+CRF2D2	Anwendung von Paraffinwachsen
+CRF2D3	Andere Anwendungen von nichtenergetischen Produckten
+CRF2E	Elektronik-Industrie
+CRF2E1	Halbleiter- und Platinenproduktion
+CRF2E2	Herstellung von TFT Flachbildschirme
+CRF2E3	Photovoltaik
+CRF2E4	Wärmeüberträger
+CRF2E5	Andere Elektronik-Industrie
+CRF2F	Anwendungen von Ersatzstoffen von ozonzerstörenden Substanzen
+CRF2F1	Kälte- und Klimaanlagen
+CRF2F2	Anwendung von schaumbildenen Substanzen
+CRF2F3	Anwendung von Feuerlöschmittel
+CRF2F4	Aerosoleanwendung
+CRF2F5	Lösemittelanwendung
+CRF2F6	Andere Anwendungen von ozonzerstörenden Substanzen-Ersatzstoffen
+CRF2G	Sonstige Produktherstellung und -verwendung
+CRF2H	Andere industrielle Prozesse und Produktanwendungen
+CRF3	Landwirtschaft
+CRF31	Viehbestand
+CRF3A	Fermentation bei der Verdauung
+CRF3A1	Fermentation bei der Verdauung der Rinder
+CRF3A2	Fermentation bei der Verdauung der Schafe
+CRF3A3	Fermentation bei der Verdauung der Schweine
+CRF3A4	Fermentation bei der Verdauung des sonstigen Viehbestands
+CRF3B	Behandlung von Wirtschaftsdüngern
+CRF3B1	Behandlung von Wirtschaftsdüngern der Rinder
+CRF3B2	Behandlung von Wirtschaftsdüngern der Schafe
+CRF3B3	Behandlung von Wirtschaftsdüngern der Schweine
+CRF3B4	Behandlung von Wirtschaftsdüngern des sonstigen Viehbestands
+CRF3B5	Behandlung von Gülle - indirekte N2O-Emissionen 
+CRF3C	Reisanbau
+CRF3C1	Bewässerter Reisanbau
+CRF3C2	Regenbewässerter Reisanbau
+CRF3C3	Tiefwasser-Reisanbau
+CRF3C4	Sonstiger Reisanbau
+CRF3D	Bewirtschaftete landwirtschaftliche Böden
+CRF3D1	Bewirtschaftete landwirtschaftliche Böden - direkte N2O-Emissionen
+CRF3D2	Bewirtschaftete landwirtschaftliche Böden - indirekte N2O-Emissionen
+CRF3E	Brandrodung von Savannen
+CRF3F	Verbrennen landwirtschaftlicher Rückstände auf dem Feld
+CRF3F1	Verbrennen landwirtschaftlicher Rückstände von Getreide auf dem Feld
+CRF3F2	Verbrennen landwirtschaftlicher Rückstände von Hülsenfrüchte auf dem Feld
+CRF3F3	Verbrennen landwirtschaftlicher Rückstände von Wurzel- und Knollpflanzen auf dem Feld
+CRF3F4	Verbrennen landwirtschaftlicher Rückstände von Zuckerrohr auf dem Feld
+CRF3F5	Verbrennen landwirtschaftlicher sonstiger Rückstände auf dem Feld
+CRF3G	Kalkung
+CRF3H	Harnstoffanwendung
+CRF3I	Sonstige kohlenstoffhaltige Düngemittel
+CRF3J	Sonstige Landwirtschaft
+CRF4	Landnutzung, Landnutzungsänderung und Forstwirtschaft (LULUCF)
+CRF4A	Wälder
+CRF4A0	Entwässerung, Wiedervernässung und sonstiges Management von organischen und mineralischen Böden: Wälder - Emissionen und Senken
+CRF4A1	Verbleibende Waldfläche
+CRF4A2	Neuwaldflächen
+CRF4B	Ackerland
+CRF4B0	Entwässerung, Wiedervernässung und sonstiges Management von organischen und mineralischen Böden: Ackerland - Emissionen und Senken
+CRF4B1	Verbleibendes Ackerland
+CRF4B2	Landnutzungsänderung zu Ackerland
+CRF4C	Grünland
+CRF4C0	Entwässerung, Wiedervernässung und sonstiges Management von organischen und mineralischen Böden: Grünland - Emissionen und Senken
+CRF4C1	Verbleibendes Grünland
+CRF4C2	Landnutzungsänderung zu Grünland
+CRF4D	Feuchtgebiete
+CRF4D0	Entwässerung, Wiedervernässung und sonstiges Management von organischen und mineralischen Böden: Feuchtgebiete - Emissionen und Senken
+CRF4D1	Verbleibende Feuchtgebiete
+CRF4D2	Landnutzungsänderung zu Feuchtgebiet
+CRF4E	Siedlungen
+CRF4E0	Verbrennung von Biomasse in Siedlungen
+CRF4E1	Verbleibende Siedlungsflächen
+CRF4E2	Landnutzungsänderungen zu Siedlung
+CRF4F	Sonstiges Land
+CRF4F2	Landnutzungsänderungen zu sonstiges Land
+CRF4F3	Stickstoffmineralisation and Immobilisierung in sonstigen Böden - Direkte N2O-Emissionen
+CRF4F4	Verbrennung von Biomasse auf sonstigem Land
+CRF4G	Holzprodukte
+CRF4H	Andere Bereiche der Landnutzung, Landnutzungsänderung und Forstwirtschaft
+CRF4Z	Bewirtschaftete Böden - indirekte N2O-Emissionen
+CRF5	Abfall- und Abwasserbehandlung
+CRF5A	Deponierung von festen Abfällen
+CRF5A1	Geordnete Deponierung
+CRF5A2	Ungeordnete Deponierung
+CRF5A3	Unklassifizierte Deponierung
+CRF5B	Bioabfallbehandlung
+CRF5B1	Kompostierungsanlagen
+CRF5B2	Vergärungsanlagen
+CRF5C	Abfallverbrennung und offenes Verbrennen von Abfall
+CRF5C1	Abfallverbrennung
+CRF5C2	Offenes Verbrennen von Abfall
+CRF5D	Abwasserbehandlung
+CRF5D1	Kommunale Abwasserbehandlung
+CRF5D2	Industrielle Abwasserbehandlung
+CRF5D3	Andere Abwasserbehandlung
+CRF5E	Andere Bereiche der Abfallbehandlung
+CRF5F	Langzeitspeicherung von Kohlenstoff (Memo-Position)
+CRF5F1	Langzeitspeicherung von Kohlenstoff in Abfalldeponien
+CRF5F2	Jährliche Veränderung des Langzeit-Kohlenstoffspeicher
+CRF5F3	Jährliche Veränderung des Langzeit-Kohlenstoffspeicher in Holzabfällen
+CRF6	Andere Sektoren
+CRF_INDCO2	Indirekte CO2 Emissionen

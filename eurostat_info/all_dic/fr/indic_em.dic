@@ -1,0 +1,44 @@
+TOTAL	Total
+ACT	Population active
+EMP	Emploi total (intérieur - ESA)
+EMP_LFS	Emploi total (population résidente - EFT)
+EMP_PCH	Croissance de l'emploi
+EMP_CLT	Emploi culturel 
+SELF_EMP_RT	Indépendants en pourcentage de l'emploi total
+SERV_RT	Services en pourcentage de l'emploi total
+INDU_RT	Industrie en pourcentage de l'emploi total
+AGRI_RT	Agriculture en pourcentage de l'emploi total
+AGRI_PCH	Croissance de l'emploi dans le secteur agricole
+IND_PCH	Croissance de l'emploi dans le secteur industriel
+SERV_PCH	Croissance de l'emploi dans le secteur des services
+UNE	Chômage (ILO)
+UEMP	Travailleurs à temps partiel en sous-emploi
+SEEK_NAV	Personnes recherchant un emploi mais temporairement indisponibles
+NSEE_AV	Personnes disponibles pour travailler mais ne recherchant pas un emploi
+LTU	Chômage de longue durée 
+VLTU	Chômage de très longue durée
+JOBVAC	Nombre de vacances d'emplois
+JOBOCC	Nombre des postes occupés
+JOBRATE	Taux de vacances d'emplois
+CH_Q_Q	Variation du taux de vacances d'emploi d'un trimestre à l'autre
+CH_Y_Y	Variation du taux de vacances d'emploi d'une année à l'autre
+SLACK	Capacités excédentaires sur le marché du travail
+SC071	Enfants âgés de 0 à 17 ans dans les ménages sans emploi : part des personnes de 0 à 17 ans vivant dans les ménages dont aucun des membres n'a d'emploi
+SC072	Personnes âgés de 18 à 59 ans dans les ménages sans emploi : part des personnes de 18 à 59 ans vivant dans les ménages dont aucun des membres n'a d'emploi
+SC073	Femmes âgées de 18 à 59 ans dans les ménages sans emploi : part des femmes de 18 à 59 ans vivant dans les ménages dont aucun des membres n'a d'emploi
+SC074	Hommes âgés de 18 à 59 ans dans les ménages sans emploi : part des hommes de 18 à 59 ans vivant dans les ménages dont aucun des membres n'a d'emploi
+EM021	Âge moyen de sortie du marché du travail - total - pondéré par la probabilité de sortie du marché du travail
+EM022	Âge moyen de sortie du marché du travail - population féminine - pondéré par la probabilité de sortie du marché du travail
+EM023	Âge moyen de sortie du marché du travail - population masculine - pondéré par la probabilité de sortie du marché du travail
+E_E	Transition emploi - emploi
+E_U	Transition emploi - chômage
+E_I	Transition emploi - inactivité
+U_E	Transition chômage - emploi
+U_U	Transition chômage - chômage
+U_I	Transition chômage - inactivité
+I_E	Transition inactivité -emploi
+I_U	Transition inactivité -chômage
+I_I	Transition inactivité -inactivité
+INAC	Personnes en dehors du marché du travail
+WANTW	Personnes souhaitant travailler qui ne sont pas disponibles pour travailler et qui ne recherchent pas un emploi
+OTH	Autres

@@ -1,0 +1,60 @@
+GEN	Erzeugter Abfall
+GEN_HH	Abfallaufkommen aus Haushalten
+GEN_ORT	Erzeugter Abfall, berichtet zum Nachweis der Einhaltung der alten Recyclingziele
+MKT	Auf den Markt gebrachte Produkte
+COL	Gesammelter Abfall
+COL_SEP	Getrennte Sammlung
+COL_SEP_RCY_S	Bioabfall an der Anfallstelle getrennt und recycelt - Kompostierung und Vergärung
+COL_HH	Von Haushalten gesammelter Abfall
+COL_OTH	Von sonstigen Erzeugern gesammelter Abfall
+TRT	Abfallbehandlung
+TRT_NAT	Im Mitgliedstaat behandelter Abfall
+TRT_EU_FOR	In einem anderen Mitgliedstaat der EU behandelter Abfall
+TRT_NEU	Ausserhalb der EU behandelter Abfall
+TRT_NAL	Abfallbehandlung nicht zugeordnet
+DSP_I_RCV_E	Beseitigung - Verbrennung (D10) und Verwertung - energetische Verwertung (R1)
+DSP	Beseitigung
+DSP_L_OTH	Beseitigung - Deponien und sonstiges (D1-D7, D12)
+DSP_L	Beseitigung - Deponien (D1, D5, D12)
+DSP_LH	Beseitigung - Deponien für gefährliche Abfälle
+DSP_LNH	Beseitigung - Deponien für nicht gefährliche Abfälle
+DSP_LIN	Beseitigung - Deponien für Inertabfälle
+DSP_I	Beseitigung - Verbrennung (D10)
+DSP_OTH	Beseitigung - sonstige (D2-D4, D6-D7)
+RCV_REU	Verwertung und Wiederverwendung
+RCV	Verwertung
+RCV_I_PAC	Verwertung - Verbrennung mit energetischer Verwertung (Verpackungen)
+RCV_E	Verwertung - energetische Verwertung (R1)
+RCV_E_PAC	Verwertung - energetische Verwertung von Verpackungsabfällen
+RCV_R_B	Verwertung - Recycling and Verfüllung (R2-R11)
+RCV_R	Verwertung - Recycling
+RCV_B	Verwertung - Verfüllung
+RCV_OTH	Verwertung - sonstige
+RCY_REU	Recycling und Wiederverwendung
+RCY	Recycling
+RCY_INP	Recycling - Inputfraktionen
+RCY_M	Recycling - werkstofflich
+RCY_M_R	Recycling - werkstofflich - Vorbereitung zur Wiederverwendung
+RCY_M_IBA	Recycling - werkstofflich -  nach der Verbrennung abgetrennt 
+RCY_C_D	Recycling - Kompostierung und Vergärung
+RCY_NAT	Recycling im Mitgliedstaat
+RCY_EU_FOR	Recycling in einem anderen Mitgliedstaat der EU
+RCY_NEU	Recycling außerhalb der EU
+RCY_ORT	Recycling, berichtet zum Nachweis der Einhaltung der alten Recyclingziele
+RCY_OTH	Recycling - sonstiges
+RCY_RT	Recyclingquote
+REU	Wiederverwendung
+RPR	Reparatur
+CMP	Kompostierung
+FMKT	Erstmalig in Verkehr gebracht - alle Verpackungen
+FMKT_S	Erstmalig in Verkehr gebracht - Verkaufsverpackungen
+FMKT_RE	Erstmalig in Verkehr gebracht - alle wiederverwendbaren Verpackungen
+FMKT_RE_S	Erstmalig in Verkehr gebracht - wiederverwendbare Verkaufsverpackungen
+ROTY_RE	Umläufe pro Jahr - alle wiederverwendbaren Verpackungen
+ROTY_RE_S	Umläufe pro Jahr - wiederverwendbare Verkaufsverpackungen
+INC_RCV_PL	Verbrennungsanlagen (insgesamt)
+RCV_I_PL	Verbrennungsanlagen (mit energetische Verwertung)
+TRT_PL	Aufbereitungsanlagen
+C_DSP_D	Kontrollierte Deponien
+OTH	Sonstige Abfallbewirtschaftungsmaßnahmen
+NSP	Nicht angegeben

@@ -1,0 +1,23 @@
+TOTAL	Superficie viticole totale (en production/non encore en production)
+WI	Vignes à raisins de cuve - total
+WI_PDO	Vignes à raisins de cuve pour vins à AOP
+WI_PGI	Vignes à raisins de cuve pour vins à IGP
+WI_NP	Vignes à raisins de cuve pour vins sans AOP/IGP
+WI_DP	Vignes à raisins à double usage
+DRI	Vignes à raisins secs
+IN	Vignes en production - total
+IN_WI	Vignes en production - raisins de cuve - total
+IN_WI_PDO	Vignes en production - raisins de cuve pour vins à AOP
+IN_WI_PGI	Vignes en production -  raisins de cuve pour vins à IGP
+IN_WI_NP	Vignes en production -  raisins de cuve pour vins sans AOP/IGP
+IN_WI_DP	Vignes en production - raisins à double usage
+IN_DRI	Vignes en production - raisins secs
+NIN	Vignes non encore en production - total
+NIN_WI	Vignes non encore en production - raisins de cuve - total
+NIN_WI_PDO	Vignes non encore en production -  raisins de cuve pour vins à AOP
+NIN_WI_PGI	Vignes non encore en production -  raisins de cuve pour vins à IGP
+NIN_WI_NP	Vignes non encore en production -  raisins de cuve pour vins sans AOP/ IGP
+NIN_WI_DP	Vignes non encore en production - raisins à double usage
+NIN_DRI	Vignes non encore en production - raisins secs
+MAT_VP	Vignes destinées à la production de matériels de multiplication végétative de la vigne
+OTH	Autres vignes n.c.a.

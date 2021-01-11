@@ -1,0 +1,23 @@
+NGDP	Solde net aux prix courants (en % du PIB)
+NMLD	Soldes nets (en Mrd ECU/EUR)
+COVR	Taux de couverture (en %)
+CA1	Crédits par zone géographique (crédits en % du total des crédits du partenaire Monde)
+DA1	Débits par zone géographique (débits en % du total des débits du partenaire Monde)
+CMLD	Exportations (en Mrd ECU/EUR)
+DMLD	Importations (en Mrd ECU/EUR)
+STOCKS	Positions de l'investissement direct - Million ECU/EUR
+FLOWS	Flux d'investissements directs - Million ECU/EUR
+INCOME	Revenus d'investissements directs - Million ECU/EUR
+FGDP	PIB (flux en % du PIB)
+SGDP	PIB (stocks en % du PIB)
+IPOS	Taux de rentabilité des investissements directs étranger (revenus des IDE / positions des IDE)
+PCPOS	Positions des IDE de l'UE: Part des pays partenaires en % du total extra-UE
+TI100	Intégration du marché - Intégration du commerce des biens
+TI200	Intégration du marché - Intégration du commerce des services
+TIFDI	Intégration du marché - Intensité des investissements directs à l'étranger - Moyenne des flux d'investissements directs à l'étranger sortants et entrants divisée par le PIB, multipliée par 100
+TUR	Chiffre d'affaires - Million ECU/EUR
+EMP	Nombre de personnes employées
+ENT	Nombre d'entreprises
+PEC	Dépenses de personnel - Million ECU/EUR
+GIT	Investissements bruts en biens corporels - Million ECU/EUR
+VAC	Valeur ajoutée aux coûts des facteurs - Million ECU/EUR

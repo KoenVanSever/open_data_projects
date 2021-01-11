@@ -1,0 +1,10 @@
+TOTAL	Total
+LOC_REG	Local ou régional
+NAT	National
+NAT_ONL	National uniquement
+FOR	Pays étranger
+EU_EFTA	Pays de l'UE ou de l'AELE
+EU_EFTA_OTH	Autres pays membres de l'UE ou de l'AELE
+NEU_NEFTA	Hors des pays membres de l'UE ou de l'AELE
+EU_EFTA_CC_OTH	Autres pays membres de l'UE, de l'AELE ou candidats à l'UE
+EXT	Pays autres que les pays membres de l'UE, de l'AELE ou candidats à l'UE

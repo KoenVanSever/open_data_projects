@@ -1,0 +1,516 @@
+PRD	Produktion
+PPRD	Primärproduktion
+PPRD_RED	Primärproduktion - Erneuerbare-Energien-Richtlinie
+IPRD	Inlandsproduktion
+IPRD_AG	Inlandsproduktion - Begleitgas
+IPRD_NAG	Inlandsproduktion - unabhängig vorhandenes Gas
+IPRD_CG	Inlandsproduktion - Grubengas
+UPRD	Produktion untertage
+SPRD	Produktion im Tagebau
+PRD_OTH	Sonstige Produktion
+TOS	Übertragungen aus anderen Quellen
+TOS_OIL	Übertragungen aus anderen Quellen - Öl
+TOS_COAL	Übertragungen aus anderen Quellen - Kohle
+TOS_REN	Übertragungen aus anderen Quellen - erneuerbare Quellen
+TOS_NGAS	Übertragungen aus anderen Quellen - Erdgas
+IDCO	Zum direkten Übertrag
+FDCO	Vom direkten Übertrag
+RCV_RCY	Wiedergewinnung und wiederverwertete Produkte
+IMP	Einfuhren
+IMP_NET	Nettoeinfuhren
+IMP_FROM_EU	Einfuhren aus EU Ländern
+IMP_FROM_NEU	Einfuhren aus Ländern außerhalb der EU
+EXP	Ausfuhren
+EXP_TO_EU	Ausfuhren in die EU
+STKOP_NAT	Anfangsbestände auf dem Hoheitsgebiet des Staates
+STKCL_NAT	Endbestände auf dem Hoheitsgebiet des Staates
+STK_CHG	Bestandsveränderungen
+STK_DRW	Bestandsabbau
+STK_BLD	Bestandsaufbau
+STK_CHG_MG	Bestandsveränderungen - wie berechnet im MOS GAS
+STK_CHG_MAIN	Bestandsveränderungen bei hauptsächlich als Energieerzeuger tätigen Unternehmen
+NRGSUP_CAL	Gesamtenergieversorgung - berechnet
+GAE	Brutto verfügbare Energie
+INTMARB	Hochseebunker
+IC	Inlandsverbrauch
+IC_CAL	Inlandsverbrauch - berechnet
+IC_OBS	Inlandsverbrauch - erfasst
+IC_CAL_MG	Inlandsverbrauch - berechnet wie im MOS GAS
+ID	Inlandsnachfrage
+GID	Bruttoinlandslieferungen
+GID_CAL	Bruttoinlandslieferungen - berechnet
+GID_OBS	Bruttoinlandslieferungen - erfasst
+GID_E	Bruttoinlandslieferungen - energetischer Verbrauch
+GID_NE	Bruttoinlandslieferungen - nichtenergetischer Verbrauch
+GIC	Bruttoinlandsverbrauch
+INTAVI	Grenzüberschreitender Luftverkehr
+INTAVI_E	Grenzüberschreitender Luftverkehr - energetischer Verbrauch
+INTAVI_NE	Grenzüberschreitender Luftverkehr - nichtenergetischer Verbrauch
+NRGSUP	Energieaufkommen insgesamt
+GIC2020-2030	Bruttoinlandsverbrauch (Europa 2020-2030)
+PEC2020-2030	Primärenergieverbrauch (Europa 2020-2030)
+FEC2020-2030	Endenergieverbrauch (Europa 2020-2030)
+PEC_DT2020	Primärenergieverbrauch - Abstand 2020 vom Ziel
+PEC_DT2030	Primärenergieverbrauch - Abstand 2030 vom Ziel
+FEC_DT2020	Endenergieverbrauch - Abstand 2020 vom Ziel
+FEC_DT2030	Endenergieverbrauch - Abstand 2030 vom Ziel
+FC_TRA_E_RED	Endenergieverbrauch - Verkehrssektor - energetischer Verbrauch - Erneuerbare-Energien-Richtlinie
+FC_TRA_ROAD_E_RED	Endenergieverbrauch - Verkehrssektor - Straßenverkehr - energetischer Verbrauch - Erneuerbare-Energien-Richtlinie
+FC_TRA_RAIL_E_RED	Endenergieverbrauch - Verkehrssektor - Schienenverkehr - energetischer Verbrauch - Erneuerbare-Energien-Richtlinie
+FC_TRA_OTH_E_RED	Endenergieverbrauch - Andere Verkehrssektoren - energetischer Verbrauch - Erneuerbare-Energien-Richtlinie
+GTI	Bruttoumwandlungseinsatz
+NTI	Nettoumwandlungseinsatz
+TI	Umwandlungseinsatz
+TI_E	Umwandlungseinsatz - energetischer Verbrauch
+TI_EHG	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme
+TI_EHG_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - energetischer Verbrauch
+TI_EHG_NE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - nichtenergetischer Verbrauch
+TI_EHG_EONL_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Elektrizitätserzeuger - energetischer Verbrauch
+TI_EHG_CHP_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme -  Elektrizitäts- und Wärmeerzeuger (Kraft-Wärme-Kopplung) - energetischer Verbrauch
+TI_EHG_HONL_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Wärmeerzeuger - energetischer Verbrauch
+TI_EHG_MAPE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitätserzeuger tätiges Unternehmen
+TI_EHG_MAPE_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitätserzeuger tätiges Unternehmen - energetischer Verbrauch
+TI_EHG_MAPE_NE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitätserzeuger tätiges Unternehmen - nichtenergetischer Verbrauch
+TI_EHG_MAPCHP	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung)
+TI_EHG_MAPCHP_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung) - energetischer Verbrauch
+TI_EHG_MAPCHP_NE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung) - nichtenergetischer Verbrauch
+TI_EHG_MAP	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Energieerzeuger tätiges Unternehmen
+TI_EHG_MAPH	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Wärmeerzeuger tätiges Unternehmen
+TI_EHG_MAPH_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Wärmeerzeuger tätiges Unternehmen  - energetischer Verbrauch
+TI_EHG_MAPH_NE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Wärmeerzeuger tätiges Unternehmen  - nichtenergetischer Verbrauch
+TI_EHG_APE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Elektrizität
+TI_EHG_APE_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Elektrizität - energetischer Verbrauch
+TI_EHG_APE_NE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Elektrizität - nichtenergetischer Verbrauch
+TI_EHG_APCHP	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung)
+TI_EHG_APCHP_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung) - energetischer Verbrauch
+TI_EHG_APCHP_NE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung) - nichtenergetischer Verbrauch
+TI_EHG_APH	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Wärme
+TI_EHG_APH_E	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Wärme - energetischer Verbrauch
+TI_EHG_APH_NE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Wärme - nichtenergetischer Verbrauch
+TI_EHG_EDHP	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Elektrisch angetriebene Wärmepumpen
+TI_EHG_EB	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Elektrokessel
+TI_EHG_EPS	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke
+TI_EHG_EPS_PURE	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke - reine Wasserkraftwerke
+TI_EHG_EPS_MIX	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke - gemischte Werke
+TI_EHG_DHEP	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke - abgeleitete Wärme zur Elektrizitätserzeugung
+TI_EHG_OTH	Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - sonstige
+TI_CO	Umwandlungseinsatz - Kokereien
+TI_CO_E	Umwandlungseinsatz - Kokereien - energetischer Verbrauch
+TI_CO_NE	Umwandlungseinsatz - Kokereien - nichtenergetischer Verbrauch
+TI_BF	Umwandlungseinsatz - Hochöfen
+TI_BF_E	Umwandlungseinsatz - Hochöfen - energetischer Verbrauch
+TI_BF_NE	Umwandlungseinsatz - Hochöfen - nichtenergetischer Verbrauch
+TI_GW	Umwandlungseinsatz - Gaswerke
+TI_GW_E	Umwandlungseinsatz - Gaswerke - energetischer Verbrauch
+TI_GW_NE	Umwandlungseinsatz - Gaswerke - nichtenergetischer Verbrauch
+TI_RPI	Umwandlungseinsatz - Raffinerien und petrochemische Industrie
+TI_RPI_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - energetischer Verbrauch
+TI_RPI_NE	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - nichtenergetischer Verbrauch
+TI_RPI_RI	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Raffinerieeingang
+TI_RPI_RI_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Raffinerieeingang - energetischer Verbrauch
+TI_RPI_RI_NE	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Raffinerieeingang - nichtenergetischer Verbrauch
+TI_RPI_RI_CAL	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Raffinerieeingang - berechnet
+TI_RPI_RI_OBS	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Raffinerieeingang - erfasst
+TI_RPI_BPI	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Rückläufe aus der petrochemischen Industrie
+TI_RPI_BPI_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Rückläufe aus der petrochemischen Industrie - energetischer Verbrauch
+TI_RPI_BPI_NE	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Rückläufe aus der petrochemischen Industrie - nichtenergetischer Verbrauch
+TI_RPI_PT	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Übertragung von Erzeugnissen
+TI_RPI_PT_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Übertragung von Erzeugnissen - energetischer Verbrauch
+TI_RPI_PT_NE	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Übertragung von Erzeugnissen - nichtenergetischer Verbrauch
+TI_RPI_IT	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Austausch von Erzeugnissen
+TI_RPI_IT_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Austausch von Erzeugnissen - energetischer Verbrauch
+TI_RPI_IT_NE	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Austausch von Erzeugnissen - nichtenergetischer Verbrauch
+TI_RPI_DU	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Direktverbrauch
+TI_RPI_DU_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Direktverbrauch - energetischer Verbrauch
+TI_RPI_DU_NE	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Direktverbrauch - nichtenergetischer Verbrauch
+TI_RPI_PII	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Eingang in die petrochemische industrie
+TI_RPI_PII_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Eingang in die petrochemische industrie - energetischer Verbrauch
+TI_RPI_PII_NE	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - Eingang in die petrochemische industrie - nichtenergetischer Verbrauch
+TI_RPI_OTH_E	Umwandlungseinsatz - Raffinerien und petrochemische Industrie - sonstige - energetischer Verbrauch
+TI_PF	Umwandlungseinsatz - Steinkohlenbrikettfabriken
+TI_PF_E	Umwandlungseinsatz - Steinkohlenbrikettfabriken - energetischer Verbrauch
+TI_PF_NE	Umwandlungseinsatz - Steinkohlenbrikettfabriken - nichtenergetischer Verbrauch
+TI_BKBPB	Umwandlungseinsatz - Braunkohle-/Torfbrikettfabriken
+TI_BKBPB_E	Umwandlungseinsatz - Braunkohle-/Torfbrikettfabriken - energetischer Verbrauch
+TI_BKBPB_NE	Umwandlungseinsatz - Braunkohle-/Torfbrikettfabriken - nichtenergetischer Verbrauch
+TI_CL	Umwandlungseinsatz - Kohleverflüssigungsanlagen
+TI_CL_E	Umwandlungseinsatz - Kohleverflüssigungsanlagen - energetischer Verbrauch
+TI_CL_NE	Umwandlungseinsatz - Kohleverflüssigungsanlagen - nichtenergetischer Verbrauch
+TI_BNG	Umwandlungseinsatz - für Mischgas
+TI_BNG_E	Umwandlungseinsatz - für Mischgas - energetischer Verbrauch
+TI_BNG_NE	Umwandlungseinsatz - für Mischgas - nichtenergetischer Verbrauch
+TI_LBB	Umwandlungseinsatz - gemischte flüssige Biobrennsstoffe
+TI_LBB_E	Umwandlungseinsatz - gemischte flüssige Biobrennsstoffe - energetischer Verbrauch
+TI_LBB_NE	Umwandlungseinsatz - gemischte flüssige Biobrennsstoffe - nichtenergetischer Verbrauch
+TI_CPP	Umwandlungseinsatz - Holzkohlefabriken
+TI_CPP_E	Umwandlungseinsatz - Holzkohlefabriken - energetischer Verbrauch
+TI_CPP_NE	Umwandlungseinsatz - Holzkohlefabriken - nichtenergetischer Verbrauch
+TI_GTL	Umwandlungseinsatz - Gasverflüssigungsanlagen
+TI_GTL_E	Umwandlungseinsatz - Gasverflüssigungsanlagen - energetischer Verbrauch
+TI_GTL_NE	Umwandlungseinsatz - Gasverflüssigungsanlagen - nichtenergetischer Verbrauch
+TI_GTL_GTL	Umwandlungseinsatz - Gasverflüssigungsanlagen - GTL Technologie
+TI_GTL_GTL_E	Umwandlungseinsatz - Gasverflüssigungsanlagen - GTL Technologie - energetischer Verbrauch
+TI_GTL_GTL_NE	Umwandlungseinsatz - Gasverflüssigungsanlagen - GTL Technologie - nichtenergetischer Verbrauch
+TI_NSP	Umwandlungseinsatz - nicht anders angegeben
+TI_NSP_E	Umwandlungseinsatz - nicht anders angegeben - energetischer Verbrauch
+TI_NSP_NE	Umwandlungseinsatz - nicht anders angegeben - nichtenergetischer Verbrauch
+TI_OTH	Einsatz in sonstigen Umwandlungen
+GTO	Bruttoumwandlungsausstoss
+NTO	Nettoumwandlungsausstoss
+TO	Rückfluss aus Umwandlungen
+TO_EHG	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme
+TO_EHG_EONL	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Elektrizitätserzeuger
+TO_EHG_CHP	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Elektrizitäts- und Wärmeerzeuger (Kraft-Wärme-Kopplung)
+TO_EHG_HONL	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Wärmeerzeuger
+TO_EHG_MAPE	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitätserzeuger tätiges Unternehmen
+TO_EHG_MAPCHP	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung)
+TO_EHG_MAPH	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - hauptsächlich als Wärmeerzeuger tätiges Unternehmen
+TO_EHG_APE	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Elektrizität
+TO_EHG_APCHP	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung)
+TO_EHG_APH	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Eigenerzeuger nur Wärme
+TO_EHG_EDHP	Rückfluss aus Umwandlungen- Erzeugung von Elektrizität und Wärme - Elektrisch angetriebene Wärmepumpen
+TO_EHG_EB	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Elektrokessel
+TO_EHG_PH	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke
+TO_EHG_EPS_PURE	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke - reine Wasserkraftwerke
+TO_EHG_EPS_MIX	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke - gemischte Werke
+TO_EHG_OTH	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - andere Quellen
+TO_EHG_S_OTH	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - andere Quellen
+TO_EHG_G_OTH	Rückfluss aus Umwandlungen - Erzeugung von Elektrizität und Wärme - andere Erzeugung
+TO_CO	Rückfluss aus Umwandlungen - Kokereien
+TO_BF	Rückfluss aus Umwandlungen - Hochöfen
+TO_GW	Rückfluss aus Umwandlungen - Gaswerke
+TO_RPI	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie
+TO_RPI_RO	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie - Raffinerieaustoß
+TO_RPI_BKFLOW	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie - Rückläufe
+TO_RPI_PT	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie - Übertragung von Erzeugnissen
+TO_RPI_IT	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie - Austausch von Erzeugnissen
+TO_RPI_PPR	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie - Rohstoffeingänge
+TO_RPI_PIR	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie - Rückläufe der petrochemischen Industrie
+TO_RPI_O_OTH	Rückfluss aus Umwandlungen - Raffinerien und petrochemische Industrie - Ausstoss von sonstigen Umwandlungen
+TO_PF	Rückfluss aus Umwandlungen - Steinkohlenbrikettfabriken
+TO_BKBPB	Rückfluss aus Umwandlungen - Braunkohle-/Torfbrikettfabriken
+TO_CL	Rückfluss aus Umwandlungen - Kohleverflüssigungsanlagen
+TO_BNG	Rückfluss aus Umwandlungen - für Mischgas
+TO_LBB	Rückfluss aus Umwandlungen - gemischte flüssige Biobrennsstoffe
+TO_CPP	Rückfluss aus Umwandlungen - Holzkohlefabriken
+TO_GTL	Rückfluss aus Umwandlungen - Gasverflüssigungsanlagen
+TO_NSP	Rückfluss aus Umwandlungen - nicht anders angegeben
+TO_OTH	Ausstoss von sonstigen Umwandlungen
+NRG	Energiesektor
+NRG_E	Energiesektor - energetischer Verbrauch
+NRG_EHG	Energiesektor - Erzeugung von Elektrizität und Wärme
+NRG_EHG_E	Energiesektor - Erzeugung von Elektrizität und Wärme - energetischer Verbrauch
+NRG_EHG_NE	Energiesektor - Erzeugung von Elektrizität und Wärme - nichtenergetischer Verbrauch
+NRG_CM	Energiesektor - Kohlebergwerke
+NRG_CM_E	Energiesektor - Kohlebergwerke - energetischer Verbrauch
+NRG_CM_NE	Energiesektor - Kohlebergwerke - nichtenergetischer Verbrauch
+NRG_OIL_NG	Energiesektor - Erdöl- und Erdgasgewinnunganlagen
+NRG_OIL_NG_E	Energiesektor - Erdöl- und Erdgasgewinnunganlagen - energetischer Verbrauch
+NRG_OIL_NG_NE	Energiesektor - Erdöl- und Erdgasgewinnunganlagen - nichtenergetischer Verbrauch
+NRG_PF	Energiesektor - Steinkohlenbrikettfabriken
+NRG_PF_E	Energiesektor - Steinkohlenbrikettfabriken - energetischer Verbrauch
+NRG_PF_NE	Energiesektor - Steinkohlenbrikettfabriken - nichtenergetischer Verbrauch
+NRG_CO	Energiesektor - Kokereien
+NRG_CO_E	Energiesektor - Kokereien - energetischer Verbrauch
+NRG_CO_NE	Energiesektor - Kokereien - nichtenergetischer Verbrauch
+NRG_BKBPB	Energiesektor - Braunkohle-/Torfbrikettfabriken
+NRG_BKBPB_E	Energiesektor - Braunkohle-/Torfbrikettfabriken - energetischer Verbrauch
+NRG_BKBPB_NE	Energiesektor - Braunkohle-/Torfbrikettfabriken - nichtenergetischer Verbrauch
+NRG_GW	Energiesektor - Gaswerke
+NRG_GW_E	Energiesektor - Gaswerke - energetischer Verbrauch
+NRG_GW_NE	Energiesektor - Gaswerke - nichtenergetischer Verbrauch
+NRG_BF	Energiesektor - Hochöfen
+NRG_BF_E	Energiesektor - Hochöfen - energetischer Verbrauch
+NRG_BF_NE	Energiesektor - Hochöfen - nichtenergetischer Verbrauch
+NRG_PR	Energiesektor - Öl Raffinerien
+NRG_PR_E	Energiesektor - Öl Raffinerien - energetischer Verbrauch
+NRG_PR_NE	Energiesektor - Öl Raffinerien - nichtenergetischer Verbrauch
+NRG_NI	Energiesektor - Nukleare Industrie
+NRG_NI_E	Energiesektor - Nukleare Industrie - energetischer Verbrauch
+NRG_NI_NE	Energiesektor - Nukleare Industrie - nichtenergetischer Verbrauch
+NRG_CL	Energiesektor - Kohleverflüssigungsanlagen
+NRG_CL_E	Energiesektor - Kohleverflüssigungsanlagen - energetischer Verbrauch
+NRG_CL_NE	Energiesektor - Kohleverflüssigungsanlagen - nichtenergetischer Verbrauch
+NRG_LNG	Energiesektor - Verflüssigungs-  und Vergasungsanlagen (LNG)
+NRG_LNG_E	Energiesektor - Verflüssigungs-  und Vergasungsanlagen (LNG) - energetischer Verbrauch
+NRG_LNG_NE	Energiesektor - Verflüssigungs-  und Vergasungsanlagen (LNG) - nichtenergetischer Verbrauch
+NRG_BIOG	Energiesektor - Vergasungsanlagen für Biogas
+NRG_BIOG_E	Energiesektor - Vergasungsanlagen für Biogas - energetischer Verbrauch
+NRG_BIOG_NE	Energiesektor - Vergasungsanlagen für Biogas - nichtenergetischer Verbrauch
+NRG_GTL	Energiesektor - Gasverflüssigungsanlagen
+NRG_GTL_E	Energiesektor - Gasverflüssigungsanlagen - energetischer Verbrauch
+NRG_GTL_NE	Energiesektor - Gasverflüssigungsanlagen - nichtenergetischer Verbrauch
+NRG_GTL_GTL	Energiesektor - Gasverflüssigungsanlagen - GTL Technologie
+NRG_GTL_GTL_E	Energiesektor - Gasverflüssigungsanlagen - GTL Technologie - energetischer Verbrauch
+NRG_GTL_GTL_NE	Energiesektor - Gasverflüssigungsanlagen - GTL Technologie - nichtenergetischer Verbrauch
+NRG_CPP	Energiesektor - Holzkohlefabriken
+NRG_CPP_E	Energiesektor - Holzkohlefabriken - energetischer Verbrauch
+NRG_CPP_NE	Energiesektor - Holzkohlefabriken - nichtenergetischer Verbrauch
+NRG_NSP	Energiesektor - nicht anders angegeben
+NRG_NSP_E	Energiesektor - nicht anders angegeben - energetischer Verbrauch
+NRG_NSP_NE	Energiesektor - nicht anders angegeben - nichtenergetischer Verbrauch
+NRG_MNBRFT_E	Energiesektor - Herstellung nicht biologischer Kraftstoffe erneuerbaren Ursprungs, die im Verkehr verwendet werden- energetischer Verbrauch
+TL	Umwandlungsverluste
+TL_EHG	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme
+TL_EHG_EONL	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Elektrizitätserzeuger
+TL_EHG_CHP	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Elektrizitäts- und Wärmeerzeuger (Kraft-Wärme-Kopplung)
+TL_EHG_HONL	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Wärmeerzeuger
+TL_EHG_MAPE	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitätserzeuger tätiges Unternehmen
+TL_EHG_MAPCHP	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung)
+TL_EHG_MAPH	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - hauptsächlich als Wärmeerzeuger tätiges Unternehmen
+TL_EHG_APE	Umwandlungsverluste - Eigenerzeuger nur Elektrizität
+TL_EHG_APCHP	Umwandlungsverluste - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung)
+TL_EHG_APH	Umwandlungsverluste - Eigenerzeuger nur Wärme
+TL_EHG_EDHP	Umwandlungsverluste- Erzeugung von Elektrizität und Wärme - Elektrisch angetriebene Wärmepumpen
+TL_EHG_EB	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Elektrokessel
+TL_EHG_PH	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke
+TL_EHG_EPS_PURE	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke - reine Wasserkraftwerke
+TL_EHG_EPS_MIX	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Elektrizität für Pumpspeicherkraftwerke - gemischte Werke
+TL_EHG_OTH	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - andere Quellen
+TL_EHG_S_OTH	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - andere Quellen
+TL_EHG_L_OTH	Umwandlungsverluste - Erzeugung von Elektrizität und Wärme - Sonstige Verlusten
+TL_CO	Umwandlungsverluste - Kokereien
+TL_BF	Umwandlungsverluste - Hochöfen
+TL_GW	Umwandlungsverluste - Gaswerke
+TL_RPI	Umwandlungsverluste - Raffinerien und petrochemische Industrie
+TL_RPI_RO	Umwandlungsverluste - Raffinerien und petrochemische Industrie - Raffinerieaustoß
+TL_RPI_BKFLOW	Umwandlungsverluste - Raffinerien und petrochemische Industrie - Rückläufe
+TL_RPI_PT	Umwandlungsverluste - Raffinerien und petrochemische Industrie - Übertragung von Erzeugnissen
+TL_RPI_IT	Umwandlungsverluste - Raffinerien und petrochemische Industrie - Austausch von Erzeugnissen
+TL_RPI_PPR	Umwandlungsverluste - Raffinerien und petrochemische Industrie - Rohstoffeingänge
+TL_RPI_PIR	Umwandlungsverluste - Raffinerien und petrochemische Industrie - Rückläufe der petrochemischen Industrie
+TL_RPI_L_OTH	Umwandlungsverluste - Raffinerien und petrochemische Industrie - Sonstige Verlusten
+TL_PF	Umwandlungsverluste - Steinkohlenbrikettfabriken
+TL_BKBPB	Umwandlungsverluste - Braunkohle-/Torfbrikettfabriken
+TL_CL	Umwandlungsverluste - Kohleverflüssigungsanlagen
+TL_BNG	Umwandlungsverluste - für Mischgas
+TL_LBB	Umwandlungsverluste - gemischte flüssige Biobrennsstoffe
+TL_CPP	Umwandlungsverluste - Holzkohlefabriken
+TL_GTL	Umwandlungsverluste - Gasverflüssigungsanlagen
+TL_NSP	Umwandlungsverluste - nicht anders angegeben
+TL_OTH	Verluste von sonstigen Umwandlungen
+DL	Netzverluste
+DL_E	Netzverluste - energetischer Verbrauch
+DL_NE	Netzverluste - nichtenergetischer Verbrauch
+RL	Raffinerieverluste
+RI	Raffinerieeingang
+RI_CAL	Raffinerieeingang - berechnet
+RI_OBS	Raffinerieeingang - erfasst
+RF	Raffinerieeigenverbrauch
+RF_ELC	Raffinerieeigenverbrauch - Stromerzeugung
+RF_CHP	Raffinerieeigenverbrauch - Kraft-Wärme-Kopplung
+RF_HEAT	Raffinerieeigenverbrauch - Wärmeerzeugung
+VENT	Abgeblasen
+FLARE	Abgefackelt
+AIM	Verfügbar für den inländischen Markt
+AFC	Verfügbar für den Endverbrauch
+AAS	Verfügbar aus allen Bezugsquellen
+AAT	Verfügbar nach Umwandlungen
+FC	Endenergieverbrauch
+FC_NE	Endenergieverbrauch - nicht energetischer Endenergieverbrauch
+TI_NRG_FC_IND_NE	Umwandlungseinsatz, Energiesektor und Endverbrauch im Industriesektor - nichtenergetischer Verbrauch
+TI_NE	Umwandlungseinsatz - nichtenergetischer Verbrauch
+NRG_NE	Energiesektor - nichtenergetischer Verbrauch
+FC_IND_NE	Endenergieverbrauch - Industriesektor - nichtenergetischer Verbrauch
+FC_TRA_NE	Endenergieverbrauch - Verkehrssektor - nichtenergetischer Verbrauch
+FC_OTH_NE	Endenergieverbrauch - Sonstige Sektoren - nichtenergetischer Verbrauch
+FC_E	Endenergieverbrauch - energetischer Verbrauch
+FC_IND	Endenergieverbrauch - Industriesektor
+FC_IND_E	Endenergieverbrauch - Industriesektor - energetischer Verbrauch
+FC_IND_IS	Endenergieverbrauch - Industriesektor - Eisen und Stahl
+FC_IND_IS_E	Endenergieverbrauch - Industriesektor - Eisen und Stahl - energetischer Verbrauch
+FC_IND_IS_NE	Endenergieverbrauch - Industriesektor - Eisen und Stahl - nichtenergetischer Verbrauch
+FC_IND_CPC	Endenergieverbrauch - Industriesektor - Chemie und Petrochemie
+FC_IND_CPC_E	Endenergieverbrauch - Industriesektor - Chemie und Petrochemie - energetischer Verbrauch
+FC_IND_CPC_NE	Endenergieverbrauch - Industriesektor - Chemie und Petrochemie - nichtenergetischer Verbrauch
+FC_IND_NFM	Endenergieverbrauch - Industriesektor - Nichteisenmetalle
+FC_IND_NFM_E	Endenergieverbrauch - Industriesektor - Nichteisenmetalle - energetischer Verbrauch
+FC_IND_NFM_NE	Endenergieverbrauch - Industriesektor - Nichteisenmetalle - nichtenergetischer Verbrauch
+FC_IND_NMM	Endenergieverbrauch - Industriesektor - Nichtmetallische mineralische Rohstoffe
+FC_IND_NMM_E	Endenergieverbrauch - Industriesektor - Nichtmetallische mineralische Rohstoffe - energetischer Verbrauch
+FC_IND_NMM_NE	Endenergieverbrauch - Industriesektor - Nichtmetallische mineralische Rohstoffe - nichtenergetischer Verbrauch
+FC_IND_TE	Endenergieverbrauch - Industriesektor - Fahrzeuge und Beförderungsmittel
+FC_IND_TE_E	Endenergieverbrauch - Industriesektor - Fahrzeuge und Beförderungsmittel - energetischer Verbrauch
+FC_IND_TE_NE	Endenergieverbrauch - Industriesektor - Fahrzeuge und Beförderungsmittel - nichtenergetischer Verbrauch
+FC_IND_MAC	Endenergieverbrauch - Industriesektor - Maschinen
+FC_IND_MAC_E	Endenergieverbrauch - Industriesektor - Maschinen - energetischer Verbrauch
+FC_IND_MAC_NE	Endenergieverbrauch - Industriesektor - Maschinen - nichtenergetischer Verbrauch
+FC_IND_MQ	Endenergieverbrauch - Industriesektor - Bergbau und Steinbrüche
+FC_IND_MQ_E	Endenergieverbrauch - Industriesektor - Bergbau und Steinbrüche - energetischer Verbrauch
+FC_IND_MQ_NE	Endenergieverbrauch - Industriesektor - Bergbau und Steinbrüche - nichtenergetischer Verbrauch
+FC_IND_FBT	Endenergieverbrauch - Industriesektor - Nahrungsmittel, Getränke und Tabak
+FC_IND_FBT_E	Endenergieverbrauch - Industriesektor - Nahrungsmittel, Getränke und Tabak - energetischer Verbrauch
+FC_IND_FBT_NE	Endenergieverbrauch - Industriesektor - Nahrungsmittel, Getränke und Tabak - nichtenergetischer Verbrauch
+FC_IND_PPP	Endenergieverbrauch - Industriesektor - Papier, Zellstoff und Druckerzeugnisse
+FC_IND_PPP_E	Endenergieverbrauch - Industriesektor - Papier, Zellstoff und Druckerzeugnisse - energetischer Verbrauch
+FC_IND_PPP_NE	Endenergieverbrauch - Industriesektor - Papier, Zellstoff und Druckerzeugnisse - nichtenergetischer Verbrauch
+FC_IND_WP	Endenergieverbrauch - Industriesektor - Holz und Holzprodukte
+FC_IND_WP_E	Endenergieverbrauch - Industriesektor - Holz und Holzprodukte - energetischer Verbrauch
+FC_IND_WP_NE	Endenergieverbrauch - Industriesektor - Holz und Holzprodukte - nichtenergetischer Verbrauch
+FC_IND_CON	Endenergieverbrauch - Industriesektor - Bauwesen
+FC_IND_CON_E	Endenergieverbrauch - Industriesektor - Bauwesen - energetischer Verbrauch
+FC_IND_CON_NE	Endenergieverbrauch - Industriesektor - Bauwesen - nichtenergetischer Verbrauch
+FC_IND_TL	Endenergieverbrauch - Industriesektor - Textil und Leder
+FC_IND_TL_E	Endenergieverbrauch - Industriesektor - Textil und Leder - energetischer Verbrauch
+FC_IND_TL_NE	Endenergieverbrauch - Industriesektor - Textil und Leder - nichtenergetischer Verbrauch
+FC_IND_NSP	Endenergieverbrauch - Industriesektor - nicht anders angegeben
+FC_IND_NSP_E	Endenergieverbrauch - Industriesektor - nicht anders angegeben - energetischer Verbrauch
+FC_IND_NSP_NE	Endenergieverbrauch - Industriesektor - nicht anders angegeben - nichtenergetischer Verbrauch
+FC_IND_OTH_E	Endenergieverbrauch - Industriesektor und andere Sektoren- energetischer Verbrauch
+FC_TRA	Endenergieverbrauch - Verkehrssektor
+FC_TRA_E	Endenergieverbrauch - Verkehrssektor - energetischer Verbrauch
+FC_TRA_RAIL_DNAVI_E	Endenergieverbrauch - Verkehrssektor - Schienenverkehr und Binnenschifffahrt - energetischer Verbrauch
+FC_TRA_RAIL	Endenergieverbrauch - Verkehrssektor - Schienenverkehr
+FC_TRA_RAIL_E	Endenergieverbrauch - Verkehrssektor - Schienenverkehr - energetischer Verbrauch
+FC_TRA_RAIL_NE	Endenergieverbrauch - Verkehrssektor - Schienenverkehr - nichtenergetischer Verbrauch
+FC_TRA_ROAD	Endenergieverbrauch - Verkehrssektor - Straßenverkehr
+FC_TRA_ROAD_E	Endenergieverbrauch - Verkehrssektor - Straßenverkehr - energetischer Verbrauch
+FC_TRA_ROAD_NE	Endenergieverbrauch - Verkehrssektor - Straßenverkehr - nichtenergetischer Verbrauch
+FC_TRA_DAVI	Endenergieverbrauch - Verkehrssektor - Inländische Luftfahrt
+FC_TRA_DAVI_E	Endenergieverbrauch - Verkehrssektor - Inländische Luftfahrt - energetischer Verbrauch
+FC_TRA_DAVI_NE	Endenergieverbrauch - Verkehrssektor - Inländische Luftfahrt - nichtenergetischer Verbrauch
+FC_TRA_DNAVI	Endenergieverbrauch - Verkehrssektor - Binnenschifffahrt
+FC_TRA_DNAVI_E	Endenergieverbrauch - Verkehrssektor - Binnenschifffahrt - energetischer Verbrauch
+FC_TRA_DNAVI_NE	Endenergieverbrauch - Verkehrssektor - Binnenschifffahrt - nichtenergetischer Verbrauch
+FC_TRA_PIPE	Endenergieverbrauch - Verkehrssektor - Pipeline-Transport
+FC_TRA_PIPE_E	Endenergieverbrauch - Verkehrssektor - Pipeline-Transport - energetischer Verbrauch
+FC_TRA_PIPE_NE	Endenergieverbrauch - Verkehrssektor - Pipeline-Transport - nichtenergetischer Verbrauch
+FC_TRA_NSP	Endenergieverbrauch - Verkehrssektor - nicht anders angegeben
+FC_TRA_NSP_E	Endenergieverbrauch - Verkehrssektor - nicht anders angegeben - energetischer Verbrauch
+FC_TRA_NSP_NE	Endenergieverbrauch - Verkehrssektor - nicht anders angegeben - nichtenergetischer Verbrauch
+FC_OTH	Endenergieverbrauch - Sonstige Sektoren
+FC_OTH_E	Endenergieverbrauch - Sonstige Sektoren - energetischer Verbrauch
+FC_OTH_CP	Endenergieverbrauch - Sonstige Sektoren - Handel und öffentliche Dienstleistungen
+FC_OTH_CP_E	Endenergieverbrauch - Sonstige Sektoren - Handel und öffentliche Dienstleistungen - energetischer Verbrauch
+FC_OTH_CP_NE	Endenergieverbrauch - Sonstige Sektoren - Handel und öffentliche Dienstleistungen - nichtenergetischer Verbrauch
+FC_OTH_HH	Endenergieverbrauch - Sonstige Sektoren - Haushalte
+FC_OTH_HH_E	Endenergieverbrauch - Sonstige Sektoren - Haushalte - energetischer Verbrauch
+FC_OTH_HH_E_SH	Endenergieverbrauch - Sonstige Sektoren - Haushalte - energetischer Verbrauch - Raumheizung
+FC_OTH_HH_E_SC	Endenergieverbrauch - Sonstige Sektoren - Haushalte - energetischer Verbrauch - Raumkühlung
+FC_OTH_HH_E_WH	Endenergieverbrauch - Sonstige Sektoren - Haushalte - energetischer Verbrauch - Warmwasserbereitung
+FC_OTH_HH_E_CK	Endenergieverbrauch - Sonstige Sektoren - Haushalte - energetischer Verbrauch - Kochen
+FC_OTH_HH_E_LE	Endenergieverbrauch - Sonstige Sektoren - Haushalte - energetischer Verbrauch - Beleuchtung und Elektrogeräte
+FC_OTH_HH_E_OE	Endenergieverbrauch - Sonstige Sektoren - Haushalte - energetischer Verbrauch - Sonstige Endnutzung
+FC_OTH_HH_NE	Endenergieverbrauch - Sonstige Sektoren - Haushalte - nichtenergetischer Verbrauch
+FC_OTH_AF	Endenergieverbrauch - Sonstige Sektoren - Landwirtschaft
+FC_OTH_AF_E	Endenergieverbrauch - Sonstige Sektoren - Landwirtschaft - energetischer Verbrauch
+FC_OTH_AF_NE	Endenergieverbrauch - Sonstige Sektoren - Landwirtschaft - nichtenergetischer Verbrauch
+FC_OTH_FISH	Endenergieverbrauch - Sonstige Sektoren - Fischerei
+FC_OTH_FISH_E	Endenergieverbrauch - Sonstige Sektoren - Fischerei - energetischer Verbrauch
+FC_OTH_FISH_NE	Endenergieverbrauch - Sonstige Sektoren - Fischerei - nichtenergetischer Verbrauch
+FC_OTH_NSP	Endenergieverbrauch - Sonstige Sektoren - nicht anders angegeben
+FC_OTH_NSP_E	Endenergieverbrauch - Sonstige Sektoren - nicht anders angegeben - energetischer Verbrauch
+FC_OTH_NSP_NE	Endenergieverbrauch - Sonstige Sektoren - nicht anderswo angegeben - nichtenergetischer Verbrauch
+FC_OTH_RES	Endenergieverbrauch - Sonstige Sektoren - Wohn
+FC_OTH_RES_E	Endenergieverbrauch - Sonstige Sektoren - Wohn - energetischer Verbrauch
+FC_OTH_RES_NE	Endenergieverbrauch - Sonstige Sektoren - Wohn - nichtenergetischer Verbrauch
+STATDIFF	Statistische Differenzen
+STATDIFF_INFLOW	Statistische Differenzen - Zugang
+STATDIFF_OUTFLOW	Statistische Differenzen - Abgang
+GEP	Bruttostromerzeugung
+GEP_RED	Bruttostromerzeugung - Erneuerbare-Energien-Richtlinie
+GEP_MAP	Bruttostromerzeugung - hauptsächlich als Energieerzeuger tätiges Unternehmen
+GEP_MAPE	Bruttostromerzeugung - hauptsächlich als Elektrizitätserzeuger tätiges Unternehmen
+GEP_MAPCHP	Bruttostromerzeugung - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung)
+GEP_AP	Bruttostromerzeugung - Eigenerzeuger
+GEP_APE	Bruttostromerzeugung - Eigenerzeuger nur Elektrizität
+GEP_APCHP	Bruttostromerzeugung - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung)
+GHP	Bruttowärmeerzeugung
+GHP_MAP	Bruttowärmeerzeugung - hauptsächlich als Energieerzeuger tätiges Unternehmen
+GHP_MAPCHP	Bruttowärmeerzeugung - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung)
+GHP_MAPH	Bruttowärmeerzeugung - hauptsächlich als Wärmeerzeuger tätiges Unternehmen
+GHP_AP	Bruttowärmeerzeugung - Eigenerzeuger
+GHP_APCHP	Bruttowärmeerzeugung - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung)
+GHP_APH	Bruttowärmeerzeugung - Eigenerzeuger nur Wärme
+GHP_RED	Bruttowärmeerzeugung - Erneuerbare-Energien-Richtlinie
+GHP_HEAT_CL_RED	Bruttowärmeerzeugung - Wärme- und Kälteerzeugung - Erneuerbare-Energien-Richtlinie
+NEP	Nettostromerzeugung
+NEP_MAP	Nettostromerzeugung - hauptsächlich als Energieerzeuger tätiges Unternehmen
+NEP_MAPE	Nettostromerzeugung - hauptsächlich als Elektrizitätserzeuger tätiges Unternehmen
+NEP_MAPCHP	Nettostromerzeugung - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung)
+NEP_AP	Nettostromerzeugung - Eigenerzeuger
+NEP_APE	Nettostromerzeugung - Eigenerzeuger nur Elektrizität
+NEP_APCHP	Nettostromerzeugung - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung)
+NHP	Nettowärme-erzeugung
+NHP_MAP	Nettowärmeerzeugung - hauptsächlich als Energieerzeuger tätiges Unternehmen
+NHP_MAPCHP	Nettowärmeerzeugung - hauptsächlich als Elektrizitäts- und Wärmeerzeuger tätiges Unternehmen (Kraft-Wärme-Kopplung)
+NHP_MAPH	Nettowärmeerzeugung - hauptsächlich als Wärmeerzeuger tätiges Unternehmen
+NHP_AP	Nettowärme-erzeugung - Eigenerzeuger
+NHP_APCHP	Nettowärmeerzeugung - Eigenerzeuger Elektrizität und Wärme (Kraft-Wärme-Kopplung)
+NHP_APH	Nettowärmeerzeugung - Eigenerzeuger nur Wärme
+BKFLOW	Rückläufe
+BKFLOW_DES	Rückläufe - direkter Export oder Verkauf
+TBKFLOW	Rückläufe aus Umwandlungen
+PPR	Rohstoffeingänge
+IT	Austausch zwischen Erzeugnissen
+PT	Übertragung von Erzeugnissen
+DU	Direktverwendung
+GD_PI	Bruttolieferungen an die petrochemische Industrie
+E_PI	Energieverbrauch in der petrochemischen Industrie
+NE_PI	Nichtenergetischer Verbrauch in der petrochemischen Industrie
+NE_MSC	Nichtenergetischer Verbrauch - verschiedene
+ND_TP	Nettolieferungen der gesamten Produkte
+ND_PI	Nettolieferungen an die petrochemische Industrie
+REN	Erneuerbare Energiequellen
+REN_TRA	Erneuerbare Energiequellen im Verkehrssektor
+REN_ELC	Erneuerbare Energiequellen im Elektrizitätssektor
+REN_HEAT_CL	Erneuerbare Energiequellen  in der Wärme- und Kälteerzeugung
+EI_GDP_PPS	Energieintensität des BIP in Kaufkraftstandards (KKS)
+EI_GDP_CLV05	Energieintensität des BIP in kettengebundenen Mengen (2005)
+EI_GDP_CLV10	Energieintensität des BIP in kettengebundenen Mengen (2010)
+EI_GDP_CLV15	Energieintensität des BIP in kettengebundenen Mengen (2015)
+GFC_HEAT_CL_E	Bruttoendverbrauch - Wärme- und Kälteerzeugung - energetischer Verbrauch
+GFC_TRA_E_NMULTI	Bruttoendverbrauch - Verkehrssektor - energetischer Verbrauch - ohne Multiplikatoren
+GFC_TRA_E_MULTI	Bruttoendverbrauch - Verkehrssektor - energetischer Verbrauch - mit Multiplikatoren
+GFC_TRA_E_OT	Bruttoendverbrauch - Verkehrssektor - energetischer Verbrauch - Gesamtzielberechnung
+GFC_E_OT_NLIM_NST	Bruttoendverbrauch - energetischer Verbrauch - Gesamtzielberechnung (ohne 7% -Grenze und ohne statistische Transfers)
+GFC_E_OTA_LIM	Bruttoendverbrauch - energetischer Verbrauch - Gesamtzielberechnung angepasst mit 7% -Grenze
+GFC_E_OTA	Bruttoendverbrauch - energetischer Verbrauch - Gesamtzielberechnung angepasst
+GFC_E_OT_NAVICAPA	Bruttoendverbrauch - energetischer Verbrauch - Gesamtzielberechnung ohne Anpassung der Obergrenze für Flugverkehr
+GFC_E_AVI_ASHR	Bruttoendverbrauch - energetischer Verbrauch - tatsächlicher Anteil des Flugverkehrs
+GFC_ELC	Bruttoendverbrauch - Strom
+GFC_ELC_OT	Bruttoendverbrauch - Strom - Gesamtzielberechnung
+LIM_OT	7% -Grenze - Gesamtziel
+LIM_TT	7% -Grenze - Verkehrssektortziel
+BIOL_BIOFCON_LIM	Beitrag von flüssigen Biokraftstoffen und Biobrennstoffen - 7% -Grenze
+BIOFCON_LIM_TRA	Beitrag von flüssigen Biokraftstoffen - 7% -Grenze - Verkehrssektor
+BIOL_BIOF_FS_SHR	Anteil von flüssigen Biokraftstoffen und Biobrennstoffen aus Nahrungsquellen
+BIOF_FS_SHR	Anteil von flüssigen Biokraftstoffen aus Nahrungsquellen
+AVI_REC	Luftfahrt - gemeldeter Energieverbrauch
+AVI_AEC	Luftfahrt - tatsächlicher Energieverbrauch
+AVI_CAP	Obergrenze für Flugverkehr
+ST_JP_JSS	Statistische Transfers, gemeinsame Projekte und gemeinsame Förderregelungen
+ST_JP_JSS_TAA	Statistische Transfers, gemeinsame Projekte und gemeinsame Förderregelungen -  zu addierender Gesamtbetrag
+ST_JP_JSS_TAD	Statistische Transfers, gemeinsame Projekte und gemeinsame Förderregelungen – abzuziehender Gesamtbetrag
+ST_MS	Statistische Transfers zwischen Mitgliedstaaten
+ST_MS_TAA	Statistische Transfers zwischen Mitgliedstaaten - zu addierender Gesamtbetrag
+ST_MS_TAD	Statistische Transfers zwischen Mitgliedstaaten - abzuziehender Gesamtbetrag
+ST_MS_TRA	Statistische Transfers zwischen Mitgliedstaaten - Verkehrssektor
+ST_MS_TRA_TAA	Statistische Transfers zwischen Mitgliedstaaten - Verkehrssektor - zu addierender Gesamtbetrag
+ST_MS_TRA_TAD	Statistische Transfers zwischen Mitgliedstaaten - Verkehrssektor - abzuziehender Gesamtbetrag
+JP_MS_ELC	Gemeinsame Projekte zwischen Mitgliedstaaten - Strom
+JP_MS_ELC_TAA	Gemeinsame Projekte zwischen Mitgliedstaaten - Strom - zu addierender Gesamtbetrag
+JP_MS_ELC_TAD	Gemeinsame Projekte zwischen Mitgliedstaaten - Strom - abzuziehender Gesamtbetrag
+JP_MS_HEAT_CL	Gemeinsame Projekte zwischen Mitgliedstaaten - Wärme- und Kälteerzeugung
+JP_MS_HEAT_CL_TAA	Gemeinsame Projekte zwischen Mitgliedstaaten - Wärme- und Kälteerzeugung  - zu addierender Gesamtbetrag
+JP_MS_HEAT_CL_TAD	Gemeinsame Projekte zwischen Mitgliedstaaten - Wärme- und Kälteerzeugung  - abzuziehender Gesamtbetrag
+JP_MS_THRD_ELC	Gemeinsame Projekte zwischen Mitgliedstaaten und Drittländern - Strom
+JP_MS_THRD_ELC_TAA	Gemeinsame Projekte zwischen Mitgliedstaaten und Drittländern - Strom - zu addierender Gesamtbetrag
+JP_MS_THRD_ELC_TAD	Gemeinsame Projekte zwischen Mitgliedstaaten und Drittländern - Strom - abzuziehender Gesamtbetrag
+JSS_ELC	Gemeinsame Förderregelungen - Strom
+JSS_ELC_TAA	Gemeinsame Förderregelungen - Strom - zu addierender Gesamtbetrag
+JSS_ELC_TAD	Gemeinsame Förderregelungen - Strom - abzuziehender Gesamtbetrag
+JSS_HEAT_CL	Gemeinsame Förderregelungen - Wärme- und Kälteerzeugung
+JSS_HEAT_CL_TAA	Gemeinsame Förderregelungen - Wärme- und Kälteerzeugung - zu addierender Gesamtbetrag
+JSS_HEAT_CL_TAD	Gemeinsame Förderregelungen - Wärme- und Kälteerzeugung - abzuziehender Gesamtbetrag
+NMLPRD	Normalisierte Produktion
+NMLPRD_PURE	Normalisierte Produktion -  reine Wasserkraftwerke
+NMLPRD_MIX	Normalisierte Produktion - Gemischte Wasserkraftwerke
+ALF_PURE	Jährlicher Auslastungsfaktor - reine Wasserkraftwerke
+ALF_MIX	Jährlicher Auslastungsfaktor - Gemischte Wasserkraftwerke
+GEP_NPUMP_MIX	Bruttostromerzeugung - ohne Pumpspeicher - Gemischte Wasserkraftwerke
+AVGLF_PURE	Durchschnittlicher Auslastungsfaktor - reine Wasserkraftwerke
+AVGLF_MIX	Durchschnittlicher Auslastungsfaktor - Gemischte Wasserkraftwerke
+BIOG_G_SHR	Anteil des Biogas - Netz
+BIOG_G_TRA	Biogas - Netz - Verkehrssektor
+BIOG_G_ADJSHR	Biogas - Netz - Angepasster Anteil

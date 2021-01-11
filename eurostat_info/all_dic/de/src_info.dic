@@ -1,0 +1,19 @@
+ENT_INT	Unternehmens innerhalb der Unternehmensgruppe
+MKT_SUPPL	Lieferanten von Ausrüstung, Material, Komponenten oder Software
+MKT_CLCU	Klienten oder Kunden
+MKT_PRV_CLCU	Klienten oder Kunden aus der Privatwirtschaft
+MKT_PUB_CLCU	Klienten oder Kunden aus dem öffentlicher Sektor
+MKT_COMP	Wettbewerber oder Unternehmen aus dem eigenen Wirtschaftszweig
+MKT_CN_PRV_RI	Berater, kommerzielle Labore, privatrechtliche Forschungsinstitute
+MKT_CN	Berater oder kommerzielle Labore
+UNIV	Universitäten oder Fachhochschulen
+GOV_PUB_RI	Öffentlicher Sektor oder öffentliche Forschungsinstitute
+PRV_RI	Privatrechtliche Forschungsinstitute
+CONF_TRDF_EXHIB	Konferenzen, Messen oder Ausstellungen
+JRNST_TRDP	Wissenschaftliche/technische Journale oder Handelsveröffentlichungen
+ASS_PROF_IND	Fach- oder Industrieverbände
+PAT_PUBL	Veröffentlichte Patente
+DOC_STD_COM	Standardisierungsdokumente oder -komitees
+WEB_NET_CDS	Soziale Netzwerke oder Crowd-Sourcing
+B2B_OS	Offene Unternehmen-zu-Unternehmen Plattformen oder Open Source Software
+RE	Reverse Engeneering

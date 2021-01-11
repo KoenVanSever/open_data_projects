@@ -1,0 +1,218 @@
+TOTAL	Insgesamt
+CF	Brennbare Brennstoffe
+CF_R	Brennbare Brennstoffe - erneuerbare
+CF_NR	Brennbare Brennstoffe - nicht erneuerbare
+CF_NR_OTH	Brennbare Brennstoffe - nicht erneuerbare - Sonstige
+FF	Fossile Brennstoffe
+SFF_P1000	Feste fossile Brennstoffe und Torf
+SFF_P1000_S2000	Feste fossile Brennstoffe, Torf, Torferzeugnisse, Ölschiefer und bituminöse Sande
+C0000	Kohle und synthetische Gase
+C0000X0350-0370	Feste fossile Brennstoffe
+C0100	Steinkohle
+C0110	Anthrazit
+C0120	Bituminöse Kohle
+C0121	Kokskohle
+C0129	Sonstige bituminöse Kohle
+C0200	Braunkohle
+C0210	Subbituminöse Kohle
+C0220	Lignit (Braunkohle)
+C0300	Kohleprodukte
+C0310	Kohlenkoks
+C0311	Kokereikoks
+C0312	Gaskoks
+C0313	Koksgrus
+C0314	Halbkoks
+C0320	Steinkohlebriketts
+C0330	Braunkohlebriketts
+C0340	Benzol
+C0350-0370	Synthetische Gase
+C0350	Kokereigas
+C0360	Ortsgas
+C0370	Konvertergas
+C0371	Hochofengas
+C0372	Anfallendes Gichtgas im LD-Verfahren/Sauerstoffblasverfahren
+C0379	Sonstiges Konvertergas
+C0390	Sonstige Kohleprodukte
+P1000	Torf und Torferzeugnisse
+P1100	Torf
+P1110	Torfpellets
+P1120	Torf gemahlen
+P1200	Torferzeugnisse
+P1210	Torfbriketts
+P1290	Sonstige Torferzeugnisse
+S2000	Ölschiefer und bituminöse Sande
+SFF_OTH	Sonstige feste Brennstoffe
+G3000_C0350-370	Gas
+G3000_C0360	Erdgas und ortsgas
+G3000	Erdgas
+G3100	Druck-Erdgas
+G3200	Verflüssigtes Erdgas
+O4000	Öl und Mineralölerzeugnisse
+O4000XBIO	Öl und Mineralölerzeugnisse (ohne Biokraftstoffanteil)
+O4100_TOT_4200-4500	Rohöl, NGL, Einsatzmaterial und sonstige Kohlenwasserstoffe
+O4100_TOT_4200-4500XBIO	Rohöl, NGL, Einsatzmaterial und sonstige Kohlenwasserstoffe (ohne Biokraftstoffanteil)
+O4100_TOT	Rohöl
+O4100	Konventionelles Rohöl
+NO4100	Unkonventionelles Rohöl
+O4200	Erdgaskondensate
+O4300	Raffinerieeinsatzmaterial
+O4400X4410	Zusatzstoffe und Oxigenate (ohne Biokraftstoffanteil)
+O4400	Zusatzstoffe und Oxigenate
+O4410	Biobrennstoffe zum Mischen
+O4500	Sonstige Kohlenwasserstoffe
+O4110_4300-4500	Sonstige Primärölprodukte
+O4200-4500	Sonstige Primäröle
+O4600	Mineralölerzeugnisse
+O4600XBIO	Mineralölerzeugnisse (ohne Biokraftstoffanteil)
+O4610	Raffineriegas
+O4620	Ethan
+O4630	Flüssiggas
+O4640	Naphta
+O4650	Benzin
+O4651	Flugbenzin
+O4652	Motorenbenzin
+O4652XR5210B	Motorenbenzin (ohne Biokraftstoffanteil)
+O4653	Flugturbinenkraftstoff
+O4660	Kerosine
+O4661	Flugturbinenkraftstoff auf Petroleumbasis
+O4661XR5230B	Flugturbinenkraftstoff auf Petroleumbasis (ohne Biokraftstoffanteil)
+O4669	Sonstiges Kerosin
+O4670	Gasöl und Dieselöl und schweres Gasöl
+O4671	Gasöl und Dieselöl
+O4671XR5220B	Gasöl und Dieselöl (ohne Biokraftstoffanteil)
+O46711	Kraftfahrzeug-Diesel
+O46712	Heizöl und sonstiges Gasöl
+O4672	Schweres Gasöl
+O4680	Heizöl
+O4681	Heizöl mit niedrigem Schwefelgehalt (<1 %)
+O4682	Heizöl mit hohem Schwefelgehalt (>=1 %)
+O4690	Sonstige Ölprodukte
+O4690XO4694	Sonstige Ölprodukte (ohne petrolkoks)
+O4691	Testbenzin und Industriebrennstoffe
+O4692	Schmierstoffe
+O4693	Paraffinwachse
+O4694	Petrolkoks
+O4695	Bitumen
+O4699	Sonstige Ölerzeugnisse a.n.g.
+ROIL	Raffinierte flüssige Erdölprodukte
+PP_OTH	Sonstige Mineralölerzeugnisse
+RA000	Erneuerbare Energiequellen und Biobrennstoffe
+RA100	Wasserenergie
+RA110	Reine Wasserkraft
+RA110ROR	Laufwasserkraft
+RA120	Gemischte Wasserkraft
+RA120P	Gemischte Wasserkraft - Pumpen
+RA130	Gepumpte Wasserkraft
+RA200	Geothermie
+RA300	Wind
+RA310	Wind auf dem Land
+RA320	Wind auf dem Meer
+RA400	Solar
+RA410	Solarwärme
+RA420	Solar Photovoltaik
+RA420KW_LT20	Solar Photovoltaik (< 20 kW)
+RA420KW20-1000	Solar Photovoltaik (20 kW - 1000 kW)
+RA420MW_GT1	Solar Photovoltaik (1+ MW)
+RA420OG	Solar Photovoltaik (netzunabhängig)
+RA500	Gezeiten-/ Wellen-/Meeresenergie
+RA600	Umgebungswärme (Wärmepumpen)
+R5000	Biobrennstoffe
+R5100	Feste Biobrennstoffe
+R5100F	Feste Biobrennstoffe - Co-Feuerung
+R5110-5150_W6000RI	Feste primäre Biobrennstoffe
+R5110	Brennholz, Holzrückstände und Nebenprodukte
+R5111	Holzpellets
+R5119	Sonstiges Brennholz, Holzrückstände und Nebenprodukte
+R5120	Bagasse
+R5130	Tierische Abfälle
+R5140	Schwarzlauge
+R5150	Sonstige pflanzliche Materialien und Rückstände
+W6000RI	Erneuerbare Fraktion der Industrieabfälle
+R5160	Holzkohle
+R5200	Flüssige Biobrennstoffe
+R5210	Biobenzin
+R5210P	Reines Biobenzin
+R5210B	Gemischtes Biobenzin
+R5210E	Bioethanol
+R5220	Biodiesels
+R5220P	Reines Biodiesels
+R5220B	Gemischtes Biodiesels
+R5230	Bio-Flugturbinenkraftstoff
+R5230P	Reiner Bio-Flugturbinenkraftstoff
+R5230B	Gemischter Bio-Flugturbinenkraftstoff
+R5250S	Nachhaltige flüssige Biobrennstoffe
+R5251S	Nachhaltige flüssige Biobrennstoffe Anhang IX
+R5252S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A
+R5253S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (a) - Algen
+R5254S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (b) - Biomasse-Anteil gemischter Siedlungsabfälle
+R5255S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (c) - Bioabfall
+R5256S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (d) - Biomasse-Anteil von Industrieabfällen
+R5257S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (e) - Stroh
+R5258S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (f) - Gülle und Klärschlamm
+R5259S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (g) - Abwasser aus Palmölmühlen und leere Palmfruchtbündel
+R5260S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (h) - Tallölpech
+R5261S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (i) - Rohglyzerin
+R5262S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (j) - Bagasse
+R5263S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (k) - Traubentrester und Weintrub
+R5264S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (l) - Nussschalen
+R5265S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (m) - Hülsen
+R5266S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (n) - entkernte Maiskolben
+R5267S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (o) - Biomasse-Anteile von Abfällen und Reststoffen aus der Forstwirtschaft und forstbasierten Industrien
+R5268S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (p) - anderes zellulosehaltiges Non-Food-Material - Artikel 2 Absatz 2 Buchstabe s
+R5269S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (q) - anderes lignozellulosehaltiges Material - Artikel 2 Absatz 2 Buchstabe r mit Ausnahme von Säge- und Furnierrundholz
+R5270S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (r) - im Verkehrssektor eingesetzte flüssige oder gasförmige erneuerbare Kraftstoffe nicht biogenen Ursprungs
+R5271S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (s) - Abscheidung und Nutzung von CO2 für Verkehrszwecke, sofern die Energiequelle erneuerbar ist - Artikel 2 Absatz 2 Buchstabe a
+R5272S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil A (t) - Bakterien, sofern die Energiequelle erneuerbar ist - Artikel 2 Absatz 2 Buchstabe a
+R5273S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil B
+R5274S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil B (a) - gebrauchtes Speiseöl
+R5275S	Nachhaltige flüssige Biobrennstoffe Anhang IX, Teil B (b) - tierische Fette, die in die Kategorien 1 und 2 eingestuft sind (Verordnung (EG) Nr. 1069/2009)
+R5276S	Nachhaltige flüssige Biobrennstoffe 3 (4) d erster Absatz, die aus Getreide und sonstigen Kulturpflanzen mit hohem Stärkegehalt, Zuckerpflanzen, Ölpflanzen und aus als Hauptkulturen vorrangig für die Energiegewinnung auf landwirtschaftlichen Flächen angebauten Pflanzen hergestellt werden
+R5277S	Nachhaltige flüssige Biobrennstoffe 3 (4) d Absatz 3, Unterabschnitt (i) und (ii)
+R5278S	Nachhaltige flüssige Biobrennstoffe - Sonstige flüssige Biobrennstoffe
+R5279S	Flüssige Biobrennstoffe - erworbene Rechte
+R5290	Sonstige flüssige Biobrennstoffe
+R5292	Biokraftstoffe
+R5292P	Reine Biokraftstoffe
+R5292B	Gemichte Biokraftstoffe (nur Biokraftstoffanteil)
+R5292S	Nachhaltige Biokraftstoffe
+R5292SP	Nachhaltige reine Biokraftstoffe
+R5292SB	Nachhaltige gemichte Biokraftstoffe (nur Biokraftstoffanteil)
+R5293S	Nachhaltige Biokraftstoffe aus Non-Food-Quellen
+R5293SP	Nachhaltige reine Biokraftstoffe aus Non-Food-Quellen
+R5293SB	Nachhaltige gemichte Biokraftstoffe (nur Biokraftstoffanteil) aus Non-Food-Quellen
+R5300	Biogas
+R5300B	Gemischtes Biogas
+R5310	Biogas aus anaerober Gärung
+R5311	Deponiegas
+R5312	Klärschlammgas
+R5319	Sonstige Biogase aus anaerober Gärung
+R5320	Biogase aus thermischen Prozessen
+RA500_5160	Sonstige erneuerbare Energien
+W6000	Abfälle
+W6100	Industrieabfälle (nicht erneuerbare)
+W6100F	Industrieabfälle (nicht erneuerbare) - Co-Feuerung
+W6200	Siedlungsabfälle
+W6200F	Siedlungsabfälle - Co-Feuerung
+W6210	Erneuerbare Siedlungsabfälle
+W6210F	Erneuerbare Siedlungsabfälle - Co-Feuerung
+W6220	Nicht erneuerbare Siedlungsabfälle
+W6220F	Nicht erneuerbare Siedlungsabfälle - Co-Feuerung
+W6100_6220	Nicht erneuerbare Abfälle
+N9000	Nukleare Brennstoffe und sonstige Brennstoffe a.n.g.
+N900H	Kernenergie
+N9100	Uran, Plutonium und Thorium
+N9110	Uran- und Thoriumerze
+N9190	Sonstiges Uran, Plutonium und Thorium
+N9200	Sonstige nukleare Brennstoffe
+E7000	Elektrizität
+E7100	Elektrizität - erneuerbare
+E7200	Elektrizität - nicht erneuerbare
+H8000	Wärme
+X9900R	Sonstige Brennstoffe a.n.g. - eneuerbare
+X9900NR	Sonstige Brennstoffe a.n.g. - nicht eneuerbare
+X9900H	Sonstige Brennstoffe a.n.g. - Wärme von chemischen Quellen
+X9900	Sonstige Brennstoffe a.n.g.
+BIOE	Bioenergie
+FE	Fossile Energie
+RHYD	Wasserstoff aus erneuerbaren Energiequellen
+RSYNF	Erneuerbare Kraftstoffe nicht biogenen Ursprungs

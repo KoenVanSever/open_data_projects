@@ -1,0 +1,12 @@
+TOTAL	Insgesamt
+SGL	Einzelne Erfinder / Anmelder
+NAT	Gemeinsame Patentierungen mit Erfindern/Anmeldern aus dem Meldeland
+NAT_EU	Gemeinsame Patentierungen mit Erfindern/Anmeldern aus dem Meldeland und aus einem oder mehreren EU-Mitgliedstaaten
+NAT_EU_NEU	Gemeinsame Patentierungen mit Erfindern/Anmeldern aus dem Meldeland, aus einem oder mehreren EU-Mitgliedstaaten und aus einem oder mehreren Nicht-EU-Ländern
+NAT_NEU	Gemeinsame Patentierungen mit Erfindern/Anmeldern aus dem Meldeland und aus einem oder mehreren Nicht-EU-Ländern
+EUI_NEUA	Anteil der gemeinsamen Patentierungen mit EU-Erfindern und Nicht-EU-Anmeldern an allen inländischen EU-Erfindungen
+NEUI_EUA	Anteil der gemeinsamen Patentierungen mit Nicht-EU-Erfindern und EU-Anmeldern an allen inländischen EU-Anmeldungen
+EU_NEU	Gemeinsame Patentierungen zwischen EU-Mitgliedstaaten und Nicht-EU-Ländern
+EU_EU	Gemeinsame Patentierungen zwischen EU-Mitgliedstaaten
+EUA_NEUA	Anteil der gemeinsamen Patentierungen mit EU- und Nicht-EU-Anmeldern an der Gesamtzahl aller internationalen Patente
+EUI_NEUI	Anteil der gemeinsamen Patentierungen mit EU- und Nicht-EU-Erfindern an der Gesamtzahl aller internationalen Patente

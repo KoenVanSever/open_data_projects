@@ -1,0 +1,93 @@
+TOTAL	Total
+ATH	Aérothermie
+ATH_AA	Aérothermie - air-air
+ATH_AA_EC	Aérothermie - air-air électrique - climat froid
+ATH_AA_EA	Aérothermie - air-air électrique - climat moyen
+ATH_AA_EW	Aérothermie - air-air électrique - climat chaud
+ATH_AA_TC	Aérothermie - air-air thermique - climat froid
+ATH_AA_TA	Aérothermie - air-air thermique - climat moyen
+ATH_AA_TW	Aérothermie - air-air thermique - climat chaud
+ATH_AW	Aérothermie - air-eau
+ATH_AW_EC	Aérothermie - air-eau électrique - climat froid
+ATH_AW_EA	Aérothermie - air-eau électrique - climat moyen
+ATH_AW_EW	Aérothermie - air-eau électrique - climat chaud
+ATH_AW_TC	Aérothermie - air-eau thermique - climat froid
+ATH_AW_TA	Aérothermie - air-eau thermique - climat moyen
+ATH_AW_TW	Aérothermie - air-eau thermique - climat chaud
+ATH_RAA	Aérothermie - réversible air-air
+ATH_RAA_EC	Aérothermie - réversible air-air électrique - climat froid
+ATH_RAA_EA	Aérothermie - réversible air-air électrique - climat moyen
+ATH_RAA_EW	Aérothermie - réversible air-air électrique - climat chaud
+ATH_RAA_TC	Aérothermie - réversible air-air thermique - climat froid
+ATH_RAA_TA	Aérothermie - réversible air-air thermique - climat moyen
+ATH_RAA_TW	Aérothermie - réversible air-air thermique - climat chaud
+ATH_RAW	Aérothermie - réversible air-eau
+ATH_RAW_EC	Aérothermie - réversible air-eau électrique - climat froid
+ATH_RAW_EA	Aérothermie - réversible air-eau électrique - climat moyen
+ATH_RAW_EW	Aérothermie - réversible air-eau électrique - climat chaud
+ATH_RAW_TC	Aérothermie - réversible air-eau thermique - climat froid
+ATH_RAW_TA	Aérothermie - réversible air-eau thermique - climat moyen
+ATH_RAW_TW	Aérothermie - réversible air-eau thermique - climat chaud
+ATH_EAA	Aérothermie - extraction air-air
+ATH_EAA_EC	Aérothermie - extraction air-air électrique - climat froid
+ATH_EAA_EA	Aérothermie - extraction air-air électrique - climat moyen
+ATH_EAA_EW	Aérothermie - extraction air-air électrique - climat chaud
+ATH_EAA_TC	Aérothermie - extraction air-air thermique - climat froid
+ATH_EAA_TA	Aérothermie - extraction air-air thermique - climat moyen
+ATH_EAA_TW	Aérothermie - extraction air-air thermique - climat chaud
+ATH_EAW	Aérothermie - extraction air-eau
+ATH_EAW_EC	Aérothermie - extraction air-eau électrique - climat froid
+ATH_EAW_EA	Aérothermie - extraction air-eau électrique - climat moyen
+ATH_EAW_EW	Aérothermie - extraction air-eau électrique - climat chaud
+ATH_EAW_TC	Aérothermie - extraction air-eau thermique - climat froid
+ATH_EAW_TA	Aérothermie - extraction air-eau thermique - climat moyen
+ATH_EAW_TW	Aérothermie - extraction air-eau thermique - climat chaud
+ATH_EC	Aérothermie - électrique - climat froid
+ATH_EA	Aérothermie - électrique - climat moyen
+ATH_EW	Aérothermie - électrique - climat chaud
+ATH_TC	Aérothermie - thermique - climat froid
+ATH_TA	Aérothermie - thermique - climat moyen
+ATH_TW	Aérothermie - thermique - climat chaud
+GTH	Géothermie
+GTH_GA	Géothermie - sol-air
+GTH_GA_EC	Géothermie - sol-air électrique - climat froid
+GTH_GA_EA	Géothermie - sol-air électrique - climat moyen
+GTH_GA_EW	Géothermie - sol-air électrique - climat chaud
+GTH_GA_TC	Géothermie - sol-air thermique - climat froid
+GTH_GA_TA	Géothermie - sol-air thermique - climat moyen
+GTH_GA_TW	Géothermie - sol-air thermique - climat chaud
+GTH_GW	Géothermie - sol-eau
+GTH_GW_EC	Géothermie - sol-eau électrique - climat froid
+GTH_GW_EA	Géothermie - sol-eau électrique - climat moyen
+GTH_GW_EW	Géothermie - sol-eau électrique - climat chaud
+GTH_GW_TC	Géothermie - sol-eau thermique - climat froid
+GTH_GW_TA	Géothermie - sol-eau thermique - climat moyen
+GTH_GW_TW	Géothermie - sol-eau thermique - climat chaud
+GTH_EC	Géothermie - électrique - climat froid
+GTH_EA	Géothermie - électrique - climat moyen
+GTH_EW	Géothermie - électrique - climat chaud
+GTH_TC	Géothermie - thermique - climat froid
+GTH_TA	Géothermie - thermique - climat moyen
+GTH_TW	Géothermie - thermique - climat chaud
+HTH	Hydrothermie
+HTH_WA	Hydrothermie - eau-air
+HTH_WA_EC	Hydrothermie - eau-air électrique - climat froid
+HTH_WA_EA	Hydrothermie - eau-air électrique - climat moyen
+HTH_WA_EW	Hydrothermie - eau-air électrique - climat chaud
+HTH_WA_TC	Hydrothermie - eau-air thermique - climat froid
+HTH_WA_TA	Hydrothermie - eau-air thermique - climat moyen
+HTH_WA_TW	Hydrothermie - eau-air thermique - climat chaud
+HTH_WW	Hydrothermie - eau-eau
+HTH_WW_EC	Hydrothermie - eau-eau électrique - climat froid
+HTH_WW_EA	Hydrothermie - eau-eau électrique - climat moyen
+HTH_WW_EW	Hydrothermie - eau-eau électrique - climat chaud
+HTH_WW_TC	Hydrothermie - eau-eau thermique - climat froid
+HTH_WW_TA	Hydrothermie - eau-eau thermique - climat moyen
+HTH_WW_TW	Hydrothermie - eau-eau thermique - climat chaud
+HTH_EC	Hydrothermie - électrique - climat froid
+HTH_EA	Hydrothermie - électrique - climat moyen
+HTH_EW	Hydrothermie - électrique - climat chaud
+HTH_TC	Hydrothermie - thermique - climat froid
+HTH_TA	Hydrothermie - thermique - climat moyen
+HTH_TW	Hydrothermie - thermique - climat chaud
+OTH	Autre(s)

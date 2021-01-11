@@ -1,0 +1,37 @@
+TOTAL	Insgesamte aus der Natur entnommene Energieformen, Energieerzeugnisse und Energieresiduen
+NEI	Aus der Natur entnommene Energieformen
+NEI_NRFOSS	Fossile nicht-erneuerbare Energieformen aus der Natur entnommen
+NEI_NRNUC	Nucleare nicht-erneuerbare Energieformen aus der Natur entnommen
+NEI_RHYD	Wasserbasierte erneuerbare Energieformen aus der Natur entnommen
+NEI_RWND	Windbasierte erneuerbare Energieformen aus der Natur entnommen
+NEI_RSOL	Solarbasierte erneuerbare Energieformen aus der Natur entnommen
+NEI_RBIOM	Biomassebasierte erneuerbare Energieformen aus der Natur entnommen
+NEI_ROTH	Sonstige erneuerbare Energieformen aus der Natur entnommen
+EPRD	Energieerzeugnisse
+EPRD_HCOAL	Steinkohle
+EPRD_BCOAL_PEAT	Braunkohle und Torf
+EPRD_DGAS	Abgeleitete Gase (Industriegase ausschließlich Biogas)
+EPRD_SECCOAL	Sekundäre Kohleerzeugnisse (Koks, Kohlenteer, Steinkohlenbriketts, Braunkohlenbriketts (BKB) und Torferzeugnisse)
+EPRD_HYDCXBIO	Rohöl, Erdgaskondensate (NGL) und sonstige Kohlenwasserstoffe (ausschließlich Biokomponenten)
+EPRD_NATGASXBIO	Naturgas (ausschließlich Biokomponenten)
+EPRD_MOTSPXBIO	Motorenbenzin und Flugbenzin (auschließlich Biokomponenten)
+EPRD_KJFXBIO	Petroleum und Flugturbinenkraftstoffe (ausschließlich Biokomponenten)
+EPRD_NPH	Naphtha
+EPRD_TRADIEXBIO	Kraftfahrzeug-Diesel (ausschließlich Biokomponenten)
+EPRD_HEAT_GOIL_OTHXBIO	Heizöl und sonstiges Gasöl ohne Biokomponenten)
+EPRD_RES_OILF	Rückstandsheizöle
+EPRD_REFGAS_ETH_LPG	Raffineriegas, Ethan und Flüssiggase (LPG)
+EPRD_OTH_PET	Andere Mineralölerzeugnisse einschließlich Zusatzstoffe/Oxigenate und Raffinerieeinsatzmaterial
+EPRD_NUCF	Nuklearbrennstoffe
+EPRD_SBIOM	Brennholz, Holzrückstände und andere Feste Biobrennstoffe, Holzkohle
+EPRD_LIQBIOF	Flüssige Biobrennstoffe
+EPRD_BIOGAS	Biogas
+EPRD_ELC	Elektrizität
+EPRD_HEAT	Abgeleitete Wärme
+EPRD_OUSE	Energieerzeugnisse für den Eigenbedarf
+ERES	Energieresiduen
+ERES_RW	Erneuerbare Abfälle
+ERES_NRW	Nicht erneuerbare Abfälle
+ERES_LOSS	Energieverluste bei der Extraktion, Verteilung, Lagerung, Transformation sowie dissipative Wärme nach Endnutzung
+ERES_INC	Energie enthalten in Produkten für nicht-energetische Nutzung
+INP_OUT_DSP	Statistische Differenzen zwischen Input und Output für alle Energieflüsse

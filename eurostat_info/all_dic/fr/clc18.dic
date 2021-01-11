@@ -1,0 +1,68 @@
+CLC1	Territoires artificialisés
+CLC11	Zones urbanisées
+CLC111	Tissu urbain continu
+CLC112	Tissu urbain discontinu
+CLC12	Zones industrielles ou commerciales et réseaux de communication
+CLC121	Zones industrielles ou commerciales et installations publiques
+CLC122	Réseaux routier et ferroviaire et espaces associés
+CLC123	Zones portuaires
+CLC124	Aéroports
+CLC13	Mines, décharges et chantiers
+CLC131	Extraction de matériaux
+CLC132	Décharges
+CLC133	Chantiers
+CLC14	Espaces verts artificialisés, non agricoles
+CLC141	Espaces verts urbains
+CLC142	Equipements sportifs et de loisirs
+CLC2	Terres agricoles
+CLC21	Terres arables
+CLC211	Terres arables hors périmètres d'irrigation
+CLC212	Périmètres irrigués en permanence
+CLC213	Rizières
+CLC22	Cultures permanentes
+CLC221	Vignobles
+CLC222	Vergers et petits fruits
+CLC223	Oliveraies
+CLC23	Prairies
+CLC231	Prairies et autres surfaces toujours en herbe à usage agricole
+CLC24	Zones agricoles hétérogènes
+CLC241	Cultures annuelles associées à des cultures permanentes
+CLC242	Systèmes culturaux et parcellaires complexes
+CLC243	Surfaces essentiellement agricoles, interrompues par des espaces naturels importants
+CLC244	Territoires agroforestiers
+CLC3	Forêts et milieux semi-naturels
+CLC31	Forêts
+CLC311	Forêts de feuillus
+CLC312	Forêts de conifères
+CLC313	Forêts mélangées
+CLC32	Milieux à végétation arbustive et/ou herbacée
+CLC321	Pelouses et pâturages naturels
+CLC322	Landes et broussailles
+CLC323	Végétation sclérophylle
+CLC324	Forêt et végétation arbustive en mutation
+CLC33	Espaces ouverts, sans ou avec peu de végétation
+CLC331	Plages, dunes et sable
+CLC332	Roches nues
+CLC333	Végétation clairsemée
+CLC334	Zones incendiées
+CLC335	Glaciers et neiges éternelles
+CLC4	Zones humides
+CLC41	Zones humides intérieures
+CLC411	Marais intérieurs
+CLC412	Tourbières
+CLC42	Zones humides côtières
+CLC421	Marais maritimes
+CLC422	Marais salants
+CLC423	Zones intertidales
+CLC5	Surfaces en eau
+CLC51	Eaux continentales
+CLC511	Cours et voies d'eau
+CLC512	Plans d'eau
+CLC52	Eaux maritimes
+CLC521	Lagunes littorales
+CLC522	Estuaires
+CLC523	Mers et océans
+CLC2_3X331_332_335	Territoires agricoles, forêts et milieux semi-naturels (excepté plages, dunes, sable, roches nues, glaciers and perpetual snow)
+CLC2_321	Territoires agricoles et pelouses et pâturages naturels
+CLC2X23	Territoires agricoles (excepté prairies)
+CLC23_321	Prairies, pelouses et pâturages naturels

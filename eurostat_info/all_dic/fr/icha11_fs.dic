@@ -1,0 +1,25 @@
+TOT_FS	Toutes les recettes des régimes de financement
+FS1	Transferts issus des revenus nationaux de l'administration publique
+FS11	Transferts internes et subventions
+FS12	Transferts de l'administration publique pour le compte de groupes particuliers
+FS13	Subventions
+FS14	Autres transferts issus des revenus nationaux de l'administration publique
+FS2	Transferts d'origine étrangère distribués par de l'administration publique
+FS3	Contributions de l'assurance sociale
+FS31	Contributions de l'assurance sociale venant des employés
+FS32	Contributions de l'assurance sociale venant des employeurs
+FS33	Contributions de l'assurance sociale venant des travailleurs indépendants
+FS34	Autres contributions de l'assurance sociale
+FS4	Prépaiement obligatoire (autres que FS.3)
+FS41	Prépaiement obligatoire venant des individus/ménages
+FS42	Prépaiement obligatoire venant des employeurs
+FS43	Autres revenus prépayés obligatoires
+FS5	Prépaiement volontaire
+FS51	Prépaiement volontaire venant des individus/ménages
+FS52	Prépaiement volontaire venant des employeurs
+FS53	Autres revenus prépayés volontaires
+FS6	Autres revenus nationaux n.c.a.
+FS61	Autres revenus nationaux des ménages n.c.a.
+FS62	Autres revenus nationaux des sociétés n.c.a.
+FS63	Autres revenus nationaux des ISBLSM n.c.a.
+FS7	Transferts directs étrangers

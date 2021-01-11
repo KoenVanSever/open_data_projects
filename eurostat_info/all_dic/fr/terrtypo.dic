@@ -1,0 +1,20 @@
+TOTAL	Total
+URB	Régions à prédominance urbaine
+INT	Régions intermédiaires
+RUR	Régions à prédominance rurale
+CST_A	Zones côtières
+NCST_A	Zones non côtières
+CST_R	Régions côtières
+NCST_R	Régions non côtières
+MNT_R	Régions montagneuses
+NMNT_R	Régions non montagneuses
+ISL_R	Régions insulaires
+NISL_R	Régions non insulaires
+BRD_R	Régions frontalières
+NBRD_R	Régions non frontalières
+LFA	Zones défavorisées 
+LFA_MNT	Zones défavorisées de montagne
+LFA_OTH	Zones défavorisées - autres
+NLFA	Pas de zones defavorisées
+NRP	Sans réponse
+UNK	Inconnu

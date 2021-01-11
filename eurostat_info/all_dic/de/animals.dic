@@ -1,0 +1,179 @@
+A0000	Gesamt Lebende Tiere
+A0010	Viehbestand
+A0011	Weidetierbestand
+A0019	Anderer Tierbestand
+A0020	Beschränkter Viehbestand (Rinder, Ziegen, Schafe, Schweine)
+A1000	Lebende Pferde, Esel, Maultier, Maulesel
+A1100	Lebende Pferde
+A1100B	Lebende Pferde zum Schlachten
+A1200	Lebende Esel, Maultiere, Maulesel
+A1210	Esel
+A1220	Maultiere
+A1230	Maulesel
+A2000	Lebende Rinder
+A2000B	Rinder zum Schlachten
+A2000D	Rinder zur Fleischproduktion
+A2000E	Rinder nicht zur Fleischproduktion
+A2010	Rinder, weniger als 1 Jahr
+A2010B	Rinder, weniger als 1 Jahr, zum Schlachten
+A2010C	Rinder, weniger als 1 Jahr, nicht zum Schlachten
+A2020	Rinder, 1 Jahr
+A2020B	Rinder, 1 Jahr, zum Schlachten
+A2020C	Rinder, 1 Jahr, nicht zum Schlachten
+A2030	Rinder, zwei Jahre und mehr
+A2030B	Rinder, zwei Jahre und mehr, zum Schlachten
+A2030C	Rinder, zwei Jahre und mehr, nicht zum Schlachten
+A2100_2200	Rinder, männliche und weibliche (noch nicht gekalbt)
+A2100	Männliche Rinder
+A2110	Stierkälber, weniger als 1 Jahr
+A2110C	Stierkälber, weniger als 1 Jahr, nicht zum Schlachten
+A2120	Männliche Rinder, 1 Jahr
+A2130	Männliche Rinder, 2 Jahre und mehr
+A2140	Männliche Rinder, 1 Jahr und mehr
+A2140A	Ochsen
+A2200_2300	Weibliche Rinder
+A2230_2300	Färsen, zwei Jahre und mehr (inkl. Kühe)
+A2230_2330	Weibliche Rinder, zwei Jahre und mehr
+A2200	Weibliche Rinder (noch nicht gekalbt)
+A2210	Kuhkälber, weniger als 1 Jahr
+A2210C	Kuhkälber, weniger als 1 Jahr, nicht zum Schlachten
+A2220	Färsen, 1 Jahr
+A2220B	Färsen, 1 Jahr, zum Schlachten
+A2220C	Färsen, 1 Jahr, nicht zum Schlachten
+A2230	Färsen, zwei Jahre und mehr
+A2230B	Färsen, zwei Jahre und mehr, zum schlachten
+A2230C	Färsen, zwei Jahre und mehr, nicht zum Schlachten
+A2300	Kühe
+A2300F	Milchkühe
+A2300G	Keine Milchkühe
+A2300H	Mutterkühe
+A2330	Andere Kühe, zwei Jahre und mehr
+A2400	Büffel
+A2410	Weiblicher Zuchtbüffel
+A2420	Andere Büffel
+A2421	Männliche Büffel
+A2500	Lebendvieh
+A2510	Jungvieh, weniger als 1 Jahr
+A2511	Kälber, weniger als 8 Monate
+A2511AA	Kälber, wenige Tage alt
+A2511AB	Kälber, einige Wochen alt
+A2512	Jungvieh, 8 Monate bis weniger als 12 Monate
+A2900	Andere Rinder
+A3000	Lebende Schweine
+A3100	Lebende Schweine-Hausschweine
+A3110	Ferkel, weniger als 20 kg
+A3120_3133	Zuchtschweine
+A3120	Zuchtsauen
+A3120K	Sauen, gedeckt
+A3120KA	Sauen, erstmals gedeckt
+A3120L	Sauen, nicht gedeckt
+A3120LA	Jungsau, noch nicht gedeckt, Lebendgewicht 50 kg und mehr
+A3130	Andere Schweine
+A3131	Schweine 20 kg bis weniger als 50 kg
+A3132	Mastschweine, 50 kg und mehr
+A3132X	Mastschweine, 50 kg bis weniger 80 kg
+A3132Y	Mastschweine, 80 kg bis weniger 110 kg
+A3132Z	Mastschweine, 110 kg und mehr
+A3133	Zuchteber
+A3200	Lebende Schweine, Wildschweine
+A4000	Lebende Schafe und Ziegen
+A4000_ORG	Lebende Schafe und Ziegen - Zu ökologischer/biologischer produktion
+A4100	Lebende Schafe
+A4110	Mutterschafe und weibliche Zuchtlämmer
+A4110K	Mutterschafe und weibliche Zuchtlämmer, gedeckt
+A4110KC	Milchschafe und weibliche Zuchtlämmer, gedeckt
+A4110KD	Mutterschafe und Zuchtlämmer, gedeckt
+A4120	Andere Schafe
+A4121	Lämmer
+A4121H	Milchlämmer
+A4121P	Mastlämmer
+A4200	Lebende Ziegen
+A4201	Ziegen, 12 Monate und weniger
+A4210	Ziegen, Zuchtgeissen
+A4210K	Ziegen, gedeckt und bereits gezickelt
+A4210KA	Ziegen, erstmalig gezickelt
+A4210KB	Ziegen, bereits einmal gezickelt
+A4210F	Milchziegen
+A4220	Andere Ziegen
+A5000	Geflügel
+A5010	Zuchtgeflügel
+A5000X5100	Geflügel ausser Hühner (Spezies)
+A5000X5110O_5140	Geflügel ausser Legehennen und Masthähnchen
+A5100	Hühner (Spezies)
+A5110	Hennen
+A5110O	Legehennen
+A5110OH	Legehennen (für die Erzeugung von Konsumeiern)
+A5110ONH	Legehennen (nicht für die Erzeugung von Konsumeiern)
+A5120	Hähne
+A5130	Küken von Hühnern
+A5130O	Küken von Legehhennenrassen Eierproduktion)
+A5130ON	Küken von Legehennenrassen (Selektion)
+A5130P	Küken von Masthühnerrassen (Mast)
+A5130PN	Küken on Masthühnerrassen (Selektion)
+A5130M	Küken von Fleisch-und Legehennenkreuzungen
+A5130OM	Küken zum Eierlegen bestimmt
+A5130PM	Küken zur Mast bestimmt
+A5130N	Küken von Hühnern (Selektion)
+A5131	Hähnchen
+A5131P	Hähnchen durch Sexen
+A5140	Masthähnchen
+A5200	Enten, Gänse, Truthahn, Perlhühner
+A5210	Enten
+A5211P	Entenküken (Mast)
+A5220	Gänse
+A5221P	Gänseküken (Mast)
+A5230	Truthahn
+A5231P	Truthahnküken (Mast)
+A5240	Perhlühner
+A5241P	Perlhühnerküken (Mast)
+A5200_6521	Anderes Geflügel einschliesslich Strauss
+A5240_5300	Perhlühner und anderes kleines Geflügel
+A5300	Anderes Geflügel
+A5410	Strausse
+A6000	Andere Tiere
+A6010	Pelztiere
+A6100	Nager
+A6110	Kaninchen
+A6111	Kaninchen, weibliche Zuchtkaninchen
+A6120	Andere Nager
+A6121	Mäuse
+A6122	Ratten
+A6123	Meerschweinchen
+A6124	Hamster
+A6125	Goldhamster
+A6126	Chinesische Hamster
+A6127	Rennmäuse
+A6128	Mongolische Rennmaus
+A6200	Andere großen Herbivoren
+A6210	Hirsche
+A6220	Kamele
+A6300	Fleischfressend
+A6310	Katzen
+A6320	Hunde
+A6330	Frettchen
+A6340	Füchse
+A6390	Ander Fleischfresser
+A6400	Primaten
+A6410	Halbaffen
+A6420	Krallenaffen (Tamarine, Marmosetten, Springtamarin, Löwenäffchen)
+A6430	Affen
+A6431	Totenkopfäffchen
+A6432	Javaneraffen
+A6433	Rhesusaffe
+A6440	Makaken und Meerkatzen
+A6450	Paviane
+A6490	Andere Spezies von Primaten
+A6500	Vögel
+A6510	Vögel, domestizierte Spezies
+A6520	Vögel, Wilde Spezies
+A6521	Strausse
+A6600	Reptilien und Amphibien
+A6610	Reptilien
+A6620	Amphibien
+A6629	Andere lebende Amphibien
+A6700	Insekten
+A6710	Bienen
+A6710R	Bienen (Stöcke)
+A6720	Insekten, ausser Bienen
+A6900	Andere lebende Tiere
+A6900A	Andere Tiere ohne Strauss, Kaninchen, Bienen, Insekten und Haustiere

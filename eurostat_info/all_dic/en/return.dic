@@ -1,0 +1,11 @@
+TOTAL	Total
+ENFORC	Enforced return
+VOLUNT	Voluntary return
+ASSIST	Assisted return
+NASSIST	Non-assisted return
+THRD	Returned to a third country
+EURA	Returned under EU Readmission Agreement (EURA)
+RA_OTH	Returned under other readmission agreement
+NRA	Returned without existing a readmission agreement
+OTH	Other
+UNK	Unknown

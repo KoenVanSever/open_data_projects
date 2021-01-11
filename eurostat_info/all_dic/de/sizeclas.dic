@@ -1,0 +1,30 @@
+TOTAL	Insgesamt
+0	Null
+1-4	1 bis 4 Arbeitnehmer
+1-5	1 bis 5 Arbeitnehmer
+1-9	1 bis 9 Arbeitnehmer
+1-10	1 bis 10 Arbeitnehmer
+LE4	4 Arbeitnehmer oder weniger
+5-9	5 bis 9 Arbeitnehmer
+GE5	5 Arbeitnehmer und mehr
+6-9	6 bis 9 Arbeitnehmer
+LT10	Weniger als 10 Arbeitnehmer
+LE10	10 Arbeitnehmer oder weniger
+10-19	10 bis 19 Arbeitnehmer
+10-49	10 bis 49 Arbeitnehmer
+10-249	10 bis 249 Arbeitnehmer
+GE10	10 Arbeitnehmer und mehr
+GT10	Mehr als 10 Arbeitnehmer
+11-19	11 bis 19 Arbeitnehmer
+11-49	11 bis 49 Arbeitnehmer
+20-49	20 bis 49 Arbeitnehmer
+50-249	50 bis 249 Arbeitnehmer
+GE50	50 Arbeitnehmer und mehr
+250-499	250 bis 499 Arbeitnehmer
+GE250	250 Arbeitnehmer und mehr
+500-999	500 bis 999 Arbeitnehmer
+GE500	500 Arbeitnehmer und mehr
+GE1000	1 000 Arbeitnehmer und mehr
+NAL	Nicht zugeordnet
+NRP	Keine Antwort
+UNK	Unbekannt

@@ -1,0 +1,10 @@
+TOTAL	Total
+COL	Accord collectif sur les salaires
+NAT	Accord au niveau national ou interprofessionnel
+IND	Accord au niveau d'une branche
+INDREG	Accord concernant une branche particulière dans une région donnée
+ENT	Accord au niveau d'une entreprise ou d'un employeur unique
+UNIT	Accord s'appliquant seulement aux salariés d'une unité locale
+OTH	Tout autre type d'accord
+NONE	Aucun accord collectif sur les salaires n'existe
+UNK	Inconnu

@@ -1,0 +1,6 @@
+NSA	Unbereinigte Daten (d.h. weder saisonbereinigte noch kalenderbereinigte Daten)
+SA	Saisonbereinigte Daten, nicht kalenderbereinigte Daten
+CA	Kalenderbereinigte Daten, nicht saisonbereinigte Daten
+SCA	Saison- und kalenderbereinigte Daten
+TC	Trend-Zyklus Daten
+NAP	Nicht anwendbar

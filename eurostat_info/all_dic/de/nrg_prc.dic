@@ -1,0 +1,16 @@
+NRG_SUP	Energie und Versorgung
+NETC	Netzkosten
+NETC_TRANS	Netzwerkübertragungskosten
+NETC_DIST	Netzwerkvertriebskosten
+TAX_FEE_LEV_CHRG	Steuern, Gebühren, Abgaben und Spesen
+TAX_LEV	Steuern und Abgaben
+TAX_LEV_X_VAT	Steuern und Abgaben ohne Mehrwertsteuer
+VAT	Mehrwertsteuer
+TAX_RNW	Steuern für erneuerbare Energien
+TAX_CAP	Steuern für die Erzeugungskapazität
+TAX_ENV	Umweltsteuer
+TAX_NUC	Steuern für Kernkraftwerke
+I_TAX_LEV	Alle Steuern und Abgaben einbegriffen
+X_TAX_LEV	Ohne Steuern und Abgaben
+X_VAT_TAX_LEV	Ohne MwSt. und erstattungsfähige Steuern und Abgaben
+OTH	Sonstige

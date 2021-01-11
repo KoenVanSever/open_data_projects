@@ -1,0 +1,38 @@
+GEN	Production d'eaux usées de toutes les sources
+GEN_PS	Production d'eaux usées - sources fixes - total
+GEN_AGR	Production d'eaux usées dans l'agriculture, la sylviculture et la  pêche
+GEN_IND	Production d'eaux usées dans l'Industrie - total
+GEN_IND_XURB	Production d'eaux usées dans l'Industrie excepté les flux collectés par le système de traitement des eaux usées urbaines
+GEN_MIN	Production d'eaux usées dans l'industrie extractrive
+GEN_MAN	Production d'eaux usées dans les industries manufacturières
+GEN_FOOD	Production d'eaux usées dans l'industrie agro-alimentaire
+GEN_MET	Production d'eaux usées dans la métallurgie
+GEN_TRA	Production d'eaux usées dans la production de véhicules motorisés et matériel de transport
+GEN_TEXT	Production d'eaux usées dans l'industrie textile
+GEN_PAP	Production d'eaux usées dans l'industrie du papier et produits dérivés
+GEN_CHEM	Production d'eaux usées dans l'industrie des produits chimiques et produits rafinés
+GEN_ELC	Production d'eaux usées dans la production et distribution d'électricité (à l'exclusion des eaux de refroidissement)
+GEN_CON	Production d'eaux usées dans la construction
+GEN_DOM	Production d'eaux usées de sources domestiques - total
+GEN_SER	Production d'eaux usées - dans le secteur des services
+GEN_HH	Production d'eaux usées par les ménages privés
+GEN_NPS	Production d'eaux usées - sources diffuses
+GEN_URB	Production d'eaux usées urbaines - total
+TRT_IF	Traitement des eaux usées urbaines et produites par l'industrie - flux d'entrée total
+TRT_URB_IF	Traitement des eaux usées urbaines - flux d'entrée total
+TRT_URB_GE2	Traitement des eaux usées urbaines - avec au moins un traitement secondaire
+TRT_IND_IF	Traitement des eaux usées produites par l'industrie - flux d'entrée - total
+TRT_IND_GE2	Traitement des eaux usées produites par l'industrie - avec au moins un traitement secondaire
+DIS	Total des rejets de stations d'épuration des eaux usées (urbaines et  autres)
+DIS_URB	Rejets d'eaux usées urbaines - total
+DIS_URB_AT	Eaux usées urbaines rejetées après traitement
+DIS_URB_AIT	Eaux usées urbaines rejetées après traitement indépendant
+DIS_URB_NT	Eaux usées urbaines rejetées sans traitement
+DIS_IND	Rejets d'eaux usées de l'Industrie - total
+DIS_IND_AT	Eaux usées de l'industrie rejetées après traitement
+DIS_IND_NT	Eaux usées de l'industrie rejetées sans traitement
+DIS_NT	Total des eaux usées rejetées - sans traitement
+DIS_AGR	Rejets directs d'eaux usées agricoles (y compris la sylviculture et la pêche)
+DIS_NPS	Rejets directs par les sources diffuses
+DIS_IW	Rejets dans les eaux intérieures - total
+DIS_SEA	Rejets dans les eaux marines - total

@@ -1,0 +1,52 @@
+TOT_HC	Dépense de santé courante (CHE)
+HC1_2	Soins curatifs et de réadaptation
+HC1	Soins curatifs
+HC11_21	Soins curatifs et de réadaptation en milieu hospitalier
+HC11	Soins curatifs en milieu hospitalier
+HC12_22	Soins curatifs et de réadaptation en hospitalisation de jour
+HC12	Soins curatifs en hospitalisation de jour
+HC13_23	Soins curatifs et de réadaptation ambulatoires
+HC13	Soins curatifs ambulatoires
+HC131	Soins généraux curatifs ambulatoires
+HC132	Soins dentaires curatifs ambulatoires
+HC133	Soins spécialisés curatifs ambulatoires
+HC139	Tous autres soins curatifs ambulatoires n.c.a
+HC14_24	Soins curatifs et de réadaptation à domicile
+HC14	Soins curatifs à domicile
+HC2	Soins de réadaptation
+HC21	Réadaptation en milieu hospitalier
+HC22	Réadaptation en hospitalisation de jour
+HC23	Réadaptation en mode ambulatoire
+HC24	Réadaptation à domicile
+HC3	Soins de longue durée (santé)
+HC31	Soins de longue durée en milieu hospitalier (santé)
+HC32	Soins de longue durée en hospitalisation de jour (santé)
+HC33	Soins de longue durée ambulatoires (santé)
+HC34	Soins de longue durée à domicile (santé)
+HC4	Services auxiliaires (non spécifiés par fonction)
+HC41	Services de laboratoire
+HC42	Services d'imagerie
+HC43	Transport de patients
+HC5	Biens médicaux (non spécifiés par fonction)
+HC51	Produits pharmaceutiques et autres biens médicaux non durables
+HC511	Médicaments prescrits
+HC512	Médicaments sans ordonnance
+HC513	Autres biens médicaux non durables
+HC52	Appareils thérapeutiques et autres biens médicaux durables
+HC6	Soins préventifs
+HC61	Programmes d'information, d'éducation et de conseil
+HC62	Programmes de vaccination
+HC63	Programmes de dépistage précoce des maladies
+HC64	Programmes de suivi de la bonne santé
+HC65	Surveillance épidémiologique et programmes de contrôle des risques et des maladies
+HC66	Programmes de préparation aux catastrophes et d'intervention d'urgence
+HC7	Gouvernance et administration des systèmes de santé et du financement
+HC71	Gouvernance et administration des systèmes de santé
+HC72	Administration du financement de la santé
+HC9	Autres services de santé non classés ailleurs (n.c.a.)
+HC_UNK	Autres services de santé inconnus
+HCRI1	Total des dépenses pharmaceutiques (TPE)
+HCRI2	Médecines traditionnelles, complémentaires et parallèles (TCAM)
+HCR1	Soins de longue durée (social)
+HCR2	Promotion de la santé par une approche multisectorielle
+LTC	Soins de longue durée (HC.3 et HCR.1)

@@ -1,0 +1,22 @@
+A001	Etablissements
+A002	Chambres
+A003	Places-lits
+B001	Arrivées de résidents
+B002	Arrivées de non-résidents
+B272	Arrivées de non-résidents de l'UE27 (2007-2013)
+B282	Arrivées de non-résidents de l'UE28 (2013-2020)
+B003	Arrivées, total
+B004	Nuitées de résidents
+B275	Nuitées de non-résidents de l'UE27 (2007-2013)
+B285	Nuitées de non-résidents de l'UE28 (2013-2020)
+B005	Nuitées de non-résidents
+B006	Nuitées, total
+D001	Départs des résidents à l'étranger pour vacances ou voyages d'affaires (1 nuitée ou plus)
+D271	Départs des résidents avec destination un pays de l'EU27 (2007-2013) pour vacances et voyages d'affaires (1 nuitée ou plus)
+D281	Départs des résidents avec destination un pays de l'EU28 (2013-2020) pour vacances et voyages d'affaires (1 nuitée ou plus)
+E001	Taux d'occupation net des places-lits
+E002	Utilisation des place-lit brut
+E003	Taux d'occupation net des chambres
+J002	Arrivées des touristes aux frontières
+J272	Arrivées des touristes aux frontières de l'UE27 (2007-2013)
+J282	Arrivées des touristes aux frontières de l'UE28 (2013-2020)

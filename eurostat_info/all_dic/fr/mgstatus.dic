@@ -1,0 +1,16 @@
+TOTAL	Total
+IMG	Immigrés nés dans le pays et nés à l'étranger (première et deuxième génération d'immigrés)
+NBO	Nés dans le pays
+NBO_NAT_IMG	Nés dans le pays avec parents natifs et immigrés nés dans le pays et nés à l'étranger (première et deuxième génération d'immigrés)
+NBO_NAT	Nés dans le pays avec parents natifs
+NBO_IMG	Nés dans le pays avec parents d'origine mixte et étrangère (deuxième génération d'immigrés)
+NBO_IMGMIX	Nés dans le pays avec parents d'origine mixte (deuxième génération d'immigrés)
+NBO_IMGFOR	Nés dans le pays avec parents d'origine étrangère (deuxième génération d'immigrés)
+FBO	Nés à l'étranger (première génération d'immigrés)
+NRP	Sans réponse
+OTH	Autres
+UNK	Inconnu
+NBO_XNAT_FBO	Immigrés nés dans le pays et nés à l'étranger (première et deuxième génération d'immigrés)
+NBO_MIX_FOR	Nés dans le pays avec parents d'origine mixte et étrangère (deuxième génération d'immigrés)
+NBO_MIX	Nés dans le pays avec parents d'origine mixte (deuxième génération d'immigrés)
+NBO_FOR	Nés dans le pays avec parents d'origine étrangère (deuxième génération d'immigrés)

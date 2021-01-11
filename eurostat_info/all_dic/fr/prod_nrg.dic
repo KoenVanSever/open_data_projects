@@ -1,0 +1,75 @@
+TOTAL	Total
+SOL_FUEL	Combustibles solides (v2011 + v2012)
+HCOA_DER	Houille et dérivés solides 
+COKE	Coke
+SOL_FUEL_OTH	Autres combustibles solides
+LIQ_FUEL	Combustibles liquides
+COIL	Pétrole brut
+ROIL	Produits pétroliers raffinés
+PETROL	Tous produits pétroliers
+LPG	GPL
+DIESEL	Diesel
+GAS	Gaz (v2031 + v2032 + v2033 + v2034)
+GAS_NAT	Gaz naturel
+GAS_BFUR	Gaz de haut-fourneau
+GAS_COKE	Gaz de cokerie sidérurgique
+GAS_CONV	Gaz de convertisseur
+GAS_OTH	Autres gaz
+ELEC	Electricité
+ELEC_OTH	Electricité ou autres sources
+OTHER	Autres produits
+STEAM	Vapeur
+DLV_GAS_BFUR	Livraisons de gaz de haut-fourneau à l'extérieur
+DLV_GAS_CONV	Livraisons de gaz de convertisseur à l'extérieur
+ALTER	Energie alternative
+PETROL_X_HYBR	Essence (hors hybrides)
+ELEC_PETROL	Hybride essence-électrique
+ELEC_PETROL_PI	Hybride essence-électrique rechargeable
+DIESEL_X_HYBR	Diesel (hors hybrides)
+ELEC_DIESEL	Hybride diesel-électrique
+ELEC_DIESEL_PI	Hybride diesel-électrique rechargeable
+HYDR_FUELCELL	Hydrogène et piles à combustible
+BIOETHAN	Bioéthanol
+BIODIESEL	Biodiesel
+BIFUEL	Véhicules bi-carburant
+CNG	Gaz naturel comprimé (GNC)
+LNG	Gaz naturel liquéfié (GNL)
+ELEC_PETROL_HYBR	Hybride essence-électrique et hybride essence-électrique rechargeable
+ELEC_DIESEL_HYBR	Hybride diesel-électrique et hybride diesel-électrique rechargeable
+N00	Ressources énergétique naturelles
+N01	Ressources énergétiques naturelles fossiles non renouvelables
+N02	Ressources naturelles non renouvelables de l'énergie nucléaire
+N03	Ressources énergétiques naturelles renouvelables issues de l'eau
+N04	Ressources énergétiques naturelles renouvelables issues du vent
+N05	Ressources énergétiques naturelles renouvelables issues du soleil
+N06	Ressources naturelles renouvelables issues du biomasse
+N07	Autres ressources énergétiques naturelles renouvelables
+P00	Produits énergétiques
+P08	Houille
+P09	Lignite et tourbe
+P10	Gaz dérivés (sans biogaz)
+P11	Produits dérivés du charbon (coke, goudron, agglomérés de houille, BKB et produits dérivés de la tourbe)
+P12	Pétrole brut, liquides de gaz naturel (LGN) et autres hydrocarbures (sans biocomposants)
+P13	Gaz naturel (sans biocomposants)
+P14	Essence moteur et aviation (sans biocomposants)
+P15	Pétrole lampant et carburéacteur (sans biocomposants)
+P16	Naphta
+P17	Diesel de transport (sans biocomposants)
+P18	Fioul domestique et autres gazoles (sans biocomposants)
+P19	Fioul résiduel
+P20	Gaz de raffinerie, Éthane et Gaz de pétrole liquéfié (GPL)
+P21	Autres produits pétroliers y c. additifs/composés oxygénés et produits d'alimentation des raffineries
+P22	Combustible nucléaire
+P23	Bois de chauffage, résidus de bois et autre biomasse solide, charbon de bois
+P24	Biocarburants liquides
+P25	Biogaz
+P26	Energie électrique
+P27	Chaleur
+R00	Résidus énergétiques
+R28	Déchets renouvelables
+R29	Déchets non renouvelables
+R30	Pertes énergétiques de tout type (pendant l'extraction, la distribution, le stockage, la transformation et la dissipation de chaleur provenant de lutilisation finale)
+R31	Ènergie contenue dans les produits dutilisation non énergétique
+SD_IO	Ecart statistique entre entrées et sorties pour l'ensemble des flux d'énergie
+N00_P00_R00	Ressources énergétique naturelles, produits énergétiques et résidus énergétiques
+EPRD_OUSE	Produits énergétiques pour usage propre

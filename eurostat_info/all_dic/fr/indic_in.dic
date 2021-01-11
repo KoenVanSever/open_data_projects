@@ -1,0 +1,1076 @@
+ACTAES_MISS	Information manquante pour la variable considérée
+ACTAES_NO	Pas de changements significatifs dans l'apparence esthétique
+ACTAES_YES	Changements significatifs dans l'apparence esthétique
+ACTMAN_MISS	Information manquante pour la variable considérée
+ACTMAN_NO	L'entreprise n'a pas mis en oeuvre de techniques avancées de gestion.
+ACTMAN_YES	L'entreprise a mis en oeuvre des techniques avancées de gestion.
+ACTMAR_MISS	Information manquante pour la variable considérée
+ACTMAR_NO	L'entreprise n'a pas modifié les concepts/stratégies de commercialisation.
+ACTMAR_YES	L'entreprise a modifié les concepts/stratégies de commercialisation.
+ACTORG_MISS	Information manquante pour la variable considérée
+ACTORG_NO	L'entreprise n'a pas modifié les structures organisationnelles.
+ACTORG_YES	L'entreprise a modifié les structures organisationnelles.
+ACTSTR_MISS	Information manquante pour la variable considérée
+ACTSTR_NO	L'entreprise n'a pas mis en oeuvre de nouvelles stratégies d'entreprise.
+ACTSTR_YES	L'entreprise a mis en oeuvre de nouvelles stratégies d'entreprise.
+C01	Entreprises coopérant avec d'autres entreprises au sein du même groupe d'entreprises
+C01_VAL	Entreprises pour lesquelles la coopération avec d'autres entreprises au sein du même groupe d'entreprises est la méthode la plus valorisée
+C02	Entreprises coopérant avec des concurrents ou avec d'autres entreprises du même secteur
+C02_VAL	Entreprises pour lesquelles la coopération avec des concurrents ou avec d'autres entreprises du même secteur est la méthode la plus valorisée
+C03	Entreprises coopérant avec des clients ou des consommateurs
+C03_VAL	Entreprises pour lesquelles la coopération avec des clients ou des consommateurs est la méthode la plus valorisée
+C031	Entreprises coopérant avec des clients ou des consommateurs du secteur privé
+C031_VAL	Entreprises pour lesquelles la coopération avec des clients ou des consommateurs du secteur privé est la méthode la plus valorisée
+C032	Entreprises coopérant avec des clients ou des consommateurs du secteur public
+C032_VAL	Entreprises pour lesquelles la coopération avec des clients ou des consommateurs du secteur public est la méthode la plus valorisée
+C05	Entreprises coopérant avec des fournisseurs d'équipements, de matériel, de composants ou de logiciels
+C05_VAL	Entreprises pour lesquelles la coopération avec des fournisseurs d'équipements, de matériel, de composants ou de logiciels est la méthode la plus valorisée
+C06	Entreprises coopérant avec des universités ou des établissements d'enseignement supérieur
+C06_VAL	Entreprises pour lesquelles la coopération avec des universités ou des établissements d'enseignement supérieur est la méthode la plus valorisée
+C07	Entreprises coopérant avec le Gouvernement ou des instituts publics de recherche
+C07_VAL	Entreprises pour lesquelles la coopération avec des instituts publics de recherche est la méthode la plus valorisée
+C08	Entreprises coopérant avec des consultants, laboratoires commerciaux ou instituts privés de R&D
+C08_VAL	Entreprises pour lesquelles la coopération avec avec des consultants, laboratoires commerciaux ou instituts privés de R&D est la méthode la plus valorisée
+C09	Entreprises coopérant avec le gouvernement ou des instituts de recherche publics ou privés
+C09_VAL	Entreprises pour lesquelles la coopération avec le gouvernement ou des instituts de recherche publics ou privés est la méthode la plus valorisée
+C10	Entreprises coopérant avec des consultants ou des laboratoires commerciaux
+C10_VAL	Entreprises pour lesquelles la coopération avec des consultants ou laboratoires commerciaux est la méthode la plus valorisée
+CMCO_HIGH	Entreprises pour lesquelles le 'copyright' est très efficace
+CMCO_NU	Entreprises n'utilisant pas le 'copyright' comme méthode
+CMCPX_HIGH	Entreprises pour lesquelles la complexité des biens/services est très efficace
+CMCPX_NU	Entreprises n'utilisant pas la complexité des biens/services comme méthode
+CMCTM_HIGH	Entreprises pour lesquelles les marques sont très efficaces
+CMCTM_NU	Entreprises n'utilisant pas les marques comme méthode
+CMLTAD_HIGH	Entreprises pour lesquelles les avantages dans les délais de mise en uvre sont très efficaces
+CMLTAD_NU	Entreprises n'utilisant pas les avantages dans les délais de mise en uvre comme méthode
+CMPAT_HIGH	Entreprises pour lesquelles les brevets sont très efficaces
+CMPAT_NU	Entreprises n'utilisant pas les brevets comme méthode
+CMRCD_HIGH	Entreprises pour lesquelles l'enregistrement de dessins ou modèles est très efficace
+CMRCD_NU	Entreprises n'utilisant pas l'enregistrement de dessins ou modèles comme méthode
+CMSEC_HIGH	Entreprises pour lesquelles le secret industriel est très efficace
+CMSEC_NU	Entreprises n'utilisant pas le secret industriel comme méthode
+CMUPAT_HIGH	Entreprises pour lesquelles les brevets de modèles d'utilité sont très efficaces
+CMUPAT_NU	Entreprises n'utilisant pas les brevets de modèles d'utilité comme méthode
+CO	Entreprises innovantes participant à une coopération
+CO_ALL	Entreprises engagées dans une action de coopération
+CO_MISS	Information manquante pour la variable considérée
+CO_NO	Aucun accord de coopération portant sur des activités d'innovation
+CO_YES	Accords de coopération portant sur des activités d'innovation
+CO1	Autre(s) entreprises(s) au sein du groupe
+CO11_MISS	Information manquante pour la variable considérée
+CO11_NO	Aucune coopération au sein du groupe d'entreprises au niveau national
+CO11_YES	Coopération au sein du groupe d'entreprises au niveau national
+CO12_MISS	Information manquante pour la variable considérée
+CO12_NO	Aucune coopération au sein du groupe d'entreprises au niveau de l'UE/AELE
+CO12_YES	Coopération au sein du groupe d'entreprises au niveau de l'UE/AELE
+CO13_MISS	Information manquante pour la variable considérée
+CO13_NO	Aucune coopération au sein du groupe d'entreprises au niveau de l'UE/pays candidats
+CO13_YES	Coopération au sein du groupe d'entreprises au niveau de l'UE/pays candidats
+CO14_MISS	Information manquante pour la variable considérée
+CO14_NO	Aucune coopération au sein du groupe d'entreprises au niveau des États-Unis
+CO14_YES	Coopération au sein du groupe d'entreprises au niveau des États-Unis
+CO15_MISS	Information manquante pour la variable considérée
+CO15_NO	Aucune coopération au sein du groupe d'entreprises au niveau du Japon
+CO15_YES	Coopération au sein du groupe d'entreprises au niveau du Japon
+CO16_MISS	Information manquante pour la variable considérée
+CO16_NO	Aucune coopération au sein du groupe d'entreprises, autres pays
+CO16_YES	Coopération au sein d'un groupe d'entreprises, autres pays
+CO2	Concurrent(s)
+CO2_MISS	Information manquante pour la variable considérée
+CO2_NO	Aucun accord de coopération portant sur des activités d'innovation
+CO2_YES	Accords de coopération portant sur des activités d'innovation
+CO21_MISS	Information manquante pour la variable considérée
+CO21_NO	Aucune coopération avec des fournisseurs d'équipements, etc. au niveau national
+CO21_YES	Coopération avec des fournisseurs d'équipements, etc. au niveau national
+CO22_MISS	Information manquante pour la variable considérée
+CO22_NO	Aucune coopération avec des fournisseurs d'équipements, etc. au niveau de l'UE/AELE
+CO22_YES	Coopération avec des fournisseurs d'équipements, etc. au niveau de l'UE/AELE
+CO23_MISS	Information manquante pour la variable considérée
+CO23_NO	Aucune coopération avec des fournisseurs d'équipements, etc. au niveau de l'UE/pays candidats
+CO23_YES	Coopération avec des fournisseurs d'équipements, etc. au niveau de l'UE/pays candidats
+CO24_MISS	Information manquante pour la variable considérée
+CO24_NO	Aucune coopération avec des fournisseurs d'équipements, etc. au niveau des États-Unis
+CO24_YES	Coopération avec des fournisseurs d'équipements, etc. au niveau des États-Unis
+CO25_MISS	Information manquante pour la variable considérée
+CO25_NO	Aucune coopération avec des fournisseurs d'équipements, etc. au niveau du Japon
+CO25_YES	Coopération avec des fournisseurs d'équipements, etc. au niveau du Japon
+CO26_MISS	Information manquante pour la variable considérée
+CO26_NO	Aucune coopération avec des fournisseurs d'équipements, etc. au niveau d'autres pays
+CO26_YES	Coopération avec des fournisseurs d'équipements, etc. au niveau d'autres pays
+CO3	Clients
+CO31_MISS	Information manquante pour la variable considérée
+CO31_NO	Aucune coopération avec des clients au niveau national
+CO31_YES	Coopération avec des clients au niveau national
+CO32_MISS	Information manquante pour la variable considérée
+CO32_NO	Aucune coopération avec des clients au niveau de l'UE/AELE
+CO32_YES	Coopération avec des clients au niveau de l'UE/AELE
+CO33_MISS	Information manquante pour la variable considérée
+CO33_NO	Aucune coopération avec des clients au niveau de l'UE/pays candidats
+CO33_YES	Coopération avec des clients au niveau de l'UE/pays candidats
+CO34_MISS	Information manquante pour la variable considérée
+CO34_NO	Aucune coopération avec des clients au niveau des États-Unis
+CO34_YES	Coopération avec des clients au niveau des États-Unis
+CO35_MISS	Information manquante pour la variable considérée
+CO35_NO	Aucune coopération avec des clients au niveau du Japon
+CO35_YES	Coopération avec des clients au niveau du Japon
+CO36_MISS	Information manquante pour la variable considérée
+CO36_NO	Aucune coopération avec des clients, autres pays
+CO36_YES	Coopération avec des clients, autres pays
+CO4	Sociétés de conseil
+CO41_MISS	Information manquante pour la variable considérée
+CO41_NO	Aucune coopération avec des concurrents ou d'autres entreprises au niveau national
+CO41_YES	Coopération avec des concurrents ou d'autres entreprises au niveau national
+CO42_MISS	Information manquante pour la variable considérée
+CO42_NO	Aucune coopération avec des concurrents ou d'autres entreprises au niveau de l'UE/AELE
+CO42_YES	Partage de coopération avec des concurrents ou d'autres entreprises au niveau de l'UE/AELE
+CO43_MISS	Information manquante pour la variable considérée
+CO43_NO	Aucune coopération avec des concurrents ou d'autres entreprises au niveau de l'UE/pays candidats
+CO43_YES	Coopération avec des concurrents ou d'autres entreprises au niveau de l'UE/pays candidats
+CO44_MISS	Information manquante pour la variable considérée
+CO44_NO	Aucune coopération avec des concurrents ou d'autres entreprises au niveau des États-Unis
+CO44_YES	Coopération avec des concurrents ou d'autres entreprises au niveau des États-Unis
+CO45_MISS	Information manquante pour la variable considérée
+CO45_NO	Aucune coopération avec des concurrents ou d'autres entreprises au niveau du Japon
+CO45_YES	Coopération avec des concurrents ou d'autres entreprises au niveau du Japon
+CO46_MISS	Information manquante pour la variable considérée
+CO46_NO	Aucune coopération avec des concurrents ou des entreprises, autres pays
+CO46_YES	Coopération avec des concurrents ou des entreprises, autres pays
+CO5	Fournisseurs d'équipements, de matériel, de composants ou de logiciels
+CO51_MISS	Information manquante pour la variable considérée
+CO51_NO	Aucune coopération avec des consultants au niveau national
+CO51_YES	Coopération avec des consultants au niveau national
+CO52_MISS	Information manquante pour la variable considérée
+CO52_NO	Aucune coopération avec des consultants au niveau de l'UE/AELE
+CO52_YES	Coopération avec des consultants au niveau de l'UE/AELE
+CO53_MISS	Information manquante pour la variable considérée
+CO53_NO	Aucune coopération avec des consultants au niveau de l'UE/pays candidats
+CO53_YES	Coopération avec des consultants au niveau de l'UE/pays candidats
+CO54_MISS	Information manquante pour la variable considérée
+CO54_NO	Aucune coopération avec des consultants au niveau des États-Unis
+CO54_YES	Coopération avec des consultants au niveau des États-Unis
+CO55_MISS	Information manquante pour la variable considérée
+CO55_NO	Aucune coopération avec des consultants au niveau du Japon
+CO55_YES	Coopération avec des consultants au niveau du Japon
+CO56_MISS	Information manquante pour la variable considérée
+CO56_NO	Aucune coopération avec des consultants, autres pays
+CO56_YES	Coopération avec des consultants, autres pays
+CO6	Universités ou établissements d'enseignement supérieur
+CO61_MISS	Information manquante pour la variable considérée
+CO61_NO	Aucune coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau national
+CO61_YES	Coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau national
+CO62_MISS	Information manquante pour la variable considérée
+CO62_NO	Aucune coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau de l'UE/AELE
+CO62_YES	Coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau de l'UE/AELE
+CO63_MISS	Information manquante pour la variable considérée
+CO63_NO	Aucune coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau de l'UE/pays candidats
+CO63_YES	Coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau de l'UE/pays candidats
+CO64_MISS	Information manquante pour la variable considérée
+CO64_NO	Aucune coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau des États-Unis
+CO64_YES	Coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau des États-Unis
+CO65_MISS	Information manquante pour la variable considérée
+CO65_NO	Aucune coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau du Japon
+CO65_YES	Coopération avec des laboratoires commerciaux ou des instituts privés de R & D au niveau du Japon
+CO66_MISS	Information manquante pour la variable considérée
+CO66_NO	Aucune coopération avec des laboratoires commerciaux ou des instituts privés de R & D, autres pays
+CO66_YES	Coopération avec des laboratoires commerciaux ou des instituts privés de R & D, autres pays
+CO7	Instituts publics de recherche
+CO71_MISS	Information manquante pour la variable considérée
+CO71_NO	Aucune coopération avec des universités ou des établissements d'enseignement supérieur au niveau national
+CO71_YES	Coopération avec des universités ou des établissements d'enseignement supérieur au niveau national
+CO72_MISS	Information manquante pour la variable considérée
+CO72_NO	Aucune coopération avec des universités ou des établissements d'enseignement supérieur au niveau de l'UE/AELE
+CO72_YES	Coopération avec des universités ou des établissements d'enseignement supérieur au niveau de l'UE/AELE
+CO73_MISS	Information manquante pour la variable considérée
+CO73_NO	Aucune coopération avec des universités ou des établissements d'enseignement supérieur au niveau de l'UE/pays candidats
+CO73_YES	Coopération avec des universités ou des établissements d'enseignement supérieur au niveau de l'UE/pays candidats
+CO74_MISS	Information manquante pour la variable considérée
+CO74_NO	Aucune coopération avec des universités ou des établissements d'enseignement supérieur au niveau des États-Unis
+CO74_YES	Coopération avec des universités ou des établissements d'enseignement supérieur au niveau des États-Unis
+CO75_MISS	Information manquante pour la variable considérée
+CO75_NO	Aucune coopération avec des universités ou des établissements d'enseignement supérieur au niveau du Japon
+CO75_YES	Coopération avec des universités ou des établissements d'enseignement supérieur au niveau du Japon
+CO76_MISS	Information manquante pour la variable considérée
+CO76_NO	Aucune coopération avec des universités ou des établissements d'enseignement supérieur, autres pays
+CO76_YES	Coopération avec des universités ou des établissements d'enseignement supérieur, autres pays
+CO81_MISS	Information manquante pour la variable considérée
+CO81_NO	Aucune coopération avec des instituts publics de recherche au niveau national
+CO81_YES	Coopération avec des instituts publics de recherche au niveau national
+CO82_MISS	Information manquante pour la variable considérée
+CO82_NO	Aucune coopération avec des instituts publics de recherche au niveau de l'UE/AELE
+CO82_YES	Coopération avec des instituts publics de recherche au niveau de l'UE/AELE
+CO83_MISS	Information manquante pour la variable considérée
+CO83_NO	Aucune coopération avec des instituts publics de recherche au niveau de l'UE/pays candidats
+CO83_YES	Coopération avec des instituts publics de recherche au niveau de l'UE/pays candidats
+CO84_MISS	Information manquante pour la variable considérée
+CO84_NO	Aucune coopération avec des instituts publics de recherche au niveau des États-Unis
+CO84_YES	Coopération avec des instituts publics de recherche au niveau des États-Unis
+CO85_MISS	Information manquante pour la variable considérée
+CO85_NO	Aucune coopération avec des instituts publics de recherche au niveau du Japon
+CO85_YES	Coopération avec des instituts publics de recherche au niveau du Japon
+CO86_MISS	Information manquante pour la variable considérée
+CO86_NO	Aucune coopération avec des instituts publics de recherche, autres pays
+CO86_YES	Coopération avec des instituts publics de recherche, autres pays
+COALL_INNO	Entreprises innovantes en produit et/ou de procédé (PP) engagées dans tous les types de coopération, en % des entreprises innovantes PP
+COCNIN_YES	Entreprises coopérant avec un partenaire en Chine ou en Inde
+COEU	Partenaire au sein de l'UE
+COEUC_MISS	Information manquante pour la variable considérée: forme de coopération pour les activités d'innovation, au niveau de l'UE et des pays candidats
+COEUC_NO	Entreprise n'ayant engagé aucune forme de coopération pour les activités d'innovation, au niveau de l'UE et des pays candidats
+COEUC_YES	Entreprise engagée dans toute forme de coopération pour les activités d'innovation, au niveau de l'UE et des pays candidats
+COEUE_MISS	Information manquante pour la variable considérée: forme de coopération pour les activités d'innovation, au niveau de l'UE et de l'AELE
+COEUE_NO	Entreprise n'ayant engagé aucune forme de coopération pour les activités d'innovation, au niveau de l'UE et de l'AELE
+COEUE_YES	Entreprise engagée dans toute forme de coopération pour les activités d'innovation, au niveau de l'UE et de l'AELE
+COEUR_YES	Entreprises coopérant avec un partenaire d'un pays membre de l'UE, d'un pays EFTA ou d'un pays candidat à l'UE (hormis avec un partenaire national)
+COJAP	Partenaire au Japon
+COJP_MISS	Information manquante pour la variable considérée: forme de coopération pour les activités d'innovation, au niveau du Japon
+COJP_NO	Entreprise n'ayant engagé aucune forme de coopération pour les activités d'innovation, au niveau du Japon
+COJP_YES	Entreprise engagée dans toute forme de coopération pour les activités d'innovation, au niveau du Japon
+CONA	Partenaire au niveau national
+CONAT_MISS	Information manquante pour la variable considérée: forme de coopération pour les activités d'innovation, au niveau national
+CONAT_NO	Entreprise n'ayant engagé aucune forme de coopération pour les activités d'innovation, au niveau national
+CONAT_YES	Entreprises coopérant avec un partenaire national
+CONATEUR_YES	Entreprises coopérant avec un partenaire d'un pays membre de l'UE, d'un pays de l'AELE ou d'un pays candidat à l'UE (y compris partenaire national)
+COOT_MISS	Information manquante pour la variable considérée: forme de coopération pour les activités d'innovation, autres pays partenaires
+COOT_NO	Entreprise n'ayant engagé aucune forme de coopération pour les activités d'innovation, autres pays partenaires
+COOT_YES	Entreprises coopérant avec un partenaire hors pays de l'UE, hors pays EFTA ou pays candidat à l'UE, hors Etats-Unis, Chine ou Inde
+COOTH	Partenaire dans d'autres pays
+COUS_MISS	Information manquante pour la variable considérée: forme de coopération pour les activités d'innovation, au niveau des États-Unis
+COUS_NO	Entreprise n'ayant engagé aucune forme de coopération pour les activités d'innovation, au niveau des États-Unis
+COUS_YES	Entreprises coopérant avec un partenaire aux Etas-Unis
+COUSA	Partenaire aux États-Unis
+COUSOT_YES	Entreprise engagée dans toute forme de coopération pour les activités d'innovation, au niveau des États-Unis et d'autres pays
+ECAP	Accroissement de la capacité de production ou de fourniture de services
+ECAP_HIGH	Important accroissement de la capacité de production
+ECAP_LOW	Faible accroissement de la capacité de production
+ECAP_MED	Accroissement modéré de la capacité de production
+ECAP_MISS	Information manquante pour la variable considérée
+ECAP_NO	Aucun accroissement de la capacité de production
+ECOCO	Empreinte CO2 réduite (production de CO2 totale) de votre entreprise
+ECOEN	Consommation d'énergie réduite par unité de production
+ECOENU	Entreprises ayant réduit, en innovant, la consommation d'énergie ou l'empreinte CO2 de la consommation ou de l'utilisation d'un bien ou d'un service par l'utilisateur final
+ECOMAT	Entreprises ayant diminué, en innovant, l'emploi de matériaux ou d'eau par unité de production au niveau de l'entreprise
+ECOPOL	Entreprises ayant diminué, en innovant, les nuisances sonores ou la pollution de l'air, de l'eau ou des sols au niveau de l'entreprise
+ECOPOS	Entreprises ayant réduit, en innovant, les nuisances sonores ou la pollution de l'air, de l'eau ou des sols de la consommation ou de l'utilisation d'un bien ou d'un service par l'utilisateur final
+ECOREA	Entreprises ayant facilité, en innovant, le recyclage du produit après utilisation par l'utilisateur final
+ECOREC	Entreprises ayant recyclé, en innovant, les déchets, l'eau ou les matières au niveau de l'entreprise, pour les réutiliser ou les revendre
+ECOSUB	Entreprises ayant remplacé, en innovant, une partie des matériaux par des substituts moins polluants ou moins dangereux au niveau de l'entreprise
+EENV	Réduction de l'impact sur l'environnement ou amélioration de la santé et de la sécurité
+EENV_HIGH	Importante réduction de l'impact sur l'environnement ou amélioration de la santé et de la sécurité
+EENV_LOW	Faible réduction de l'impact sur l'environnement ou amélioration de la santé et de la sécurité
+EENV_MED	Réduction modérée de l'impact sur l'environnement ou amélioration moyenne de la santé et de la sécurité
+EENV_MISS	Information manquante pour la variable considérée
+EENV_NO	Aucune réduction de l'impact sur l'environnement ou amélioration de la santé et de la sécurité
+EFLEX	Accroissement de la flexibilité de la production ou de la fourniture de services
+EFLEX_HIGH	Important accroissement de la flexibilité de la production
+EFLEX_LOW	Faible accroissement de la flexibilité de la production
+EFLEX_MED	Accroissement modéré de la flexibilité de la production
+EFLEX_MISS	Information manquante pour la variable considérée
+EFLEX_NO	Aucun accroissement de la flexibilité de la production
+EFORED_HIGH	Réduction du temps de réponse aux besoins des clients ou des fournisseurs
+ELBR	Réduction du coût de la main-d'oeuvre par unité produite
+ELBR_HIGH	Importante réduction du coût de la main-d'oeuvre par unité produite
+ELBR_LOW	Faible réduction du coût de la main-d'oeuvre par unité produite
+ELBR_MED	Réduction modérée du coût de la main-d'oeuvre par unité produite
+ELBR_MISS	Information manquante pour la variable considérée
+ELBR_NO	Aucune réduction du coût de la main-d'oeuvre par unité produite
+EMAR	Entrée sur de nouveaux marchés ou accroissement des parts de marché
+EMAR_HIGH	Important accroissement du marché ou des parts de marché
+EMAR_LOW	Faible accroissement du marché ou des parts de marché
+EMAR_MED	Accroissement modéré du marché ou des parts de marché
+EMAR_MISS	Information manquante pour la variable considérée
+EMAR_NO	Aucun accroissement du marché ou des parts de marché
+EMAT	Réduction de l'apport de matériaux et d'énergie par unité produite
+EMAT_HIGH	Importante réduction de l'apport de matériaux et d'énergie par unité produite
+EMAT_LOW	Faible réduction de l'apport de matériaux et d'énergie par unité produite
+EMAT_MED	Réduction modérée de l'apport de matériaux et d'énergie par unité produite
+EMAT_MISS	Information manquante pour la variable considérée
+EMAT_NO	Aucune réduction de l'apport de matériaux et d'énergie par unité produite
+EMP	Nombre de salariés en 2000
+EMP02	Nombre total de salariés en 2002
+EMP04	Nombre total de salariés en 2004
+EMP06	Nombre total de salariés en 2006
+EMP08	Nombre total d'employés en 2008
+EMP10	Nombre total d'employés en 2010
+EMP12	Nombre total d'employés en 2012
+EMP98	Nombre de salariés en 1998
+EMPHI	Nombre de salariés diplômés de l'enseignement supérieur en 2000
+EMPUD0	Entreprises dont 0 % des employés sont issus de l'enseignement universitaire
+EMPUD1	Entreprises dont 1 % à 4 % des employés sont issus de l'enseignement universitaire
+EMPUD2	Entreprises dont 5 % à 9 % des employés sont issus de l'enseignement universitaire
+EMPUD3	Entreprises dont 10 % à 24 % des employés sont issus de l'enseignement universitaire
+EMPUD4	Entreprises dont 25 % à 49 % des employés sont issus de l'enseignement universitaire
+EMPUD5	Entreprises dont 50 % à 74 % des employés sont issus de l'enseignement universitaire
+EMPUD6	Entreprises dont plus de 75 % des employés sont issus de l'enseignement universitaire
+ENAGR	Codes ou accords volontaires de bonnes pratiques environnementales dans votre secteur
+ENDEM	Demande existante ou escomptée de vos clients pour des innovations environnementales
+ENGRA	Existence d'aides publiques, de subventions ou d'autres incitations financières pour les innovations environnementales
+ENMRG_YES	Entreprises ayant réalisé une opération de fusion/acquisition d'une autre entreprise
+ENNWEUR_YES	Entreprises ayant créé de nouvelles filiales dans leur pays et/ou dans un pays européen
+ENNWOTH_YES	Entreprises ayant créé de nouvelles filiales en dehors de l'Europe
+ENOUT_YES	Entreprises ayant vendu/fermé/délocalisé des activités ou des fonctions
+ENREG	Réglementations environnementales existantes ou taxes sur la pollution
+ENREGF	Réglementations environnementales ou taxes dont vous attendiez une introduction future
+ENT_POP	Population totale de l'enquête
+ENT_POPU	Nombre d'entreprises dans la strate actuelle (échantillon réalisé)
+ENT_POPU04	Nombre total d'entreprises dans la population en 2004
+ENT_POPU06	Nombre total d'entreprises dans la population en 2006
+ENT_POPU08	Nombre total d'entreprises dans la population en 2008
+ENT_POPU10	Nombre total d'entreprises dans la population en 2010
+ENT_POPU12	Nombre total d'entreprises dans la population en 2012
+ENT_POPU2	Nombre d'entreprises dans la strate actuelle (échantillon réalisé) - Chiffre non arrondi
+ENT_SAMP	Échantillon réalisé
+ENVID1	Mise en oeuvre seulement avant janvier 2006
+ENVID2	Mise en oeuvre ou amélioration importante seulement après janvier 2006
+ENVID3	Mise en oeuvre (à la fois avant janvier 2006 et après janvier 2006)
+EOQUA_HIGH	Amélioration de la qualité des biens ou des services
+EORED_HIGH	Diminution des coûts unitaires
+EOSAT_HIGH	Amélioration de la satisfaction des salariés et/ou diminution du taux de rotation du personnel
+EQUA	Amélioration de la qualité des biens ou des services
+EQUA_HIGH	Importante amélioration de la qualité des biens ou des services, en pourcentage
+EQUA_LOW	Faible amélioration de la qualité des biens ou des services, en pourcentage
+EQUA_MED	Amélioration modérée de la qualité des biens ou des services, en pourcentage
+EQUA_MISS	Information manquante pour la variable considérée
+EQUA_NO	Aucune amélioration de la qualité des biens ou des services, en pourcentage
+ERANGE	Accroissement de la gamme de biens et de services
+ERANGE_HIGH	Important accroissement de la gamme de biens ou de services
+ERANGE_LOW	Faible accroissement de la gamme de biens ou de services
+ERANGE_MED	Accroissement modéré de la gamme de biens ou de services
+ERANGE_MISS	Information manquante pour la variable considérée
+ERANGE_NO	Aucun accroissement de la gamme de biens ou de services
+EREG	Réponse à des exigences réglementaires
+ES_SDOS	Utilisation exclusive de compétences externes en conception d'objets ou de services
+ES_SENAP	Utilisation exclusive de compétences externes en ingénierie / sciences appliquées
+ES_SGALA	Utilisation exclusive de compétences externes en arts graphiques / layout / publicité
+ES_SMED	Utilisation exclusive de compétences externes en multimédia
+ES_SMKR	Utilisation exclusive de compétences externes en étude de marché
+ES_SMSDM	Utilisation exclusive de compétences externes en mathématiques / statistiques / gestion de bases de données
+ES_SSWD	Utilisation exclusive de compétences externes en développement de logiciels
+ES_SWDS	Utilisation exclusive de compétences externes en conception Web
+EST_MISS	Information manquante pour la variable considérée
+EST_NO	Nombre d'entreprises qui n'ont pas été créées entre 1998 et 2000
+EST_YES	Nombre d'entreprises créées entre 1998 et 2000
+ESTD_HIGH	Niveau élevé de réponse à des exigences réglementaires ou à des normes
+ESTD_LOW	Faible niveau de réponse à des exigences réglementaires ou à des normes
+ESTD_MED	Niveau moyen de réponse à des exigences réglementaires ou à des normes
+ESTD_MISS	Information manquante pour la variable considérée
+ESTD_NO	Aucune réponse à des exigences réglementaires ou à des normes
+EX_HIGH1	Entreprises innovantes très actives à l'exportation
+EX_HIGH2	Entreprises très actives à l'exportation
+EX_LOW1	Entreprises innovantes peu actives à l'exportation
+EX_LOW2	Entreprises peu actives à l'exportation
+EX_MED1	Entreprises innovantes modérément actives à l'exportation
+EX_MED2	Entreprises modérément actives à l'exportation
+EX_NULL1	Entreprises innovantes n'ayant pas d'activités à l'exportation
+EX_NULL2	Entreprises n'ayant pas d'activités à l'exportation
+EXP	Total des exportations en 2000
+EXP98	Total des exportations en 1998
+FAC1	Risque économique excessif
+FAC2	Coût excessif de l'innovation
+FAC3	Absence de sources de financement appropriées
+FAC4	Rigidités organisationnelles
+FAC5	Manque de personnel qualifié
+FAC6	Manque d'informations sur la technologie
+FAC7	Manque d'informations sur les marchés
+FAC8	Problèmes liés au respect des réglementations
+FAC9	Manque de réactivité des clients aux nouveaux produits
+FPUB_INNO	Entreprises innovantes en produit et/ou de procédé (PP) recevant un financement public, en % des entreprises innovantes PP
+FUNEU	Entreprises ayant bénéficié d'un financement de la part de l'Union européenne
+FUNEU_MISS	Information manquante pour la variable considérée
+FUNEU_NO	Aucun financement de la part de l'Union européenne
+FUNEU_YES	Oui, l'entreprise a bénéficié d'un financement de la part de l'Union européenne.
+FUNGMT	Entreprises ayant bénéficié d'un financement de la part de l'administration centrale (y compris les agences centrales du Gouvernement ou les ministères)
+FUNGMT_MISS	Information manquante pour la variable considérée
+FUNGMT_NO	Aucun financement de la part de l'administration centrale
+FUNGMT_YES	Oui, l'entreprise a bénéficié d'un financement de la part de l'administration centrale.
+FUNLOC	Entreprises ayant bénéficié d'un financement de la part des autorités locales ou régionales
+FUNLOC_MISS	Information manquante pour la variable considérée
+FUNLOC_NO	Aucun financement de la part des autorités locales ou régionales
+FUNLOC_YES	Oui, l'entreprise a bénéficié d'un financement de la part des autorités locales ou régionales.
+FUNPUB	Entreprises ayant bénéficié d'un financement public
+FUNPUB_MISS	Information manquante pour la variable considérée
+FUNPUB_NO	Aucun financement public
+FUNPUB_YES	Oui, l'entreprise a bénéficié d'un financement public.
+FUNRTD_MISS	Information manquante pour la variable considérée
+FUNRTD_NO	Aucun financement au titre du quatrième ou cinquième programme-cadre de RDT
+FUNRTD_YES	Oui, l'entreprise a bénéficié d'un financement au titre du quatrième ou cinquième programme-cadre de RDT.
+FUNRTD56	Entreprise ayant bénéficié d'un financement au titre du cinquième ou du sixième programme-cadre
+FUNRTD6	Entreprise ayant reçu un financement au titre du 6e programme cadre
+FUNRTD6_7	Entreprise ayant reçu un financement au titre du 6e ou 7e programme cadre
+FUNRTD7	Entreprises ayant reçu un financement au titre du 7e programme cadre
+FWTURN1	Entreprises dont le pourcentage du chiffre d'affaires dû aux innovations de produit en première mondiale se situe entre >0% et <1%
+FWTURN2	Entreprises dont le pourcentage du chiffre d'affaires dû aux innovations de produit en première mondiale se situe entre ?1% et <5%
+FWTURN3	Entreprises dont le pourcentage du chiffre d'affaires dû aux innovations de produit en première mondiale se situe entre ?5% et <10%
+FWTURN4	Entreprises dont le pourcentage du chiffre d'affaires dû aux innovations de produit en première mondiale se situe entre ?10% et <25%
+FWTURN5	Entreprises dont le pourcentage du chiffre d'affaires dû aux innovations de produit en première mondiale s'élève à plus de 25%
+FWTURN6	Entreprises qui ne connaissent pas le pourcentage de leur chiffre d'affaires total 2012 dû aux innovations de produit en première mondiale
+GMTSUP	Soutien des pouvoirs publics
+GOCOS_HIGH	Entreprises pour lesquelles un objectif de baisse des coûts est très important
+GOCOS_NR	Entreprises qui ne se sentent pas concernées par un objectif de baisse des coûts
+GOMKT_HIGH	Entreprises pour lesquelles un objectif d'accroissement de leur part de marché est très important
+GOMKT_NR	Entreprises qui ne se sentent pas concernées par un objectif d'accroissement de leur part de marché
+GOPRF_HIGH	Entreprises pour lesquelles un objectif d'accroissement des marges bénéficiaires est très important
+GOPRF_NR	Entreprises qui ne se sentent pas concernées par un objectif d'accroissement des marges bénéficiaires
+GOTURN_HIGH	Entreprises pour lesquelles un objectif d'accroissement du chiffre d'affaires est très important
+GOTURN_NR	Entreprises qui ne se sentent pas concernées par un objectif d'accroissement du chiffre d'affaires
+GP_MISS	Information manquante pour la variable considérée
+GP_NO	Entreprises ne faisant pas partie d'un groupe
+GP_YES	Entreprises faisant partie d'un groupe d'entreprises
+H1	Retards sérieux dans les projets d'innovation
+H2	Abandon de projets d'innovation
+H3	Les projets d'innovation n'ont pas débuté.
+HBEG_YES	Entreprise ayant abandonné des activités d'innovation après les avoir entamées
+HBUR_MISS	Information manquante pour la variable considérée
+HBUR_NO	Entreprise dont les activités d'innovation n'ont pas été alourdies/compliquées
+HBUR_YES	Entreprise dont les activités d'innovation ont été alourdies/compliquées
+HCON_YES	Entreprise ayant abandonné des activités d'innovation lors de la phase de conception
+HCOS_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: coût de l'innovation
+HCOS_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: coût de l'innovation
+HCOS_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: coût de l'innovation
+HCOS_MISS	Information manquante pour la variable considérée
+HCOS_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: coût de l'innovation
+HCUS_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: réactivité des clients
+HCUS_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: réactivité des clients
+HCUS_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: réactivité des clients
+HCUS_MISS	Information manquante pour la variable considérée
+HCUS_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: réactivité des clients
+HDLAY_MISS	Information manquante pour la variable considérée
+HDLAY_NO	Entreprise dont les activités d'innovation n'ont pas été affectées par de sérieux retards
+HDLAY_YES	Entreprise dont les activités d'innovation ont été affectées par de sérieux retards
+HECO_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: risque économique
+HECO_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: risque économique
+HECO_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: risque économique
+HECO_MISS	Information manquante pour la variable considérée
+HECO_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: risque économique
+HFCOS_HIGH	Entreprises pour lesquelles les coûts excessifs liés à l'innovation est un obstacle important aux activités d'innovation
+HFDEM_HIGH	Entreprises pour lesquelles l'incertitude de la demande en biens ou services innovants est un obstacle important aux activités d'innovation
+HFDOM_HIGH	Entreprises pour lesquelles un marché dominé par des entreprises établies est un obstacle important aux activités d'innovation
+HFENT_HIGH	Entreprises pour lesquelles le manque de moyens financiers internes était un obstacle très important pour innover
+HFENT_HIGH10	Entreprises pour lesquelles un manque de moyens financiers au sein de l'entreprise ou du groupe est un obstacle important aux activités d'innovation
+HFFUND_HIGH	Manque de moyens financiers au sein de votre entreprise ou de votre groupe: facteur entravant fortement les activités d'innovation
+HFIN_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: sources de financement
+HFIN_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: sources de financement
+HFIN_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: sources de financement
+HFIN_MISS	Information manquante pour la variable considérée
+HFIN_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: sources de financement
+HFINFO_HIGH	Entreprises pour lesquelles un manque d'informations sur les marchés est un obstacle important aux activités d'innovation
+HFIT_HIGH	Entreprises pour lesquelles un manque d'informations sur la technologie est un obstacle important aux activités d'innovation
+HFLEX_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: réglementations et normes
+HFLEX_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: réglementations et normes
+HFLEX_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: réglementations et normes
+HFLEX_MISS	Information manquante pour la variable considérée
+HFLEX_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: réglementations et normes
+HFOUT_HIGH	Coût excessif de l'innovation: facteur entravant fortement les activités d'innovation
+HFOUT_HIGH10	Entreprises pour lesquelles un manque de moyens financiers en-dehors de l'entreprise ou du groupe est un obstacle important aux activités d'innovation
+HFPAR_HIGH	Entreprises pour lesquelles une difficulté à trouver des partenaires pour coopérer est un obstacle important aux activités d'innovation
+HFPER_HIGH	Entreprises pour lesquelles un manque de personnel qualifié est un obstacle important aux activités d'innovation
+HIMP_MISS	Information manquante pour la variable considérée
+HIMP_NO	Absence d'activités d'innovation sans rapport avec la situation du marché
+HIMP_YES	Absence d'activités d'innovation en raison de la situation du marché
+HINF_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: informations sur les marchés
+HINF_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: informations sur les marchés
+HINF_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: informations sur les marchés
+HINF_MISS	Information manquante pour la variable considérée
+HINF_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: informations sur les marchés
+HMAR_MISS	Information manquante pour la variable considérée
+HMAR_NO	Aucune nécessité d'innover sans rapport avec des innovations précédentes
+HMAR_YES	Aucune nécessité d'innover en raison d'innovations précédentes
+HOCC_YES	Le siège de l'entreprise se trouve dans un pays candidat.
+HOEFTA_YES	Le siège de l'entreprise se trouve dans l'AELE.
+HOEU_YES	Le siège de l'entreprise se trouve dans l'UE.
+HOJP_YES	Le siège de l'entreprise se trouve au Japon.
+HOOT_YES	Entreprises faisant partie d'un groupe d'entreprises et dont le siège se trouve à l'étranger
+HORG_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: rigidités organisationnelles
+HORG_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: rigidités organisationnelles
+HORG_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: rigidités organisationnelles
+HORG_MISS	Information manquante pour la variable considérée
+HORG_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: rigidités organisationnelles
+HOUS_YES	Le siège de l'entreprise se trouve aux États-Unis.
+HPER_HIGH	Entreprises pour lesquelles le manque d'employés qualifiés était un obstacle très important pour innover
+HPER_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: personnel qualifié
+HPER_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: personnel qualifié
+HPER_MISS	Information manquante pour la variable considérée
+HPER_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: personnel qualifié
+HPRIOR_MISS	Information manquante pour la variable considérée
+HPRIOR_NO	Absence d'activités d'innovation sans raison
+HPRIOR_YES	Absence d'activités d'innovation: synthèse
+HSTAR_MISS	Information manquante pour la variable considérée
+HSTAR_NO	Entreprise n'ayant pas été empêchée de démarrer ses activités d'innovation
+HSTAR_YES	Entreprise ayant été empêchée de démarrer ses activités d'innovation
+HTEC_HIGH	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant fortement l'innovation: informations sur la technologie
+HTEC_LOW	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant faiblement l'innovation: informations sur la technologie
+HTEC_MED	Absence d'activités d'innovation en raison de facteurs entravant l'innovation  Facteur entravant modérément l'innovation: informations sur la technologie
+HTEC_MISS	Information manquante pour la variable considérée
+HTEC_NO	Absence d'activités d'innovation non liée à des facteurs entravant l'innovation  Facteur entravant l'innovation: informations sur la technologie
+IES_SDOS	Utilisation conjointe de compétences internes et externes en conception d'objets ou de services
+IES_SENAP	Utilisation conjointe de compétences internes et externes en ingénierie / sciences appliquées
+IES_SGALA	Utilisation conjointe de compétences internes et externes en arts graphiques / layout / publicité
+IES_SMED	Utilisation conjointe de compétences internes et externes en multimédia
+IES_SMKR	Utilisation conjointe de compétences internes et externes en étude de marché
+IES_SMSDM	Utilisation conjointe de compétences internes et externes en mathématiques / statistiques / gestion de bases de données
+IES_SSWD	Utilisation conjointe de compétences internes et externes en développement de logiciels
+IES_SWDS	Utilisation conjointe de compétences internes et externes en conception Web
+IH_SDOS	Utilisation exclusive de compétences internes en conception d'objets ou de services
+IH_SENAP	Utilisation exclusive de compétences internes en ingénierie / sciences appliquées
+IH_SGALA	Utilisation exclusive de compétences internes en arts graphiques / layout / publicité
+IH_SMED	Utilisation exclusive de compétences internes en multimédia
+IH_SMKR	Utilisation exclusive de compétences internes en étude de marché
+IH_SMSDM	Utilisation exclusive de compétences internes en mathématiques / statistiques / gestion de bases de données
+IH_SSWD	Utilisation exclusive de compétences internes en développement de logiciels
+IH_SWDS	Utilisation exclusive de compétences internes en conception Web
+INAB_MISS	Information manquante pour la variable considérée
+INAB_NO	Entreprise n'ayant pas abandonné des activités d'innovation
+INAB_YES	Entreprise ayant abandonné des activités d'innovation
+INDEHIE	Salariés diplômés de l'enseignement supérieur par salarié, 2000
+INDEP1	Entreprises innovant de manière indépendante
+INDEP2	Entreprises indépendantes
+INDEXE	Exportations par salarié, 2000
+INDEXE98	Exportations par salarié, 1998
+INDEXP1	Dépenses totales liées aux activités d'innovation, par salarié, 2000
+INDEXP1_04	Dépenses totales liées aux activités d'innovation en part du chiffre d'affaires total
+INDEXP10	Dépenses liées aux connaissances externes, en part du chiffre d'affaires total, 2000
+INDEXP10_04	Dépenses liées à l'acquisition d'autres connaissances externes, en part du chiffre d'affaires total
+INDEXP11	Dépenses liées à la formation, à la commercialisation et à d'autres activités de préparation, par salarié, 2000
+INDEXP12	Dépenses liées à la formation, à la commercialisation et à d'autres activités de préparation, en part du chiffre d'affaires total, 2000
+INDEXP2	Dépenses totales liées aux activités d'innovation en part du chiffre d'affaires total, 2000
+INDEXP3	Dépenses liées aux activités de R & D intra-muros, par salarié, en 2000
+INDEXP4	Dépenses liées aux activités de R & D intra-muros, en part du chiffre d'affaires total, 2000
+INDEXP4_04	Dépenses liées aux activités de R & D intra-muros en part du chiffre d'affaires total
+INDEXP5	Dépenses liées aux activités d'innovation extra-muros, par salarié, 2000
+INDEXP6	Dépenses liées aux activités d'innovation extra-muros, en part du chiffre d'affaires total, 2000
+INDEXP6_04	Dépenses liées aux activités de R & D extra-muros en part du chiffre d'affaires total
+INDEXP7	Dépenses liées à l'acquisition de machines, par salarié, 2000
+INDEXP8	Dépenses liées à l'acquisition de machines, en part du chiffre d'affaires total, 2000
+INDEXP8_04	Dépenses liées à l'acquisition de machines, d'équipements et de logiciels, en part du chiffre d'affaires total
+INDEXP9	Dépenses liées aux connaissances externes, par salarié, 2000
+INDINE	Investissements bruts en biens matériels par salarié, 2000
+INDINEHI	Investissements bruts en biens matériels par salarié diplômé de l'enseignement supérieur, 2000
+INDRDPE	Nombre de personnes ayant participé aux activités de R & D intra-muros, en part du nombre total de salariés
+INDRDPEHI	Nombre de personnes ayant participé aux activités de R & D intra-muros, en part du nombre total de salariés diplômés de l'enseignement supérieur
+INDTE	Chiffre d'affaires par salarié, 2000
+INDTE98	Chiffre d'affaires par salarié, 1998
+INDTEHI	Chiffre d'affaires par salarié diplômé de l'enseignement supérieur, 2000
+INHOUSE	Entreprises innovant en interne par type d'innovateurs
+INMAR_MISS	Information manquante pour la variable considérée
+INMAR_NO	L'entreprise n'a pas introduit des produits nouveaux ou améliorés sur le marché.
+INMAR_YES	L'entreprise a introduit des produits nouveaux ou améliorés sur le marché.
+INN_ACT	Entreprises ayant des activités d'innovation
+INNO_ENT	Entreprises innovantes - Total
+INNO_TOT	Entreprises innovantes en produit et/ou procédé (indépendamment d'innovation en organisation/marketing), en % du nombre total d'entreprises
+INNOCOOP_INNO	Entreprises innovantes participant à une coopération dans le domaine de l'innovation, en pourcentage de l'ensemble des entreprises innovantes
+INNOEXP_TURN	Dépenses liées aux activités d'innovation, en pourcentage du chiffre d'affaires de l'ensemble des entreprises
+INON_MISS	Information manquante pour la variable considérée
+INON_NO	L'entreprise n'a pas d'activités d'innovation en cours non terminées.
+INON_YES	L'entreprise a des activités d'innovation en cours ou ne les a pas terminées.
+INPCS_1	Nouveaux procédés élaborés par d'autres entreprises
+INPCS_2	Nouveaux procédés élaborés en collaboration avec d'autres entreprises
+INPCS_3	Nouveaux procédés élaborés de manière indépendante
+INPCS_MISS	Information manquante pour la variable considérée
+INPCS_NO	Entreprise n'étant pas innovante au niveau du procédé, n'ayant pas introduit sur le marché un procédé nouveau ou amélioré de manière significative
+INPCS_YES	Entreprise innovante au niveau du procédé, ayant introduit sur le marché un procédé nouveau ou amélioré de manière significative
+INPCSW_ADP_RD	Entreprises ayant introduit une innovation de procédé, développée en adaptant ou en modifiant des procédés developpés à l'origine par d'autres entreprises (actives en R&D)
+INPCSW_COP	Procédé, développé par l'entreprise avec d'autres entreprises ou instituts
+INPCSW_COP_NRD	Entreprises ayant introduit une innovation de procédé, développée en collaboration avec d'autres entreprises ou institutions (inactives en R&D)
+INPCSW_COP_RD	Entreprises ayant introduit une innovation de procédé, développée en collaboration avec d'autres entreprises ou institutions (actives en R&D)
+INPCSW_ENT	Procédé, développé principalement par l'entreprise ou le groupe d'entreprises
+INPCSW_ENT_NRD	Entreprises ayant introduit une innovation de procédé, développée par elles-mêmes ou par le groupe d'entreprises (inactives en R&D)
+INPCSW_ENT_RD	Entreprises ayant introduit une innovation de procédé, développée par elles-mêmes ou par le groupe d'entreprises (actives en R&D)
+INPCSW_MISS	Information manquante pour la variable considérée: responsable principal du développement de ces produits
+INPCSW_OTH	Procédé, développé principalement par d'autres entreprises ou instituts
+INPCSW_OTH_NRD	Entreprises ayant introduit une innovation de procédé, développée par d'autres entreprises ou institutions (inactives en R&D)
+INPCSW_OTH_RD	Entreprises ayant introduit une innovation de procédé, développée par d'autres entreprises ou institutions (actives en R&D)
+INPDFW_YES	Entreprises ayant au moins introduit une innovation de produit en "première mondiale"
+INPDGD	Entreprises ayant développé une innovation de bien
+INPDPC_ADP_NRD	Entreprises ayant développé une innovation de produit et/ou de procédé en adaptant ou en modifiant des biens, des services ou des procédés développés initialement par d'autres entreprises ou organisations / non R&D
+INPDPC_ADP_RD	Entreprises ayant développé une innovation de produit et/ou de procédé en adaptant ou en modifiant des biens, des services ou des procédés développés initialement par d'autres entreprises ou organisations / R&D
+INPDPC_COP_NRD	Entreprises ayant développé une innovation de produit et/ou de procédé en coopération avec d'autres entreprises ou organisations / non R&D
+INPDPC_COP_RD	Entreprises ayant développé une innovation de produit et/ou de procédé en coopération avec d'autres entreprises ou organisations / R&D
+INPDPC_ENT_NRD	Entreprises ayant développé une innovation de produit et/ou de procédé en interne / non R&D
+INPDPC_ENT_RD	Entreprises ayant développé une innovation de produit et/ou de procédé en interne / R&D
+INPDPC_OTH_NRD	Entreprises ayant introduit une innovation de produit et/ou de procédé développée par d'autres entreprises ou organisations / non R&D
+INPDPC_OTH_RD	Entreprises ayant introduit une innovation de produit et/ou de procédé développée par d'autres entreprises ou organisations / R&D
+INPDSV	Entreprises ayant développé une innovation de services
+INPDT_1	Nouveaux produits élaborés par d'autres entreprises
+INPDT_2	Nouveaux produits élaborés en collaboration avec d'autres entreprises
+INPDT_3	Nouveaux produits élaborés de manière indépendante
+INPDT_MISS	Information manquante pour la variable considérée
+INPDT_NO	Entreprise n'étant pas innovante au niveau des produits, n'ayant pas introduit sur le marché des produits nouveaux ou améliorés de manière significative
+INPDT_YES	Entreprise innovante au niveau des produits, ayant introduit sur le marché des produits nouveaux ou améliorés de manière significative
+INPDTG1	Entreprises ayant développé des innovations de biens par elles-mêmes ou par le groupe d'entreprises
+INPDTG2	Entreprises ayant développé des innovations de biens en collaboration avec d'autres entreprises ou institutions
+INPDTG3	Entreprises ayant développé des innovations de biens en adaptant ou en modifiant des biens developpés à l'origine par d'autres entreprises
+INPDTG4	Entreprises ayant introduit des innovations de biens développées par d'autres entreprises ou institutions
+INPDTS1	Entreprises ayant développé des innovations de services par elles-mêmes ou par le groupe d'entreprises
+INPDTS2	Entreprises ayant développé des innovations de services en collaboration avec d'autres entreprises ou institutions
+INPDTS3	Entreprises ayant développé des innovations de services en adaptant ou en modifiant des services developpés à l'origine par d'autres entreprises
+INPDTS4	Entreprises ayant introduit des innovations de services développées par d'autres entreprises ou institutions
+INPDTW_ADP_NRD	Entreprises ayant introduit une innovation de produit en adaptant ou en modifiant des produits developpés à l'origine par d'autres entreprises (inactives en R&D)
+INPDTW_ADP_RD	Entreprises ayant introduit une innovation de produit en adaptant ou en modifiant des produits developpés à l'origine par d'autres entreprises (actives en R&D)
+INPDTW_COP	Produit, développé par l'entreprise avec d'autres entreprises ou instituts
+INPDTW_COP_NRD	Entreprises ayant introduit une innovation de produit, développée en collaboration avec d'autres entreprises ou institutions (inactives en R&D)
+INPDTW_COP_RD	Entreprises ayant introduit une innovation de produit, développée en collaboration avec d'autres entreprises ou institutions (actives en R&D)
+INPDTW_ENT	Produit, développé principalement par l'entreprise ou le groupe d'entreprises
+INPDTW_ENT_NRD	Entreprises ayant introduit une innovation de produit, développée par elles-mêmes ou par le groupe d'entreprises (inactives en R&D)
+INPDTW_ENT_RD	Entreprises ayant introduit une innovation de produit, développée par elles-mêmes ou par le groupe d'entreprises (actives en R&D)
+INPDTW_MISS	Information manquante pour la variable considérée: responsable principal du développement de ces produits
+INPDTW_OTH	Produit, développé principalement par d'autres entreprises ou instituts
+INPDTW_OTH_NRD	Entreprises ayant introduit une innovation de produit, développée par d'autres entreprises ou institutions (inactives en R&D)
+INPDTW_OTH_RD	Entreprises ayant introduit une innovation de produit, développée par d'autres entreprises ou institutions (actives en R&D)
+INPSDV1	Entreprises ayant développé des innovations de procédés par elles-mêmes ou par le groupe d'entreprises
+INPSDV2	Entreprises ayant développé des innovations de procédés en collaboration avec d'autres entreprises ou institutions
+INPSDV3	Entreprises ayant développé des innovations de procédés en adaptant ou en modifiant des procédés developpés à l'origine par d'autres entreprises
+INPSDV4	Entreprises ayant introduit des innovations de procédés développées par d'autres entreprises ou institutions
+INPSLG	Entreprises ayant introduit une innovation de procédé en améliorant la logistique ou des méthodes de livraison ou de distribution
+INPSNM0	Entreprises ayant introduit une innovation de procédé qui n'était pas nouvelle sur le marché
+INPSNM1	Entreprises ayant introduit une innovation de procédé qui était nouvelle sur le marché
+INPSNM2	Entreprises ayant introduit une innovation de procédé sans savoir si elle était nouvelle sur le marché
+INPSPD	Entreprises ayant introduit une innovation de procédé en améliorant des méthodes de fabrication ou de production
+INPSSU	Entreprises ayant introduit une innovation de procédé en soutenant des activités de support
+INSER_1	Nouveaux services élaborés par d'autres entreprises
+INSER_2	Nouveaux services élaborés en collaboration avec d'autres entreprises
+INSER_3	Nouveaux services élaborés de manière indépendante
+INTURN	Chiffre d'affaires lié aux produits nouveaux ou améliorés de manière significative, mais ne constituant pas une nouveauté pour le marché
+INTURN_MISS	Information manquante pour la variable considérée
+INUN	Entreprises dont les projets ont échoué ou ne sont pas terminés
+INVTA	Total des investissements bruts en biens matériels en 2000
+LARMAR_EU	Entreprises pour lesquelles le marché le plus important en termes de chiffre d'affaires est situé dans d'autres pays de l'Union Européenne, dans des pays EFTA ou des pays candidats à l'UE
+LARMAR_LREG	Entreprises pour lesquelles le marché le plus important en termes de chiffre d'affaires est le marché local ou régional
+LARMAR_NAT	Entreprises pour lesquelles le marché le plus important en termes de chiffre d'affaires est le marché national
+LARMAR_OTH	Entreprises pour lesquelles le marché le plus important en termes de chiffre d'affaires est situé dans d'autres pays hors Union Européenne, hors pays EFTA ou hors pays candidats à l'UE
+MAR_EU	Entreprises vendant des biens ou des services dans d'autres pays de l'Union Européenne, dans des pays EFTA ou des pays candidats à l'UE
+MAR_LREG	Entreprises vendant des biens ou des services sur le marché local ou régional
+MAR_NAT	Entreprises vendant des biens ou des services sur le marché national
+MAR_OTH	Entreprises vendant des biens ou des services dans d'autres pays hors Union Européenne, hors pays EFTA ou hors pays candidats à l'UE
+MARTURN	Chiffre d'affaires lié aux produits nouveaux ou améliorés de manière significative et constituant une nouveauté pour le marché
+MARTURN_MISS	Information manquante pour la variable considérée
+MBRST	Sessions de brainstorming, méthode fructueuse pour stimuler la créativité
+MFIN	Incitants financiers à développer de nouvelles idées pour les employés, méthode fructueuse pour stimuler la créativité
+MJBRT	Rotation du personnel, méthode fructueuse pour stimuler la créativité
+MKTDGP	Entreprises ayant introduit des changements significatifs dans la conception esthétique ou le conditionnement
+MKTINNO_YES	Entreprises ayant introduit une innovation de marketing
+MKTPDL	Entreprises ayant introduit de nouvelles méthodes pour le positionnement du produit
+MKTPDP	Entreprises ayant introduit de nouveaux médias ou nouvelles techniques de promotion du produit
+MKTPRI	Entreprises ayant introduit de nouvelles méthodes de tarification des biens ou des services
+MMDCF	Equipes de travail interfonctionnelle ou multidisciplinaire, méthode fructueuse pour stimuler la créativité
+MNFIN	Incitants non financiers pour les employés, méthode fructueuse pour stimuler la créativité
+MTREM	Formation pour les employés sur la manière de développer de nouvelles idées ou de la créativité, méthode fructueuse pour stimuler la créativité
+NEWFRM_TURN	Chiffre d'affaires lié aux nouveaux produits ou aux produits améliorés de manière significative dont la nouveauté est située à l'échelle de l'entreprise
+NEWFRM_YES	Entreprises ayant introduit de nouveaux produits ou des produits améliorés de manière significative dont la nouveauté est située à l'échelle de l'entreprise
+NEWMAR	Entreprises innovantes dont les produits sont aussi nouveaux pour le marché
+NEWMAR_TURN	Chiffre d'affaires lié aux nouveaux produits ou aux produits améliorés de manière significative dont la nouveauté est située à l'échelle du marché
+NEWMAR_YES	Entreprises ayant introduit de nouveaux produits ou des produits améliorés de manière significative dont la nouveauté est située à l'échelle du marché
+NODEM_YES	Entreprises pour lesquelles la dispense d'innover en raison de l'absence de demande pour des innovations est un obstacle important aux activités d'innovation
+NOENVID	Pas de procédures
+NON_INDEP1	Entreprises n'innovant pas de manière indépendante
+NON_INDEP2	Entreprises non indépendantes
+OBSAMK_HIGH	Entreprises pour lesquelles le niveau élevé du coût d'accès à de nouveaux marchés est un obstacle très important
+OBSAMK_NR	Entreprises qui ne se sentent pas concernées par les coûts élevés d'accès à de nouveaux marchés
+OBSCP_HIGH	Entreprises pour lesquelles les innovations émanant de concurrents est un obstacle très important
+OBSCP_NR	Entreprises qui ne se sentent pas concernées par les innovations émanant de concurrents
+OBSDMK_HIGH	Entreprises pour lesquelles les parts de marché détenues par les concurrents sont un obstacle très important
+OBSDMK_NR	Entreprises qui ne se sentent pas concernées par les parts de marché détenues par les concurrents
+OBSFIN_HIGH	Entreprises pour lesquelles l'absence de financement adéquat est un obstacle très important
+OBSFIN_NR	Entreprises qui ne se sentent pas concernées par l'absence de financement adéquat
+OBSLDE_HIGH	Entreprises pour lesquelles l'insuffisance de la demande est un obstacle très important
+OBSLDE_NR	Entreprises qui ne se sentent pas concernées par l'insuffisance de la demande
+OBSPR_HIGH	Entreprises pour lesquelles la forte concurrence en matière de prix est un obstacle très important
+OBSPR_NR	Entreprises qui ne se sentent pas concernées par la forte concurrence en matière de prix
+OBSPRS_HIGH	Entreprises pour lesquelles le manque de personnel qualifié est un obstacle très important
+OBSPRS_NR	Entreprises qui ne se sentent pas concernées par le manque de personnel qualifié
+OBSQL_HIGH	Entreprises pour lesquelles la forte concurrence en matière de qualité des produits est un obstacle très important
+OBSQL_NR	Entreprises qui ne se sentent pas concernées par la forte concurrence en matière de qualité des produits
+OBSREG_HIGH	Entreprises pour lesquelles le coût élevé du respect des réglementations est un obstacle très important
+OBSREG_NR	Entreprises qui ne se sentent pas concernées par le coût élevé généré par le respect des réglementations
+OCAP	Entreprises pour lesquelles l'augmentation de la capacité de production des biens ou des services est un objectif très important pour innover
+OENMK	Conquérir de nouveaux marchés
+OENV_IMP	Réduction du préjudice subi par l'environnement
+OENV_NO	Réduction du préjudice subi par l'environnement
+OEXT_IMP	Extension de la gamme de produits ou de services
+OEXT_NO	Extension de la gamme de produits ou de services
+OFLEX	Entreprises pour lesquelles l'amélioration de la flexibilité de la production des biens ou des services est un objectif très important pour innover
+OHES	Améliorer la santé et la sécurité
+OHESY	Entreprises pour lesquelles l'amélioration de la santé ou la sécurité des employés est un objectif très important pour innover
+OIMKS	Accroître la part de marché
+OIMP_IMP	Amélioration de la qualité du produit ou du service
+OIMP_NO	Amélioration de la qualité du produit ou du service
+OLBR	Entreprises pour lesquelles la réduction du coût du travail par unité produite est un objectif très important pour innover
+OLBR_IMP	Réduction du coût de la main-d'uvre
+OLBR_NO	Réduction du coût de la main-d'uvre
+OMAT_IMP	Réduction de la consommation de matériaux
+OMAT_NO	Réduction de la consommation de matériaux
+OMKTCG	Entreprises pour lesquelles l'introduction de produits auprès de nouveaux groupes de consommateurs est un objectif très important pour innover
+OMKTGM	Entreprises pour lesquelles l'introduction de produits sur des nouveaux marchés au niveau géographique est un objectif très important pour innover
+OMKTS	Entreprises pour lesquelles l'augmentation ou le maintien de la part de marché est un objectif très important pour innover
+ONMOMS	Entreprises pour lesquelles la pénétration de nouveaux marchés ou l'augmentation de la part de marché est un objectif très important pour innover
+ONRG_IMP	Réduction de la consommation d'énergie
+ONRG_NO	Réduction de la consommation d'énergie
+OOPN_IMP	Ouverture de nouveaux marchés ou accroissement des parts de marché
+OOPN_NO	Ouverture de nouveaux marchés ou accroissement des parts de marché
+OPDT_IMP	Amélioration de la flexibilité de la production ou des procédés
+OPDT_NO	Amélioration de la flexibilité de la production ou des procédés
+OQUA	Entreprises pour lesquelles l'amélioration de la qualité des biens ou des services est un objectif très important pour innover
+ORANGE	Entreprises pour lesquelles l'élargissement de la gamme de biens ou de services est un objectif très important pour innover
+OREI	Entreprises pour lesquelles la réduction des impacts environnementaux est un objectif très important pour innover
+OREP_IMP	Remplacement de produits ou de services appelés à disparaître progressivement
+OREP_NO	Remplacement de produits ou de services appelés à disparaître progressivement
+OREPL	Entreprises pour lesquelles le remplacement des produits ou des procédés dépassés est un objectif très important pour innover
+ORGBUP	Entreprises ayant introduit de nouveaux modes de fonctionnement dans l'organisation des procédures
+ORGEXR	Entreprises ayant introduit de nouvelles méthodes d'organisation des relations externes avec d'autres entreprises ou organismes
+ORGINNO_YES	Entreprises ayant introduit des innovations en matière d'organisation
+ORGMKT_YES	Entreprises ayant introduit des innovations en matière d'organisation et/ou de marketing
+ORGWKP	Entreprises ayant introduit de nouvelles méthodes d'organisation du travail et de prise de décision
+ORME	Entreprises pour lesquelles la réduction des coûts liés à l'énergie ou au matériel par unité produite est un objectif très important pour innover
+OROABL	Entreprises pour lesquelles l'amélioration de la capacité à développer de nouveaux produits ou procédés est un objectif très important pour innover
+OROCIN	Entreprises pour lesquelles l'amélioration de la communication ou du partage de l'information est un objectif très important pour innover
+OROQUA	Entreprises pour lesquelles l'amélioration de la qualité des biens ou des services est un objectif très important pour innover
+ORORCO	Entreprises pour lesquelles la diminution des coûts par unité de production est un objectif très important pour innover
+ORORED	Entreprises pour lesquelles la réduction du délai de réponse aux besoins des clients ou des fournisseurs est un objectif très important pour innover
+OSTD_IMP	Respect des réglementations et des normes
+OSTD_NO	Respect des réglementations et des normes
+PAAP_MISS	Information manquante pour la variable considérée
+PAAP_NO	L'entreprise n'a pas déposé le moindre brevet pour protéger ses inventions.
+PAAP_YES	L'entreprise a déposé au moins un brevet pour protéger ses inventions.
+PANDP_TOT	Entreprises innovantes seulement en produit et procédé (indépendamment d'innovation en organisation/marketing), en % du nombre total des entreprises
+PAT	Déposé un brevet
+PAVAL_MISS	Information manquante pour la variable considérée
+PAVAL_NO	Pas de brevets valides à la fin de 2000
+PAVAL_YES	Nombre de brevets valides à la fin de 2000
+PCSO_TOT	Entreprises innovantes seulement en procédé, en % du nombre total d'entreprises
+PDTO_TOT	Entreprises innovantes seulement en produit, en % du nombre total d'entreprises (indépendamment d'innovation en organisation/marketing)
+PRIOR_YES	Entreprises pour lesquelles la dispense d'innover en raison d'innovations précédentes est un obstacle important aux activités d'innovation
+PROC_INN	Entreprises innovantes - Procédés
+PROCP	Revendiqué des droits d'auteur
+PROCP_MISS	Information manquante pour la variable considérée
+PROCP_NO	Pas de protection par des droits d'auteur
+PROCP_YES	Protection par des droits d'auteur
+PROD_INN	Entreprises innovantes - Produits
+PRODES_MISS	Information manquante pour la variable considérée
+PRODES_NO	Pas de protection par la complexité de la conception
+PRODES_YES	Protection par la complexité de la conception
+PRODSG	Entreprises ayant enregistré un dessin ou modèle
+PROPAT	Entreprises ayant déposé un brevet
+PROREG_MISS	Information manquante pour la variable considérée
+PROREG_NO	Pas de protection par enregistrement des dessins
+PROREG_YES	Protection par enregistrement des dessins
+PROSEC_MISS	Information manquante pour la variable considérée
+PROSEC_NO	Pas de protection par la confidentialité
+PROSEC_YES	Protection par la confidentialité
+PROTIM_MISS	Information manquante pour la variable considérée
+PROTIM_NO	Pas de protection par les avantages d'une avance sur les concurrents
+PROTIM_YES	Protection par les avantages d'une avance sur les concurrents
+PROTM	Entreprises ayant déposé une marque commerciale
+PROTM_MISS	Information manquante pour la variable considérée
+PROTM_NO	Pas de protection par des marques déposées
+PROTM_YES	Protection par des marques déposées
+PUB_GEN	Entreprises ayant remporté un appel d'offres pour le secteur public national et/ou pour un secteur public étranger
+PUBDINNR	Entreprises ayant remporté un appel d'offres pour le secteur public national et ayant entrepris une activité d'innovation sans que le marché ne l'ait requis
+PUBDINRQ	Entreprises ayant remporté un appel d'offres pour le secteur public national et ayant entrepris une activité d'innovation requise par le marché
+PUBDNONIN	Entreprises ayant remporté un appel d'offres pour le secteur public national pour lequel aucune activité d'innovation n'a été entreprise
+PUBDOM	Entreprises ayant remporté un appel d'offres pour le secteur public national
+PUBFINNR	Entreprises ayant remporté un appel d'offres pour un secteur public étranger et ayant entrepris une activité d'innovation sans que le marché ne l'ait requis
+PUBFINRQ	Entreprises ayant remporté un appel d'offres pour un secteur public étranger et ayant entrepris une activité d'innovation requise par le marché
+PUBFNONIN	Entreprises ayant remporté un appel d'offres pour un secteur public étranger pour lequel aucune activité d'innovation n'a été entreprise
+PUBFOR	Entreprises ayant remporté un appel d'offres pour un secteur public étranger
+PUBINNR	Entreprises ayant remporté un appel d'offres pour le secteur public (domestique et/ou étranger) et ayant entrepris une activité d'innovation sans que le marché ne l'ait requis
+PUBINRQ	Entreprises ayant remporté un appel d'offres pour le secteur public (domestique et/ou étranger) et ayant entrepris une activité d'innovation requise par le marché
+PUBNONIN	Entreprises ayant remporté un appel d'offres pour pour le secteur public (domestique et/ou étranger) pour lequel aucune activité d'innovation n'a été entreprise
+RD_HIGH	Entreprises innovantes très actives dans les activités de R & D
+RD_LOW	Entreprises innovantes peu actives dans les activités de R & D
+RD_MED	Entreprises innovantes modérément actives dans les activités de R & D
+RD_NULL	Entreprises innovantes n'enregistrant aucune dépense liée aux activités de R & D
+RDCON_1	Engagées de manière constante dans des activités de R & D
+RDCON_2	Engagées occasionnellement dans des activités de R & D
+RDCON_3	Pas du tout engagées dans des activités de R & D
+RDENG_CONT	Entreprises engagées de manière continue dans des activités de R&D intra-muros
+RDENG_MISS	Information manquante pour la variable considérée
+RDENG_OCC	Entreprises engagées de manière occasionnelle dans des activités de R&D intra-muros
+RDEX_INNO	Entreprises innovantes en produit et/ou de procédé (PP) engagées dans des activités de R&D extra-muros, en % des entreprises innovantes PP
+RDIN_INNO	Entreprises innovantes en produit et/ou de procédé (PP) engagées dans des activités de R&D intra-muros, en % des entreprises innovantes PP
+RDPER	Nombre total de personnes ayant participé aux activités de R & D intra-muros en 2000
+RDSG	Entreprises engagées dans des activités de design visant à améliorer ou à modifier la forme ou l'apparence
+REXP04	Dépenses totales liées aux activités d'innovation
+REXP04_YES	Entreprises engagées dans des activités d'innovation
+REXP06	Dépenses totales liées aux activités d'innovation
+REXP06_YES	Entreprises engagées dans des activités d'innovation
+REXP08	Total des dépenses d'innovation
+REXP08_YES	Entreprises engagées dans des activités d'innovation
+REXP10	Total des dépenses d'innovation (en R&D intra et extra-muros, en acquisition de machines, d'équipements, de logiciels et d'autres connaissances externes) en 2010
+REXP10_YES	Entreprises ayant déclaré des dépenses d'innovation (en R&D intra et extra-muros, en acquisition de machines, d'équipements, de logiciels et d'autres connaissances externes) en 2010
+RID	Dessin industriel (secteur manufacturier) ou préparations pour l'introduction de nouveaux services ou de nouvelles méthodes (secteur des services)
+RMAC	Acquisition de machines et d'équipements
+RMAC_MISS	Information manquante pour la variable considérée
+RMAC_NO	Entreprises n'étant pas engagées dans l'acquisition de machines
+RMAC_YES	Entreprises engagées dans l'acquisition de machines
+RMACES_YES	Entreprises engagées dans l'acquisition de machines, d'équipements et de logiciels
+RMACES04	Dépenses liées à l'acquisition de machines, d'équipements et de logiciels en 2004
+RMACES06	Dépenses pour l'acquisition de machines, équipement et logiciels en 2006
+RMACES08	Dépenses pour l'acquisition de machines, d'équipements et de logiciels en 2008
+RMACES10	Dépenses pour l'acquisition de machines, d'équipements et de logiciels en 2010
+RMACES12	Dépenses d'acquisition de machines, de matériel et de logiciel en 2012
+RMACX	Dépenses totales liées à l'acquisition de machines en 2000
+RMAR	Introduction d'innovations sur le marché
+RMAR_MISS	Information manquante pour la variable considérée
+RMAR_NO	Entreprises n'étant pas engagées dans l'introduction d'innovations sur le marché
+RMAR_YES	Entreprises engagées dans des activités liées à l'introduction des innovations sur le marché
+ROEK_MISS	Information manquante pour la variable considérée
+ROEK_NO	Entreprises n'étant pas engagées dans l'acquisition d'autres connaissances externes
+ROEK_YES	Entreprises engagées dans l'acquisition d'autres connaissances externes
+ROEK04	Dépenses liées à l'acquisition d'autres connaissances externes en 2004
+ROEK06	Dépenses pour l'acquisition d'autres connaissances externes en 2006
+ROEK08	Dépenses pour l'acquisition d'autres connaissances externes en 2008
+ROEK10	Dépenses pour l'acquisition de connaissances externes en 2010
+ROEK12	Dépenses d'acquisition de connaissances externes en 2012
+ROEKX	Dépenses totales liées à l'acquisition d'autres connaissances externes en 2000
+ROET	Acquisition de technologie externe
+ROTHE_YES	Entreprises engagées dans d'autres activités liées à l'innovation
+ROTHX	Dépenses totales liées à la formation, à la commercialisation et à d'autres activités de préparation en 2000
+ROTREX12	"Dépenses pour ""d'autres"" activités d'innovation en 2012 (y compris conception, formation, marketing et autres)"
+ROTREX12_YES	"Entreprises concernées par les dépenses liées aux ""autres"" activités en 2012 (y compris conception, formation, commercialisation et autres)"
+RPRE_MISS	Information manquante pour la variable considérée
+RPRE_NO	Entreprises n'étant pas engagées dans le design, autres activités de préparation
+RPRE_YES	Entreprises engagées dans le design, autres activités de préparation
+RRDEX	R & D extra-muros
+RRDEX_MISS	Information manquante pour la variable considérée
+RRDEX_NO	Entreprises n'ayant pas engagé d'activités de R & D extra-muros
+RRDEX_YES	Entreprises engagées dans des activités de R&D extra-muros
+RRDEX04	Dépenses liées aux activités de R & D extra-muros en 2004
+RRDEX06	Dépenses de R&D extra-muros en 2006
+RRDEX08	Dépenses de R&D extra-muros en 2008
+RRDEX10	Dépenses en R&D extra-muros en 2010
+RRDEX12	Dépenses de R&D externe en 2012
+RRDEXX	Dépenses totales liées aux activités de R & D extra-muros en 2000
+RRDIN	R & D intra-muros
+RRDIN_MISS	Information manquante pour la variable considérée
+RRDIN_NO	Entreprises n'ayant pas engagé d'activités de R & D intra-muros
+RRDIN_YES	Entreprises engagées dans des activités de R&D intra-muros
+RRDIN04	Dépenses liées aux activités de R & D intra-muros en 2004
+RRDIN06	Dépenses de R&D intra-muros en 2006
+RRDIN08	Dépenses de R&D intra-muros en 2008
+RRDIN10	Dépenses en R&D intra-muros en 2010
+RRDIN12	Dépenses de R&D interne en 2012
+RRDINX	Dépenses totales liées aux activités de R & D intra-muros en 2000
+RTOT	Dépenses totales liées aux activités d'innovation en 2000
+RTR	Formation directement liée aux innovations technologiques
+RTR_MISS	Information manquante pour la variable considérée
+RTR_NO	Entreprises n'étant pas engagées dans la formation
+RTR_YES	Entreprises engagées dans des activités de formation
+SB311	Entreprises innovant en interne en pourcentage de la population totale
+SB341	Chiffre d'affaires lié aux produits nouveaux ou améliorés de manière significative, ne constituant une nouveauté que pour la société, en part du chiffre d'affaires total
+SB421	Chiffre d'affaires lié aux produits nouveaux ou améliorés de manière significative, nouveaux pour le marché, en part du chiffre d'affaires total
+SCLI	Entreprises pour lesquelles les clients ou les consommateurs sont une source d'information très importante pour innover
+SCLI_HIGH	Utilisation intensive des sources d'information pour des projets d'innovation provenant des clients
+SCLI_IMP	Clients
+SCLI_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant des clients
+SCLI_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant des clients
+SCLI_MISS	Information manquante pour la variable considérée
+SCLI_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant des clients
+SCLPR_HIGH	Entreprises pour lesquelles les informations de leurs clients du secteur privé sont très importantes
+SCLPR_NU	Entreprises qui n'utilisent pas les informations de leurs clients du secteur privé
+SCLPU_HIGH	Entreprises pour lesquelles les informations de leurs clients du secteur public ou privé sont très importantes
+SCLPU_NU	Entreprises qui n'utilisent pas les informations de leurs clients du secteur public ou privé
+SCOM	Entreprises pour lesquelles les concurrents ou les autres entreprises du même secteur sont une source d'information très importante pour innover
+SCOM_HIGH	Entreprises pour lesquelles les concurrents ou les autres entreprises du même secteur sont une source d'information très importante
+SCOM_IMP	Concurrents
+SCOM_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant des concurrents ou d'autres entreprises du même secteur
+SCOM_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant des concurrents ou d'autres entreprises du même secteur
+SCOM_MISS	Information manquante pour la variable considérée
+SCOM_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant des concurrents ou d'autres entreprises du même secteur
+SCOM_NU	Entreprises pour lesquelles les concurrents ou les autres entreprises du même secteur ne sont pas une source d'information
+SCON	Entreprises pour lesquelles les conférences, foires commerciales ou expositions sont une source d'information très importante pour innover
+SCON_HIGH	Entreprises pour lesquelles les conférences, foires commerciales ou expositions sont une source d'information très importante
+SCON_IMP	Sociétés de conseil
+SCON_NO	Sociétés de conseil
+SCON_NU	Entreprises pour lesquelles les conférences, foires commerciales ou expositions ne sont pas une source d'information
+SDOS	Compétences non utilisées ou non pertinentes en conception d'objets ou de services
+SENAP	Compétences non utilisées ou non pertinentes en ingénierie / sciences appliquées
+SENT_HIGH	Utilisation intensive des sources d'information au sein de l'entreprise
+SENT_IMP	Sources d'information au sein de l'entreprise
+SENT_LOW	Faible utilisation des sources d'information au sein de l'entreprise
+SENT_MED	Utilisation modérée des sources d'information au sein de l'entreprise
+SENT_MISS	Information manquante pour la variable considérée
+SENT_NO	Aucune utilisation des sources d'information au sein de l'entreprise
+SENTG	Entreprises pour lesquelles l'entreprise elle-même ou le groupe d'entreprises sont une source d'information très importante pour innover
+SENTG_HIGH	Entreprises pour lesquelles l'entreprise elle-même ou le groupe d'entreprises est une source d'information très importante
+SENTG_NU	Entreprises pour lesquelles l'entreprise elle-même ou le groupe d'entreprises n'est pas une source d'information
+SEXB_HIGH	Utilisation intensive des sources d'information pour des projets d'innovation provenant de foires et expositions
+SEXB_IMP	Foires et expositions
+SEXB_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant de foires et expositions
+SEXB_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant de foires et expositions
+SEXB_MISS	Information manquante pour la variable considérée
+SEXB_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant de foires et expositions
+SGALA	Compétences non utilisées ou non pertinentes en arts graphiques / layout / publicité
+SGMT	Entreprises pour lesquelles le Gouvernement ou les instituts publics de recherche sont une source d'information très importante pour innover
+SGMT_HIGH	Utilisation intensive des sources d'information pour des projets d'innovation provenant des instituts publics de recherche
+SGMT_IMP	Instituts publics de recherche
+SGMT_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant des instituts publics de recherche
+SGMT_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant des instituts publics de recherche
+SGMT_MISS	Information manquante pour la variable considérée
+SGMT_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant des instituts publics de recherche
+SGMTP_HIGH	Entreprises pour lesquelles le Gouvernement ou les instituts de recherche publics ou privés sont une source d'information très importante
+SGMTP_NU	Entreprises pour lesquelles le Gouvernement ou les instituts de recherche publics ou privés ne sont pas une source d'information
+SGRP_HIGH	Utilisation intensive des sources d'information pour des projets d'innovation provenant d'autres entreprises au sein du groupe
+SGRP_IMP	Autres entreprises au sein du groupe d'entreprises
+SGRP_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant d'autres entreprises au sein du groupe
+SGRP_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant d'autres entreprises au sein du groupe
+SGRP_MISS	Information manquante pour la variable considérée
+SGRP_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant d'autres entreprises au sein du groupe
+SIGMAR_INT	Nombre d'entreprises pour lesquelles le marché international est le marché le plus important
+SIGMAR_LN	Nombre d'entreprises pour lesquelles le marché local/régional est le marché le plus important
+SIGMAR_LOC	Nombre d'entreprises pour lesquelles le marché local est le marché le plus important
+SIGMAR_MISS	Information manquante pour la variable considérée
+SIGMAR_NAT	Nombre d'entreprises pour lesquelles le marché national est le marché le plus important
+SINS	Entreprises pour lesquelles les consultants, laboratoires commerciaux ou instituts privés de R&D sont une source d'information très importante pour innover
+SINSL_HIGH	Entreprises pour lesquelles les consultants ou laboratoires commerciaux sont une source d'information très importante
+SINSL_NU	Entreprises pour lesquelles les consultants ou laboratoires commerciaux ne sont pas une source d'information
+SJOU	Entreprises pour lesquelles les magazines scientifiques et publications professionnelles/techniques sont une source d'information très importante pour innover
+SJOU_HIGH	Entreprises pour lesquelles les revues scientifiques et publications professionnelles/techniques sont une source d'information très importante
+SJOU_NU	Entreprises pour lesquelles les revues scientifiques et publications professionnelles/techniques ne sont pas une source d'information
+SME_COOP	PME participant à une coopération dans le domaine de l'innovation, en pourcentage de l'ensemble des PME
+SME_INNO	PME ayant des activités d'innovation en interne, en pourcentage de l'ensemble des PME
+SMED	Compétences non utilisées ou non pertinentes en multimédia
+SMKR	Compétences non utilisées ou non pertinentes en étude de marché
+SMSDM	Compétences non utilisées ou non pertinentes en mathématiques / statistiques / gestion de bases de données
+SNET_IMP	Réseaux informatiques d'information
+SNET_NO	Réseaux informatiques d'information
+SPAT_IMP	Publication de brevets
+SPAT_NO	Publication de brevets
+SPRO_HIGH	Utilisation intensive des sources d'information pour des projets d'innovation provenant de conférences professionnelles, de réunions, de la presse
+SPRO_IMP	Conférences professionnelles, réunions, presse
+SPRO_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant de conférences professionnelles, de réunions, de la presse
+SPRO_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant de conférences professionnelles, de réunions, de la presse
+SPRO_MISS	Information manquante pour la variable considérée
+SPRO_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant de conférences professionnelles, de réunions, de la presse
+SPROF	Entreprises pour lesquelles les associations professionnelles et industrielles sont une source d'information très importante pour innover
+SPROF_HIGH	Entreprises pour lesquelles les associations professionnelles et industrielles sont une source d'information très importante
+SPROF_NU	Entreprises pour lesquelles les associations professionnelles et industrielles ne sont pas une source d'information
+SSUP	Entreprises pour lesquelles les fournisseurs d'équipements, de matériel, de composants ou de logiciels sont une source d'information très importante pour innover
+SSUP_HIGH	Entreprises pour lesquelles les fournisseurs d'équipements, de matériel, de composants ou de logiciels sont une source d'information très importante
+SSUP_IMP	Fournisseurs d'équipements, de matériel, de composants ou de logiciels
+SSUP_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant des fournisseurs d'équipements, de matériel, etc.
+SSUP_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant des fournisseurs d'équipements, de matériel, etc.
+SSUP_MISS	Information manquante pour la variable considérée
+SSUP_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant des fournisseurs d'équipements, de matériel, etc.
+SSUP_NU	Entreprises pour lesquelles les fournisseurs d'équipements, de matériel, de composants ou de logiciels ne sont pas une source d'information
+SSWD	Compétences non utilisées ou non pertinentes en développement de logiciels
+STALL_HIGH	Entreprises pour lesquelles les stratégies d'alliance sont très importantes
+STALL_NR	Entreprises qui ne se sentent pas concernées par les stratégies d'alliance
+STEXCOS_HIGH	Entreprises pour lesquelles la réduction du coût d'achat des matières, des composants ou des services est très importante
+STEXCOS_NR	Entreprises qui ne se sentent pas concernées par la réduction du coût d'achat des matières, des composants ou des services
+STFLEX_HIGH	Entreprises pour lesquelles l'amélioration de la flexibilité/réactivité est très importante
+STFLEX_NR	Entreprises qui ne se sentent pas concernées par l'amélioration de la flexibilité/réactivité
+STIHCOS_HIGH	Entreprises pour lesquelles la réduction des coûts de fonctionnement internes est très importante
+STIHCOS_NR	Entreprises qui ne se sentent pas concernées par la réduction des coûts de fonctionnement internes
+STINNPD_HIGH	Entreprises pour lesquelles la commercialisation de biens ou de services sensiblement améliorés est très importante
+STINNPD_NR	Entreprises qui ne se sentent pas concernées par la commercialisation de biens ou de services sensiblement améliorés
+STMKEUR_HIGH	Entreprises pour lesquelles le développement de nouveaux marchés en Europe est très important
+STMKEUR_NR	Entreprises qui ne se sentent pas concernées par le développement de nouveaux marchés en Europe
+STMKOTH_HIGH	Entreprises pour lesquelles le développement de nouveaux marchés en dehors de l'Europe est très important
+STMKOTH_NR	Entreprises qui ne se sentent pas concernées par le développement de nouveaux marchés en dehors de l'Europe
+STMKT_HIGH	Entreprises pour lesquelles l'intensification ou l'amélioration de la commercialisation de biens ou de services est très importante
+STMKT_NR	Entreprises qui ne se sentent pas concernées par l'intensification ou l'amélioration de la commercialisation de biens ou de services
+SUNI	Entreprises pour lesquelles les universités ou établissements d'enseignement supérieur sont une source d'information très importante pour innover
+SUNI_HIGH	Entreprises pour lesquelles les universités ou établissements d'enseignement supérieur sont une source d'information très importante
+SUNI_IMP	Universités ou établissements d'enseignement supérieur
+SUNI_LOW	Faible utilisation des sources d'information pour des projets d'innovation provenant des universités ou d'établissements d'enseignement supérieur
+SUNI_MED	Utilisation modérée des sources d'information pour des projets d'innovation provenant des universités ou d'établissements d'enseignement supérieur
+SUNI_MISS	Information manquante pour la variable considérée
+SUNI_NO	Aucune utilisation des sources d'information pour des projets d'innovation provenant des universités ou d'établissements d'enseignement supérieur
+SUNI_NU	Entreprises pour lesquelles les universités ou établissements d'enseignement supérieur ne sont pas une source d'information
+SWDS	Compétences non utilisées ou non pertinentes en conception Web
+TURN	Chiffre d'affaires total en 2000
+TURN_ALL	Chiffre d'affaires total de l'ensemble des entreprises
+TURN02	Chiffre d'affaires total en 2002
+TURN04	Chiffre d'affaires total en 2004
+TURN06	Chiffre d'affaires total en 2006
+TURN08	Chiffre d'affaires total en 2008
+TURN10	Chiffre d'affaires total en 2010
+TURN12	Chiffre d'affaires total en 2012
+TURN98	Chiffre d'affaires total en 1998
+TURNDEC_MISS	Information manquante pour la variable considérée
+TURNDEC_NO	Nombre d'entreprises dont le chiffre d'affaires n'a pas diminué de 10 %
+TURNDEC_YES	Nombre d'entreprises dont le chiffre d'affaires a diminué de 10 %
+TURNENT_TURN	Chiffre d'affaires lié aux produits nouveaux ou améliorés de manière significative, constituant une nouveauté pour l'entreprise, mais pas pour le marché, en pourcentage du chiffre d'affaires de l'ensemble des entreprises
+TURNIMP	Produits améliorés
+TURNINC_MISS	Information manquante pour la variable considérée
+TURNINC_NO	Nombre d'entreprises dont le chiffre d'affaires n'a pas augmenté de 10 %
+TURNINC_YES	Nombre d'entreprises dont le chiffre d'affaires a augmenté de 10 %
+TURNMAR	Chiffre d'affaires lié aux produits qui sont aussi nouveaux pour le marché
+TURNMKT_TURN	Chiffre d'affaires lié aux produits nouveaux ou améliorés de manière significative, constituant une nouveauté pour l'entreprise et pour le marché, en pourcentage du chiffre d'affaires de l'ensemble des entreprises
+TURNNEW	Nouveaux produits
+TURNPROD	Chiffre d'affaires des entreprises innovantes
+TURNUNG	Produits inchangés
+UNGETURN	Chiffre d'affaires lié aux produits inchangés ou modifiés de manière marginale (des entreprises innovantes en matère de produits)
+UNGTURN	Chiffre d'affaires lié aux produits inchangés ou modifiés de manière marginale, mais ne constituant pas une nouveauté pour le marché
+UNGTURN_MISS	Information manquante pour la variable considérée
+PROEUM	Entreprises ayant enregistré un modèle d'utilité européen
+PROAMDT	Entreprises ayant déposé un brevet, un modèle d'utilité européen, un dessin ou modèle ou une marque commerciale
+PROLEX	Entreprises ayant cédé ou concédé un brevet, un dessin ou modèle, un droit d'auteur ou une marque commerciale à une autre entreprise, à une université ou à un institut de recherche
+PROLIN	Entreprises ayant acheté ou acquis sous licence un brevet, un dessin ou modèle, un droit d'auteur ou une marque commerciale auprès d'une autre entreprise, d'une université ou d'un institut de recherche
+PROLINEX	Entreprises ayant cédé ou acheté, concédé ou acquis sous licence un brevet, un dessin ou modèle, un droit d'auteur ou une marque commerciale à ou auprès d'une autre entreprise, d'une université ou d'un institut de recherche
+PROPATDSG	Entreprises ayant déposé un brevet, un dessin ou un modèle
+PROPATTM	Entreprises ayant déposé un brevet ou une marque commerciale
+ECOALL	Entreprises ayant introduit une innovation présentant des avantages pour l'environnement (au niveau de l'entreprise ou de l'utilisateur final)
+ECOINENT	Entreprises ayant introduit une innovation présentant des avantages pour l'environnement au niveau de l'entreprise
+ECOENO	Entreprises ayant réduit, en innovant, leur propre consommation d'énergie ou empreinte CO2
+ECOREP	Entreprises ayant remplacé, en innovant, une partie de l'énergie fossile au moyen de sources d'énergie renouvelable au niveau de l'entreprise
+ECOUSER	Entreprises ayant introduit une innovation présentant des avantages pour l'environnement au niveau de l'utilisateur final
+ECOEXT	Entreprises ayant allongé, en innovant, la durée de vie de leurs produits
+ECOPRD	Entreprises ayant introduit une innovation de produit présentant des avantages pour l'environnement
+ECOPRC	Entreprises ayant introduit une innovation de procédé présentant des avantages pour l'environnement
+ECORG	Entreprises ayant introduit une innovation en matière d'organisation présentant des avantages pour l'environnement
+ECOMKT	Entreprises ayant introduit une innovation en matière de commercialisation présentant des avantages pour l'environnement
+ENEREG_HIGH	Entreprises pour lesquelles les réglementations environnementales existantes ont constitué un facteur très important
+ENEREG_NR	Entreprises pour lesquelles les réglementations environnementales existantes n'étaient pas un facteur significatif
+ENETX_HIGH	Entreprises pour lesquelles les taxes ou redevances environnementales existantes ont constitué un facteur très important
+ENETX_NR	Entreprises pour lesquelles les taxes ou redevances environnementales existantes n'étaient pas un facteur significatif
+ENREGF_HIGH	Entreprises pour lesquelles les réglementations ou taxes environnementales attendues à l'avenir ont constitué un facteur très important
+ENREGF_NR	Entreprises pour lesquelles les réglementations ou taxes environnementales attendues à l'avenir n'étaient pas un facteur significatif
+ENGRA_HIGH	Entreprises pour lesquelles les aides publiques, subventions ou autres incitations financières pour les innovations environnementales ont constitué un facteur très important
+ENGRA_NR	Entreprises pour lesquelles les aides publiques, subventions ou autres incitations financières pour les innovations environnementales n'étaient pas un facteur significatif
+ENDEM_HIGH	Entreprises pour lesquelles la demande existante ou escomptée sur le marché pour des innovations environnementales a constitué un facteur très important
+ENDEM_NR	Entreprises pour lesquelles la demande existante ou escomptée sur le marché pour des innovations environnementales n'était pas un facteur significatif
+ENREP_HIGH	Entreprises pour lesquelles l'amélioration de leur réputation a constitué un facteur très important
+ENREP_NR	Entreprises pour lesquelles l'amélioration de leur réputation n'était pas un facteur significatif
+ENAGR_HIGH	Entreprises pour lesquelles les actions ou initiatives volontaires en faveur de bonnes pratiques environnementales dans leur secteur ont constitué un facteur très important
+ENAGR_NR	Entreprises pour lesquelles les actions ou initiatives volontaires en faveur de bonnes pratiques environnementales dans leur secteur n'étaient pas un facteur significatif
+ENCOST_HIGH	Entreprises pour lesquelles le prix élevé de l'énergie, de l'eau ou des matériaux a constitué un facteur très important
+ENCOST_NR	Entreprises pour lesquelles le prix élevé de l'énergie, de l'eau ou des matériaux n'était pas un facteur significatif
+ENREQU_HIGH	Entreprises pour lesquelles la nécessité de satisfaire aux exigences des marchés publics a constitué un facteur très important
+ENREQU_NR	Entreprises pour lesquelles la nécessité de satisfaire aux exigences des marchés publics n'était pas un facteur significatif
+ENVID_YES	Entreprises disposant de procédures pour déterminer et réduire l'incidence environnementale
+ENVID_NO	Entreprises ne disposant pas de procédures pour déterminer et réduire l'incidence environnementale
+ENVBF	Entreprises ayant appliqué des procédures pour déterminer et réduire l'incidence environnementale avant 2012
+ENVBT	Entreprises ayant appliqué des procédures pour déterminer et réduire l'incidence environnementale entre 2012 et 2014
+TURN14	Chiffre d'affaires total en 2014
+EMP14	Nombre total d'employés en 2014
+TURNOUT12	Chiffre d'affaires issu des ventes effectuées à l'étranger en 2012
+TURNOUT14	Chiffre d'affaires issu des ventes effectuées à l'étranger en 2014
+ENT_POPU14	Nombre total d'entreprises dans la population en 2014
+C11_VAL	Entreprises pour lesquelles la coopération avec le gouvernement, des instituts de recherche publics ou privés, des universités ou des établissements d'enseignement supérieur est la méthode la plus valorisée
+C11	Entreprises coopérant avec le gouvernement, des instituts de recherche publics ou privés, des universités ou des établissements d'enseignement supérieur
+HCOMPR	Entreprises n'ayant pas eu de raisons ou motif pour innover
+HBARIN	Entreprises ayant envisagé d'innover mais qui ont rencontré des obstacles trop importants
+HLDEM_HIGH	Entreprises pour lesquelles la faible demande du marché était une raison très importante pour ne pas innover
+HLDEM_NR	Entreprises pour lesquelles la faible demande du marché n'était pas une raison importante pour ne pas innover
+HPRIOR_HIGH	Entreprises pour lesquelles les innovations précédentes était une raison très importante pour ne pas innover
+HPRIOR_NR	Entreprises pour lesquelles les innovations précédentes n'était pas une raison importante pour ne pas innover
+HCOMPL_HIGH	Entreprises pour lesquelles la faible concurrence sur le marché était une raison très importante pour ne pas innover
+HCOMPL_NR	Entreprises pour lesquelles la faible concurrence sur le marché n'était pas une raison importante pour ne pas innover
+HIDIN_HIGH	Entreprises pour lesquelles le manque de bonnes idées était une raison très importante pour ne pas innover
+HIDIN_NR	Entreprises pour lesquelles le manque de bonnes idées n'était pas une raison importante pour ne pas innover
+HFENT_NR	Entreprises pour lesquelles le manque de moyens financiers internes n'était pas un obstacle important pour innover
+HCRE_HIGH	Entreprises pour lesquelles le manque de crédit ou de capital privé était un obstacle très important pour innover
+HCRE_NR	Entreprises pour lesquelles le manque de crédit ou de capital privé n'était pas un obstacle important pour innover
+HPER_NR	Entreprises pour lesquelles le manque d'employés qualifiés n'était pas un obstacle important pour innover
+HSUBS_HIGH	Entreprises pour lesquelles les difficultés à obtenir des aides gouvernementales ou subventions étaient un obstacle très important pour innover
+HSUBS_NR	Entreprises pour lesquelles les difficultés à obtenir des aides gouvernementales ou subventions n'étaient pas un obstacle important pour innover
+HPAR_HIGH	Entreprises pour lesquelles le manque de partenaires avec qui coopérer était un obstacle très important pour innover
+HPAR_NR	Entreprises pour lesquelles le manque de partenaires avec qui coopérer n'était pas un obstacle important pour innover
+HDEMI_HIGH	Entreprises pour lesquelles l'incertitude de la demande du marché était un obstacle très important pour innover
+HDEMI_NR	Entreprises pour lesquelles l'incertitude de la demande du marché n'était pas un obstacle important pour innover
+HCOMPH_HIGH	Entreprises pour lesquelles la trop forte concurrence sur le marché était un obstacle très important pour innover
+HCOMPH_NR	Entreprises pour lesquelles la trop forte concurrence sur le marché n'était pas un obstacle important pour innover
+RRDIN14	Dépenses en R&D interne en 2014
+RRDEX14	Dépenses en R&D externe en 2014
+RMACES14	Dépenses d'acquisition de machines, de matériel et de logiciels en 2014
+ROEK14	Dépenses d'acquisition de connaissances externes en 2014
+ROTREX14	Dépenses pour 'd'autres' activités d'innovation en 2014 (y compris conception, formation, marketing et autres)
+EXPTOT14	Total des dépenses d'innovation en 2014

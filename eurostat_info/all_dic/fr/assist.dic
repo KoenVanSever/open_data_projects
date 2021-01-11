@@ -1,0 +1,22 @@
+TOTAL	Total
+PROV	Assistance fournie 
+PROV_R	Assistance fournie principalement à la famille
+PROV_NR	Assistance fournie principalement aux personnes apparentées
+NPROV	Aucune assistance fournie 
+AS1010	Assistance utilisée
+AS1015	Assistance nécessaire
+AS1020	Assistance personnelle
+AS1030	Équipement spécial ou adaptations du poste de travail
+AS1040	Modalités de travail spéciales
+AS1090	Aucune assistance utilisée
+AS1095	Aucune assistance nécessaire
+HELPF	Aide reçue et jugée utile
+NHELPF	Aide reçue mais n'ayant pas été jugée utile
+HELPF_UNK	Aide reçue mais niveau d'utilité inconnu
+NND	Pas besoin d'aide
+ENO	Reçoit assez d'aide
+LACK	Manque d'aide
+NONE	Aucune aide
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

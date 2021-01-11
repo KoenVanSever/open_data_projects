@@ -1,0 +1,55 @@
+GCV	Oberer Heizwert
+GCV_AVG	Oberer Heizwert - Durchschnitt
+GCV_PRD	Oberer Heizwert - Produktion
+GCV_PRD_AG	Oberer Heizwert - Produktion - Begleitgas
+GCV_PRD_NAG	Oberer Heizwert - Produktion - unabhängig vorhandenes Gas
+GCV_PRD_CG	Oberer Heizwert - Produktion - Grubengas
+GCV_TOS	Oberer Heizwert - Übertragungen aus anderen Quellen
+GCV_TOS_OIL	Oberer Heizwert - Übertragungen aus anderen Quellen - Öl
+GCV_TOS_COAL	Oberer Heizwert - Übertragungen aus anderen Quellen - Kohle
+GCV_TOS_REN	Oberer Heizwert - Übertragungen aus anderen Quellen - erneuerbare Quellen
+GCV_IMP	Oberer Heizwert - Importe
+GCV_EXP	Oberer Heizwert - Exporte
+GCV_INTMARB	Oberer Heizwert - Internationale Bunker
+GCV_STK_CHG_MG	Oberer Heizwert - Bestandsveränderungen - wie berechnet im MOS GAS
+GCV_STK_CHG_NAT	Oberer Heizwert - Bestandsveränderungen - Hoheitsgebiet des Staates
+GCV_STK_OP_NAT	Oberer Heizwert - Anfangsbestände - Hoheitsgebiet des Staates
+GCV_STK_CL_NAT	Oberer Heizwert - Endsbestände - Hoheitsgebiet des Staates
+GCV_STK_OP_ABR	Oberer Heizwert - Anfangsbestände - im Ausland gelagert
+GCV_STK_CL_ABR	Oberer Heizwert - Endsbestände - im Ausland gelagert
+GCV_IC_CAL	Oberer Heizwert - Inlandsverbrauch - berechnet
+GCV_IC_CAL_MG	Oberer Heizwert - Inlandsverbrauch - berechnet wie im MOS GAS
+GCV_IC_OBS	Oberer Heizwert - Inlandsverbrauch - erfasst
+GCV_CO	Oberer Heizwert - Kokereien
+GCV_BF	Oberer Heizwert - Hochöfen
+GCV_MAP	Oberer Heizwert - hauptsächlich als Energieerzeuger tätiges Unternehmen
+GCV_IND	Oberer Heizwert - Industrie
+GCV_STATDIFF	Oberer Heizwert - statistische Differenzen
+GCV_DL	Oberer Heizwert - Netzverluste
+GCV_TI_EHG_MAP	Oberer Heizwert - Umwandlungseinsatz - Erzeugung von Elektrizität und Wärme - hauptsächlich als Energieerzeuger tätiges Unternehmen
+GCV_OTH	Oberer Heizwert - Sonstige
+NCV	Unterer Heizwert
+NCV_AVG	Unterer Heizwert - Durchschnitt
+NCV_PRD	Unterer Heizwert - Produktion
+NCV_PRD_AG	Unterer Heizwert - Produktion - Begleitgas
+NCV_PRD_NAG	Unterer Heizwert - Produktion - unabhängig vorhandenes Gas
+NCV_PRD_CG	Unterer Heizwert - Produktion - Grubengas
+NCV_TOS	Unterer Heizwert - Übertragungen aus anderen Quellen
+NCV_TOS_OIL	Unterer Heizwert - Übertragungen aus anderen Quellen - Öl
+NCV_TOS_COAL	Unterer Heizwert - Übertragungen aus anderen Quellen - Kohle
+NCV_TOS_REN	Unterer Heizwert - Übertragungen aus anderen Quellen - erneuerbare Quellen
+NCV_IMP	Unterer Heizwert - Importe
+NCV_EXP	Unterer Heizwert - Exporte
+NCV_INTMARB	Unterer Heizwert - Internationale Bunker
+NCV_STK_CHG_NAT	Unterer Heizwert - Bestandsveränderungen - Hoheitsgebiet des Staates
+NCV_STK_OP_NAT	Unterer Heizwert - Anfangsbestände - Hoheitsgebiet des Staates
+NCV_STK_CL_NAT	Unterer Heizwert - Endsbestände - Hoheitsgebiet des Staates
+NCV_STK_OP_ABR	Unterer Heizwert - Anfangsbestände - im Ausland gelagert
+NCV_STK_CL_ABR	Unterer Heizwert - Endsbestände - im Ausland gelagert
+NCV_IC_CAL	Unterer Heizwert - Inlandsverbrauch - berechnet
+NCV_IC_OBS	Unterer Heizwert - Inlandsverbrauch - erfasst
+NCV_CO	Unterer Heizwert - Kokereien
+NCV_BF	Unterer Heizwert - Hochöfen
+NCV_MAP	Unterer Heizwert - hauptsächlich als Energieerzeuger tätiges Unternehmen
+NCV_IND	Unterer Heizwert - Industrie
+NCV_OTH	Unterer Heizwert - Sonstige

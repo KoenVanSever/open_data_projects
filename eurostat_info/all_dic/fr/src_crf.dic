@@ -1,0 +1,176 @@
+TOTAL	Total (ensemble des secteurs, y compris items pour mémoire et CO2 indirect)
+TOTXMEMO	Total (hors items pour mémoire)
+TOTX4_MEMO	Total (hors LULUCF et items pour mémoire)
+TOTX4_MEMONIA	Total (hors LULUCF et items pour mémoire, y compris l'aviation internationale)
+TOTX4_MEMONIT	Total (hors LULUCF et items pour mémoire, y compris le transport international)
+CRF1-6XMEMO	Ensemble des secteurs (hors items pour mémoire)
+CRF1-6X4_MEMO	Ensemble des secteurs (hors LULUCF et items pour mémoire)
+CRF1-6X4_MEMONIA	Ensemble des secteurs (hors LULUCF et items pour mémoire, y compris l'aviation internationale)
+CRF_MEMO	Items pour mémoire
+CRF1	Energie
+CRF1A	Combustion de combustibles - approche sectorielle
+CRF1A1	Combustion de combustibles dans les industries de l'énergie
+CRF1A1A	Combustion de combustibles dans la production d'électricité et de chauffage publics
+CRF1A1B	Combustion de combustibles dans le raffinage du pétrole
+CRF1A1C	Combustion de combustibles dans la fabrication de combustibles solides et autres industries de l'énergie
+CRF1A2	Combustion de combustibles dans les industries manufacturières et de la construction
+CRF1A2A	Combustion de combustibles dans la sidérurgie
+CRF1A2B	Combustion de combustibles dans la fabrication de métaux non ferreux
+CRF1A2C	Combustion de combustibles dans la fabrication de produits chimiques
+CRF1A2D	Combustion de combustibles dans la fabrication de pulpe, papier et impression
+CRF1A2E	Combustion de combustibles dans la fabrication de produits alimentaires, de boissons et de tabac
+CRF1A2F	Combustion de combustibles dans la fabrication de produits minéraux non métalliques
+CRF1A2G	Combustion de combustibles dans les autres industries manufacturières et de la construction
+CRF1A3	Combustion de combustibles dans les transports
+CRF1A3A	Combustion de combustibles dans l'aviation civile
+CRF1A3B	Combustion de combustibles dans les transports routiers
+CRF1A3B1	Combustion de combustibles dans les voitures
+CRF1A3B2	Combustion de combustibles dans les camions légers 
+CRF1A3B3	Combustion de combustibles dans les camions lourds et les autobus 
+CRF1A3B4	Combustion de combustibles dans les motocyclettes 
+CRF1A3B5	Combustion de combustibles dans d'autres transports routiers 
+CRF1A3C	Combustion de combustibles dans les chemins de fer
+CRF1A3D	Combustion de combustibles dans la navigation intérieure
+CRF1A3E	Combustion de combustibles dans les autres modes de transport
+CRF1A4	Autres secteurs de la combustion de combustibles
+CRF1A4A	Combustion de combustibles dans le secteur commercial et institutionnel
+CRF1A4B	Combustion de combustibles par les ménages
+CRF1A4C	Combustion de combustibles dans l'agriculture, la sylviculture et la pêche
+CRF1A5	Autres secteurs de combustion de combustibles n.c.a.
+CRF1A5A	Secteurs de combustion de combustibles stationnaires n.c.a.
+CRF1A5B	Secteurs de combustion de combustibles mobiles n.c.a.
+CRF1B	Combustibles - emissions fugitives 
+CRF1B1	Combustibles solides - emissions fugitives
+CRF1B2	Pétrole, gaz naturel et autre production d'énergie - emissions fugitives
+CRF1C	Transport et stockage du CO2 (item pour mémoire)
+CRF1D1	Soutes internationales (item pour mémoire)
+CRF1D1A	Aviation internationale (item pour mémoire)
+CRF1D1B	Transport maritime international (item pour mémoire)
+CRF1D2	Opérations multilatérales (item pour mémoire)
+CRF1D3	Biomasse - emissions de CO2 (item pour mémoire)
+CRF2	Processus industriels et utilisations de produits
+CRF2A	Industrie des minéraux
+CRF2A1	Production de ciment
+CRF2A2	Production de chaux
+CRF2A3	Production de verre
+CRF2A4	Autre process utilisation de carbonate
+CRF2B	Industrie chimique
+CRF2B1	Production d'ammoniac
+CRF2B2	Production d'acide nitrique
+CRF2B3	Production d'acide adipique
+CRF2B4	Production de caprolactame, de glyoxal et d'acide glyoxylique
+CRF2B5	Production de carbure
+CRF2B6	Production de dioxyde de titane
+CRF2B7	Production de carbonate de sodium
+CRF2B8	Production pétrochimique et de carbone suie
+CRF2B9	Production fluorochimique
+CRF2B10	Autre industrie chimique
+CRF2C	Industrie des métaux
+CRF2C1	Sidérurgie
+CRF2C2	Production de ferroalliages
+CRF2C3	Production d'aluminium
+CRF2C4	Production de magnésium
+CRF2C5	Production de plomb
+CRF2C6	Production de zinc
+CRF2C7	Autre industrie des métaux
+CRF2D	Produits non énergétiques des carburants et de l'utilisation de solvants
+CRF2D1	Utilisation de lubrifiants
+CRF2D2	Utilisation de la cire de paraffine
+CRF2D3	Utilisation d'autres produits non énergétiques
+CRF2E	Industrie électronique
+CRF2E1	Production de circuits intégrés ou de semi-conducteurs
+CRF2E2	Production d'écrans plat TFT
+CRF2E3	Produits photovoltaïques
+CRF2E4	Fluide de transfert de chaleur
+CRF2E5	Autre industrie électronique
+CRF2F	Utilisation de produits comme substituts de substances appauvrissent la couche d'ozone
+CRF2F1	Réfrigération et climatisation
+CRF2F2	Utilisation d'agents mousse gonflants
+CRF2F3	Protection contre l'incendie
+CRF2F4	Utilisation d'aérosols
+CRF2F5	Utilisation de solvants
+CRF2F6	Autres applications de substituts de substances appauvrissent la couche d'ozone
+CRF2G	Autre fabrication et utilisation des produits
+CRF2H	Autres processus industriels et utilisations de produits
+CRF3	Agriculture
+CRF31	Cheptel
+CRF3A	Fermentation entérique
+CRF3A1	Fermentation entérique des bovins
+CRF3A2	Fermentation entérique des ovins
+CRF3A3	Fermentation entérique des porcins
+CRF3A4	Fermentation entérique d'autre cheptel
+CRF3B	Gestion des effluents d'élevage
+CRF3B1	Gestion des effluents d'élevage des bovins
+CRF3B2	Gestion des effluents d'élevage des ovins
+CRF3B3	Gestion des effluents d'élevage des porcins
+CRF3B4	Gestion des effluents d'élevage d'autre cheptel
+CRF3B5	Gestion des effluents d'élevage - emissions indirectes de N2O
+CRF3C	Culture de riz
+CRF3C1	Culture de riz irrigué
+CRF3C2	Culture de riz à partir des eaux de pluie
+CRF3C3	Culture de riz en eau profonde
+CRF3C4	Autre culture de riz
+CRF3D	Sols agricoles exploités
+CRF3D1	Sols agricoles exploités - emissions directes de N2O
+CRF3D2	Sols agricoles exploités - emissions indirectes de N2O
+CRF3E	Brûlage contrôlé de savanes
+CRF3F	Brûlage des résidus agricoles dans les champs
+CRF3F1	Brûlage des résidus de céréales dans les champs
+CRF3F2	Brûlage des résidus de légumineux dans les champs
+CRF3F3	Brûlage des résidus de tubercules et de racines dans les champs
+CRF3F4	Brûlage des résidus de sucre de canne dans les champs
+CRF3F5	Brûlage des autres résidus agricoles dans les champs
+CRF3G	Chaulage
+CRF3H	Application d'urée
+CRF3I	Autres engrais à base de carbone
+CRF3J	Autre agriculture
+CRF4	Utilisation des sols, changement d'utilisation des sols et sylviculture (LULUCF)
+CRF4A	Terres forestières
+CRF4A0	Drainage et réhydratation et autre gestion des sols organiques et minéraux relatifs aux terres forestières - emissions et absorptions 
+CRF4A1	Terres forestières non converties
+CRF4A2	Terres converties en terres forestières
+CRF4B	Terres cultivées
+CRF4B0	Drainage et réhydratation et autre gestion  des sols organiques et minéraux liée aux terres de culture - emissions et absorptions
+CRF4B1	Terres cultivées non converties
+CRF4B2	Terres converties en terres cultivées
+CRF4C	Prairies
+CRF4C0	Drainage et réhydratation et autre gestion  des sols organiques et minéraux relatifs aux prairies - emissions et absorptions
+CRF4C1	Prairies non converties
+CRF4C2	Terres converties en prairies
+CRF4D	Terres humides
+CRF4D0	Drainage et réhydratation et autre gestion  des sols organiques et minéraux relatifs aux terres humides - emissions et absorptions
+CRF4D1	Terres humides non converties
+CRF4D2	Terres converties en terres humides
+CRF4E	Zones de peuplement
+CRF4E0	Combustion de la biomasse dans les zones de peuplement
+CRF4E1	Zones de peuplement non converties
+CRF4E2	Terres converties en zones de peuplement
+CRF4F	Autres terres
+CRF4F2	Terres converties en autres terres
+CRF4F3	Minéralisation et immobilisation de l'azote dans d'autres terres - emissions directes de N20
+CRF4F4	Brûlage de la biomasse sur d'autres terres
+CRF4G	Produits de la récolte du bois
+CRF4H	Autre utilisation des sols, changement d'utilisation des sols et sylviculture
+CRF4Z	Sols exploités - emissions indirectes de N2O
+CRF5	Gestion des déchets
+CRF5A	Enfouissement des déchets solides
+CRF5A1	Sites d'enfouissement des déchets exploités
+CRF5A2	Sites d'enfouissement des déchets non exploités
+CRF5A3	Sites d'enfouissement des déchets non catégorisés
+CRF5B	Traitement biologique des déchets solides
+CRF5B1	Compostage des déchets
+CRF5B2	Digestion anaérobie dans les installations de biogaz
+CRF5C	Incinération et combustion à l'air libre des déchets
+CRF5C1	Incinération des déchets
+CRF5C2	Combustion à l'air libre des déchets
+CRF5D	Rejet et traitement des eaux usées
+CRF5D1	Eaux usées domestiques
+CRF5D2	Eaux usées industrielles
+CRF5D3	Autres eaux usées
+CRF5E	Autre dépôt
+CRF5F	Stockage à long terme du carbone (item pour mémorie)
+CRF5F1	Stockage à long terme du carbone dans les sites d'enfouissement des déchets
+CRF5F2	Variation annuelle du stockage total à long terme du carbone
+CRF5F3	Variation annuelle du stockage total à long terme du carbone liés aux déchets de la récolte du bois
+CRF6	Autres secteurs
+CRF_INDCO2	CO2 indirect

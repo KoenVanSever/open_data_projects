@@ -1,0 +1,32 @@
+TOTAL	Verkehr insgesamt
+NAT_INTL_IEU27_2020	Innerstaatlicher Verkehr und grenzüberschreitender Verkehr innerhalb der EU27 (ab 2020)
+NAT_INTL_IEU28	Innerstaatlicher Verkehr und grenzüberschreitender Verkehr innerhalb der EU28 (2013-2020)
+NAT	Innerstaatlicher Verkehr
+NAT_OCC	Innerstaatlicher Verkehr  - gelegentlich
+NAT_REG	Innerstaatlicher Verkehr  - fahrplanmäßig
+NAT_URB	Innerstaatlicher Verkehr - innerstädtisch
+NAT_IURB	Innerstaatlicher Verkehr - überland
+INTL	Grenzüberschreitender Verkehr
+INTL_LD	Grenzüberschreitender Verkehr - beladen
+INTL_NLD	Grenzüberschreitender Verkehr - entladen
+INTL_CTRD	Grenzüberschreitender Verkehr - Dreiländerverkehr
+INTL_CAB	Grenzüberschreitender Verkehr - Kabotage
+INTL_IN	Grenzüberschreitender Verkehr - Empfang
+INTL_OUT	Grenzüberschreitender Verkehr - Versand
+INTL_OCC	Grenzüberschreitender Verkehr - gelegentlich
+INTL_REG	Grenzüberschreitender Verkehr - fahrplanmäßig
+INTL_IEU	Grenzüberschreitender Verkehr innerhalb der EU
+INTL_IEU27_2020	Grenzüberschreitender Verkehr innerhalb der EU27 (ab 2020)
+INTL_IEU28	Grenzüberschreitender Verkehr innerhalb der EU28 (2013-2020)
+INTL_IEU27_2007	Grenzüberschreitender Verkehr innerhalb der EU27 (2007-2013)
+INTL_IEU25	Grenzüberschreitender Verkehr innerhalb der EU25 (2004-2006)
+INTL_IEU15	Grenzüberschreitender Verkehr innerhalb der EU15 (1995-2004)
+INTL_XEU	Grenzüberschreitender Verkehr außerhalb der EU
+INTL_XEU27_2020	Grenzüberschreitender Verkehr außerhalb der EU27 (ab 2020)
+INTL_XEU28	Grenzüberschreitender Verkehr außerhalb der EU28 (2013-2020)
+INTL_XEU27_2007	Grenzüberschreitender Verkehr außerhalb der EU27 (2007-2013)
+INTL_XEU25	Grenzüberschreitender Verkehr außerhalb der EU25 (2004-2006)
+INTL_XEU15	Grenzüberschreitender Verkehr außerhalb der EU15 (1995-2004)
+TRS	Transitverkehr
+OVFL	Überflogen
+UNK	Unbekannt

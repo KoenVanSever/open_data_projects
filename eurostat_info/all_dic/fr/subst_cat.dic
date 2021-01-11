@@ -1,0 +1,12 @@
+HRI1	Pesticides - indicateur de risques harmonisé 1 (toutes substances actives)
+GRP1	Groupe 1 - substances actives à faible risque
+GRP1_CAT_A	Groupe 1, catégorie A - micro-organismes à faible risque
+GRP1_CAT_B	Groupe 1, catégorie B - substances actives chimiques à faible risque
+GRP2	Groupe 2 - substances actives
+GRP2_CAT_C	Groupe 2, catégorie C - micro-organismes
+GRP2_CAT_D	Groupe 2, catégorie D - substances actives chimiques
+GRP3	Groupe 3 - substances actives candidates à la substitution
+GRP3_CAT_E	Groupe 3, catégorie E - substances actives candidates à la substitution non classées comme substances cancérogènes de catégorie 1A ou 1B et/ou substances toxiques pour la reproduction de catégorie 1A ou 1B et/ou perturbateurs endocriniens
+GRP3_CAT_F	Groupe 3, catégorie F - substances actives candidates à la substitution classées comme substances cancérogènes de catégorie 1A ou 1B et/ou substances toxiques pour la reproduction de catégorie 1A ou 1B et/ou perturbateurs endocriniens, lorsque l'exposition des êtres humains est négligeable
+GRP4	Groupe 4 - substances actives non approuvées
+GRP4_CAT_G	Groupe 4, catégorie G - substances actives non approuvées

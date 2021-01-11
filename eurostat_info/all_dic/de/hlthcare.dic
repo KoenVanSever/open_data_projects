@@ -1,0 +1,14 @@
+TOTAL	Insgesamt
+HC	Gesundheitsversorgung
+HC_HOSP	Krankenhausaufenthalt
+HC_AMB	Ambulante Behandlung
+HC_MED	Ärztliche Versorgung
+HC_DENT	Zahnärztliche Versorgung
+HC_MENT	Versorgung psychischer Probleme
+HC_BLPR	Blutdruckmessung
+HC_BLCH	Cholesterinmessung
+HC_BLSU	Blutzuckermessung
+NHC	Keine Gesundheitsleistungen
+MG_MEDS	Medikamente
+MG_PMEDS	Ärztlich verordnete Medikamente
+NRP	Ohne Antwort

@@ -1,0 +1,12 @@
+TOTAL	Total
+TOT_R	Total des hébergement loué
+R_HOT	Hébergement loué: hôtels ou hébergement similaire 
+R_CAMP	Hébergement loué: terrains de camping et parcs pour caravanes ou véhicules de loisirs
+R_OTH	Hébergement loué: autres
+TOT_NR	Total des hébergement non loué
+NR_OWN	Hébergement non loué: logements de vacances occupés par leurs propriétaires
+NR_RF	Hébergement non loué: hébergements offerts gratuitement par des membres de la famille ou des amis
+NR_OTH	Hébergement non loué: autres
+ESTBL	Etablissements
+BEDRM	Chambres
+BEDPL	Places-lits

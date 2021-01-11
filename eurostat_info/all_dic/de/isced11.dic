@@ -1,0 +1,109 @@
+TOTAL	Alle Stufen der ISCED 2011
+ED0-4	Unterhalb des Primarbereichs, Primarbereich, Sekundarbereich und postsekundarer, nicht tertiärer Bereich (Stufen 0-4)
+ED0-2	Unterhalb des Primarbereichs, Primarbereich und Sekundarbereich I (Stufen 0-2) 
+ED0	Elementarbereich
+ED01	Frühkindliche Bildung, Betreuung und Erziehung für Kinder unter drei Jahren
+ED02-8	Alle Stufen der ISCED 2011, ausgenommen Frühkindliche Bildung, Betreuung und Erziehung für Kinder unter drei Jahren
+ED02	Frühkindliche Bildung, Betreuung und Erziehung für Kinder von drei Jahren bis zum Schuleintritt
+ED1-4	Primarbereich, Sekundarbereich I, Sekundarbereich II und Postsekundarer, nicht tertiärer Bereich (Stufen 1 bis 4)
+ED1-3	Primarbereich, Sekundarbereich I und Sekundarbereich II (Stufen 1 bis 3)
+ED1_2	Primarbereich und Sekundarbereich I (Stufen 1 und 2)
+ED1	Primarbereich
+ED2-4	Sekundarbereich I, Sekundarbereich II und Postsekundarer, nicht tertiärer Bereich (Stufen 2 bis 4)
+ED2_3	Sekundarbereich I und Sekundarbereich II (Stufen 2 und 3)
+ED2	Sekundarbereich I 
+ED24	Sekundarbereich I - allgemeinbildend
+ED25_35_45	Sekundarbereich I, Sekundarbereich II und Postsekundarer, nicht tertiärer Bereich - berufsbildend (Stufen 25, 35 und 45)
+ED25	Sekundarbereich I - berufsbildend
+ED3-8	Sekundarbereich II, postsekundarer, nicht tertiärer Bereich und Tertiärbereich (Stufen 3-8)
+ED3_4	Sekundarbereich II und postsekundarer, nicht tertiärer Bereich (Stufen 3 und 4) 
+ED3_4GEN	Sekundarbereich II und postsekundarer, nicht tertiärer Bereich (Stufen 3 und 4) - allgemeinbildend
+ED3_4VOC	Sekundarbereich II und postsekundarer, nicht tertiärer Bereich (Stufen 3 und 4) - berufsbildend
+ED3_4UNK	Sekundarbereich II und postsekundarer, nicht tertiärer Bereich (Stufen 3 und 4) - Ausrichtung unbekannt
+ED3	Sekundarbereich II
+ED3SW	Sekundarbereich II - duale Ausbildung
+ED34_44	Sekundarbereich II und Postsekundarer, nicht tertiärer Bereich - allgemeinbildend (Stufen 34 und 44)
+ED34	Sekundarbereich II - allgemeinbildend
+ED341	Sekundarbereich II - allgemeinbildend, Nicht ausreichend zum Abschluss oder Teilabschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED342_352	Sekundarbereich II - alle Programme, Ausreichend zum Teilabschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich (Stufen 342 und 352)
+ED342	Sekundarbereich II - allgemeinbildend, Ausreichend zum Teilabschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED343_353	Sekundarbereich II - alle Programme, Ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich (Stufen 343 und 353)
+ED343	Sekundarbereich II - allgemeinbildend, Ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED344_354	Sekundarbereich II - alle Programme,  Ausreichend zum Abschluss der Bildungsstufe, mit unmittelbarem Zugang zum Tertiärbereich (Stufen 344 und 354)
+ED344	Sekundarbereich II - allgemeinbildend, Ausreichend zum Abschluss der Bildungsstufe, mit unmittelbarem Zugang zum Tertiärbereich
+ED35_45	Sekundarbereich II und Postsekundarer, nicht tertiärer Bereich - berufsbildend (Stufen 35 und 45)
+ED35	Sekundarbereich II - berufsbildend
+ED351	Sekundarbereich II - berufsbildend, Nicht ausreichend zum Abschluss  oder Teilabschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED352	Sekundarbereich II - berufsbildend, Ausreichend zum Teilabschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED353	Sekundarbereich II - berufsbildend, Ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED354	Sekundarbereich II - berufsbildend, Ausreichend zum Abschluss der Bildungsstufe, mit unmittelbarem Zugang zum Tertiärbereich
+ED4	Postsekundarer, nicht tertiärer Bereich
+ED4SW	Postsekundarer, nicht tertiärer Bereich - duale Ausbildung
+ED44	Postsekundarer, nicht tertiärer Bereich - allgemeinbildend
+ED441	Postsekundarer, nicht tertiärer Bereich - allgemeinbildend, Nicht ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED443_453	Postsekundarer, nicht tertiärer Bereich - alle Programme, Ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich (Stufen 443 und 453)
+ED443	Postsekundarer, nicht tertiärer Bereich - allgemeinbildend, Ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED444_454	Postsekundarer, nicht tertiärer Bereich - alle Programme, Ausreichend zum Abschluss der Bildungsstufe, mit unmittelbarem Zugang zum Tertiärbereich (Stufen 444 und 454)
+ED444	Postsekundarer, nicht tertiärer Bereich - allgemeinbildend, Ausreichend zum Abschluss der Bildungsstufe, mit unmittelbarem Zugang zum Tertiärbereich
+ED45	Postsekundarer, nicht tertiärer Bereich - berufsbildend
+ED451	Postsekundarer, nicht tertiärer Bereich - berufsbildend, Nicht ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED453	Postsekundarer, nicht tertiärer Bereich - berufsbildend, Ausreichend zum Abschluss der Bildungsstufe, ohne unmittelbaren Zugang zum Tertiärbereich
+ED454	Postsekundarer, nicht tertiärer Bereich - berufsbildend, Ausreichend zum Abschluss der Bildungsstufe, mit unmittelbarem Zugang zum Tertiärbereich
+ED5-8	Tertiärbereich (Stufen 5-8)
+ED5-7	Tertiärbereich, ausschließlich Promotion bzw. gleichwertiges Bildungsprogramm (Stufen 5 - 7)
+ED5_6	Kurze tertiäre Bildung und Bachelor oder gleichwertig (Stufen 5 und 6)
+ED5	Kurze tertiäre Bildung
+ED5SW	Kurzes tertiäres Bildungsprogramm - duale Ausbildung
+ED54	Kurzes tertiäres Bildungsprogramm - allgemeinbildend/akademisch
+ED541	Kurzes tertiäres Bildungsprogramm - allgemeinbildend/akademisch, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED544	Kurzes tertiäres Bildungsprogramm - allgemeinbildend/akademisch, Ausreichend zum Abschluss der Bildungsstufe
+ED55	Kurzes tertiäres Bildungsprogramm - berufsbildend/ berufsorientiert
+ED551	Kurzes tertiäres Bildungsprogramm - berufsbildend/ berufsorientiert, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED554	Kurzes tertiäres Bildungsprogramm - berufsbildend/ berufsorientiert, Ausreichend zum Abschluss der Bildungsstufe
+ED6-8	Tertiärbereich, ausschließlich Kurzes tertiäres Bildungsprogramm (Stufen 6 - 8)
+ED6	Bachelor oder gleichwertig
+ED64	Bachelor bzw. gleichwertiges Bildungsprogramm - akademisch
+ED641_651_661	Bachelor bzw. gleichwertiges Bildungsprogramm - alle Programme, Nicht ausreichend zum Abschluss der Bildungsstufe (Stufen 641, 651 und 661)
+ED641	Bachelor bzw. gleichwertiges Bildungsprogramm - akademisch, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED645_655_665	Bachelor bzw. gleichwertiges Bildungsprogramm - alle Programme, Erster Abschluss (3 - 4 Jahre) (Stufen 645, 655 und 665)
+ED645	Bachelor bzw. gleichwertiges Bildungsprogramm - akademisch, Erster Abschluss (3 - 4 Jahre)
+ED646_656_666	Bachelor bzw. gleichwertiges Bildungsprogramm - alle Programme, Langes Bildungsprogramm mit erstem Abschluss (länger als 4 Jahre) (Stufen 646, 656 und 666)
+ED646	Bachelor bzw. gleichwertiges Bildungsprogramm - akademisch, Langes Bildungsprogramm mit erstem Abschluss (länger als 4 Jahre)
+ED647_657_667	Bachelor bzw. gleichwertiges Bildungsprogramm - alle Programme, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm) (Stufen 647, 657 und 667)
+ED647	Bachelor bzw. gleichwertiges Bildungsprogramm - akademisch, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm)
+ED65	Bachelor bzw. gleichwertiges Bildungsprogramm - berufsorientiert
+ED651	Bachelor bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED655	Bachelor bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Erster Abschluss (3 - 4 Jahre)
+ED656	Bachelor bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Langes Bildungsprogramm mit erstem Abschluss (länger als 4 Jahre)
+ED657	Bachelor bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm)
+ED66	Bachelor bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben
+ED661	Bachelor bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED665	Bachelor bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Erster Abschluss (3 - 4 Jahre)
+ED666	Bachelor bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Langes Bildungsprogramm mit erstem Abschluss (länger als 4 Jahre)
+ED667	Bachelor bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm)
+ED7_8	Master und Promotion oder gleichwertig (Stufen 7 und 8)
+ED7	Master oder gleichwertig
+ED74	Master bzw. gleichwertiges Bildungsprogramm - akademisch
+ED741_751_761	Master bzw. gleichwertiges Bildungsprogramm - alle Programme, Nicht ausreichend zum Abschluss der Bildungsstufe (Stufen 741, 751 und 761)
+ED741	Master bzw. gleichwertiges Bildungsprogramm - akademisch, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED746_756_766	Master bzw. gleichwertiges Bildungsprogramm - alle Programme, Langes Bildungsprogramm mit erstem Abschluss (mindestens 5 Jahre) (Stufen 746, 756 und 766)
+ED746	Master bzw. gleichwertiges Bildungsprogramm - akademisch, Langes Bildungsprogramm mit erstem Abschluss (mindestens 5 Jahre)
+ED747_757_767	Master bzw. gleichwertiges Bildungsprogramm - alle Programme, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm) (Stufen 747, 757 und 767)
+ED747	Master bzw. gleichwertiges Bildungsprogramm - akademisch, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm)
+ED748_758_768	Master bzw. gleichwertiges Bildungsprogramm - alle Programme, Zweiter oder weiterer Abschluss (nach einem Master- bzw. gleichwertigen Bildungsprogramm) (Stufen 748, 758 und 768)
+ED748	Master bzw. gleichwertiges Bildungsprogramm - akademisch, Zweiter oder weiterer Abschluss (nach einem Master- bzw. gleichwertigen Bildungsprogramm)
+ED75	Master bzw. gleichwertiges Bildungsprogramm - berufsorientiert
+ED751	Master bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED756	Master bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Langes Bildungsprogramm mit erstem Abschluss (mindestens 5 Jahre)
+ED757	Master bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm)
+ED758	Master bzw. gleichwertiges Bildungsprogramm - berufsorientiert, Zweiter oder weiterer Abschluss (nach einem Master- bzw. gleichwertigen Bildungsprogramm)
+ED76	Master bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben
+ED761	Master bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Nicht ausreichend zum Abschluss der Bildungsstufe
+ED766	Master bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Langes Bildungsprogramm mit erstem Abschluss (mindestens 5 Jahre)
+ED767	Master bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Zweiter oder weiterer Abschluss (nach einem Bachelor- bzw. gleichwertigen Bildungsprogramm)
+ED768	Master bzw. gleichwertiges Bildungsprogramm - Ausrichtung nicht angegeben, Zweiter oder weiterer Abschluss (nach einem Master- bzw. gleichwertigen Bildungsprogramm)
+ED8	Promotion oder gleichwertig
+ED9	Nicht anderweitig klassifiziert 
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+UNK	Unbekannt

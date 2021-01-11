@@ -1,0 +1,11 @@
+TOTAL	Exploitations ayant des superficies viticoles - total
+HLD_EWI	Exploitations ayant des superficies viticoles destinées exclusivement à la production de vins
+HLD_EWI_P	Exploitations ayant des superficies viticoles destinées exclusivement à la production de vins avec AOP et/ou IGP
+HLD_EWI_PDO	Exploitations ayant des superficies viticoles destinées exclusivement à la production de vins avec AOP
+HLD_EWI_PGI	Exploitations ayant des superficies viticoles destinées exclusivement à la production de visn avec IGP
+HLD_EWI_PDO_PGI	Exploitations ayant des superficies viticoles destinées exclusivement à la production de vins avec AOP et IGP
+HLD_EWI_NP	Exploitations ayant des superficies viticoles destinées exclusivement à la production de vins sans AOP/IGP
+HLD_EWI_SEV	Exploitations ayant des superficies viticoles destinées à la production de plusieurs types de vins
+HLD_EDRI	Exploitations ayant des superficies viticoles destinées exclusivement à la production de raisins secs
+HLD_OTH	Exploitations ayant des superficies viticoles destinées exclusivement à d'autres fins n.c.a
+HLD_SEV	Exploitations ayant des superficies viticoles destinées à plusieurs types de production

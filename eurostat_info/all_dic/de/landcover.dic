@@ -1,0 +1,206 @@
+TOTAL	Gesamtfläche
+LAND	Landfläche
+DZT	Versteppung
+PRY_A00	Produktivität von künstlichen Flächen
+A00	Künstliche Fläche
+A10	Bebaute Fläche
+A11	Gebäude mit 1 bis 3 Stockwerken
+A12	Gebäude mit mehr als 3 Stockwerken
+A13	Gewächshäuser
+A20	Künstliche, unbebaute Fläche
+A21	Künstliches, unbebautes, flächiges Element
+A22	Künstliches, unbebautes lineares Element
+A30	Andere künstliche Flächen
+B00	Anbaufläche
+B00_PI	Fotointerpretierte Kulturen
+B10-50_PI	Fotointerpretierte einjährige Kulturen
+B70-80_PI	Fotointerpretierte Dauerkulturen
+B10	Getreide
+B11	Weizen
+B12	Hartweizen
+B13	Gerste
+B14	Roggen
+B15	Hafer
+B16	Mais
+B17	Reis
+B18	Triticale
+B19	Andere Getreide
+B20	Knollen- und Wurzelfrüchte
+B21	Kartoffeln
+B22	Zuckerrüben
+B23	Andere Hackfrüchte, Wurzel- und Knollengemüse
+B30	Einjährige Handelsgewächse
+B31	Sonnenblumen
+B32	Raps- und Rübsen
+B33	Soja
+B34	Baumwolle
+B35	Andere faser- und ölhaltige Kulturen
+B36	Tabak
+B37	Andere einjährige Handelsgewächse
+B40	Hülsenfrüchte, Frischgemüse und Zierpflanzen
+B41	Hülsenfrüchte
+B42	Tomaten
+B43	Anderes Frischgemüse
+B44	Blumen und Zierpflanzen
+B45	Erdbeeren
+B50	Futterpflanzen
+FOA_NFOA	Futterflächen und nicht-Futterflächen
+FOA	Futterflächen
+NFOA	Nicht-Futterflächen
+B51	Klee
+B52	Luzerne
+B53	Andere Leguminosen und Mischeinsaaten zur Futtergewinnung
+B54	Menggetreide zur Futtergewinnung
+B55	Wechselgrünland
+B70	Obstbäume und Beeren
+B71	Apfelbäume
+B72	Birnenbäume
+B73	Kirschbäume
+B74	Nussbäume
+B75	Andere Obstbäume und Beeren
+B76	Orangenbäume
+B77	Andere Zitrusfrüchte
+B80	Andere Dauerkulturen
+B81	Olivenbäume
+B82	Weinstöcke
+B83	Baumschulen
+B84	Mehrjährige Handelsgewächse
+C00	Baumbestandene Fläche
+TOT_FAO	Wald und andere bewaldete Flächen (FAO)
+FOR_FAO	Wald (FAO)
+OWL_FAO	Andere bewaldete Flächen (FAO)
+OWL_NFAO	Andere bewaldete Flächen (nicht FAO)
+C10	Laubwälder und Gehölze
+C20	Nadelwälder und Gehölze
+C21	Fichten-Nadelwälder und Gehölze
+C22	Kiefern-Nadelwälder und Gehölze
+C23	Andere Nadelwälder und Gehölze
+C30	Mischwälder und Gehölze
+C31	Fichten-Mischwälder und Gehölze
+C32	Kiefern-Mischwälder und Gehölze
+C33	Andere Mischwälder und Gehölze
+D00	Gebüschfläche
+D10	Gebüschfläche mit spärlichem Baumbewuchs
+D20	Gebüschfläche ohne Baumbewuchs
+E00	Gras- und Grünfläche
+E10	Gras- und Grünfläche mit spärlichem Baum- oder Strauchbewuchs
+E20	Gras- und Grünfläche ohne Baum- oder Strauchbewuchs
+E30	Spontane Vegetation
+F00	Vegetationslose Fläche
+F10	Felsen und Steine
+F20	Sand
+F30	Flechten und Moose
+F40	Andere vegetationslose Fläche
+G00	Gewässer
+G10	Stillgewässer
+G11	Stillgewässer (Süßwasser)
+G12	Stillgewässer (Salzwasser)
+G20	Fließgewässer
+G21	Fließgewässer (Süßwasser)
+G22	Fließgewässer (Salzwasser)
+G30	Übergangsgewässer
+G40	Meer und Ozean
+G50	Gletscher, Dauerschneefeld
+H00	Feuchtgebiet
+H10	Binnenfeuchtgebiet
+H11	Sumpf
+H12	Torfmoor
+H20	Küstenfeuchtgebiet
+H21	Salzwiese
+H22	Salinen und chemische Ablagerungen
+H23	Wattfläche
+RAT_LAND	Verhältnis der Landverbrauchsrate zur Bevölkerungswachstumsrate (Anzahl)
+LC	Bodenbedeckung insgesamt
+LCA	Künstliche Fläche
+LCB	Anbaufläche
+LCC	Bewaldete Flächen
+LCD	Gebüschfläche
+LCE	Gras- und Grünfläche
+LCF	Vegetationslose Fläche
+LCG	Gewässer
+LCH	Feuchtgebiet
+LCA1	Bebaute Fläche
+LCA2	Künstliche, unbebaute Fläche
+LCA3	Andere künstliche Flächen
+LCB1	Getreide
+LCB2	Knollen- und Wurzelfrüchte
+LCB3	Einjährige Handelsgewächse
+LCB4	Hülsenfrüchte, Frischgemüse und Zierpflanzen
+LCB5	Futterpflanzen
+LCB7	Obstbäume und Beeren
+LCB8	Andere Dauerkulturen
+LCBX	Fotointerpretierte Kulturen
+LCC10	Laubwälder und Gehölze
+LCC20	Nadelwälder und Gehölze
+LCC30	Mischwälder und Gehölze
+LCC1	Wald FAO
+LCC2	Andere Wald Flächen FAO
+LCC1_2	Wald und andere Wald Flächen FAO
+LCC3	Andere Wald Flächen No FAO
+LCD1	Gebüschfläche mit spärlichem Baumbewuchs
+LCD2	Gebüschfläche ohne Baumbewuchs
+LCE1	Gras- und Grünfläche mit spärlichem Baum- oder Strauchbewuchs
+LCE2	Gras- und Grünfläche ohne Baum- oder Strauchbewuchs
+LCE3	Spontane Vegetation
+LCG1	Stillgewässer
+LCG2	Fließgewässer
+LCG3	Übergangsgewässer
+LCG5	Gletscher, Dauerschneefeld
+LCH1	Binnenfeuchtgebiet
+LCH2	Küstenfeuchtgebiet
+LCA11	Gebäude mit 1 bis 3 Stockwerken
+LCA12	Gebäude mit mehr als 3 Stockwerken
+LCA13	Gewächshäuser
+LCA21	Künstliches, unbebautes, flächiges Element
+LCA22	Künstliches, unbebautes lineares Element
+LCA30	Andere künstliche Flächen
+LCB11	Weizen
+LCB12	Hartweizen
+LCB13	Gerste
+LCB14	Roggen
+LCB15	Hafer
+LCB16	Mais
+LCB17	Reis
+LCB18	Triticale
+LCB19	Andere Getreide
+LCB21	Kartoffeln
+LCB22	Zuckerrüben
+LCB23	Andere Hackfrüchte, Wurzel- und Knollengemüse
+LCB31	Sonnenblumen
+LCB32	Raps- und Rübsen
+LCB33	Soja
+LCB34	Baumwolle
+LCB35	Andere faser- und ölhaltige Kulturen
+LCB36	Tabak
+LCB37	Andere einjährige Handelsgewächse
+LCB41	Hülsenfrüchte
+LCB42	Tomaten
+LCB43	Anderes Frischgemüse
+LCB44	Blumen und Zierpflanzen
+LCB45	Erdbeeren
+LCB51	Klee
+LCB52	Luzerne
+LCB53	Andere Leguminosen und Mischeinsaaten zur Futtergewinnung
+LCB54	Menggetreide zur Futtergewinnung
+LCB55	Wechselgrünland
+LCBX1	Fotointerpretierte einjährige Kulturen
+LCB71	Apfelbäume
+LCB72	Birnenbäume
+LCB73	Kirschbäume
+LCB74	Nussbäume
+LCB75	Andere Obstbäume und Beeren
+LCB76	Orangenbäume
+LCB77	Andere Zitrusfrüchte
+LCB81	Olivenbäume
+LCB82	Weinstöcke
+LCB83	Baumschulen
+LCB84	Mehrjährige Handelsgewächse
+LCBX2	Fotointerpretierte Dauerkulturen
+LCH11	Sumpf
+LCH12	Torfmoor
+LCH21	Salzwiese
+LCH22	Salinen und chemische Ablagerungen
+LCH23	Wattfläche
+B1GQ_LCA	Produktivität der künstlich angelegte Flächen
+B1GM_LCA1	Produktivität der künstlich angelegten, bebauten Gebiete
+B1GM_LCA2	Produktivität der künstlich angelegten, nicht bebauten Gebiete

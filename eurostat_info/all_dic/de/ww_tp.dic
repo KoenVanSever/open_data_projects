@@ -1,0 +1,15 @@
+TOTAL	Anschluss an Abwasserbehandlung -  insgesamt
+WWT_GE2	Kommunale, unabhängige (dezentrale) und sonstige Abwasserbehandlung mit mindestens zweiter Reinigungsstufe
+URB_CS	Kanalisation für kommunales Abwasser
+URB_OTH	Kommunale Kläranlagen und sonstige Abwasserbehandlung - insgesamt
+URB_OTH_T1	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit lediglich erster Reinigungsstufe
+URB_OTH_T2	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit zweiter Reinigungsstufe
+URB_OTH_T3	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit dritter Reinigungsstufe
+URB_OTH_GE2	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit mindestens zweiter Reinigungsstufe
+URB_OTH_NSP	Kommunale Kläranlagen und sonstige Abwasserbehandlung mit nicht näher spezifizierter Behandlung
+URB_OTH_NC	Prozentsatz der Wohnbevölkerung ohne Anschluss an kommunale und sonstige Kläranlagen
+URB	Kommunale Kläranlagen - insgesamt
+IND	Unabhängige (dezentrale) Abwasserbehandlung - insgesamt
+IND_T_GE2	Unabhängige (dezentrale) Abwasserbehandlung mit zumindest zweiter Reinigungsstufe
+IND_TANK	Prozentsatz der Wohnbevölkerung deren Abwasser in Vorratstanks gesammelt und per LKW zur Kläranlage transportiert wird
+OTH	Sonstige Abwasserbehandlung - insgesamt

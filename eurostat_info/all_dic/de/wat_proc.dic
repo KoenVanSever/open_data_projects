@@ -1,0 +1,54 @@
+TOTAL	Insgesamt
+PRECIP	Niederschlag
+EVAP_TSP	Aktuelle Evapotranspiration
+INTFL	Interner Fluss
+INFL_NBT	Tatsächlicher externer Zufluss
+OUTFL	Tatsächlicher Gesamtabfluss
+OUTFL_SEA	Tatsächlicher Gesamtbfluss ins Meer
+OUTFL_NBT	Tatsächlicher Gesamtabfluss in angrenzende Gebiete
+RFW_RES	Erneuerbare  Süsswasserressourcen
+AQUI	Grundwasserneubildung
+GWAA	Für die jährliche Entnahme verfügbares Grundwasser
+FW_95LTAA	Zu 95 Prozent verlässliche Süßwasserressourcen, LTAA
+ABST	Bruttoentnahme - insgesamt
+ABS_PWS	Wasserentnahme für öffentliche Wasserversorgung
+ABS_AGR	Wasserentnahme für die Landwirtschaft
+ABS_AGR_IR	Wasserentnahme für die Landwirtschaft - zur Bewässerung
+ABS_AGR_AQ	Wasserentnahme für die Landwirtschaft - Aquakultur
+ABS_MIN	Wasserentnahme für Bergbau
+ABS_IND	Wasserentnahme für verarbeitendes Gewerbe
+ABS_IND_CL	Wasserentnahme für verarbeitendes Gewerbe - Kühlwasser
+ABS_ELC_CL	Wasserentnahme für Elektrizitätserzeugung - Kühlwasser
+ABS_CON	Wasserentnahme für das Baugewerbe
+ABS_SER	Wasserentnahme für  den  Dienstleistungsbereich
+ABS_HH	Wasserentnahme für Privathaushalte
+ABS_OTH	Wasserentnahme für andere Zwecke
+ABS_NET	Netto-Wasserentnahmen
+REW	Zurückgeleitetes Wasser (ohne Nutzung)
+IMP	Wasserimporte
+IMP_REG	Wasser aus anderen Regionen transferieren (Einfuhren)
+EXP	Wasserexporte
+EXP_REG	Wasser in andere Regionen transferieren (Ausfuhren)
+LOSS	Wasserverluste beim Transport - ingesamt
+LOSS_EVAP	Verdunstungsverluste
+LOSS_LEAK	Verluste durch Lecks
+LOSS_USE	Wasserverluste beim Verbrauch - ingesamt
+AVL_USE	Wasser, das zur Nutzung verfügbar ist
+GEN_HYDRO	Wassernutzung für Wasserkraft (Hydroelektrizität)
+ART_RES	Künstliche Stauseen
+PWS	Öffentliche Wasserversorgung
+SOWS	Selbst- und sonstige Versorgung
+PWS_SOWS	Öffentliche Wasserversorgung, Selbst- und sonstige Versorgung
+CONS_USE	Konsumptive Wassernutzung
+CONSUM	Gesamtmenge des verbrauchten Wassers
+POP_PWS	An die öffentliche Versorgung angeschlossene Bevölkerung (%)
+CWD	Kühlwasserableitung - insgesamt
+CWD_IW	Kühlwasserableitung in Binnengewässer
+CWD_SEA	Kühlwasserableitung ins Meer
+ABS_DSW	Entsalztes Wasser
+ABS_RUW	Wiederverwendetes Wasser
+DIS	Gesamtableitungen von Kläranlagen (kommunale und sonstige)
+DIS_IW	Ableitungen in Binnengewässer - insgesamt
+DIS_SEA	Ableitungen ins Meer - insgesamt
+WEI	Wassernutzungsindex
+VOL_RES	Nutzbares Volumen der Reservoirs

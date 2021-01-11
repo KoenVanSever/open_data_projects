@@ -1,0 +1,13 @@
+IT_GEN	Connaissances informatiques générales
+IT_PROF	Connaissances informatiques professionnelles
+MGMT	Compétences de gestion
+TEAM	Aptitude au travail en équipe
+CUS_HDL	Aptitude aux relations avec la clientèle
+PB_SOLV	Talents de résolution de problèmes
+ADMIN	Aptitude aux tâches administratives
+FOR_LANG	Connaissances linguistiques
+SPEC	Connaissances techniques, pratiques ou spécifiques au poste
+COMM	Talents de communication orale ou écrite
+NUM_LIT	Compétences en calcul et/ou lecture/écriture
+OTH	Autres aptitudes et compétences
+UNK	Inconnu

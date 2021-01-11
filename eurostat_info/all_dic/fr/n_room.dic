@@ -1,0 +1,21 @@
+TOTAL	Total
+1	1 pièce
+2	2 pièces
+3	3 pièces
+4	4 pièces
+5	5 pièces
+6	6 pièces
+7	7 pièces
+GE7	7 pièces ou plus
+8	8 pièces
+GE8	8 pièces ou plus
+9	9 pièces
+GE9	9 pièces ou plus
+GE10	10 pièces ou plus
+LT25	Moins de 25 chambres
+25-99	De 25 à 99 chambres
+GE100	100 chambres ou plus
+100-249	De 100 et 249 chambres
+GE250	250 chambres ou plus
+UNK	Inconnu
+TOT_HH	Nombre total de ménages

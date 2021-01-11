@@ -1,0 +1,16 @@
+TOTAL	Total
+AIR	Voie aérienne
+LAND	Terrestre
+RAIL_IWW_AVD	Chemins de fer, voies navigables intérieures - somme des données disponibles
+RAIL	Chemins de fer
+ROAD	Routes
+PRV	Voitures privées, motocycles, camionnettes
+PUB	Transport public
+BUS	Autocars, autobus
+CAR	Véhicules à moteur
+BIKE	Bicyclettes
+FOOT	A pied
+WW	Voie d'eau 
+SEA	Maritime
+IWW	Voies navigables intérieures
+OTH	Autres

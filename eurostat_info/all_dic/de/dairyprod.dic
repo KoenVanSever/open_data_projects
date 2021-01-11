@@ -1,0 +1,146 @@
+D0000	Milch, Käse und Eier
+D0100	Milchprodukte
+D0100AD	Milchprodukte vom Bauernhof geliefert an Molkereien
+D0110	Frische Produkte
+D0120	Gefertigte Produkte
+D0200	Andere Milchprodukte
+D0210D	Milchprodukte, ausser an Molkereien gelieferte Milchgetränke, Rahm, Butter und Käse
+D0220D	Milchprodukte, ausser an Molkereien gelieferte Milch und Käse
+D0230D	Sonstige an Molkereien gelieferte Milchprodukte (ausser Milch, Rahm, Mager- und Buttermilch)
+D1000	Rohmilch und Rahm
+D1100	Milch oder Rohmilch
+D1100A	Rohmilch, insgesamt verfügbar auf den Bauerhöfen
+D1100DU	Rohmilch, insgesamt verfügbar in Molkereien (=insgesamt benutzt)
+D1100D	Rohmilch geliefert an Molkereien
+D1100F	Rohmilch für Verfütterung
+D1100DLA	Rohmilch, Differenzen und Verluste auf Bauerhöfen
+D1100DLD	Rohmilch, Differenzen und Verluste in Molkereien
+D1100OUD	Rohmilch, andere Verwendungszwecke in Molkereien
+D1110	Rohe Kuhmilch
+D1110D	Kuhmilch geliefert an Molkereien
+D1110A	Rohe Kuhmilch vom Bauernhof
+D1111A	Rohe Kuhmilch vom Bauernhof
+D1112A	Rohe Kuhmilch vom Bauernhof, andere als Milchkühe
+D1120	Schafsmilch geliefert
+D1120D	Schafsmilch geliefert an Molkereien
+D1120A	Schafsmilch vom Bauernhof
+D1130	Ziegenmilch geliefert
+D1130D	Ziegenmilch geliefert an Molkereien
+D1130A	Ziegenmilch vom Bauernhof
+D1140D	Büffelmilch geliefert an Molkereien
+D1140A	Büffelmilch vom Bauernhof
+D1190	Rohmilch von anderen Tierarten
+D1200A	Roher Rahm vom Bauernhof
+D1200D	Roher Rahm geliefert an Molkereien
+D1200DME	Roher Rahm geliefert an Molkereien (in Milcheinheiten)
+D2000	Milch und Rahm, weder eingedickt noch mit Zusatz von Zucker oder anderen Süßungsmitteln
+D2000X	Milch und Rahm in grossen Mengen: Exporte
+D2000Y	Milch und Rahm in grossen Mengen: Ausfuhr innerhalb der EU
+D2100	Trinkmilch
+D2110	Rohe Trinkmilch
+D2110V	Trinkmilch - Direktverkauf
+D2110H	Trinkmilch - Eigengebrauch
+D2120	Vollmilch
+D2120I	Einfuhr von Vollmilch (einschließlich Rohmilch)
+D2120J	Einfuhr (intra-EU) Vollmilch (einschließlich Rohmilch)
+D2121	Vollmilch pasteurisiert
+D2122	Vollmilch sterilisiert
+D2123	Vollmilch ultra-hocherhitzt
+D2130	Teilentrahmte Milch
+D2131	Teilentrahmte Milch pasteurisiert
+D2132	Teilentrahmte Milch sterilisiert
+D2133	Teilentrahmte Milch ultra-hocherhitzt
+D2140_4200A	Mager- und Buttermilch, auf Bauerhöfen insgesamt
+D2140_4200RD	Mager- und Buttermilch, Rücklieferung von Molkereien
+D2140_4200BC	Mager- und Buttermilch: Saldo aus Rahmanlieferung
+D2140_4200AB	Magermilch und Buttermilch aus Herstellung von Butter und Rahm
+D2140_4200D	Mager- und Buttermilch an Molkereien geliefert
+D2140	Magermilch
+D2140RA	Magermilch - zurück auf den Bauernhof
+D2140I	Einfuhr von Magermilch
+D2140J	Einfuhr (intra-EU) von Magermilch
+D2141	Magermilch pasteurisiert
+D2142	Magermilch sterilisiert
+D2143	Magermilch ultra-hocherhitzt
+D2200_6110A	Bauernbutter und Rahm
+D2200	Rahm
+D2200V	Rahm für den direkten Verbrauch
+D2201	Rahm mit Fettgehalt von nicht mehr als 29%
+D2202	Rahm mit Fettgehalt über 29%
+D2200IME	Einfuhr von Rahm (in Milcheinheiten)
+D2200JME	Einfuhr (intra-EU) von Rahm (in Milcheinheiten)
+D3000	Milch und Rahm, eingedickt oder mit Zusatz von Zucker oder anderen Süßungsmitteln
+D3100	Pulverprodukte
+D3100_X_3113	Milch- und Rahmpulver, ausser Magermilchpulver
+D3110	Milchpulver
+D3111	Vollmilchpulver
+D3112	Teilentrahmtes Milchpulver
+D3113	Magermilchpulver
+D3120	Rahmmilchpulver
+D3130	Buttermilchpulver
+D3190	Sonstige Pulverprodukte
+D3200	Kondensmilch
+D3210	Kondensmilch nicht gesüsst
+D3220	Kondensmilch gesüsst
+D4000	Buttermilch, saure Milch und saurer Rahm, Joghurt, Kefir und andere fermentierte oder gesäuerte Milch
+D4100	Sauermilcherzeugnisse (Joghurt and sonstige)
+D4110	Sauermilcherzeugnisse mit Zusätzen
+D4120	Sauermilcherzeugnisse ohne Zusätze
+D4200	Buttermilch
+D5000	Molke
+D5100	Molke (flüssig)
+D5200	Molke (eingedickt)
+D5300	Molke (Pulver oder Brocken)
+D5400	Lactose (Milchzucker)
+D5500	Lactoalbumine
+D6000	Butter, inkl. entwässerte Butter und Ghee, und andere Fettstoffe aus der Milch; Brotaufstriche
+D6100	Butter
+D6100A	Butter vom Bauernhof
+D6100AD	Butter vom Bauernhof geliefert an Molkereien
+D6110	Traditionelle Butter
+D6120	Rekombinierte Butter
+D6130	Molkenbutter
+D6200	Butterschmalz und Butteröl
+D6900	Sonstige Streichfetterzeugnisse
+D6910	Fettreduzierte Butter
+D6990	Sonstige Streichfetterzeugnisse (ohne fettreduzierte Butter)
+D7000	Käse und Quark
+D7100	Käse
+D7100A	Käse vom Bauernhof
+D7100AD	Käse vom Bauernhof geliefert an Molkereien
+D7110	Alle Arten von Käse
+D7111	Weichkäse
+D7112	Mittel Weichkäse
+D7113	Mittel Hartkäse
+D7114	Hartkäse
+D7115	Extra-Hartkäse
+D7116	Frischkäse
+D7120	Käse von Tieren
+D7121	Käse aus Kuhmilch (rein)
+D7122	Käse aus Schafsmilch (rein)
+D7123	Käse aus Ziegenmilch (rein)
+D7129	Sonstige (Käse aus Büffelmilch (rein) oder gemischter Käse)
+D7200	Schmelzkäse
+D8000	Eier
+D8000H	Konsumeier
+D8100	Befruchtete Eier von heimischen Vogelarten, für die Inkubation
+D8110	Hühnereier
+D8120	Enteneier
+D8130	Gänseeier
+D8140	Truhthahneier
+D8150	Perlhuhneier
+D8190	Eier von anderen Tierarten
+D8200	Eier in der Schale aus heimischen Vogelarten, nicht für die Inkubation
+D8210	Hühnereier
+D8290	Eier von anderen Tierarten
+D8300	Eier nicht in der Schale
+D9000	Sonstige Milchprodukte
+D9000I	Importe von sonstigen Produkten
+D9000J	Importe (intra-EU) von sonstigen Produkten
+D9100	Getränke auf Milchbasis
+D9200	Sonstige frische Produkte (Milch-basierte Desserts, Eis)
+D9300	Kasein und Kaseinate
+D9400	Schokoladekrümmel
+D9500	Sonstige Ökologische Milchprodukte
+D9900A	Sonstige Produkte vom Bauernhof gesammelt
+D9910	Honig

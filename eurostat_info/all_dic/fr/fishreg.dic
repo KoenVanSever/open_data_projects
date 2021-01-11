@@ -1,0 +1,526 @@
+0	Toutes zones de pêche
+0_X_37	Toutes zones de pêche sauf Méditerranée et Mer Noire
+9	Eaux intérieures - Total
+1	Eaux intérieures - Afrique
+2	Eaux intérieures - Amérique du nord
+4	Eaux intérieures - Asie
+5	Eaux intérieures - Europe
+10	Zones maritimes
+18	Mer arctique
+21	Atlantique, nord-ouest
+21_0	Atlantic, Northwest / 21.0
+21_0_A	Atlantique, nord-ouest / 21.0.A
+21_0_B	Atlantique, nord-ouest / 21.0.B
+21_0_NK	Atlantique, nord-ouest / 21.0 (non spécifié)
+21_1	Atlantique, nord-ouest / 21.1
+21_1_A	Atlantique, nord-ouest / 21.1.A
+21_1_B	Atlantique, nord-ouest / 21.1.B
+21_1_C	Atlantique, nord-ouest / 21.1.C
+21_1_D	Atlantique, nord-ouest / 21.1.D
+21_1_E	Atlantique, nord-ouest / 21.1.E
+21_1_F	Atlantique, nord-ouest / 21.1.F
+21_1_NK	Atlantique, nord-ouest / 21.1 (non spécifié)
+21_2	Atlantique, nord-ouest / 21.2
+21_2_G	Atlantique, nord-ouest / 21.2.G
+21_2_H	Atlantique, nord-ouest / 21.2.H
+21_2_J	Atlantique, nord-ouest / 21.2.J
+21_2_NK	Atlantique, nord-ouest / 21.2 (non spécifié)
+21_3	Atlantique, nord-ouest / 21.3
+21_3_K	Atlantique, nord-ouest / 21.3.K
+21_3_L	Atlantique, nord-ouest / 21.3.L
+21_3_M	Atlantique, nord-ouest / 21.3.M
+21_3_N	Atlantique, nord-ouest / 21.3.N
+21_3_O	Atlantique, nord-ouest / 21.3.O
+21_3_P	Atlantique, nord-ouest / 21.3.P
+21_3_P_N	Atlantique, nord-ouest / 21.3.P.n
+21_3_P_S	Atlantique, nord-ouest / 21.3.P.s
+21_3_P_NK	Atlantique, nord-ouest / 21.3.P (non spécifié)
+21_3_NK	Atlantique, nord-ouest / 21.3 (non spécifié)
+21_4	Atlantique, nord-ouest / 21.4
+21_4_R	Atlantique, nord-ouest / 21.4.R
+21_4_S	Atlantique, nord-ouest / 21.4.S
+21_4_T	Atlantique, nord-ouest / 21.4.T
+21_4_V	Atlantique, nord-ouest / 21.4.V
+21_4_V_N	Atlantique, nord-ouest / 21.4.V.n
+21_4_V_S	Atlantique, nord-ouest / 21.4.V.s
+21_4_V_NK	Atlantique, nord-ouest / 21.4.V (non spécifié)
+21_4_W	Atlantique, nord-ouest / 21.4.W
+21_4_X	Atlantique, nord-ouest / 21.4.X
+21_4_NK	Atlantique, nord-ouest / 21.4 (non spécifié)
+21_5	Atlantique, nord-ouest / 21.5
+21_5_Y	Atlantique, nord-ouest / 21.5.Y
+21_5_Z	Atlantique, nord-ouest / 21.5.Z
+21_5_Z_C	Atlantique, nord-ouest / 21.5.Z.c
+21_5_Z_E	Atlantique, nord-ouest / 21.5.Z.e
+21_5_Z_E_NK	Atlantique, nord-ouest / 21.5.Z.e (non spécifié)
+21_5_Z_U	Atlantique, nord-ouest / 21.5.Z.u
+21_5_Z_W	Atlantique, nord-ouest / 21.5.Z.w
+21_5_Z_NK	Atlantique, nord-ouest / 21.5.Z (non spécifié)
+21_5_NK	Atlantique, nord-ouest / 21.5 (non spécifié)
+21_6	Atlantique, nord-ouest / 21.6
+21_6_A	Atlantique, nord-ouest / 21.6.A
+21_6_B	Atlantique, nord-ouest / 21.6.B
+21_6_C	Atlantique, nord-ouest / 21.6.C
+21_6_D	Atlantique, nord-ouest / 21.6.D
+21_6_E	Atlantique, nord-ouest / 21.6.E
+21_6_F	Atlantique, nord-ouest / 21.6.F
+21_6_G	Atlantique, nord-ouest / 21.6.G
+21_6_H	Atlantique, nord-ouest / 21.6.H
+21_6_NK	Atlantique, nord-ouest / 21.6 (non spécifié)
+21_NK	Atlantique, nord-ouest (non spécifié)
+27	Atlantique, nord-est
+27_1-2_A_NK	Atlantique, nord-est / de 27.1 à 27.2.a (non spécifié)
+27_1	Atlantique, nord-est / 27.1
+27_1_A	Atlantique, nord-est / 27.1.a
+27_1_B	Atlantique, nord-est / 27.1.b
+27_1_NK	Atlantique, nord-est / 27.1 (non spécifié)
+27_2	Atlantique, nord-est / 27.2
+27_2_A	Atlantique, nord-est / 27.2.a
+27_2_A_1	Atlantique, nord-est / 27.2.a.1
+27_2_A_2	Atlantique, nord-est / 27.2.a.2
+27_2_A_NK	Atlantique, nord-est / 27.2.a (non spécifié)
+27_2_B	Atlantique, nord-est / 27.2.b
+27_2_B_1	Atlantique, nord-est / 27.2.b.1
+27_2_B_2	Atlantique, nord-est / 27.2.b.2
+27_2_B_NK	Atlantique, nord-est / 27.2.b (non spécifié)
+27_2_NK	Atlantique, nord-est / 27.2 (non spécifié)
+27_3_A-4_NK	Atlantique, nord-est / from 27.3.a to 27.4 (non spécifié)
+27_3_A-4_AB_NK	Atlantique, nord-est / de 27.3.a à 27.4.a.b (non spécifié)
+27_3	Atlantique, nord-est / 27.3
+27_3_A	Atlantique, nord-est / 27.3.a
+27_3_A_20	Atlantique, nord-est / Skagerrak
+27_3_A_21	Atlantique, nord-est / Kattegat
+27_3_A_NK	Atlantique, nord-est / 27.3.a (non spécifié)
+27_3_BC	Atlantique, nord-est / 27.3.b et c
+27_3_BC_NK	Atlantique, nord-est / 27.3.b et c (non spécifié)
+27_3_B-D	Atlantique, nord-est / 27.3.b et d
+27_3_B-D_NK	Atlantique, nord-est / 27.3.b et d (non spécifié)
+27_3_B	Atlantique, nord-est / 27.3.b
+27_3_B_23	Atlantique, nord-est / 27.3.b.23
+27_3_C	Atlantique, nord-est / 27.3.c
+27_3_C_22	Atlantique, nord-est / 27.3.c.22
+27_3_D	Atlantique, nord-est / 27.3.d
+27_3_D_24	Atlantique, nord-est / 27.3.d.24
+27_3_D_25	Atlantique, nord-est / 27.3.d.25
+27_3_D_26	Atlantique, nord-est / 27.3.d.26
+27_3_D_27	Atlantique, nord-est / 27.3.d.27
+27_3_D_28	Atlantique, nord-est / 27.3.d.28
+27_3_D_28_1	Atlantique, nord-est / 27.3.d.28.1
+27_3_D_28_2	Atlantique, nord-est / 27.3.d.28.2
+27_3_D_28_NK	Atlantique, nord-est / 27.3.d.28 (non spécifié)
+27_3_D_29	Atlantique, nord-est / 27.3.d.29
+27_3_D_30	Atlantique, nord-est / 27.3.d.30
+27_3_D_31	Atlantique, nord-est / 27.3.d.31
+27_3_D_32	Atlantique, nord-est / 27.3.d.32
+27_3_D_NK	Atlantique, nord-est / 27.3.d (non spécifié)
+27_3_NK	Atlantique, nord-est / 27.3 (non spécifié)
+27_4	Atlantique, nord-est / 27.4
+27_4_AB	Atlantique, nord-est / 27.4.a et b
+27_4_AB_NK	Atlantique, nord-est / 27.4.a et b (non spécifié)
+27_4_A	Atlantique, nord-est / 27.4.a
+27_4_BC_NK	Atlantique, nord-est / 27.4.b et c (non spécifié)
+27_4_B	Atlantique, nord-est / 27.4.b
+27_4_C	Atlantique, nord-est / 27.4.c
+27_4_NK	Atlantique, nord-est / 27.4 (non spécifié)
+27_5	Atlantique, nord-est / 27.5
+27_5_A-B_1_NK	Atlantique, nord-est / 27.5.a et 27.5.b.1 (non spécifié)
+27_5_A	Atlantique, nord-est / 27.5.a
+27_5_A_1	Atlantique, nord-est / 27.5.a.1
+27_5_A_2	Atlantique, nord-est / 27.5.a.2
+27_5_A_NE	Atlantique, nord-est / 27.5.a North-East
+27_5_A_SW	Atlantique, nord-est / 27.5.a South-West
+27_5_A_NK	Atlantique, nord-est / 27.5.a (non spécifié)
+27_5_B	Atlantique, nord-est / 27.5.b
+27_5_B_1	Atlantique, nord-est / 27.5.b.1
+27_5_B_1_A	Atlantique, nord-est / 27.5.b.1.a
+27_5_B_1_B	Atlantique, nord-est / 27.5.b.1.b
+27_5_B_1_NK	Atlantique, nord-est / 27.5.b.1 (non spécifié)
+27_5_B_2	Atlantique, nord-est / 27.5.b.2
+27_5_B_NK	Atlantique, nord-est / 27.5.b (non spécifié)
+27_5_NK	Atlantique, nord-est / 27.5 (non spécifié)
+27_6	Atlantique, nord-est / 27.6
+27_6_A	Atlantique, nord-est / 27.6.a
+27_6_B	Atlantique, nord-est / 27.6.b
+27_6_B_1	Atlantique, nord-est / 27.6.b.1
+27_6_B_2	Atlantique, nord-est / 27.6.b.2
+27_6_B_NK	Atlantique, nord-est / 27.6.b (non spécifié)
+27_6_NK	Atlantique, nord-est / 27.6 (non spécifié)
+27_7	Atlantique, nord-est / 27.7
+27_7_A-F_NK	Atlantique, nord-est / de 27.7.a à 27.7.f (non spécifié)
+27_7_A	Atlantique, nord-est / 27.7.a
+27_7_BC	Atlantique, nord-est / 27.7.b et c
+27_7_BC_NK	Atlantique, nord-est / 27.7.b et c (non spécifié)
+27_7_B	Atlantique, nord-est / 27.7.b
+27_7_C	Atlantique, nord-est / 27.7.c
+27_7_C_1	Atlantique, nord-est / 27.7.c.1
+27_7_C_2	Atlantique, nord-est / 27.7.c.2
+27_7_C_NK	Atlantique, nord-est / 27.7.c (non spécifié)
+27_7_D-K_NK	Atlantique, nord-est / de 27.7.d à 27.7.k (non spécifié)
+27_7_DE	Atlantique, nord-est / 27.7.d et e
+27_7_DE_NK	Atlantique, nord-est / 27.7 d et e (non spécifié)
+27_7_D	Atlantique, nord-est / 27.7.d
+27_7_E	Atlantique, nord-est / 27.7.e
+27_7_F-K_NK	Atlantique, nord-est / de 27.7.f à 27.7.k (non spécifié)
+27_7_F	Atlantique, nord-est / 27.7.f
+27_7_G-K	Atlantique, nord-est / de 27.7.g à 27.7.k
+27_7_G-K_NK	Atlantique, nord-est / de 27.7.g à 27.7.k (non spécifié)
+27_7_G	Atlantique, nord-est / 27.7.g
+27_7_H	Atlantique, nord-est / 27.7.h
+27_7_J	Atlantique, nord-est / 27.7.j
+27_7_J_1	Atlantique, nord-est / 27.7.j.1
+27_7_J_2	Atlantique, nord-est / 27.7.j.2
+27_7_J_NK	Atlantique, nord-est / 27.7.j (non spécifié)
+27_7_K	Atlantique, nord-est / 27.7.k
+27_7_K_1	Atlantique, nord-est / 27.7.k.1
+27_7_K_2	Atlantique, nord-est / 27.7.k.2
+27_7_K_NK	Atlantique, nord-est / 27.7.k (non spécifié)
+27_7_NK	Atlantique, nord-est / 27.7 (non spécifié)
+27_8	Atlantique, nord-est / 27.8
+27_8_A	Atlantique, nord-est / 27.8.a
+27_8_B	Atlantique, nord-est / 27.8.b
+27_8_C	Atlantique, nord-est / 27.8.c
+27_8_D	Atlantique, nord-est / 27.8.d
+27_8_D_1	Atlantique, nord-est / 27.8.d.1
+27_8_D_2	Atlantique, nord-est / 27.8.d.2
+27_8_D_NK	Atlantique, nord-est / 27.8.d (non spécifié)
+27_8_E	Atlantique, nord-est / 27.8.e
+27_8_E_1	Atlantique, nord-est / 27.8.e.1
+27_8_E_2	Atlantique, nord-est / 27.8.e.2
+27_8_E_NK	Atlantique, nord-est / 27.8.e (non spécifié)
+27_8_NK	Atlantique, nord-est / 27.8 (non spécifié)
+27_9	Atlantique, nord-est / 27.9
+27_9_A	Atlantique, nord-est / 27.9.a
+27_9_B	Atlantique, nord-est / 27.9.b
+27_9_B_1	Atlantique, nord-est / 27.9.b.1
+27_9_B_2	Atlantique, nord-est / 27.9.b.2
+27_9_B_NK	Atlantique, nord-est / 27.9.b (non spécifié)
+27_9_NK	Atlantique, nord-est / 27.9 (non spécifié)
+27_10	Atlantique, nord-est / 27.10
+27_10_A	Atlantique, nord-est / 27.10.a
+27_10_A_1	Atlantique, nord-est / 27.10.a.1
+27_10_A_2	Atlantique, nord-est / 27.10.a.2
+27_10_A_NK	Atlantique, nord-est / 27.10.a (non spécifié)
+27_10_B	Atlantique, nord-est / 27.10.b
+27_10_NK	Atlantique, nord-est / 27.10 (non spécifié)
+27_12	Atlantique, nord-est / 27.12
+27_12_A	Atlantique, nord-est / 27.12.a
+27_12_A_1	Atlantique, nord-est / 27.12.a.1
+27_12_A_2	Atlantique, nord-est / 27.12.a.2
+27_12_A_3	Atlantique, nord-est / 27.12.a.3
+27_12_A_4	Atlantique, nord-est / 27.12.a.4
+27_12_A_NK	Atlantique, nord-est / 27.12.a (non spécifié)
+27_12_B	Atlantique, nord-est / 27.12.b
+27_12_C	Atlantique, nord-est / 27.12.c
+27_12_NK	Atlantique, nord-est / 27.12 (non spécifié)
+27_14	Atlantique, nord-est / 27.14
+27_14_A	Atlantique, nord-est / 27.14.a
+27_14_B	Atlantique, nord-est / 27.14.b
+27_14_B_1	Atlantique, nord-est / 27.14.b.1
+27_14_B_2	Atlantique, nord-est / 27.14.b.2
+27_14_B_NK	Atlantique, nord-est / 27.14.b (non spécifié)
+27_14_NK	Atlantique, nord-est / 27.14 (non spécifié)
+27_NK	Atlantique, nord-est (non spécifié)
+31	Atlantique, centre-ouest
+31_1	Atlantique, centre-ouest / 31.1
+31_10	Atlantique, centre-ouest / 31.10
+31_10_1	Atlantique, centre-ouest / 31.10.1
+31_10_2	Atlantique, centre-ouest / 31.10.2
+31_10_3	Atlantique, centre-ouest / 31.10.3
+31_10_4	Atlantique, centre-ouest / 31.10.4
+31_10_NK	Atlantique, centre-ouest / 31.10 (non spécifié)
+31_11	Atlantique, centre-ouest / 31.11
+31_2	Atlantique, centre-ouest / 31.2
+31_2_1	Atlantique, centre-ouest / 31.2.1
+31_2_2	Atlantique, centre-ouest / 31.2.2
+31_2_3	Atlantique, centre-ouest / 31.2.3
+31_2_4	Atlantique, centre-ouest / 31.2.4
+31_2_5	Atlantique, centre-ouest / 31.2.5
+31_2_6	Atlantique, centre-ouest / 31.2.6
+31_2_NK	Atlantique, centre-ouest / 31.2 (non spécifié)
+31_3	Atlantique, centre-ouest / 31.3
+31_3_1	Atlantique, centre-ouest / 31.3.1
+31_3_2	Atlantique, centre-ouest / 31.3.2
+31_3_3	Atlantique, centre-ouest / 31.3.3
+31_3_NK	Atlantique, centre-ouest / 31.3 (non spécifié)
+31_4	Atlantique, centre-ouest / 31.4
+31_4_1	Atlantique, centre-ouest / 31.4.1
+31_4_2	Atlantique, centre-ouest / 31.4.2
+31_4_NK	Atlantique, centre-ouest / 31.4 (non spécifié)
+31_5	Atlantique, centre-ouest / 31.5
+31_6	Atlantique, centre-ouest / 31.6
+31_7	Atlantique, centre-ouest / 31.7
+31_7_1	Atlantique, centre-ouest / 31.7.1
+31_7_2	Atlantique, centre-ouest / 31.7.2
+31_7_3	Atlantique, centre-ouest / 31.7.3
+31_7_4	Atlantique, centre-ouest / 31.7.4
+31_7_NK	Atlantique, centre-ouest / 31.7 (non spécifié)
+31_8	Atlantique, centre-ouest / 31.8
+31_8_1	Atlantique, centre-ouest / 31.8.1
+31_8_2	Atlantique, centre-ouest / 31.8.2
+31_8_NK	Atlantique, centre-ouest / 31.8 (non spécifié)
+31_NK	Atlantique, centre-ouest / 31  (non spécifié)
+34	Atlantique, centre-est
+34_1	Atlantique, centre-est / 34.1
+34_1_1	Atlantique, centre-est / 34.1.1
+34_1_1_1	Atlantique, centre-est / 34.1.1.1
+34_1_1_2	Atlantique, centre-est / 34.1.1.2
+34_1_1_3	Atlantique, centre-est / 34.1.3.2
+34_1_1_NK	Atlantique, centre-est / 34.1.1 (non spécifié)
+34_1_2	Atlantique, centre-est / 34.1.2
+34_1_3	Atlantique, centre-est / 34.1.3
+34_1_3_1	Atlantique, centre-est / 34.1.3.1
+34_1_3_2	Atlantique, centre-est / 34.1.3.2
+34_1_3_NK	Atlantique, centre-est / 34.1.3 (non spécifié)
+34_1_NK	Atlantique, centre-est / 34.1 (non spécifié)
+34_2	Atlantique, centre-est / 34.2
+34_3	Atlantique, centre-est / 34.3
+34_3_1	Atlantique, centre-est / 34.3.1
+34_3_1_1	Atlantique, centre-est / 34.3.1.1
+34_3_1_NK	Atlantique, centre-est / 34.3.1 (non spécifié)
+34_3_1_2	Atlantique, centre-est / 34.3.1.2
+34_3_1_3	Atlantique, centre-est / 34.3.1.3
+34_3_2	Atlantique, centre-est / 34.3.2
+34_3_3	Atlantique, centre-est / 34.3.3
+34_3_4	Atlantique, centre-est / 34.3.4
+34_3_5	Atlantique, centre-est / 34.3.5
+34_3_6	Atlantique, centre-est / 34.3.6
+34_3_NK	Atlantique, centre-est / 34.3 (non spécifié)
+34_4	Atlantique, centre-est / 34.4
+34_4_1	Atlantique, centre-est / 34.4.1
+34_4_2	Atlantique, centre-est / 34.4.2
+34_4_NK	Atlantique, centre-est / 34.4 (non spécifié)
+34_NK	Atlantique, centre-est (non spécifié)
+37	Méditerranée et Mer Noire
+37_1	Méditerranée et Mer Noire / 37.1
+37_1_1	Méditerranée et Mer Noire / 37.1.1
+37_1_2	Méditerranée et Mer Noire / 37.1.2
+37_1_3	Méditerranée et Mer Noire / 37.1.3
+37_1_NK	Méditerranée et Mer Noire / 37.1 (non spécifié)
+37_2	Méditerranée et Mer Noire / 37.2
+37_2_1	Méditerranée et Mer Noire / 37.2.1
+37_2_2	Méditerranée et Mer Noire / 37.2.2
+37_2_NK	Méditerranée et Mer Noire / 37.2 (non spécifié)
+37_3	Méditerranée et Mer Noire / 37.3
+37_3_1	Méditerranée et Mer Noire / 37.3.1
+37_3_2	Méditerranée et Mer Noire / 37.3.2
+37_3_NK	Méditerranée orientale sous area/ (non spécifié)
+37_4	Méditerranée et Mer Noire / 37.4
+37_4_1	Méditerranée et Mer Noire / 37.4.1
+37_4_2	Méditerranée et Mer Noire / 37.4.2
+37_4_3	Méditerranée et Mer Noire / 37.4.3
+37_4_NK	Sous area Mer Noire / (non spécifié)
+37_NK	Méditerranée et Mer Noire (non spécifié)
+41	Atlantique, sud-ouest
+41_1	Atlantique, sud-ouest / 41.1
+41_1_1	Atlantique, sud-ouest / 41.1.1
+41_1_2	Atlantique, sud-ouest / 41.1.2
+41_1_3	Atlantique, sud-ouest / 41.1.3
+41_1_4	Atlantique, sud-ouest / 41.1.4
+41_1_NK	Atlantique sud-ouest/ 41.1 (non spécifié)
+41_2	Atlantique, sud-ouest / 41.2
+41_2_1	Atlantique, sud-ouest / 41.2.1
+41_2_2	Atlantique, sud-ouest / 41.2.2
+41_2_3	Atlantique, sud-ouest / 41.2.3
+41_2_4	Atlantique, sud-ouest / 41.2.4
+41_2_NK	Atlantique sud-ouest/ 41.2 (non spécifié)
+41_3	Atlantique, sud-ouest / 41.3
+41_3_1	Atlantique, sud-ouest / 41.3.1
+41_3_2	Atlantique, sud-ouest / 41.3.2
+41_3_3	Atlantique, sud-ouest / 41.3.3
+41_3_NK	Atlantique, sud-ouest / 41.3 (non spécifié)
+41_NK	Atlantique, sud-ouest (non spécifié)
+47	Atlantique, sud-est
+47_1	Atlantique, sud-est / 47.1
+47_1_1	Atlantique, sud-est / 47.1.1
+47_1_2	Atlantique, sud-est / 47.1.2
+47_1_3	Atlantique, sud-est / 47.1.3
+47_1_4	Atlantique, sud-est / 47.1.4
+47_1_5	Atlantique, sud-est / 47.1.5
+47_1_6	Atlantique, sud-est / 47.1.6
+47_1_NK	Atlantique, sud-est / 47.1 (non spécifié)
+47_2	Atlantique, sud-est / 47.2
+47_2_1	Atlantique, sud-est / 47.2.1
+47_2_2	Atlantique, sud-est / 47.2.2
+47_2_3	Atlantique, sud-est / 47.2.3
+47_2_4	Atlantique, sud-est / 47.2.4
+47_2_NK	Atlantique, sud-est / 47.2 (non spécifié)
+47_3	Atlantique, sud-est / 47.3
+47_4	Atlantique, sud-est / 47.4
+47_5	Atlantique, sud-est / 47.5
+47_8	Atlantique sud-est  / 47.8
+47_A	47.A SEAFO
+47_A_0	SEAFO division A.0
+47_A_1	SEAFO division A.1
+47_A_NK	SEAFO division A  (non spécifié)
+47_B	47.B SEAFO
+47_B_0	SEAFO division B.0
+47_B_1	SEAFO division B.1
+47_B_NK	SEAFO division B  (non spécifié)
+47_C	47.C SEAFO
+47_C_0	SEAFO division C.0
+47_C_1	SEAFO division C.1
+47_C_NK	SEAFO division C (non spécifié)
+47_D	47.D SEAFO
+47_D_0	SEAFO division D.0
+47_D_1	SEAFO division D.1
+47_D_NK	SEAFO division D (non spécifié)
+47_NK	Atlantique, sud-est (non spécifié)
+48	Atlantique, Antarctique
+48_1	Antarctique, Atlantique / 48.1
+48_2	Antarctique, Atlantique / 48.2
+48_3	Antarctique, Atlantique / 48.3
+48_4	Antarctique, Atlantique / 48.4
+48_5	Antarctique, Atlantique / 48.5
+48_6	Antarctique, Atlantique / 48.6
+48_NK	Antarctique, Atlantique (non spécifié)
+51	Océan Indien, ouest
+51_1	Océan Indien, ouest / 51.1
+51_2	Océan Indien, ouest / 51.2
+51_3	Océan Indien, ouest / 51.3
+51_4	Océan Indien, ouest / 51.4
+51_4_1	Océan Indien, ouest / 51.4.1
+51_4_2	Océan Indien, ouest / 51.4.2
+51_4_NK	Océan Indien, ouest / 51.4 (non spécifié)
+51_5	Océan Indien, ouest / 51.5
+51_6	Océan Indien, ouest / 51.6
+51_7	Océan Indien, ouest / 51.7
+51_8	Océan Indien, ouest / 51.8
+51_8_1	Océan Indien, ouest / 51.8.1
+51_8_2	Océan Indien, ouest / 51.8.2
+51_8_NK	Océan Indien, ouest / 51.8 (non spécifié)
+51_NK	Océan Indien, ouest (non spécifié)
+57	Océan Indien, est
+57_1	Océan Indien, est / 57.1
+57_2	Océan Indien, est / 57.2
+57_3	Océan Indien, est / 57.3
+57_4	Océan Indien, est / 57.4
+57_5	Océan Indien, est / 57.5
+57_5_1	Est de l'océan Indien  / 57.5.1
+57_5_2	Est de l'océan Indien  / 57.5.2
+57_5_NK	Est de l'océan Indien  / 57.5 (non spécifié)
+57_6	Océan Indien, est / 57.6
+57_NK	Océan Indien, est (non spécifié)
+58	Antarctique, Océan Indien
+58_4	Antarctique, Océan Indien / 58.4
+58_4_1	Antarctique, Océan Indien / 58.4.1
+58_4_2	Antarctique, Océan Indien / 58.4.2
+58_4_3	Antarctique, Océan Indien / 58.4.3
+58_4_3_A	Antarctique, Océan Indien / 58.4.3A
+58_4_3_B	Antarctique, Océan Indien / 58.4.3B
+58_4_3_NK	Antarctique, Océan Indien / 58.4.3 (non specifié)
+58_4_4	Antarctique, Océan Indien / 58.4.4
+58_4_4_A	Antarctique, Océan Indien / 58.4.4A
+58_4_4_B	Antarctique, Océan Indien / 58.4.4B
+58_4_4_NK	Antarctique, Océan Indien / 58.4.4 (non spécifiée)
+58_4_NK	Antarctique, Océan Indien / 58.4 (non spécifiée)
+58_5	Antarctique, Océan Indien / 58.5
+58_5_1	Antarctique, Océan Indien / 58.5.1
+58_5_2	Antarctique, Océan Indien / 58.5.2
+58_5_NK	Antarctique, Océan Indien / 58.5 (non spécifiée)
+58_6	Antarctique, Océan Indien / 58.6
+58_7	Antarctique, Océan Indien / 58.7
+58_NK	Antarctique, Océan Indien (non spécifiée)
+61	Pacifique, nord-ouest
+61_1	Pacific, Nord-ouest / 61.1
+61_2	Pacifique nord-ouest  / 61.2
+61_3	Pacifique nord-ouest  / 61.3
+61_4	Pacifique nord-ouest  / 61.4
+61_NK	Pacifique nord-ouest  / (non spécifié)
+67	Pacifique, nord-est
+67_1	Pacifique nord-est  / 67.1
+67_2	Pacifique nord-est  / 67.2
+67_3	Pacifique nord-est  / 67.3
+67_NK	Pacifique nord-est  / (non spécifié)
+71	Pacifique, centre-ouest
+71_1	Pacifique centre-ouest / 71.1
+71_2	Pacifique centre-ouest / 71.2
+71_3	Pacifique centre-ouest / 71.3
+71_4	Pacifique centre-ouest / 71.4
+71_5	Pacifique centre-ouest / 71.5
+71_6	Pacifique centre-ouest / 71.6
+71_6_1	Pacifique centre-ouest / 71.6.1
+71_6_2	Pacifique centre-ouest / 71.6.2
+71_6_NK	Pacifique centre-ouest / 71.6 (non spécifié)
+71_7	Pacifique centre-ouest / 71.7
+71_8	Pacifique centre-ouest / 71.8
+71_NK	Pacifique centre-ouest / (non spécifié)
+77	Pacifique, centre-est
+81	Pacifique, sud-ouest
+81_1	Pacifique sud-ouest / 81.1
+81_1_1	Pacifique sud-ouest / 81.1.1
+81_1_2	Pacifique sud-ouest / 81.1.2
+81_1_NK	Pacifique sud-ouest / 81.1 (non spécifié)
+81_2	Pacifique sud-ouest / 81.2
+81_3	Pacifique sud-ouest / 81.3
+81_4	Pacifique sud-ouest / 81.4
+81_5	Pacifique sud-ouest / 81.5
+81_6	Pacifique sud-ouest / 81.6
+81_7	Pacifique sud-ouest / 81.7
+81_NK	Pacifique, sud-ouest / 81 (non spécifié)
+87	Pacifique, sud-est
+87_1	Pacifique, sud-est / 87.1
+87_1_1	Pacifique, sud-est / 87.1.1
+87_1_1_1	Pacifique sud-est / 87.1.1.1
+87_1_1_2	Pacifique sud-est / 87.1.1.2
+87_1_1_3	Pacifique sud-est / 87.1.1.3
+87_1_1_4	Pacifique sud-est / 87.1.1.4
+87_1_1_5	Pacifique sud-est / 87.1.1.5
+87_1_1_NK	Pacifique sud-est / 87.1.1 (non spécifié)
+87_1_2	Pacifique, sud-est / 87.1.2
+87_1_2_1	Pacifique sud-est / 87.1.2.1
+87_1_2_2	Pacifique sud-est / 87.1.2.2
+87_1_2_3	Pacifique sud-est / 87.1.2.3
+87_1_2_4	Pacifique sud-est / 87.1.2.4
+87_1_2_5	Pacifique, sud-est / 87.1.2.5
+87_1_2_NK	Pacifique sud-est / 87.1.2 (non spécifié)
+87_1_3	Pacifique, sud-est / 87.1.3
+87_1_4	Pacifique, sud-est / 87.1.4
+87_1_NK	Pacifique, sud-est / 87.1 (non spécifié)
+87_2	Pacifique, sud-est / 87.2
+87_2_1	Pacifique, sud-est / 87.2.1
+87_2_1_1	Pacifique, sud-est / 87.2 (non spécifié)
+87_2_1_2	Pacifique sud-est  87.2.1.1
+87_2_1_3	Pacifique sud-est  87.2.1.2
+87_2_1_4	Pacifique sud-est  87.2.1.3
+87_2_1_5	Pacifique sud-est  87.2.1.4
+87_2_1_6	Pacifique sud-est  87.2.1.5
+87_2_1_7	Pacifique sud-est  87.2.1.6
+87_2_1_NK	Pacifique sud-est  87.2.1.7
+87_2_2	Pacifique sud-est  87.2.1 (non spécifié)
+87_2_2_1	Pacifique, sud-est / 87.2.2
+87_2_2_2	Pacifique sud-est  87.2.2.1
+87_2_2_3	Pacifique sud-est  87.2.2.2
+87_2_2_4	Pacifique sud-est  87.2.2.3
+87_2_2_5	Pacifique sud-est  87.2.2.4
+87_2_2_6	Pacifique sud-est  87.2.2.5
+87_2_2_7	Pacifique sud-est  87.2.2.6
+87_2_2_NK	Pacifique sud-est  87.2.2.7
+87_2_3	Pacifique sud-est  87.2.2 (non spécifié)
+87_2_4	Pacifique, sud-est / 87.2.3
+87_2_5	Pacifique, sud-est / 87.2.4
+87_2_6	Pacifique, sud-est / 87.2.5
+87_2_NK	Pacifique, sud-est / 87.2.6
+87_3	Pacifique, sud-est / 87.3
+87_3_1	Pacifique, sud-est / 87.3.1
+87_3_1_1	Pacifique sud-est  87.3.1.1
+87_3_1_2	Pacifique sud-est  87.3.1.2
+87_3_1_3	Pacifique sud-est  87.3.1.3
+87_3_1_NK	Pacifique sud-est  87.3.1 (non spécifié)
+87_3_2	Pacifique, sud-est / 87.3.2
+87_3_2_1	Pacifique sud-est  87.3.2.1
+87_3_2_2	Pacifique sud-est  87.3.2.2
+87_3_2_3	Pacifique sud-est  87.3.2.3
+87_3_2_NK	Pacifique sud-est  87.3.2 (non spécifié)
+87_3_3	Pacifique, sud-est / 87.3.3
+87_3_NK	Pacifique, sud-est / 87.2 (non spécifié)
+87_NK	Pacifique, sud-est (non spécifié)
+88	Antarctique, Pacifique
+88_1	Antarctique, Pacifique / 88.1
+88_2	Antarctique, Pacifique / 88.2
+88_3	Antarctique, Pacifique / 88.3
+88_NK	Antarctique, Pacifique (non spécifiée)
+90	Antarctique - Total
+98	Zones Antarctiques, IWC (Baleines)
+99	Zones maritimes hors de l'Antarctique, IWC (Baleines)
+OTH	Autres zones de pêche
+NSP	Zone non specifiée

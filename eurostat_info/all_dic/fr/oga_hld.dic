@@ -1,0 +1,32 @@
+TOTAL	Total
+OGA_HLD	Exploitant exerçant d'autres activités lucratives
+OGA_HLD_RH	Exploitant exerçant d'autres activités lucratives (liées à l'exploitation agricole)
+OGA_HLD_NRH	Exploitant exerçant d'autres activités lucratives (non liées à l'exploitation agricole)
+MOGA_HLD	Exploitant exerçant d'autres activités lucratives comme activité principale
+MOGA_HLD_RH	Exploitant exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité principale
+MOGA_HLD_NRH	Exploitant exerçant d'autres activités lucratives (non liées à l'exploitation agricole) comme activité principale
+MOGA_FAM	Membres de la famille exerçant d'autres activités lucratives comme activité principale
+MOGA_FAM_RH	Membres de la famille exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité principale
+MOGA_FAM_NRH	Membres de la famille exerçant d'autres activités lucratives (non liées à l'exploitation agricole) comme activité principale
+MOGA_NFAM_RH	Main-d'œuvre non familiale travaillant régulièrement sur l'exploitation agricole et exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité principale
+SOGA_HLD	Exploitant exerçant d'autres activités lucratives comme activité secondaire
+SOGA_HLD_RH	Exploitant exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité secondaire
+SOGA_HLD_NRH	Exploitant exerçant d'autres activités lucratives (non liées à l'exploitation agricole) comme activité secondaire
+SOGA_FAM	Membres de la famille exerçant d'autres activités lucratives comme activité secondaire
+SOGA_FAM_RH	Membres de la famille exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité secondaire
+SOGA_FAM_NRH	Membres de la famille exerçant d'autres activités lucratives (non liées à l'exploitation agricole) comme activité secondaire
+SOGA_NFAM_RH	Main-d'œuvre non familiale travaillant régulièrement sur l'exploitation agricole et exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité secondaire
+NOGA_HLD	Exploitant n'exerçant pas d'autres activités lucratives
+NOGA_HLD_RH	Exploitant n'exerçant pas d'autres activités lucratives (liées à l'exploitation agricole)
+NOGA_HLD_NRH	Exploitant n'exerçant pas d'autres activités lucratives (non liées à l'exploitation agricole)
+NOGA_FAM	Membres de la famille n'exerçant pas d'autres activités lucratives
+NOGA_FAM_RH	Membres de la famille n'exerçant pas d'autres activités lucratives (liées à l'exploitation agricole)
+NOGA_FAM_NRH	Membres de la famille n'exerçant pas d'autres activités lucratives (non liées à l'exploitation agricole)
+OGA_MT_HLD	Exploitant passant plus de temps sur d'autres activités rémunérées que sur sa propre exploitation
+OGA_MT_SPOU	Conjoint passant plus de temps sur d'autres activités rémunérées que sur sa propre exploitation
+OGA_LT_HLD	Exploitant passant moins de temps sur d'autres activités rémunérées que sur sa propre exploitation
+OGA_LT_SPOU	Conjoint passant moins de temps sur d'autres activités rémunérées que sur sa propre exploitation
+NOGA_SPOU	Conjoint n'a pas d'autre activité rémunérée
+NSPOU	Pas de conjoint
+NMAN_NHLD	L'exploitant individuel n'est pas le gérant
+LEG_GRP	L'exploitation est une personne morale ou un groupement

@@ -1,0 +1,50 @@
+TOTAL	Insgesamt
+INJ010	Wunden und oberflächliche Verletzungen
+INJ011	Oberflächliche Verletzungen
+INJ012	Offene Wunden
+INJ019	Andere Wunden und oberflächliche Verletzungen
+CONT_BRU	Kontusionen, Quetschungen
+CUT_LACE	Schnitt- und Rißwunden,Nerven- oder Sehnenrisse
+INJ020	Frakturen
+INJ021	Geschlossene Frakturen
+INJ022	Offene Frakturen
+INJ029	Andere Frakturen
+INJ030	Dislokationen, Verstauchungen und Zerrungen
+INJ031	Dislokationen und Subluxationen
+INJ032	Verstauchungen und Zerrungen
+INJ039	Andere Dislokationen, Verstauchungen und Zerrungen
+INJ040	Traumatische Amputationen (Verlust von Körperteilen)
+INJ050	Kommotio und intrakranielle Verletzungen
+INJ051	Kommotio
+INJ052	Innere Verletzungen
+INJ059	Andere Arten von Kommotio und inneren Verletzungen
+INJ060	Verbrennungen, Verbrühungen und Erfrierungen
+INJ061	Verbrennungen und Verbrühungen (thermisch)
+INJ062	Verätzungen
+INJ063	Erfrierungen
+INJ069	Andere Verbrennungen, Verbrühungen und Erfrierungen
+INJ070	Vergiftungen und Infektionen
+INJ071	Akute Vergiftungen
+INJ072	Akute Infektionen
+POIS_ASP	Vergiftungen, Gasvergiftungen und Asphyxien
+INJ079	Andere Vergiftungen und Infektionen
+INJ080	Ertrinken und Asphyxie
+INJ081	Asphyxie
+INJ082	Ertrinken und nichttödliches Untertauchen
+INJ089	Andere Arten von Ertrinken und Asphyxie
+INJ090	Schäden durch Schall, Vibration und Druck
+INJ091	Akuter Hörverlust
+INJ092	Schäden durch Druck (Barotrauma)
+INJ099	Andere Schäden durch Schall, Vibration und Druck
+INJ100	Schäden durch extreme Temperaturen, Licht und Strahlung
+INJ101	Hitzschlag und Sonnenstich
+INJ102	Strahlenschäden (nichtthermisch)
+INJ103	Schäden durch niedrige Temperatur
+INJ109	Andere Schäden durch extreme Temperaturen, Licht und Strahlung
+INJ110	Schock
+INJ111	Schock infolge von Aggression und Bedrohung
+INJ112	Traumatischer Schock
+INJ119	Andere Schocks
+INJ120	Mehrfachverletzungen
+OTH	Sonstige anderweitig nicht genannt
+UNK	Nicht bekannt

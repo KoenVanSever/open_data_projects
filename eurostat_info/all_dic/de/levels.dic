@@ -1,0 +1,64 @@
+TOTAL	Insgesamt
+ALL	Alle Stufen
+VH_H	Sehr hoch oder hoch
+VHIGH	Sehr hoch
+MOT	Muttersprache
+PROF	Sehr gut
+STR	Stark
+GRT_MOD_SOME	Groß, mässig oder einige
+GRT	Groß
+HIGH	Hoch
+HVY	Schwer
+VG_FG	Sehr gut oder relativ gut
+VGOOD	Sehr gut
+BROAD	Ausgedehnt
+GOOD	Gut
+VG_G	Sehr gut oder gut
+FGOOD	Relativ gut
+FAIR	Mittelmässig
+INT	Mittel
+MED	Medium
+MOD_SEV	Mässig oder stark
+MOD	Mässig
+MOD_HVY	Mässig oder schwer
+SOME	Einige
+BASIC	Elementar
+LTD	Begrenzt
+VMILD	Sehr leicht
+MILD	Leicht
+M_VM	Leicht oder sehr leicht
+LGHT	Leicht
+NONE_LGHT	Kein oder leicht
+NONE_MIN	Kein oder Minimum
+POOR	Schwach
+L_VL	Niedrig oder sehr niedrig
+LOW	Niedrig
+NLOW	Nicht niedrig
+BAD	Schlecht
+VLOW	Sehr niedrig
+VB_FB	Sehr schlecht oder relativ schlecht
+VBAD	Sehr schlecht
+FBAD	Relativ schlecht
+B_VB	Schlecht oder sehr schlecht
+SEV	Stark
+NSEV	Nicht stark
+MODS	Mässig stark
+MOD_MODS_SEV	Mässig, mässig stark oder stark
+VSEV	Sehr stark
+S_VS	Stark oder sehr stark
+SM_SEV	Einige oder stark
+MOD_S_VS	Mässig, stark oder sehr stark
+FDIF_VDIF	Relativ schwierig oder sehr schwierig
+VDIF	Sehr schwierig
+DIF	Schwierig
+FDIF	Relativ schwierig
+FEASY_EASY_VEASY	Relativ leicht, leicht oder sehr leicht
+FEASY_VEASY	Relativ leicht oder sehr leicht
+FEASY	Relativ leicht 
+EASY	Leicht 
+VEASY	Sehr leicht
+NONE	Kein
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+NSP	Nicht angegeben
+UNK	Unbekannt

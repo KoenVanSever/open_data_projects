@@ -1,0 +1,17 @@
+VOL	Volume
+VOL_WW	Volume des eaux usées
+BOD	Demande biochemique en oxygène (DBO)
+COD	Demande chimique en oxygène (DCO)
+SS	Matières en suspension
+N_T	Azote (N-tot )
+P_T	Phosphore (P-tot)
+PE	Équivalent-habitant (EH)
+CD	Cadmium (Cd)
+CR	Chrom (Cr)
+CU	Cuivre (Cu)
+NI	Nickel (Ni)
+PB	Plomb (Pb)
+ZN	Zinc (Zn)
+AS	Arsenic (As)
+NO3_GW	Teneur en nitrate dans l'eau souterraine
+PO4_RIV	Teneur en phosphate dans les rivières

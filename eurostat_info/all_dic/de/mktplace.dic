@@ -1,0 +1,10 @@
+TOTAL	Insgesamt
+LOC_REG	Lokal oder regional 
+NAT	National
+NAT_ONL	National nur
+FOR	Ausland
+EU_EFTA	EU- oder EFTA-Länder
+EU_EFTA_OTH	Sonstige Länder der EU oder EFTA
+NEU_NEFTA	Außerhalb der EU- oder EFTA-Länder
+EU_EFTA_CC_OTH	Sonstige Länder der EU, EFTA oder Beitrittskandidaten
+EXT	Länder die nicht Länder der EU, EFTA oder Beitrittskandidaten sind

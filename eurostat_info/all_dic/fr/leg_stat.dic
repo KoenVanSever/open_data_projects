@@ -1,0 +1,14 @@
+TOTAL	Total
+PER_SUSP	Personne suspectée
+PER_PRSC	Personne poursuivie
+PER_CNV	Personne condamnée
+PER_PRIS	Personne détenue
+PER_VICT	Victime
+TRI_PRE	Avant le procés
+TRI_SPSD	Peine prononcée
+CRT_BGHT	Portée devant un tribunal
+CRT_CNV	Condamnée
+CRT_ACQT	Acquittée
+CRT_RESL	Résolue
+CRT_PEN	En instance
+UNK	Inconnu

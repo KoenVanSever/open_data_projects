@@ -1,0 +1,78 @@
+TOTAL	Total
+AC0	Soins personnels
+AC0A	Soins personnels sauf repas
+AC01	Sommeil
+AC02	Repas
+AC03	Autres et/ou soins personnels non spécifiés
+AC1_2_TR	Travail et étude
+AC1_TR	Emploi, activités liées et voyage faisant partie de / pendant le travail principal et secondaire
+AC1A	Emploi principal et secondaire et voyages associés
+AC1B	Activités liées à l'emploi et emploi non spécifié
+AC2	Etude
+AC21A	École et université sauf devoirs
+AC212	Devoirs
+AC22	Etude pendant le temps libre
+AC3_X_38	Tâches ménagères et familiales excepté garde d'enfants
+AC3	Tâches ménagères et familiales
+AC3_TR	Tâches ménagères et familiales et voyages
+AC31A	Activités pour l'alimentation sauf lavage de vaisselle
+AC313	Lavage de vaisselle
+AC321	Nettoyage du logement
+AC32A	Entretien ménager sauf nettoyage du logement
+AC331	Lessive
+AC332	Repassage
+AC33A	Activité artisanale et production de textiles et autres tâches d'entretien de textiles
+AC34A	Jardinage; autre soins animaliers
+AC342	Garde d'animaux domestiques
+AC343	Soins aux animaux
+AC344	Promener le chien
+AC35	Construction et réparations
+AC36	Achats et services
+AC38	Garde d'enfants y inclus enseignement, lecture et conversation avec l'enfant
+AC38A	Garde d'enfants sauf enseignement, lecture et conversation
+AC38B	Enseignement, lecture et conversation avec un enfant
+AC37_39	Gestion du ménage et aide à un membre de la famille
+AC4-8	Loisirs, vie sociale et associative
+AC4-8A	Loisirs, vie sociale et associative sauf télévision et vidéo
+AC41	Travail pour une organisation
+AC41A	Activités bénévoles formelles
+AC42	Aide informelle aux autres ménages
+AC42A	Activités bénévoles informelles
+AC43	Activités de participation
+AC43A	Initiatives citoyennes
+AC511	Socialiser avec la famille
+AC51A	Visites et fêtes
+AC51B	Autre vie sociale
+AC52	Divertissement et culture
+AC52A	Activités culturelles (cinéma, spectacles vivants ou sites culturels)
+AC521	Cinéma
+AC522	Théâtre et concerts
+AC522A	Spectacles vivants (théâtre, concerts, ballet)
+AC523H	Sites cultural (monuments historiques, musées, galeries d'art ou sites archéologiques)
+AC525	Evènements sportifs
+AC53	Repos
+AC611	Marche et randonnée
+AC6A	Sports et activités extérieures sauf marche et randonnée
+AC733	Jeux électroniques
+AC7A	Informatique
+AC7B	Passe-temps et jeux, sauf informatique et jeux électroniques
+AC81	Lecture
+AC812	Lecture de livres
+AC811	Lecture, sauf livres
+AC82	Télévision et vidéo
+AC83	Radio et musique
+AC4-8NSP	Loisir non spécifié
+AC9A	Voyage sauf voyage professionnel
+AC913	Trajet pour se rendre/revenir du travail 
+AC9B	Voyage lié aux études
+AC936	Voyage lié aux achats ou services
+AC938	Transport d'un enfant
+AC9C	Voyage pour une autre raison lié au ménage
+AC9D	Voyage lié aux loisirs, vie sociale et associative
+AC90NSP	Voyage non spécifié
+AC99NSP	Utilisation du temps non spécifiée
+AC9E	Voyage de/vers le travail/étude 
+NSP	Utilisation du temps et voyage non spécifiés
+AC_PNP_MAIN	Activités productives principales rémunérées et non rémunérées
+AC_NP_MAIN	Activités productives principales non rémunérées
+AC_NP_SEC	Activités productives secondaires non rémunérées 

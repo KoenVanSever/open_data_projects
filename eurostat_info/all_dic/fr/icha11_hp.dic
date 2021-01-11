@@ -1,0 +1,35 @@
+TOTAL	Tous prestataires de soins de santé
+HP1	Hôpitaux
+HP11	Hôpitaux généraux
+HP12	Hôpitaux psychiatriques
+HP13	Hôpitaux spécialisés (autres que les hôpitaux psychiatriques)
+HP2	Établissements de soins de longue durée avec hébergement
+HP21	Établissements de soins infirmiers de longue durée
+HP22	Établissements psychiatriques et de désintoxication
+HP29	Autres établissements de soins de longue durée avec hébergement
+HP3	Prestataires de soins de santé ambulatoires
+HP31	Cabinets médicaux
+HP32	Cabinets dentaires
+HP33	Autres professionnels de la santé
+HP34	Centres de soins de santé ambulatoires
+HP35	Prestataires de services de soins à domicile
+HP4	Prestataires de services auxiliaires
+HP41	Prestataires de transport de patients et de sauvetage d'urgence
+HP42	Laboratoires d'analyses médicales et de diagnostic
+HP49	Autres prestataires de services auxiliaires
+HP5	Détaillants et autres distributeurs de biens médicaux
+HP51	Pharmacies
+HP52	Détaillants et autres fournisseurs de dispositifs médicaux et de biens médicaux durables
+HP59	Tous autres vendeurs divers et autres fournisseurs de biens pharmaceutiques et médicaux
+HP6	Prestataires de soins préventifs
+HP7	Prestataires de services d'administration et de financement des systèmes de santé
+HP71	Caisses publiques d'administration de la santé
+HP72	Caisses sociales dassurance-santé
+HP73	Caisses privées d'administration de l'assurance-santé
+HP79	Autres caisses administratives
+HP8	Reste de l'économie
+HP81	Ménages en tant que prestataires de soins de santé à domicile
+HP82	Toutes autres entreprises en tant que prestataires secondaires de soins de santé
+HP89	Autres entreprises n.c.a
+HP9	Reste du monde
+HP_UNK	Prestataires inconnus

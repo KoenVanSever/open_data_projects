@@ -1,0 +1,16 @@
+TOTAL	Insgesamt
+IMG	Im Inland und Ausland geborene Zuwanderer (Zuwanderer der ersten und zweiten Generation)
+NBO	Im Inland geborene Personen
+NBO_NAT_IMG	Im Inland geborene Personen deren Eltern auch im Inland geboren wurden und im Inland und Ausland geborene Zuwanderer (Zuwanderer der ersten und zweiten Generation)
+NBO_NAT	Im Inland geborene Personen deren Eltern auch im Inland geboren wurden
+NBO_IMG	Im Inland geborene Personen bei denen ein Elternteil oder beide Eltern im Ausland geboren wurden (Zuwanderer der zweiten Generation)
+NBO_IMGMIX	Im Inland geborene Personen bei denen ein Elternteil im Ausland geboren wurde (Zuwanderer der zweiten Generation)
+NBO_IMGFOR	Im Inland geborene Personen bei denen die Eltern im Ausland geboren wurden (Zuwanderer der zweiten Generation)
+FBO	Im Ausland geborene Personen (Zuwanderer der ersten Generation)
+NRP	Keine Antwort
+OTH	Sonstige
+UNK	Unbekannt
+NBO_XNAT_FBO	Im Inland und Ausland geborene Zuwanderer (Zuwanderer der ersten und zweiten Generation)
+NBO_MIX_FOR	Im Inland geborene Personen bei denen ein Elternteil oder beide Eltern im Ausland geboren wurden (Zuwanderer der zweiten Generation)
+NBO_MIX	Im Inland geborene Personen bei denen ein Elternteil im Ausland geboren wurde (Zuwanderer der zweiten Generation)
+NBO_FOR	Im Inland geborene Personen bei denen die Eltern im Ausland geboren wurden (Zuwanderer der zweiten Generation)

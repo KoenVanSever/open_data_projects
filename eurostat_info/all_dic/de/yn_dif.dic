@@ -1,0 +1,15 @@
+TOTAL	Insgesamt
+YES_DIF_BACT	Schwierigkeit bei der Ausübung von Tätigkeiten des täglichen Lebens
+YES_DIF_PCARE	Schwierigkeit bei der persönlichen Pflege
+YES_DIF_HCARE	Schwierigkeit bei der Erledigung des Haushalts
+YES_WLIM_HLTH	Einschränkung der Erwerbstätigkeit auf Grund eines lang andauernden Gesundheitsproblems oder auf Grund von Schwierigkeit bei der Ausübung von Tätigkeiten des täglichen Lebens
+YES_LHCILL	Lang andauerndes Gesundheitsproblem bzw. lang andauernde Krankheit
+YES_SDIF_TADL	Grössere Schwierigkeit sowohl bei der persönlichen Pflege als auch bei der Erledingung des Haushalts - Aktivitäten des täglichen Lebens insgesamt (ATLI)
+YES_SDIF_ADL	Grössere Schwierigkeit ausschliesslich bei der persönlichen Pflege - Aktivitäten des täglichen Lebens (ATL)
+YES_SDIF_IADL	Grössere Schwierigkeit ausschliesslich bei der Erledingung des Haushalts - instrumentelle Aktivitäten des täglichen Lebens (IATL)
+NO_DIF_BACT	Keine Schwierigkeit bei der Ausübung von Tätigkeiten des täglichen Lebens
+NO_DIF_PCARE	Keine Schwierigkeit bei der persönlichen Pflege
+NO_DIF_HCARE	Keine Schwierigkeit bei der Erledigung des Haushalts
+NO_WLIM_HLTH	Keine Einschränkung der Erwerbstätigkeit auf Grund eines lang andauernden Gesundheitsproblems oder auf Grund von Schwierigkeit bei der Ausübung von Tätigkeiten des täglichen Lebens
+NO_LHCILL	Keine lang andauernden Gesundheitsprobleme oder Krankheiten
+NO_SDIF	Keine grössere Schwierigkeit

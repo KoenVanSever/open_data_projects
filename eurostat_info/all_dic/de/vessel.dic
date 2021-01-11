@@ -1,0 +1,43 @@
+TOTAL	Insgesamt
+MER	Handelsschiff
+MER_NF	Handelsschiff unter nationaler Flagge
+MER_FF	Handelsschiff einer inländischen Gesellschaft, das unter fremder Flagge fährt
+LBK	Tankschiff (Tanker)
+LBK_OIL	Öltankschiff
+LBK_CHM	Chemikalientankschiff
+LBK_LGAS	Flüssiggastankschiff
+LBK_TB	Tankleichter
+LBK_OTH	Sonstiges Tankschiff
+DBK	Schüttgutfrachtschiff
+DBK_OIL	Schüttgut-/Öltankschiff
+DBK_BC	Schüttgutfrachtschiff
+ODC	Sonstiges Trockenfrachtschiff
+ODC_CNT	Containerschiff
+ODC_SPE	Spezialfrachtschiff
+ODC_GEN	Unspezialisiertes Stückgutfrachtschiff
+ODC_PRO	Fahrgastschiff und Ro-Ro-Fahrgastschiff
+ODC_RO	Ro-Ro-Frachtschiff
+ODC_DCB	Trockenfrachtleichter/-schute
+ODC_PAS	Fahrgastschiff
+ODC_PCRU	Kreuzfahrtschiff
+ODC_PAS_XCR	Fahrgastschiff (ohne Kreuzfahrtschiff)
+MSC	Verschiedene Schiffstypen
+MSC_FISH	Fischereifahrzeug
+MSC_OFF	Offshore-Fahrzeug
+MSC_TOW	Schlepper und Schubschiff
+MSC_OTH	Sonstiges Schiff (Schwimmbagger, Forschungsschiff, sonstiges)
+BAR_SP	Gütermotorschiff
+BAR_NSP	Güterbinnenschiff ohne eigenen Antrieb
+BAR_SPT	Tankmotorschiff
+BAR_NSPT	Tankbinnenschiff ohne eigenen Antrieb
+SEA	Seeschiff
+TUG_PUSH	Schlepper und Schubschiff
+DUM_PUSV	Schub- und Schub-Schleppkahn
+OTH_GD	Sonstiges Güterbinnenschiff
+CARGO	Frachtschiff
+IWW	Binnenschiff
+NAVY	Marineschiff
+REC	Freizeitboot
+SERV	Serviceschiff
+OTH	Sonstiges Schiff
+UNK	Unbekannt

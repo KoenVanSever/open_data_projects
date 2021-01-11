@@ -1,0 +1,12 @@
+TOTAL	Total
+SGL	Inventeurs/déposants individuels
+NAT	Brevets en coopération impliquant des inventeurs/déposants du pays déclarant
+NAT_EU	Brevets en coopération impliquant des inventeurs/déposants du pays déclarant et d'un ou plusieurs Etats membres de l'UE
+NAT_EU_NEU	Brevets en coopération impliquant des inventeurs/déposants du pays déclarant, d'un ou plusieurs Etats membres de l'UE et d'un ou plusieurs pays non-UE
+NAT_NEU	Brevets en coopération impliquant des inventeurs/déposants du pays déclarant et d'un ou plusieurs pays non-UE.
+EUI_NEUA	Proportion de brevets en coopération impliquant des inventeurs UE et des déposants non-UE dans le total des inventions domestiques de l'UE
+NEUI_EUA	Proportion de brevets en coopération impliquant des inventeurs non-UE et des déposants UE dans le total des demandes domestiques de l'UE
+EU_NEU	Brevets en coopération entre des Etats membres de l'UE et des pays non-UE
+EU_EU	Brevets en coopération entre des Etats membres de l'UE
+EUA_NEUA	Proportion de brevets en coopération impliquant des déposants UE et non-UE dans le total des brevets internationaux
+EUI_NEUI	Proportion de brevets en coopération impliquant des inventeurs UE et non-UE dans le total des brevets internationaux

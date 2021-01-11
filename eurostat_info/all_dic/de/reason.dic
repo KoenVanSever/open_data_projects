@@ -1,0 +1,591 @@
+TOTAL	Insgesamt
+FIN_FAR_TRA_WAIT	Finanzielle Gründe, Entfernung oder Transport, Warteliste
+FIN_DST_TRA_WAIT	Finanzielle Gründe, Entfernung oder Transport, Warteliste
+FIN	Finanzielle Gründe
+FAR_TRA	Entfernung oder Transport
+DST_TRA	Entfernung oder Transport
+FAR	Entfernung
+DST	Entfernung
+DIF	Schwierigkeit
+WAIT	Warteliste
+TIME	Zeit
+NINT	Kein Interesse
+NNB	Keine in der Nachbarschaft
+LEV_APP	Erreichter Bildungsabschluss als angemessen angesehen
+EDUC_END	Letzter formaler Bildungsabschluss
+WI_WRK	Arbeitswunsch
+NMT_ND_INT_STU	Studium entsprach nicht den Bedürfnissen oder Interessen
+TOOEXP	Zu kostspielig
+TOODIFF	Zu schwierig (um zuverlässige/sichere Ergebnisse zu erhalten)
+TOOFAR	Zu weit zum reisen
+TOOEFW	Zu kostspielig oder zu weit zum reisen oder Warteliste
+NOPRIOR	Hat nicht Priorität
+IVTF	Konzentriert sich mehr auf IVT als auf CVT
+MJPR	Wichtigste Bildungsaktivitaeten im Vorjahr
+EXSCOR	Existierenden Fertigkeiten und Kompetenzen der Beschaeftigten entsprechen
+LSCOR	Mangel geeigneter Weiterbildungskursen auf dem Markt
+RESIST	Widerstand unter Angestellten
+RECR	Einstellung von Personen mit den erforderlichen Fähigkeiten
+INISUFF	Ausgangstraining (genügend)
+DONE	Investition (vor kurzem gemacht); keine Notwendigkeit dieses Jahr
+DIFFASS	Schwierig, Notwendigkeiten des Unternehmens festzusetzen
+OWNRESP	Verantwortlichkeit der Angestellten in ihrer eigenen Zeit
+ONREQ	Nur zur Verfügung gestellt, wenn Sie angefordert werden
+NOEXPERT	Unzulängliche Sachkenntnis zum Entwickeln eines Berufsbildungsplanes
+DISC	Diskussionsstoff zwischen Management und Angestellte
+CERTIF	Berufsausbildung Beglaubigung/beglaubigen als gutes Bildungsunternehmen erreichen
+COMM	Verpflichtung des Managements für den Wert von WBK erreichen
+LAW	Mit dem Gesetz oder den Tarifverträgen einwilligen
+FINEU	Finanzielle Unterstützung von der EU
+FINOTH	Finanzielle Unterstützung von anderen externen Quellen
+LAYOFF	Freistellung
+NF_FT_PJOB	Keine Vollzeit- oder Festanstellung gefunden
+NF_FTJOB	Keine Vollzeitanstellung gefunden
+NF_PJOB	Keine Festanstellung gefunden
+INVPT	Konnte nicht einen ganztägigen Arbeitsplatz finden
+WANTPT	Wünschte nicht einen ganztägigen Arbeitsplatz
+INVTMP	Konnte nicht einen permanenten Arbeitsplatz finden
+WANTTMP	Wünschte nicht einen permanenten Arbeitsplatz
+ILLDIS	Krankheit oder Unfähigkeit besitzen
+FAM_PER_CARE	Betreuung von Kindern oder behinderten Erwachsenen und anderer Familienmitglieder oder persönliche Gründe
+FAM_PER	Andere familiäre oder persönliche Verantwortungsbereiche
+FAMCARE	Betreuung von Kindern oder erwerbsunfähigen Erwachsenen
+FAM_HLTH_OTH	Familiäre, gesundheitliche oder sonstige Gründe
+INEDUC	In Ausbildung oder in beruflicher Fortbildung
+STAGE	Probeperiode
+RETIRED	Pensionniert
+THKNOWK	Denkt keine Arbeit ist verfügbar
+NONEED	Keine Notwendigkeit
+NOTIME	Keine Zeit
+NTIME_FAM	Keine Zeit wegen der Familie
+NTIME_WRK_STU	Keine Zeit aufgrund von Arbeit oder Studium
+NO_UNMET	Keine erforderliche ärztliche Untersuchung oder Behandlung hat nicht stattgefunden
+NOKNOW	Kannte nicht irgendeinen guten Arzt oder Spezialisten
+MULTI	Das Unternehmen gehört zu einer transnationalen Unternehmensgruppe
+TOOSMALL	Der heimische Markt ist nicht groß genug
+CUT_NICHE	Produktneuerungen oder Spezialisierung in Nischendienstleistungen
+NET	Nachfrage über das Internet
+OUTSOURC	Nachfrage durch Auslagerung (Outsourcing)
+DNPP	Entwicklung neuer Produkte und Arbeitsabläufe
+LHR	Mangelnde interne Ressourcen
+IV	Verstärkte Außenwirkung
+IF	Steigerung der Anpassungsfähigkeit
+CRES	Kostensenkung oder Skalenvorteile
+ANM	Zugang zu neuen Märkten
+ANSST	Zugang zu neuen oder verbesserten Technologien/Fähigkeiten
+MJOB	Überwiegend beschäftigungsbedingte Gründe
+MPER	Überwiegend persönliche/soziale Gründe
+RLOSJ	wenigere wahrscheinlich sein Job zu verlieren
+ROBL	Teilzunehmen verpflichtet zu sein
+RPROM	Die Möglichkeiten einen Arbeitsplatz  zu bekommen oder zu ändern
+RBUIS	Für seine Firma zu beginnen
+RSKIL	Um das Wissen zu haben,die im täglichen Leben nützlich  sind
+RSUB	Um die Kenntnisse auf ein interessantes Thema zu verbessern
+RFUN	Um neue Personen zu treffen oder um sich zu vergnügen
+RCER	Um ein Zeugnis zu haben
+RJOB	Um seine Arbeit besser und / oder Verbesserung der Karrierenaussicht
+REDLC	Senkung von Arbeitskosten
+REDOC	Senkung von anderen Kosten als Arbeitskosten
+FOLLOW	Orientierung am Verhalten/Beispiel von Wettbewerbern bzw. Kunden
+QUAL	Bessere Qualität bzw. Einführung neuer Produkte
+STRAT	Strategische Entscheidungen des Gruppenkopfes
+CORE	Schwerpunktmäßige Ausrichtung auf das Kerngeschäft
+KNOW	Zugang zu Spezialwissen/Spezialtechnologien
+LKLAB	Mangel an qualifizierten Arbeitskräften
+REDDT	Reduzierte Lieferzeiten
+REGL	Weniger Vorschriften für das Unternehmen, z.B. weniger Umweltvorschriften
+MPLC	Schwer zu bewältigen aufgrund der räumlichen Entfernung, sprachlicher und kultureller Unterschiede
+QPS	Unzureichende Qualität des Produkts/der Dienstleistung am ausländischen Standort
+PRDCT	Niedrige Arbeitsproduktivität am ausländischen Standort
+QPER	Mangel an qualifiziertem Personal am ausländischen Standort
+DELT	Zu lange Lieferzeit für Kunden
+SUPPL	Probleme mit Lieferanten Flexibilität und Lieferfähigkeit
+PREQ	Fehlende Voraussetzungen
+COST	Kosten
+TAX	Steuerliche bzw. sonstige finanzielle Anreize
+WAITING	Warteliste
+FEAR	Furcht vor Arzt, Krankenhaus, Prüfung oder Behandlung
+HOPING	Abwarten, wenn das Problem sich eigenständig verbesserte
+OTHERM	Andere Motive
+NRESP	Keine Antwort
+DOC_NVAL	Ohne gültige Reisedokumente
+DOC_F	Falsche Reisedokumente
+NRP_NVV	Ohne gültiges Visum oder Aufenthaltsgenehmigung
+FV_FRP	Falsches Visum oder falsche Aufenthaltsgenehmigung
+STAY_NJ	Zweck oder Bedingungen des Aufenthalts nicht genehmigt
+PERM_3	Bereits 3 Monate Aufenthalt während der vergangenen sechs Monate
+NSUBS	Mittel zum Lebensunterhalt nicht ausreichend
+ALERT	Ausweisungsbescheid ausgestellt
+PB_THRT	Eingestuft als Gefahr für die öffentliche Ordnung
+FAM	Familiäre Gründe
+FAM_EU	Familienangehöriger, der einem EU-Bürger nachzieht
+FAM_PART_EU	Familiengründe: Nachzug zu einem EU-Bürger/einer EU-Bürgerin als Ehepartner(in)/Partner(in)
+FAM_CHILD_EU	Familiengründe: Nachzug zu einem EU-Bürger/einer EU-Bürgerin als Kind
+FAM_CH_EU	Kind, das einem EU-Bürger nachzieht
+FAM_OTH_EU	Sonstiger Familienangehöriger, der einem EU- Bürger nachzieht
+FAM_NEU	Familienangehöriger, der einem Nicht-EU-Bürger nachzieht
+FAM_PART_NEU	Familiengründe: Nachzug zu einem Nicht-EU-Bürger/einer Nicht-EU-Bürgerin als Ehepartner(in)/Partner(in)
+FAM_CHILD_NEU	Familiengründe: Nachzug zu einem Nicht-EU-Bürger/einer Nicht-EU-Bürgerin als Kind
+FAM_OTH_NEU	Sonstiger Familienangehöriger, der einem Nicht-EU- Bürger nachzieht
+EDUC	Bildungsgründe
+ED_STU	Bildungsgründe: Das Studium
+ED_OTH	Bildungsgründe: Sonstige bildungsbezogene Gründe
+OCCUP	Vergütete Erwerbstätigkeit
+OCC_HSW	Vergütete Erwerbstätigkeit: Hochqualifizierte Arbeitskräfte
+OCC_RSE	Vergütete Erwerbstätigkeit: Forscher
+OCC_SEAS	Vergütete Erwerbstätigkeit: Saisonarbeitnehmer
+OCC_OTH	Vergütete Erwerbstätigkeit: Sonstige vergütete Tätigkeiten
+OCC_SING	Vergütete Erwerbstätigkeit: Kombinierte Erlaubnis
+OTH_INTPRO	Andere Gründe: Internationaler Schutzstatus
+OTH_REFSUB	Andere Gründe: Flüchtlingsstatus und subsidiärer Schutz
+OTH_HUM	Andere Gründe: Humanitäre Gründe
+OTH_RESID	Andere Gründe: Nur Aufenthalt
+OTH_NSPEC	Andere Gründe: Sonstige Gründe
+CH_FAM	Änderung des früheren Zuwanderungsgrundes: Familie
+CH_FAM_ED	Änderung von Familien- zu Bildungsgründen
+CH_FAM_OCC	Änderung von Familiengründen zu vergüteter Erwerbstätigkeit
+CH_FAM_OTH	Änderung von Familien- zu anderen Gründen
+CH_ED	Änderung des früheren Zuwanderungsgrundes: Bildung
+CH_ED_FAM	Änderung von Bildungs- zu Familiengründen
+CH_ED_OCC	Änderung von Bildungsgründen zu vergüteter Erwerbstätigkeit
+CH_ED_OTH	Änderung von Bildungs- zu anderen Gründen
+CH_OCC	Änderung des früheren Zuwanderungsgrundes: Vergütete Erwerbstätigkeit
+CH_OCC_FAM	Änderung von vergüteter Erwerbstätigkeit zu Familiengründen
+CH_OCC_ED	Änderung von vergüteter Erwerbstätigkeit zu Bildungsgründen
+CH_OCC_OTH	Änderung von vergüteter Erwerbstätigkeit zu anderen Gründen
+CH_OTH	Änderung des früheren Zuwanderungsgrundes: Andere Gründe
+CH_OTH_FAM	Änderung von anderen Gründen zu Familiengründen
+CH_OTH_ED	Änderung von anderen Gründen zu Bildungsgründen
+CH_OTH_OCC	Änderung von anderen Gründen zu vergüteter Erwerbstätigkeit
+WORK	Für Arbeit oder Studium
+WRK_JOB	Erwerbstätigkeit, Arbeitsplatz vor der Migration gefunden
+WRK_NJOB	Erwerbstätigkeit, kein Arbeitsplatz vor der Migration gefunden
+INTPRO	Internationaler Schutz
+IPRO_ASY	Internationaler Schutz oder Asyl
+PERS	Persönliche Gründe
+PER	Persönliche Gründe
+PER_HOL	Urlaub, Freizeit und Erholung
+PER_RF	Besuch von Freunden und Verwandten
+PER_OTH	Sonstige persönliche Gründe
+HOL	Urlaub
+PROF	Dienstlich, geschäftlich
+OCC_BLUE	Vergütete Erwerbstätigkeit: Blaue Karte EU
+OTH_MIN	Andere Gründe: Unbegleitete Minderjährige
+OTH_VTM	Andere Gründe: Opfer von Menschenschmuggel
+REFG	Flüchtlingsstatus
+REF	Flüchtlingsstatus
+SUB	Subsidiärer Schutz
+SPON_REF	Zusammenführender mit Flüchtlingsstatus
+SPON_SUB	Zusammenführender mit subsidiärem Schutzstatus
+SPON_HUM	Zusammenführender mit humanitärem Status (nationales Recht)
+SPON_UNK	Zusammenführender mit unbekanntem Status
+LONG_EU	Langfristig Aufenthaltsberechtigte: EU Direktive
+LONG_N	Langfristig Aufenthaltsberechtigte: Nationale Gesetzgebung
+ICT	Aufenthaltstitel für unternehmensintern transferierte Arbeitnehmer
+LTM	Aufenthaltstitel für langfristige Mobilität
+BUCL	Ihr Unternehmen war bereits Kunde
+LOC	Es handelte sich um eine lokale Bankfiliale (räumliche Nähe)
+BTIN	Es werden die beste Zinskonditionen geboten
+BTNIN	Es werden die besten zinsunabhängigen Konditionen geboten
+EMSF	Bank ist auf kleinere Unternehmen spezialisiert
+GDCL	Bankfiliale pflegt gutes Verhältnis zu ihren Kunden
+MAINT	Das Unternehmen am Laufen halten
+GROW	Die Haupttatigkeint des Unternehmens ausweiten
+EXP	Zur Finanzierung von Exportgeschäften
+INN	Zur Finanzierung von Innovationen, Forschung und Entwicklung
+ACQU	Für Unternehmensübernahmen und Fusionen
+INTL	Zur Entwicklung internationaler Aktivitäten
+ECO	Die allgemeinen Konjunkturaussichten
+LOCM	Eingeschränkte Nachfrage in den lokalen Märkten/ Hausmärkten
+FORM	Eingeschränkte Nachfrage in ausländischen Märkten
+AVPER	Eingeschränkte Verfugbarkeit von passendem neuen Personal
+LSPER	Verlust von existierendem Personal
+TRPB	Unklare Unternehmensnachfolge, -weitergabe, Erbschaft
+HILAB	Hohe Arbeitskosten
+INVES	Notwendige Investitionen in Ausrüstung
+OUTPD	Produkte veralten, Forschung und Entwicklung wird notwendig, Produktentwicklungszeit
+TCOMP	Technologischer Wettbewerb
+NWENT	Eintritt neuer Marktteilnehmer
+PCOMP	Preiswettbewerb, kleine Gewinnspannen
+RGFR	Rechtliche Rahmenbedingungen
+LKFI	Mangel an steuerlichen Anreizen
+DIFIT	Erschwerter Zugang zu Informationstechnologie
+IW_OTH	Andere Infrastrukturschwächen
+NEFIN	Nicht genug Finanzierung
+PCR	Schlechte Kreditwürdigkeit
+LOWNCAP	Fehlendes Eigenkapital
+LKC	Mangel an Eigenkapital
+ICG	Keine ausreichenden Sicherheiten (Bürgschaften, Garantien)
+IRP	Unzureichendes oder riskantes Potenzial (des Unternehmens oder Projekts)
+TML	Bereits zu viele Kredite oder zu hohe Verschuldung
+NLH	Keine Erfahrung mit Krediten (keine Kredithistorie)
+PLH	Schlechte Bonität in der Vergangenheit
+NRS	Kein Grund angegeben
+HIR	Zu hohe Zinssätze
+NIR	Inakzeptable nicht zinsbedingtes Bedingungen
+INA	Fehlende Kapazität der bestehenden Aktionäre mehr zu zeichnen
+EXC	Potenzielle neue Aktionäre fordern zu hohen Geschäfsanteil als Gegenleistung für das gebotene Beteiligungskapital
+CON	Potenzielle neue Aktionäre fordern zu viele Zugeständnisse als Gegenleistung für die gebotene Beteiligungsfinanzierung
+DEV	Potenzielle neue Aktionäre sehen die Entwicklungskapazität des Unternehmens als unzureichend oder zu riskant an
+DEB	Potenzielle neue Aktionäre sind der Meinung das Unternehmen habe zu viele Schulden
+NT_FAM	Nicht genügend freie Zeit wegen familiärer Verpflichtungen
+NT_WRK	Nicht genügend freie Zeit wegen Verpflichtungen im Beruf oder Studium.
+HLTH	Gesundheitliche Gründe
+HOME	Keine Beweggründe zu verreisen (bleibt lieber zu Hause)
+SAFE	Sicherheitsgründe
+SAL	Gehalt
+BEN	Leistungen
+JSEC	Sicherheit des Arbeitsplatzes
+LCT	Ort
+WRK_CDT	Arbeitsbedingungen
+OPAD	Möglichkeiten zu Weiterentwicklung
+INCHA	Intellektuelle Herausforderung
+LEV_RSP	Verantwortungsebene
+DEG_IND	Grad der Unabhängigkeit
+CTB_SOC	Beitrag für die Gesellschaft
+SOC_STA	Sozialer Status
+END_DO	Abschluss der Promotion
+END_PDJ	Vertragsende Arbeits- oder Postdoktorandenvertrag
+OTH_ECO	Andere arbeitsrelevante oder wirtschaftliche Faktoren
+ACA_FAC	Akademische Faktoren
+FP_REA	Familiäre oder persönliche Gründe
+DISMIS	Wurde entlassen
+JOBLIM	Befristeter Arbeitsvertrag ist abgelaufen
+EDUTRA	Schulische oder berufliche Ausbildung
+ERLY_RET	Vorruhestand
+NORM_RET	Normaler Ruhestand
+LHCBAD_PEF	Sowohl ein andauerndes Gesundheitsproblem oder Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens wie auch persönliche und Umweltfaktoren
+LHCBADO	Einzig ein andauerndes Gesundheitsproblem oder Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PEFO	Einzig persönliche oder Umweltfaktoren
+LACKQUAL	Mangelnde Qualifikation/Erfahrung
+LACKAPPJOB	Fehlen geeigneter beruflicher Möglichkeiten
+FAMRESP	Familien-/Betreuungspflichten
+OPER	Andere persönliche oder umweltbedingte Gründe
+NOLIMW	Keine Einschränkung der Erwerbstätigkeit
+HCOST	Hohe Kosten für BWB-Kurse
+IVTFOC	BEA wichtiger als BWB
+EFFREC	Erhebliche BWB-Anstrengungen in den letzten Jahren
+QUALCOR	Vorhandene Qualifikationen, Fähigkeiten und Kompetenzen entsprachen derzeitigem Bedarf des Unternehmens
+LCO	Keine Angebote geeigneter BWB-Kurse auf dem Markt
+DIFASS	Schwierigkeiten bei der Bewertung des Weiterbildungsbedarfs im Unternehmen
+HWL	Hohes Arbeitsaufkommen und Personal hat nur begrenzt / keine Zeit für Teilnahme an BWB
+NLIM	Keine Einschränkung
+QUAL_FE	Qualifizierung künftiger Beschäftigter entsprechend dem Bedarf des Unternehmens
+BEST_FE	Auswahl der besten BEA-Teilnehmer für die künftige Einstellung
+NMM	Vermeidung möglicher Diskrepanzen mit Blick auf den Unternehmensbedarf im Falle der Einstellung externer Mitarbeiter
+IVTCAP	Nutzung der produktiven Kapazitäten von BEA-Teilnehmern
+HLTH_AGE	Gesundheitliche oder altersbedingte Gründe
+AGE	Alter
+GEN	Geschlecht
+REL	Religion
+ETH	Ethnizität oder Staatsangehörigkeit
+DIS	Behinderung
+SXO	Sexuelle Ausrichtung
+NPL	Keine Plätze verfügbar
+OH_NSUI	Öffnungszeiten nicht geeignet
+QUAL_NSAT	Qualität der verfügbaren Dienste nicht zufriedenstellend
+NND	Keine Notwendigkeit
+CO_NADT	Nicht für Kurs oder Programm zugelassen
+CO_NSUI	Keine geeigneten Kurse oder Programme im Angebot
+NPROV	Wird vom Arbeitgeber nicht angeboten
+REFU	Wird von Person, die diese Pflege benötigt, abgelehnt
+NCARE	Keine Pflegedienste verfügbar
+PERS_HOL	Urlaub, Freizeit und Erholung
+PERS_VFR	Besuch bei Freunden, Bekannten und Verwandten
+PERS_OTH	Sonstige persönliche Gründe
+NF_SALJOB	Keine Stelle als Arbeitnehmer gefunden
+REQ_FO_EMP	Vom früheren Arbeitgeber verlangt
+U_PRCT	Übliche Praxis im Tätigkeitsbereich
+SUI_OPPO	Günstige Gelegenheit
+CN_BSN_FAM	Übernahme des Familienunternehmens
+NPW_OTH	Nicht geplant oder gewollt, sondern aus anderem Grund begonnen
+FLEX_WRK	Flexible Arbeitszeiten
+W_DIF	Wollte, aber stieß auf Schwierigkeiten
+W_PERDIF	Wollte, aber stieß auf Schwierigkeiten, die auf persönlichen Gründen basierten
+W_NPERDIF	Wollte, aber stieß auf Schwierigkeiten, die nicht auf persönlichen Gründen basierten
+W_OTH	Wollte aus anderem Grund
+NW	Wollte nicht
+LINFL_PRC	Mangelnde Einflussnahme auf Preisfestlegung
+LACS_FIN	Mangelnder Zugang zu Finanzmitteln
+D_PAY_NPAY	Zahlungsverzug oder -ausfall
+HABUR	Hoher Verwaltungsaufwand
+FIN_HS	Zeiten mit finanziellen Engpässen
+NCUS_NASG_NPRJ	Zeiten ohne Kunden, Aufträge oder Projekte
+NDIF	Keine Schwierigkeiten
+PREF_WRK_ALN	Arbeitet bevorzugt alleine
+NENO_WRK	Nicht genug Arbeit
+DIF_F_SUI_STAF	Schwierigkeit, geeignetes Personal zu finden
+C_LEGFRAM	Komplizierte rechtliche Rahmenbedingungen
+HSC	Hohe Sozialbeiträge
+NPS_OCC	Nicht möglich aufgrund des Berufs
+PREF_WRK_SCTR	Arbeitet bevorzugt mit Subunternehmern oder Partnern
+WI_CL	Wunsch des Kunden
+FIN_NSECU	Finanzielle Unsicherheit
+DIF_G_FIN	Schwierigkeit bei der Beschaffung von Finanzmitteln
+STRS_RESP_RSK	Stress, Verantwortung, Risiko
+LS_CVG_SOPROT	Geringerer Sozialschutz
+R_COSTPR	Reaktion auf Kostendruck
+I_ENTPERF	Verbesserung der Leistung des Unternehmens
+OP_OPPO_NEWMKT	Öffnung neuer Marktchancen
+R_MKTPR	Reaktion auf Marktdruck
+R_REGL	Reaktion auf Gesetzgebung
+PER_ENV_ONL	Einzig persönliche oder umweltbedingte Gründe
+PER_ENV_OTH	Sonstige persönliche oder umweltbedingte Gründe
+PER_VRF	Besuch bei Freunden, Bekannten und Verwandten
+FAM_CARE_PER_OTH	Betreuung von Erwachsenen mit Behinderungen oder Kindern und sonstige familiäre oder persönliche Gründe
+FAM_CARE	Betreuung von Erwachsenen mit Behinderungen oder Kindern
+FAM_SPOU_EU	Ehepartner oder Partner, der einem EU- Bürger nachzieht
+FAM_CH_NEU	Kind, das einem Nicht-EU-Bürger nachzieht
+FAM_SPOU_NEU	Ehepartner oder Partner, der einem Nicht-EU- Bürger nachzieht
+FAM_PER_OTH	Sonstige familiäre oder persönliche Gründe
+NSERV_ACS	Keine Dienstleistung zugänglich oder verfügbar
+CH_SELF_CARE	Die Kinder kümmern sich um sich selbst
+SERV_OTH	Andere Gründe im Zusammenhang mit der Dienstleistung
+LCARE_D_ST	Mangel an Pflegediensten während des Tages oder zu besonderen Zeiten
+LCARE_D	Mangel an Pflegediensten während des Tages
+LCARE_ST	Mangel an Pflegediensten zu besonderen Zeiten
+CARE_TXP	Pflegedienste sind zu teuer
+CARE_QUAL_NS	Verfügbare Pflegedienste sind nicht von ausreichender Qualität
+EDUC_TNG	Aus- oder Weiterbildung
+EDUC_TNG_NSUI	Kein geeignetes Angebot für Aus- oder Weiterbildung
+EDUC_STU	Studium
+EDUC_OTH	Sonstige bildungsbezogene Gründe
+TNG	Ausbildung
+ITNG_S	Erstausbildung ausreichend
+EXPT_TNG_NS	Unzulängliche Sachkenntnis zum Entwickeln eines Berufsbildungsplanes
+FOC_IVT	BEA wichtiger als BWB
+CAP_IVT	Nutzung der produktiven Kapazitäten von BEA-Teilnehmern
+EFF_REC	Erhebliche BWB-Anstrengungen in den letzten Jahren
+BST_FUEMP	Auswahl der besten BEA-Teilnehmer für die künftige Einstellung
+RSRCH	Forschung
+PUPXCH_EDUC	Schüleraustausch oder Bildungsprojekt
+AUPAIR	Au-pair-Tätigkeit
+DST_LANG_CLT	Entfernung, Sprache oder Kultur
+DST_RND_TLRG	Entfernung zwischen Produktionsprozess und FuE oder Produktdesign zu groß
+FIN_NENO	Unzureichende Finanzierung
+FIN_EXP	Finanzierung von Exportgeschäften
+FINARR_FV	Günstige finanzielle Regelungen
+FIN_ARR	Günstige finanzielle Regelungen
+FIN_INN_RND	Finanzierung von Innovation und FuE
+NSECU_FIN	Finanzielle Unsicherheit
+TAX_FIN	Steuerliche bzw. finanzielle Gründe
+LFISC	Mangel an steuerlichen Anreizen
+TXP	Zu kostspielig
+PR_INC_S	Ausreichendes Einkommen sichern
+E_PEN_PR_INC_S	Rentenansprüche erwerben/erhöhen und ausreichendes Einkommen sichern
+E_PEN	Erwerb/Erhöhung von Rentenansprüchen
+O_FINASSI_EU	Finanzielle Unterstützung von der EU erhalten
+O_FINASSI_OTH	Finanzielle Unterstützung aus sonstigen externen Quellen erhalten
+HCOST_EXPC	Höhere Kosten als erwartet
+HCOST_CVT	Hohe Kosten für BWB-Kurse
+HLC	Hohe Arbeitskosten
+RED_LC	Senkung von Arbeitskosten
+RED_OTHXLC	Senkung sonstiger nicht arbeitsbedingter Kosten
+LABPRY_NS	Unzureichende Arbeitsproduktivität
+LQLFLAB	Mangel an qualifizierten Arbeitskräften
+TXP_TFAR_WLIST	Zu kostspielig oder zu weit oder Warteliste
+TFAR	Zu weit
+NTIME	Keine Zeit
+LTIME_FAM	Zeitmangel aufgrund familiärer Verpflichtungen
+LTIME_WRK_STU	Zeitmangel aufgrund von Arbeits- oder Studienverpflichtungen
+HWL_NTIME	Hohes Arbeitsaufkommen und Personal hat nur begrenzt/keine Zeit für Teilnahme an BWB
+NPRIOR	Keine Priorität
+PR_REQ	Nur auf Anfrage zur Verfügung gestellt
+WLIST	Warteliste
+ILL_DIS_OWN	Eigene Krankheit oder Behinderung
+LINC_ILL	Einkommensausfall bei Erkrankung
+LHC_BAD_PER_ENV	Andauerndes Gesundheitsproblem oder Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens wie auch persönliche und umweltbedingte Gründe
+LHC_BAD_ONL	Andauerndes Gesundheitsproblem oder nur Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+GDOC_UNK	Kein guter Arzt oder Facharzt bekannt
+FEAR_DR_HSP	Angst vor Ärzten, Krankenhäusern, Untersuchung oder Behandlung
+HOPE	Hofft dass es besser wird
+NMT_ND_INT	Studium entsprach nicht den Bedürfnissen oder Interessen
+NND_NINT	Keine Notwendigkeit oder kein Interesse
+OPHR_NSUI	Unpassende Öffnungszeiten
+NUMT_ND	Keine unerfüllten Bedürfnisse
+NLIM_TNG	Keine Einschränkung des Niveaus der Weiterbildungsmaßnahmen
+NADT_CO	Nicht für den Kurs oder das Programm zugelassen
+LCVT_SUI	Mangel geeigneter BWB-Kurse auf dem Markt
+NPR_EMPL	Nicht vom Arbeitgeber bereitgestellt
+REF_ND_SERV	Abgelehnt von der Person, die solche Dienstleistungen benötigt
+NACT_NB	Keine solchen Aktivitäten in der Nachbarschaft
+LVL_APP	Erreichter Bildungsabschluss als angemessen angesehen
+DIF_ASS	Schwierigkeit bei der Bewertung des Weiterbildungsbedarfs im Unternehmen
+DIF_F_STAF_SUI	Schwierigkeit, geeignetes Personal zu finden
+DIF_ACS_ITEC	Schwieriger Zugang zur Informationstechnologie
+DIF_FRCHG_PRD	Schwierigkeit durch häufige Produktänderungen
+WRK_NENO	Nicht genug Arbeit
+NWRKTIME_ARR	Keine Arbeitszeitvereinbarung
+ARR_ALN_PTN	Alleine oder mit Partner geregelt
+INFSUPP	Informelle Unterstützung
+WRKHR_LG	Lange Arbeitszeit
+DIF_WRKSCD	Arbeitszeiten sind schwer planbar oder liegen ungünstig
+COM_LG	Langer Weg zur Arbeit
+DMJOB	Arbeit ist anspruchsvoll oder anstrengend
+LSPT_EMPL_PUB	Mangelnde Unterstützung durch Arbeitgeber oder öffentliche Verwaltung
+LSUPP_EMPL	Mangelnde Unterstützung durch Arbeitgeber und Kollegen
+SKD	Zeitplan
+JOB	Berufsbezogene Gründe
+LOST_NF_JOB	Arbeit verloren und/oder keine Arbeit gefunden
+NW_PJOB	Keine Festanstellung gewünscht
+B_NJOB	Glaubt, dass es keine Arbeit gibt
+EMP_F_JOB	Beschäftigung - Arbeitsplatz vor der Migration gefunden
+EMP_NF_JOB	Beschäftigung - kein Arbeitsplatz vor der Migration gefunden
+PROB	Probezeit
+DISM	Entlassung oder Stellenabbau
+JOB_LTD_END	Beendigung eines befristeten Arbeitsvertrags
+RECR_SKIL_ND	Einstellung von Personen mit den erforderlichen Fähigkeiten
+DISC_MNG_SAL	Diskussion zwischen Management und Angestellten
+NMM_RECR	Vermeidung von Diskrepanzen mit Blick auf den Unternehmensbedarf im Falle der Einstellung externer Mitarbeiter
+RESIS_SAL	Widerstand unter Angestellten
+O_CERT_GTNG	Erhalt einer Zertifizierung/Akkreditierung als gutes Ausbildungsunternehmen
+O_COM_MNG	Ein Bekenntnis des Managements zur Bedeutung von BWB einholen
+RESP_OWNTIME	Verantwortlichkeit der Angestellten in ihrer eigenen Zeit
+QLF_COR	Vorhandene Qualifikationen, Fähigkeiten und Kompetenzen entsprachen derzeitigem Bedarf des Unternehmens
+QLF_FUSAL	Qualifizierung künftiger Beschäftigter entsprechend dem Bedarf des Unternehmens
+LAPP_JOBOPPO	Fehlen geeigneter beruflicher Möglichkeiten
+LQLF	Mangelnde Qualifikation/Erfahrung
+NEG_PLE	Frühere negative Lernerfahrung
+JOBSRCH_ENTR	Arbeitssuche oder Unternehmertum
+JOB_OTH	Sonstige berufliche Gründe
+EMP	Beschäftigungsgründe
+EMP_BLUE	Blaue Karte EU
+EMP_HSW	Hochqualifizierte Arbeitskräfte
+EMP_RSE	Forscher
+EMP_WRK_SEAS	Saisonarbeitnehmer
+EMP_OTH	Sonstige beschäftigungsbezogene Gründe
+RET	Ruhestand
+RET_EARL	Vorruhestand
+RET_NML	Normaler Ruhestand
+RETAGE_MAX	Maximales Rentenalter erreicht
+ELIG_PEN	Rentenanspruch erreicht
+VS	Freiwiliger Dienst
+EVS	Europäischer Freiwilligendienst (EFD)
+VS_OTH	Sonstiger Freiwilligendienst
+CHG_FAM	Änderung aus Familiengründen
+CHG_FAM_EDUC	Änderung von Familien- zu Bildungsgründen
+CHG_FAM_EMP	Änderung von Familien- zu Beschäftigungsgründen
+CHG_FAM_OTH	Änderung von Familien- zu anderen Gründen
+CHG_EDUC	Änderung wegen Bildungsgründen
+CHG_EDUC_FAM	Änderung von Bildungs- zu Familiengründen
+CHG_EDUC_EMP	Änderung von Bildungs- zu Beschäftigungsgründen
+CHG_EDUC_OTH	Änderung von Bildungs- zu anderen Gründen
+CHG_EMP	Änderung aus Beschäftigungsgründen
+CHG_EMP_FAM	Änderung von Beschäftigungs- zu Familliengründen
+CHG_EMP_EDUC	Änderung von Beschäftigungs- zu Bildungsgründen
+CHG_EMP_OTH	Änderung von Beschäftigungs- zu anderen Gründen
+CHG_OTH	Änderung aus sonstigen Gründen
+CHG_OTH_FAM	Änderung von anderen Gründen zu Familiengründen
+CHG_OTH_EDUC	Änderung von anderen Gründen zu Bildungsgründen
+CHG_OTH_EMP	Änderung von anderen Gründen zu Beschäftigungsgründen
+IPROT_ASY	Internationaler Schutz oder Asyl
+RFG_SPROT_HUM	Internationaler Schutzstatus (Flüchtlingsstatus und subsidiärer Schutz) und humanitärer Status
+RFG_SPROT	Internationaler Schutzstatus (Flüchtlingsstatus und subsidiärer Schutz)
+RFG	Flüchtlingsstatus
+SPROT	Subsidiärer Schutzstatus
+HUM	Humanitärer Status
+SPN_RFG	Sponsor mit Flüchtlingsstatus
+SPN_SPROT	Sponsor mit subsidiärem Schutzstatus
+SPN_HUM	Sponsor mit humanitärem Status
+RES	Aufenthalt
+UAM	Unbegleitete Minderjährige
+VICT_TRFF_HMN	Opfer von Menschenschmuggel
+C_LAW_CAGRM	Einhaltung von Gesetzen oder Tarifverträgen
+DOC_FLS	Falsche(s) Reisedokument(e)
+DOC_NV	Ohne gültige(s) Reisedokument(e)
+VISA_RPRM_FLS	Falsches Visum oder falsche Aufenthaltsgenehmigung
+VISA_RPRM_NV	Ohne gültiges Visum oder Aufenthaltsgenehmigung
+STAY_M3	Bereits 3 Monate Aufenthalt während der vergangenen sechs Monate
+SUBS_NS	Mittel zum Lebensunterhalt unzureichend
+PUB_THRT	Eingestuft als Gefahr für die öffentliche Ordnung
+IC_TRF	Aufenthaltstitel für unternehmensintern transferierte Arbeitnehmer
+LT_MOB	Aufenthaltstitel für langfristige Mobilität
+REQ_FOEMPL	Vom früheren Arbeitgeber verlangt
+PRCT_USU	Übliche Praxis im Tätigkeitsbereich
+OPPO_SUI	Günstige Gelegenheit
+CN_FAMBSN	Übernahme des Familienunternehmens
+WRKHR_FLEX	Flexible Arbeitszeiten
+PAY_NPAY_DL	Zahlungsverzug oder -ausfall
+REGLFRAM	Rechtliche Rahmenbedingungen
+LEGFRAM_CMPL	Komplizierte rechtliche Rahmenbedingungen
+LS_REG	Weniger Vorschriften (z.B. weniger Umweltvorschriften)
+STRAT_DEC	Strategische Entscheidungen des Gruppenleiters
+FOC_CORBSN	Ausrichtung auf das Kerngeschäft
+DLVTIME_TLG	Lieferzeit zu lang
+QUAL_NS	Unzureichende Qualität
+LQLFPER_FOR	Mangel an qualifiziertem Personal am ausländischen Standort
+LFLEX_SUP	Mangel an Flexibilität oder Lieferfähigkeit
+ACS_NEWMKT	Zugang zu neuen Märkten
+ACS_SPEKNOW	Zugang zu Spezialwissen/Spezialtechnologien
+NACS_CP_INET	Kein Zugang zu einem Computer oder zum Internet
+FL_BHV_COMP	Orientierung am Verhalten/Beispiel von Wettbewerbern/Kunden
+LOG	Logistik
+IQUAL_NEWPRD	Bessere Qualität oder neue Produkte
+COMP	Wettbewerbsfähigkeit
+IH_KH	Internes Know-how
+S_DOMPRD	Rationalisierung des inländischen Produktionsprozesses
+NSUBSC_SHR	Keine Möglichkeit, für weitere Aktien zu zeichnen
+EQUIT_TM	Zu hohes Eigenkapital
+CONC_TM	Zu viele Konzessionen
+BSNPT_NS_RSK	Unzureichendes oder riskantes Unternehmenspotenzial
+LOAN_TM_DEBT_TH	Zu viele Kredite oder zu hohe Verschuldung
+POORCRED	Schwache Bonitätsbewertung
+LCAPOWN	Fehlendes Eigenkapital
+COLT_GAR_NS	Unzureichende Kreditsicherheiten oder Bürgschaften
+NLOAN_HST	Keine Kredithistorie
+BST_INT_RT	Beste Zinssätze
+POORLOAN_HST	Schlechte Kredithistorie
+INT_RT_TH	Zu hohe Zinssätze
+NACC_NINT_RT	Inakzeptable Konditionen (andere als Zinssätze)
+ALR_CL	Bereits Kunde
+LOC_BANK	Lokale Bankfiliale
+BST_OTH_XINT_RT	Weitere gute zinsunabhängige Konditionen
+EMPH_BSN_SML	Schwerpunkt auf kleineren Unternehmen
+K_GCLRELS	Bekannt für guten Kundenservice
+ECON_OUTL	Allgemeine Konjunkturaussichten
+LTDDM_DOMMKT	Beschränkte Nachfrage auf den lokalen und Binnenmärkten
+LTDDM_FORMKT	Beschränkte Nachfrage auf den Auslandsmärkten
+LTDAVL_PER_SUI	Beschränkte Verfügbarkeit von qualifiziertem Personal
+LOSS_PER	Verlust von vorhandenem Personal
+BSNTRF_PB	Unklare Unternehmensnachfolge (z.B. Erbschaft)
+INV_EQ	Notwendige Ausstattungsinvestitionen
+PRD_OUTD	Veraltete Produkte
+TEC_COMP	Technologischer Wettbewerb
+NEWENT_MKT	Marktneulinge
+PRC_MRG	Preiswettbewerb/kleine Gewinnspannen
+INFR_WEAK_OTH	Sonstige Schwächen der Infrastruktur
+MNT_BSN	Aufrechterhaltung des Unternehmens
+GR_DOMBSN	Expandierung des Binnengeschäfts
+MERG_ACQ	Übernahmen und Fusionen
+DEV_INTLBSN	Entwicklung internationaler Geschäfte
+MULTINAT	Teil einer multinationalen Unternehmensgruppe
+DOMMKT_TSML	Zu kleiner Binnenmarkt
+INET_DRV	Internetgesteuert
+OUTSRC_DRV	Durch Auslagerung
+OTH_NLCARE	Sonstiger Grund, der nicht mit dem Mangel an geeigneten Pflegediensten zusammenhängt
+OTH_XLCARE	Sonstiger Grund, der nicht mit dem Mangel an geeigneten Pflegediensten zusammenhängt
+OTH_LCARE	Sonstiger Grund, der mit dem Mangel an geeigneten Pflegediensten zusammenhängt
+NONE	Keine
+OTH	Sonstige
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+NSP	Nicht angegeben
+UNK	Unbekannt
+HARASS	Mobbing oder Belästigungen
+HARS_BULLY	Belästigung oder Mobbing
+PRESSURE	Zeitdruck oder Arbeitsüberlastung
+TPR_OLWRK	Zeitdruck oder Arbeitsüberlastung
+VIOLENCE	Gewalt oder Gewaltandrohungen
+VLN_THRT	Gewalt oder Gewaltandrohung
+CHEMIC	Chemikalien, Staub, Dämpfen, Rauch oder Gasen
+CHM_SMO_GAS	Chemikalien, Staub, Dämpfe, Rauch oder Gase
+CONCEN	Aktivitaeten mit starker visueller Konzentration
+ACT_SVCONC	Aktivitäten mit starker visueller Konzentration 
+HEAVY	Hantieren mit schweren Lasten
+H_HVYLOAD	Hantieren mit schweren Lasten
+NOISE	Lärm oder Vibrationen
+NOIS_VIB	Lärm oder Vibration
+POSTURE	Schwierige Körperhaltungen, Bewegungsabläufe
+DIF_WPST_WMV	Schwierige Körperhaltungen, Bewegungsabläufe
+RISKACC	Unfallgefahren
+RSK_ACC	Unfallgefahr

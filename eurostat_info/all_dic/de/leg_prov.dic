@@ -1,0 +1,74 @@
+TOTAL	Insgesamt
+CHRG	Aufnahmegesuch
+CHRG_FAM	Aufnahmegesuch - Famillienkriterien (Artikel 8, 9, 10, 11)
+CHRG_FAM_8	Aufnahmegesuch - Minderjährige mit einem Familienangehörigen, der sich rechtmäßig im Land aufhält (Artikel 8)
+CHRG_FAM_9	Aufnahmegesuch - Familienangehörige, die Begünstigte internationalen Schutzes sind (Artikel 9)
+CHRG_FAM_10	Aufnahmegesuch - Familienangehörige, die internationalen Schutz beantragt haben (Artikel 10)
+CHRG_FAM_11	Aufnahmegesuch - Familienverfahren (Artikel 11)
+CHRG_DOC	Aufnahmegesuch - Dokumentation und legale Einreisekriterien (Artikel 12.1, 12.2, 12.3, 12.4, 14)
+CHRG_DOC_121	Aufnahmegesuch - gültiger Aufenthaltstitel (Artikel 12.1)
+CHRG_DOC_122	Aufnahmegesuch - gültiges Visum (Artikel 12.2)
+CHRG_DOC_123	Aufnahmegesuch - mehrere gültige Aufenthaltstitel (Artikel 12.3)
+CHRG_DOC_124	Aufnahmegesuch - Aufenthaltstitel abgelaufen (Artikel 12.4)
+CHRG_DOC_14	Aufnahmegesuch - visafreie Einreise (Artikel 14)
+CHRG_131	Aufnahmegesuch - illegale Einreise (Artikel 13.1)
+CHRG_132	Aufnahmegesuch - illegaler Aufenthalt (Artikel 13.2)
+CHRG_15	Aufnahmegesuch - Antrag im internationalen Transitbereich eines Flughafens (Artikel 15)
+CHRG_16	Aufnahmegesuch - abhängige Personen (Artikel 16)
+CHRG_172	Aufnahmegesuch - humanitäre Kriterien (Artikel 17.2)
+CHRG_UNK	Aufnahmegesuch - Kriterien unbekannt
+BACK	Wiederaufnahmegesuch
+BACK_181B	Wiederaufnahmegesuch -  während der Antragsprüfung stellt der Antragsteller in einem anderen Mitgliedstaat einen Antrag oder er hält sich ohne Aufenthaltstitel dort auf (Artikel 18.1.b)
+BACK_181C	Wiederaufnahmegesuch - während der Antragsprüfung zieht der Antragsteller seinen früheren Antrag zurück und stellt in einem anderen Mitgliedstaat einen Antrag oder er hält sich ohne Aufenthaltstitel dort auf (Artikel 18.1.c)
+BACK_181D	Wiederaufnahmegesuch - Ablehnung des Antrags und Antragstellung oder Aufenthalt in einem anderen Mitgliedstaat (Artikel 18.1.d)
+BACK_205	Wiederaufnahmegesuch  - Aufenthalt ohne Aufenthaltstitel oder neue Antragstellung in einem anderen Mitgliedstaat nachdem der erste Antrag in einem Mitgliedstaat während des 'Dublin'-Verfahrens (Artikel 20.5) zurückgezogen wurde
+BACK_UNK	Wiederaufnahmegesuch - Kriterien unbekannt
+EDAC_CHRG	Aufnahmegesuch -  EURODAC (Europäische  Fingerabdruck-Datenbank für die Bearbeitung von Asylanträgen)
+EDAC_BACK	Wiederaufnahmegesuch - EURODAC (Europäische Fingerabdruck-Datenbank für die Bearbeitung von Asylanträgen)
+INFO	Informationsersuchen
+INFO_345	Informationsersuchen - allgemeine Kriterien (Artikel 34.5)
+INFO_65_86	Informationsersuchen - Familie von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+INFO_164	Informationsersuchen - Familie von abhängigen Personen (Artikel 16.4)
+RP_INFO	Antwort auf Informationsersuchen
+RP_INFO_345	Antwort auf Informationsersuchen - allgemeine Kriterien (Artikel 34.5)
+RP_INFO_65_86	Antwort auf Informationsersuchen - Familie von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+RP_INFO_164	Antwort auf Informationsersuchen - Familie von abhängigen Personen (Artikel 16.4)
+SOV_171	Anwendung der Souveränitätsklausel (Artikel 17.1)
+RESPD	Automatische Zuständigkeit eines Mitgliedstaates
+RESPD_32A_B	Automatische Zuständigkeit eines Mitgliedstaates - Überstellung nicht möglich da die Aufnahmebedingungen Schwachstellen aufweisen
+RESPD_32A	Automatische Zuständigkeit eines Mitgliedstaates - bestehende Kriterien nicht anwendbar
+RESPD_292	Automatische Zuständigkeit eines Mitgliedstaates - Überstellung nicht fristgerecht durchgeführt
+UNK	Unbekannt
+CHARGE	Aufnahmegesuch
+CHF	Aufnahmegesuch - Famillienkriterien (Artikel 8, 9, 10, 11)
+CHF_8	Aufnahmegesuch - Minderjährige mit einem Familienangehörigen, der sich rechtmäßig im Land aufhält (Artikel 8)
+CHF_9	Aufnahmegesuch - Familienangehörige, die Begünstigte internationalen Schutzes sind (Artikel 9)
+CHF_10	Aufnahmegesuch - Familienangehörige, die internationalen Schutz beantragt haben (Artikel 10)
+CHF_11	Aufnahmegesuch - Familienverfahren (Artikel 11)
+CHD	Aufnahmegesuch - Dokumentation und legale Einreisekriterien (Artikel 12.1, 12.2, 12.3, 12.4, 14)
+CHD_121	Aufnahmegesuch - gültiger Aufenthaltstitel (Artikel 12.1)
+CHD_122	Aufnahmegesuch - gültiges Visum (Artikel 12.2)
+CHD_123	Aufnahmegesuch - mehrere gültige Aufenthaltstitel (Artikel 12.3)
+CHD_124	Aufnahmegesuch - Aufenthaltstitel abgelaufen (Artikel 12.4)
+CHD_14	Aufnahmegesuch - visafreie Einreise (Artikel 14)
+CH_15	Aufnahmegesuch - Antrag im internationalen Transitbereich eines Flughafens (Artikel 15)
+CH_131	Aufnahmegesuch - illegale Einreise (Artikel 13.1)
+CH_132	Aufnahmegesuch - illegaler Aufenthalt (Artikel 13.2)
+CH_16	Aufnahmegesuch - abhängige Personen (Artikel 16)
+CH_172	Aufnahmegesuch - humanitäre Kriterien (Artikel 17.2)
+CH_UNK	Aufnahmegesuch - Kriterien unbekannt
+BK_205	Wiederaufnahmegesuch  - Aufenthalt ohne Aufenthaltstitel oder neue Antragstellung in einem anderen Mitgliedstaat nachdem der erste Antrag in einem Mitgliedstaat während des 'Dublin'-Verfahrens (Artikel 20.5) zurückgezogen wurde
+BK_181B	Wiederaufnahmegesuch -  während der Antragsprüfung stellt der Antragsteller in einem anderen Mitgliedstaat einen Antrag oder er hält sich ohne Aufenthaltstitel dort auf (Artikel 18.1.b)
+BK_181C	Wiederaufnahmegesuch - während der Antragsprüfung zieht der Antragsteller seinen früheren Antrag zurück und stellt in einem anderen Mitgliedstaat einen Antrag oder er hält sich ohne Aufenthaltstitel dort auf (Artikel 18.1.c)
+BK_181D	Wiederaufnahmegesuch - Ablehnung des Antrags und Antragstellung oder Aufenthalt in einem anderen Mitgliedstaat (Artikel 18.1.d)
+BK_UNK	Wiederaufnahmegesuch - Kriterien unbekannt
+EDAC	Gesuche basierend auf EURODAC (Europäische Datenbank für Fingerabdrücke)
+EDAC_CH	Aufnahmegesuch -  EURODAC (Europäische  Fingerabdruck-Datenbank für die Bearbeitung von Asylanträgen)
+EDAC_BK	Wiederaufnahmegesuch - EURODAC (Europäische Fingerabdruck-Datenbank für die Bearbeitung von Asylanträgen)
+INFO_GEN	Informationsersuchen - allgemeine Kriterien (Artikel 34.5)
+INFO_UAM	Informationsersuchen - Familie von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+INFO_DEP	Informationsersuchen - Familie von abhängigen Personen (Artikel 16.4)
+RESP	Antwort auf Informationsersuchen
+RESP_GEN	Antwort auf Informationsersuchen - allgemeine Kriterien (Artikel 34.5)
+RESP_UAM	Antwort auf Informationsersuchen - Familie von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+RESP_DEP	Antwort auf Informationsersuchen - Familie von abhängigen Personen (Artikel 16.4)

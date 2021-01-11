@@ -1,0 +1,34 @@
+TOTAL	Total
+ICCS01	Actes entraînant ou visant à entraîner la mort
+ICCS0101_0102	Homicide intentionnel et tentative d¿homicide intentionnel
+ICCS0101	Homicide intentionnel
+ICCS0102	Tentative d¿homicide intentionnel
+ICCS02-04	Actes portant atteinte ou visant à porter atteinte à la personne, actes préjudiciables à caractère sexuel et actes visant des biens avec violence ou menaces contre une personne
+ICCS02	Actes portant atteinte ou visant à porter atteinte à la personne
+ICCS0201	Agressions ou menaces
+ICCS02011	Agression
+ICCS0202	Atteintes à la liberté
+ICCS02022	Privation de liberté
+ICCS020221	Enlèvement
+ICCS03	Actes préjudiciables à caractère sexuel
+ICCS0301	Violence sexuelle
+ICCS03011	Viol
+ICCS03012	Agression sexuelle
+ICCS03019	Autres actes de violence sexuelle
+ICCS0302	Exploitation sexuelle
+ICCS03022	Exploitation sexuelle d¿enfants
+ICCS04	Actes visant des biens avec violence ou menaces contre une personne
+ICCS0401	Vol qualifié
+ICCS05	Actes visant uniquement des biens
+ICCS0501	Cambriolage
+ICCS05012	Cambriolage de locaux résidentiels privés
+ICCS0502	Vol
+ICCS05021	Vol de véhicule motorisé ou de ses pièces détachées
+ICCS050211	Vol de véhicule motorisé terrestre
+ICCS06	Actes faisant intervenir des drogues contrôlées ou d¿autres substances psychoactives
+ICCS0601	Actes illicites faisant intervenir des drogues contrôlées ou des précurseurs
+ICCS07	Actes relevant de la fraude, de la tromperie ou de la corruption
+ICCS08	Atteintes à l¿ordre public, à l¿autorité et aux dispositions juridiques de l¿État
+ICCS09	Atteintes à la sécurité publique et à la sûreté de l¿État
+ICCS10	Atteintes au milieu naturel
+ICCS11	Autres actes illégaux non classé ailleurs

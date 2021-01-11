@@ -1,0 +1,14 @@
+FEI	Einrichtungen der formalen Bildung/Weiterbildung
+NFEI	Einrichtungen der nicht-formalen Bildung/Weiterbildung
+PUB_TNG	Öffentliche Bildungseinrichtungen (vom Staat finanziert oder geleitet)
+PRV_TNG	Private Bildungsunternehmen
+PRV_NTNG	Private Unternehmen, deren Haupttätigkeit nicht Bildung/Weiterbildung ist (z.B. Ausrüster, Mutter-/verbundenes Unternehmen)
+COM_NTNG	Gewerbliche Einrichtungen, deren Hauptaktivität nicht Bildung/Weiterbildung ist (z. B. Ausrüster)
+NCOM_NTNG	Nicht gewerbliche Einrichtungen, deren Hauptaktivität nicht Bildung/Weiterbildung ist (z. B. Bibliotheken, Museen, Ministerien)
+EMPL	Arbeitgeber
+EO_CHC	Arbeitgeberorganisationen, Handelskammern
+TRD_UN	Gewerkschaften
+NPA	Vereinigungen ohne Erwerbszweck (z. B. Kulturverein, politische Partei)
+IND	Privatpersonen (z. B. Studierende, die Privatunterricht erteilen)
+OTH	Sonstige Bildungsanbieter
+NRP	Keine Antwort

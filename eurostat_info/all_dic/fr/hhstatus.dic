@@ -1,0 +1,63 @@
+TOTAL	Total
+PRV	Personne vivant dans un ménage privé
+FAM	Personne dans un noyau familial
+CPL	Personne dans un couple
+MAR	Personne au sein d'un couple marié
+MARO	Personne mariée dans un couple de sexe opposé
+MARS	Personne mariée dans un couple de même sexe
+REP	Personnes vivant en partenariat enregistré
+REPO	Personnes de sexe opposé vivant en partenariat enregistré
+REPS	Personnes de même sexe vivant en partenariat enregistré
+CSU	Personne dans une union consensuelle
+CSUO	Personne dans une union consensuelle de sexe opposé
+CSUS	Personne en union consensuelle dans un couple de même sexe
+CPL_NCH18	Personne dans un couple sans enfant agé de moins de 18 ans
+P_NCH18	Personne sans enfant agé de moins de 18 ans et vivant dans le ménage des parents
+OTH_NCH18	Personne vivant dans un autre type de ménage et sans enfant de moins de 18 ans
+CPL_CH6	Personne en couple dont le plus jeune enfant a moins de 6 ans
+CPL_CH7-17	Personne en couple dont le plus jeune enfant a entre 7 et 17 ans
+CPL45_NCH	Personne de moins de 45 ans, en couple, sans enfant de moins de 18 ans
+CPL45-64_NCH	Personne de 45 à 64 ans, en couple, sans enfant de moins de 18 ans
+P45-64OTH_NCH	Personne de 45 à 64 ans vivant dans un autre type de ménage sans enfant de moins de 18 ans
+CPL65_NCH	Personne de plus de 65 ans, en couple, sans enfant de moins de 18 ans
+P25_NCH	Personne de moins de 25 ans, sans enfant de moins de 18 ans et vivant dans le ménage d'un de ses parents
+P25-44_NCH	Personne de 25 à 44 ans, sans enfant de moins de 18 ans et vivant dans le ménage d'un de ses parents
+P45OTH_NCH	Personne de moins de 45 ans vivant dans un autre type de ménage sans enfant de moins de 18 ans
+P65OTH_NCH	Personne de plus de 65 ans vivant dans un autre type de ménage sans enfant de moins de 18 ans
+P1_CH18	Parent seul dont le plus jeune enfant a moins de 18 ans
+PAR1	Parent isolé avec au moins un enfant
+CH_PAR	Enfant vivant avec au moins un parent
+CH_CPL	Enfant vivant avec un parent en couple
+CH_PAR1	Enfant vivant avec un parent isolé
+P_PAR	Personne vivant avec les parents
+P_NPAR	Personne ne vivant pas avec les parents
+NFAM	Personne ne faisant pas partie d'un noyau familial
+P1	Personne vivant seule
+MULTI	Personne ne faisant pas partie d'un noyau familial et ne vivant pas seule
+MULTI_R	Personne ne faisant pas partie d'un noyau familial et vivant dans un ménage avec une ou des personnes apparentées
+MULTI_NR	Personne vivant exclusivement dans un ménage sans personnes apparentées
+PRV_UNK	Personne vivant dans un ménage privé dont la catégorie est inconnue
+NPRV	Personne vivant dans un ménage privé
+IST	Personne vivant dans un ménage institutionnel
+IST_FAM	Personne dans un noyau familial et vivant dans un ménage institutionnel
+IST_CPL	Personne dans un couple et vivant dans un ménage institutionnel
+IST_PAR1	Parents isolé vivant dans un ménage institutionnel
+IST_CH	Enfant vivant dans un ménage institutionnel
+IST_NFAM	Personne ne faisant pas partie d'un noyau familial et vivant dans un ménage institutionnel
+HMLS1	Sans-abri
+NPRV_UNK	Personne vivant dans un ménage privé, mais dont la catégorie est inconnue
+P_CH	Personne vivant seule avec enfants
+P_CH_LT3	Personne vivant seule avec au moins un enfant âgé de moins de 3 ans
+P_CH_GE3	Personne vivant seule avec au moins un enfant âgé de 3 ans ou plus
+P_NCH	Personne vivant seule sans enfants
+CPL_CH	Personne vivant en couple avec enfants
+CPL_CH_LT3	Personne vivant en couple avec au moins un enfant âgé de moins de 3 ans
+CPL_CH_GE3	Personne vivant en couple avec au moins un enfant âgé de 3 ans ou plus
+CPL_NCH	Personne vivant en couple sans enfants
+OTH_CH	Personne vivant dans un autre type de ménage avec enfants
+OTH_CH_LT3	Personne vivant dans un autre type de ménage avec au moins un enfant âgé de moins de 3 ans
+OTH_CH_GE3	Personne vivant dans un autre type de ménage avec au moins un enfant âgé de 3 ans ou plus
+OTH_NCH	Personne vivant dans un autre type de ménage sans enfants
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

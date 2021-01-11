@@ -1,0 +1,33 @@
+PROD	Produktionsvolumenindex
+TOVT	Umsatzindex - Insgesamt
+TOVD	Umsatzindex - Inlandsmarkt
+TOVE	Umsatzindex - Auslandsmarkt
+TOVV	Deflationierter Umsatzindex
+TOVZ	Umsatzindex - Auslandsmarkt - Euroraum
+TOVX	Umsatzindex - Auslandsmarkt - Nicht-Euroraum
+EMPL	Beschäftigung (Anzahl der Beschäftigten)
+HOWK	Volumen der geleisteten Arbeit (geleistete Arbeitsstunden)
+WAGE	Bruttolöhne und - gehälter
+IMPR	Einfuhrpreisindex
+IMPX	Einfuhrpreisindex -  Nicht-Euroraum
+IMPZ	Einfuhrpreisindex - Euroraum
+CREG	KfZ-Zulassungen
+PRIN	Erzeugerpreisindex - Inlandsmarkt - in Landeswährung
+PREN	Erzeugerpreisindex - Auslandsmarkt - in Landeswährung
+PREZ	Erzeugerpreisindex - Auslandsmarkt - Euroraum
+PREX	Erzeugerpreisindex - Auslandsmarkt - Nicht-Euroraum
+PRON	Erzeugerpreisindex - Insgesamt - in Landeswährung
+PRBB	Erzeugerpreise für Dienstleistungen für Unternehmen
+CSTI	Kostenindex des Baugewerbes - in Landeswährung
+CSTL	Arbeitskostenindex des Baugewerbes - in Landeswährung
+CSTM	Input-Preise für Materialien - in Landeswährung
+CSTO	Erzeugerpreisindex des Baugewerbes - in Landeswährung
+PNUM	Baugenehmigungen - Anzahl der Wohnungen
+PSQM	Baugenehmigungen - Quadratmeter Nutzfläche
+FIN_SIT	Die finanzielle Situation des Unternehmens
+FIN_COS	Die Kosten, eine Finanzierung für das Unternehmen zu erhalten  (z.B. Zinsen)
+FIN_DEB	Das Verhältnis von Verschuldung zu Umsatz im  Unternehmen
+FIN_OTH	Andere Bedingungen und Konditionen der Finanzierung
+FIN_BUR	Belastung und Aufwand, die das Unternehmen auf sich nehmen muss, um Finanzierung  zu erhalten
+FIN_WIL	Die Bereitschaft der Banken Finanzierungen bereitzustellen
+OTH	Andere Gründe

@@ -1,0 +1,63 @@
+TOTAL	Insgesamt
+PRV	Person, die in einem privaten Haushalt lebt
+FAM	Person, die in einer Kernfamilie lebt
+CPL	Person, die als Paar lebt
+MAR	Person, die als verheiratetes Paar lebt
+MARO	Person, die in einer verschiedengeschlechtlichen Ehe lebt
+MARS	Person, die in einer gleichgeschlechtlichen Ehe lebt
+REP	Personen, die in einer eingetragenen Partnerschaft leben
+REPO	Person, die in einer eingetragenen verschiedengeschlechtlichen Partnerschaft lebt
+REPS	Person, die in einer eingetragenen gleichgeschlechtlichen Partnerschaft lebt
+CSU	Person, die in einer eheähnlichen Gemeinschaft lebt
+CSUO	Person, die in einer verschiedengeschlechtlichen eheähnlichen Gemeinschaft lebt
+CSUS	Person, die in einer gleichgeschlechtlichen eheähnlichen Gemeinschaft lebt
+CPL_NCH18	Person, die als Paar lebt, ohne Kinder unter 18 Jahre alt
+P_NCH18	Person ohne Kinder jünger als 18 Jahre alt, die im Haushalt von einem Elternteil leben
+OTH_NCH18	Person, die in einem anderen Haushaltstyp lebt, ohne Kinder jünger als 18 Jahre alt
+CPL_CH6	Als Paar lebende Person mit jüngstem Kind jünger als 6 Jahre alt
+CPL_CH7-17	Als Paar lebende Person mit jüngstem Kind zwischen 7 und 17 Jahre alt
+CPL45_NCH	Als Paar lebende Person weniger als 45 Jahre alt, ohne Kinder jünger als 18 Jahre alt
+CPL45-64_NCH	Als Paar lebende Person von 45 bis 64 Jahre alt, ohne Kinder jünger als 18 Jahre alt
+P45-64OTH_NCH	Person von 45 bis 64 Jahre alt, die in einem anderen Haushaltstyp lebt, ohne Kinder jünger als 18 Jahre alt
+CPL65_NCH	Als Paar lebende Person mehr als 65 Jahre alt, ohne Kinder jünger als 18 Jahre alt
+P25_NCH	Person weniger als 25 Jahre alt, ohne Kinder jünger als 18 Jahre alt, die im Haushalt von einem Elternteil leben
+P25-44_NCH	Person von 25 bis 44 Jahre alt, ohne Kinder jünger als 18 Jahre alt, die im Haushalt von einem Elternteil leben
+P45OTH_NCH	Als Paar lebende Person weniger als 45 Jahre alt, die in einem anderen Haushaltstyp lebt, ohne Kinder jünger als 18 Jahre alt
+P65OTH_NCH	Person mehr als 65 Jahre alt, die in einem anderen Haushaltstyp lebt, ohne Kinder jünger als 18 Jahre alt
+P1_CH18	Alleinstehender Elternteil mit jüngstem Kind jünger als 18 Jahre alt
+PAR1	Alleinerziehender Elternteil mit mindestens einem Kind
+CH_PAR	Kind, das mit wenigstens einem von seinen Eltern lebt
+CH_CPL	Kind, das mit einem von seinen als Paar lebenden Eltern lebt
+CH_PAR1	Kind, das mit einem alleinerziehenden Elternteil lebt
+P_PAR	Person, die mit den Eltern lebt
+P_NPAR	Person, die nicht mit den Eltern lebt
+NFAM	Person, die nicht in einer Kernfamilie lebt
+P1	Alleinlebende Person
+MULTI	Person, die nicht in einer Kernfamilie und nicht allein lebt
+MULTI_R	Person, die nicht in einer Kernfamilie in einem Haushalt mit Verwandten lebt
+MULTI_NR	Person, die in einem Haushalt mit (einem) Nichtverwandten lebt
+PRV_UNK	Person, die in einem privaten Haushalt lebt, dessen Kategorie unbekannt ist
+NPRV	Person, die in einem privaten Haushalt lebt
+IST	Person, die in einem Anstaltshaushalt lebt
+IST_FAM	Person, die in einer Kernfamilie in einem Anstaltshaushalt lebt
+IST_CPL	Person, die als Paar in einem Anstaltshaushalt lebt
+IST_PAR1	Alleinerziehender Elternteil, der in einem Anstaltshaushalt lebt
+IST_CH	Kind, das in einem Anstaltshaushalt lebt
+IST_NFAM	Person, die nicht in einer Kernfamilie in einem Anstaltshaushalt lebt
+HMLS1	Obdachlose
+NPRV_UNK	Person, die in einem privaten Haushalt lebt, dessen Kategorie unbekannt ist
+P_CH	Alleinstehende Person mit Kindern
+P_CH_LT3	Alleinstehende Person mit mindestens einem Kind unter 3 Jahre
+P_CH_GE3	Alleinstehende Person mit mindestens einem Kind im Alter von 3 Jahren oder mehr
+P_NCH	Alleinstehende Person ohne Kinder
+CPL_CH	Als Paar lebende Person mit Kindern
+CPL_CH_LT3	Als Paar lebende Person mit mindestens einem Kind unter 3 Jahre
+CPL_CH_GE3	Als Paar lebende Person mit mindestens einem Kind im Alter von 3 Jahren oder mehr
+CPL_NCH	Als Paar lebende Person ohne Kinder
+OTH_CH	In einem anderen Haushaltstyp lebende Person mit Kindern
+OTH_CH_LT3	In einem anderen Haushaltstyp lebende Person mit mindestens einem Kind unter 3 Jahre
+OTH_CH_GE3	In einem anderen Haushaltstyp lebende Person mit mindestens einem Kind im Alter von 3 Jahren oder mehr
+OTH_NCH	In einem anderen Haushaltstyp lebende Person ohne Kinder
+NAP	Nicht anwendbar
+NRP	Ohne Antwort
+UNK	Unbekannt

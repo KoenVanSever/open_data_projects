@@ -1,0 +1,179 @@
+A0000	Total des animaux vivants
+A0010	Cheptel
+A0011	Herbivores
+A0019	Autre cheptel
+A0020	Cheptel limité (bovins, porcins, caprins, ovins)
+A1000	Chevaux, ânes, mulets et bardots, vivants
+A1100	Chevaux
+A1100B	Chevaux de boucherie
+A1200	Ânes, mulets et bardots
+A1210	Ânes
+A1220	Mulets
+A1230	Bardots
+A2000	Bovins
+A2000B	Bovins de boucherie
+A2000D	Bovins destinés à la production de viande
+A2000E	Bovins non destinés à la production de viande
+A2010	Bovins de moins d'1 an
+A2010B	Bovins de boucherie, de moins d'1 an
+A2010C	Bovins non destinés à la boucherie, de moins d'1 an
+A2020	Bovins, 1 an
+A2020B	Bovins de boucherie, 1 an
+A2020C	Bovins, non destinés à la boucherie, 1 an
+A2030	Bovins, 2 ans ou plus
+A2030B	Bovins de boucherie, 2 ans ou plus
+A2030C	Bovins non destinés à la boucherie, 2 ans ou plus
+A2100_2200	Bovins, mâles et femelles (n'ayant pas encore vêlé)
+A2100	Bovins mâles
+A2110	Veaux mâles, moins d'1 an
+A2110C	Veaux mâles, moins d'1 an, non destinés à la boucherie
+A2120	Bovins mâles, 1 an
+A2130	Bovins mâles, 2 ans ou plus
+A2140	Bovins mâles, 1 an ou plus
+A2140A	Boeufs
+A2200_2300	Bovins femelles
+A2230_2300	Génisses, 2 ans ou plus (incl. Vaches)
+A2230_2330	Bovins femelles, 2 ans ou plus
+A2200	Bovins femelles (n'ayant pas mis bas)
+A2210	Bovins femelles, moins d'1 an
+A2210C	Bovins femelles, moins d'1 an, non destinées à la boucherie
+A2220	Génisses, 1 an
+A2220B	Génisses de boucherie, 1 an
+A2220C	Génisses non destinées à la boucherie, 1 an
+A2230	Génisses, 2 ans ou plus
+A2230B	Génisses de boucherie, 2 ans ou plus
+A2230C	Génisses non destinées à la boucherie, 2 ans ou plus
+A2300	Vaches
+A2300F	Vaches laitières
+A2300G	Vaches non laitières
+A2300H	Vaches allaitantes
+A2330	Autres vaches, 2 ans et plus
+A2400	Buffles
+A2410	Bufflonnes reproductrices
+A2420	Autres buffles
+A2421	Buffles mâles
+A2500	Boeuf domestique
+A2510	Jeunes bovins, moins d'1 an
+A2511	Veaux, moins de 8 mois
+A2511AA	Veaux de quelques jours
+A2511AB	Veaux de quelques semaines
+A2512	Jeunes bovins, de 8 mois à moins de 12 mois
+A2900	Autres bovins
+A3000	Suidés
+A3100	Porc domestique
+A3110	Porcelets de moins de 20 kg
+A3120_3133	Porcins reproducteurs
+A3120	Truies reproductrices
+A3120K	Truies saillies
+A3120KA	Truies saillies pour la première fois
+A3120L	Truies non saillies
+A3120LA	Cochettes non encore saillies
+A3130	Autres porcins
+A3131	Porcins de 20 kg à moins de 50 kg
+A3132	Porcs à l'engrais, de 50 kg ou plus
+A3132X	Porcs à l'engrais, de 50 kg à moins de 80 kg
+A3132Y	Porcs à l'engrais, de 80 kg à moins de 110 kg
+A3132Z	Porcs à l'engrais, de 110 kg ou plus
+A3133	Verrats reproducteurs
+A3200	Suidés d'espèce sauvage
+A4000	Ovins et caprins
+A4000_ORG	Ovins et caprins - production biologique
+A4100	Ovins
+A4110	Brebis et agnelles, femelles reproductrices
+A4110K	Brebis et agnelles saillies
+A4110KC	Brebis et agnelles laitières saillies
+A4110KD	Brebis et agnelles non-laitières saillies
+A4120	Autres ovins
+A4121	Agneaux
+A4121H	Agneaux de lait
+A4121P	Agneaux à l'engrais
+A4200	Caprins
+A4201	Chèvres, 12 mois ou moins
+A4210	Chèvres, femelles reproductrices
+A4210K	Chèvres saillies et chèvres ayant déjà mis bas
+A4210KA	Chèvres saillies pour la première fois
+A4210KB	Chèvres ayant déjà mis bas
+A4210F	Chèvres laitières
+A4220	Autres caprins
+A5000	Volailles
+A5010	Volailles reproductrices
+A5000X5100	Volailles sauf poules (espèce)
+A5000X5110O_5140	Volailles sauf poules pondeuses et poulets de chair vivants
+A5100	Poule (espèce)
+A5110	Poules
+A5110O	Poules pondeuses
+A5110OH	Poules pondeuses (produisant des oeufs de consommation)
+A5110ONH	Poules pondeuses (ne produisant pas des oeufs de consommation)
+A5120	Coqs
+A5130	Poussins de poule (Gallus domesticus)
+A5130O	Poussins de poule souche pondeuse (utilité ponte)
+A5130ON	Poussins de poule souche pondeuse (sélection)
+A5130P	Poussins de poule souche viande (utilité engraissement)
+A5130PN	Poussins de poule souche viande (sélection)
+A5130M	Poussins de poules souche mixtes viande-pondeuse
+A5130OM	Poussins pour la ponte (inclus souches mixtes)
+A5130PM	Poussins pour l'engraissement (inclus souches mixtes)
+A5130N	Poussins de poule (sélection)
+A5131	Coquelets
+A5131P	Coquelets de sexage
+A5140	Poulets de chair vivants
+A5200	Canards, oies, dindes, pintades
+A5210	Canards
+A5211P	Canetons (engraissement)
+A5220	Oies
+A5221P	Oisons (engraissement)
+A5230	Dindes
+A5231P	Poussins de dinde (engraissement)
+A5240	Pintades
+A5241P	Poussins de pintade (engraissement)
+A5200_6521	Autre volailles incluant les autruches
+A5240_5300	Pintades et petites vollailes
+A5300	Autre volailles
+A5410	Autruches
+A6000	Autres animaux
+A6010	Animaux à fourrure
+A6100	Rongeurs
+A6110	Lapins
+A6111	Lapines reproductrices
+A6120	Autres rongeurs
+A6121	Souris
+A6122	Rats
+A6123	Cochons d'Inde
+A6124	Hamsters
+A6125	Hamsters de Syrie (doré)
+A6126	Hamsters de Chine
+A6127	Gerbilles
+A6128	Gerbilles de Mongolie
+A6200	Autres grands herbivores
+A6210	Cerfs
+A6220	Chameaux
+A6300	Carnivores
+A6310	Chats
+A6320	Chiens
+A6330	Furets
+A6340	Renards
+A6390	Autres carnivores
+A6400	Primates
+A6410	Prosimians
+A6420	Ouistitis
+A6430	Singes
+A6431	Saïmiri
+A6432	Macaques crabier
+A6433	Macaques rhésus
+A6440	Macaques et Chlorocebus pygerythrus
+A6450	Babouins
+A6490	Autres espèces de primates
+A6500	Oiseaux (hors Volailles)
+A6510	Oiseaux domestiques
+A6520	Oiseaux sauvages
+A6521	Autruches
+A6600	Reptiles et amphibiens
+A6610	Reptiles
+A6620	Amphibiens
+A6629	Autres amphibiens
+A6700	Insectes
+A6710	Abeilles
+A6710R	Abeilles (ruches)
+A6720	Insectes (sauf abeilles)
+A6900	Autres animaux vivants
+A6900A	Autres animaux sauf autruches, lapins, abeilles, insectes et animaux de compagnie

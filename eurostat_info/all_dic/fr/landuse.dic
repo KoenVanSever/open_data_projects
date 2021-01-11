@@ -1,0 +1,157 @@
+TOTAL	Superficie totale
+LAND	Superficie terrestre
+U100	Secteur primaire
+U110	Agriculture
+U111	Agriculture (hors jachères et jardins potagers)
+U112	Jachères
+U113	Jardins potagers
+U120	Sylviculture
+U130	Pêche et aquaculture
+HENVI	Utilisation des sols ayant un fort impact environnemental
+U140	Mines et carrières
+U150	Autres activitées du secteur primaire
+U200	Secteur secondaire
+U210	Production d'énergie
+U220	Industrie et manufacture
+U221	Fabrication de produits alimentaires, de boissons et de produits du tabac
+U222	Fabrication de produits textiles
+U223	Transformation du charbon, du pétrole brut et des métaux
+U224	Production d'autres produits minéraux non métalliques
+U225	Industries chimiques et connexes
+U226	Fabrication de machines et d'équipements
+U227	Fabrication de produits à base de bois et activités liées
+U228	Impression et reproduction
+U300	Secteur tertiaire, transports, services d'approvisionement et zones résidentielles
+U310	Transport, télécommunication, distribution d'énergie, stockage, travaux de protection
+U311	Transport ferroviaire
+U312	Transport routier
+U313	Transport par voie d'eau
+U314	Transport aérien
+U315	Transport par pipelines
+U316	Télécommunication
+U317	Services logistiques et de stockage
+U318	Infrastructure de protection
+U319	Distribution d'électricité, de gaz et d'énergie thermique
+U320	Traitement de l'eau et des déchets
+U321	Approvisionnement et traitement de l'eau
+U322	Traitement des déchets
+U330	Construction
+U340-370	Services et zone résidentielle
+U340	Services commerciaux, financiers, professionnels et d'information
+U341	Commerce
+U342	Services financiers, professionnels et d'information
+U350	Services communautaires
+U360	Arts, loisirs et récréation
+U361	Arts et loisirs
+U362	Sports
+U370	Zone résidentielle
+U400	Zones non utilisées ou abandonnées
+U410	Zones abandonnées
+U411	Zone industrielle abandonnée
+U412	Zone commerciale abandonnée
+U413	Zone de transport abandonnée
+U414	Zone résidentielle abandonnée
+U415	Autres zones abandonnées
+U420	Zones semi-naturelles et naturelles non utilisées
+L0000	Territoire - Total
+L0008	Terres - Total
+L0005	Superficie agricole utilisée
+L0001	Terres arables
+L1050	Céréales (à l'exception du riz) pour la production de grains (semences comprises)
+L1250	Riz
+L1300	Légumes secs et cultures protéagineuses pour la production de grains (y compris les semences et les mélanges de légumes secs et de céréales
+L1350	Plantes sarclées
+L1360	Pommes de terre (y compris les primeurs et les plants)
+L1370	Betterave sucrière (à l?exception des semences)
+L1380	Autres plantes sarclées n.c.a.
+L1400	Plantes industrielles
+L2610	Plantes récoltées en vert
+L1600	Légumes frais, melons et fraises
+L3001	Fleurs et plantes ornementales (à l?exception des pépinières)
+L3310	Semences et plantules
+L2690	Autres cultures de terre arable
+L2695	Autres produits des terres arables
+L2696	Jachères
+L0002	Prairies permanentes
+L0003	Cultures permanentes
+L2002	Ensemble des cultures fruitières (inclus vin et olives)
+L0011	Plantations d?arbres fruitiers et baies
+L2300	Plantations d'agrumes
+L2450	Oliveraies
+L2410	Vignobles
+L2810	Pépinières
+L2960	Plantes à tresser
+L2980	Autres cultures permanentes n.c.a.
+L0004	Jardins familiaux
+L2990	Autre superficie agricole utilisée n.c.a.
+L0900	Production végétale sous serre ou sous autre abri accessible
+L1112	Légumes, melons et fraises sous serre ou sous autre abri accessible
+L1113	Fleurs et plantes ornamentales sous serre ou sous autre abri accessible
+L1114	Cultures permanentes sous serre ou sous autre abri accessible
+L0006	Superficie boisée
+L0016	Superficie forestière
+L0007	Autres superficies n.d.a.
+L0009	Eaux intérieures
+LU	Total de l'utilisation des sols
+LUA	Agriculture
+LUB	Sylviculture
+LUC	Pêche et aquaculture
+LUD	Utilisation des sols ayant un fort impact environnemental
+LUE	Services et zone résidentielle
+LUF	Zones non utilisées ou abandonnées
+LUG	Autres activités du secteur primaire
+LUA1	Agriculture
+LUB1	Sylviculture
+LUC1	Pêche et aquaculture
+LUC2	Chasse
+LUD1	Mines et carrières
+LUD2	Production d'énergie
+LUD3	Industrie et manufacture
+LUD4	Traitement de l'eau et des déchets
+LUD5	Construction
+LUD6	Transport, télécommunication, distribution d'énergie, stockage, travaux de protection
+LUE1	Services commerciaux, financiers, professionnels et d'information
+LUE2	Services communautaires
+LUE3	Arts, loisirs et récréation
+LUE4	Zone résidentielle
+LUE5	Reserves naturelles
+LUF1	Zones non utilisées ou abandonnées
+LUA11	Agriculture (hors jachères et jardins potagers)
+LUA12	Jachères
+LUA13	Jardins potagers
+LUB10	Sylviculture
+LUC10	Pêche et aquaculture
+LUC20	Chasse
+LUD10	Mines et carrières
+LUD20	Production d'énergie
+LUD31	Fabrication de produits alimentaires, de boissons et de produits du tabac
+LUD32	Fabrication de produits textiles
+LUD33	Transformation du charbon, du pétrole brut et des métaux
+LUD34	Production d'autres produits minéraux non métalliques
+LUD35	Industries chimiques et connexes
+LUD36	Fabrication de machines et d'équipements
+LUD37	Fabrication de produits à base de bois et activités liées
+LUD41	Approvisionnement et traitement de l'eau
+LUD42	Traitement des déchets
+LUD51	Construction
+LUD61	Transport ferroviaire
+LUD62	Transport routier
+LUD63	Transport par voie d'eau
+LUD64	Transport aérien
+LUD65	Transport par pipelines
+LUD66	Télécommunication
+LUD67	Logistique et stockage
+LUD68	Infrastructure de protection
+LUE10	Services commerciaux, financiers, professionnels et d'information
+LUE20	Services communautaires
+LUE31	Arts et loisirs
+LUE32	Sports
+LUE33	Colonies de vacances
+LUE40	Zone résidentielle
+LUF10	Zones non utilisées ou abandonnées
+LUF11	Zones abandonnées
+LUF12	Zones semi-naturelles et naturelles non utilisées
+AGRIAREA	Superficie agricole utilisée
+ARABLAND	Terres arables
+GRASLAND	Superficie toujours en herbe
+PERMCROP	Culture permanente

@@ -1,0 +1,4 @@
+PORT_TOT	Nombre de ports total
+PORT_PR	Nombre de ports principaux
+LGT_QUAY	Longueur totale des quais des ports principaux
+LGT_QUAY_CONT	Longueur totale des quais des ports principaux destinés aux conteneurs

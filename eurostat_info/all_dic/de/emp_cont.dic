@@ -1,0 +1,17 @@
+TOTAL	Insgesamt
+NLTD	Unbefristete Dauer
+NLTD_FT	Unbefristete Dauer und Vollzeit
+NLTD_PT	Unbefristete Dauer und Teilzeit
+LTD	Befristete Dauer
+LTD_FT	Befristete Dauer und Vollzeit
+LTD_PT	Befristete Dauer und Teilzeit
+LTD_X_APP_TRN	Befristete Dauer ohne Ausbildung und Praktikum
+TNG_PROB	Ausbildung oder Probezeit
+EMP_SELF_FAM	Arbeitgeber, Selbständige und mithelfende Familienangehörige
+APP_TRN	Ausbildung oder Praktikum
+FT	Vollzeit
+PT	Teilzeit
+OTH	Sonstige
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+UNK	Unbekannt

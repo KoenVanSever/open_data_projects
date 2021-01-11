@@ -1,0 +1,48 @@
+TOTAL	Total
+CNL	Canaux navigables
+RIV_LAK	Rivières et lacs navigables
+RIV	Rivières navigables
+MWAY	Autoroutes
+RD_EUR	Routes E
+RD_STA	Routes nationales
+RD_PRO	Routes départementales
+RD_COM	Voies communales
+RD_URB	Routes urbaines
+RD_RUR	Routes rurales
+RD_TEN	Routes des réseaux transeuropéens
+RD_NTEN	Routes exclues des réseaux transeuropéens
+RD_INB	Autres routes en agglomération
+RD_OUTB	Autres routes hors agglomération
+RD_PAV	Route revêtue
+RD_NPAV	Route non revêtue
+RD_OTH	Autres routes
+RL	Total des lignes de chemin de fer
+RL_ELC	Lignes de chemin de fer électrifiées
+RL_NELC	Lignes non-électrifiées
+RL_HSPD	Lignes ferroviaires à grande vitesse
+RL_TGE2	Lignes de chemin de fer à 2 voies et plus
+RL_DHSPD	Lignes dédiées à grande vitesse
+RL_UHSPD	Lignes spécialisées à grande vitesse
+RL_CV	Lignes de chemin de fer classiques
+RL_OTH	Autres lignes ferroviaires
+RT_ELC	Voies électrifiées
+RT_NELC	Voies non-électrifiées
+MET	Métro/lignes souterraines
+IURB	Services de bus interurbains et urbains
+IMOD	Zone de fret intermodal (en mètres carrés)
+AIRP	Aéroports
+AIRP_MAIN	Principaux aéroports
+AIRP_SML	Petits aéroports
+AIRP_OTH	Autres aéroports
+RWAY	Pistes d'aéroport
+RWAY_M_GT2438	Pistes d'aéroport revêtues de plus de 2 438 mètres
+CKIN	Infrastructures d'enregistrement
+CKIN_CV	Infrastructures d'enregistrement - guichets conventionnels
+CKIN_SELF	Infrastructures d'enregistrement - bornes libre-service
+PAS_GATE	Portes d'embarquement des passagers
+PAS_GATE_BB	Portes d'embarquement avec passerelles d'embarquement des passagers
+PAS_GATE_OTH	Autres portes d'embarquement des passagers
+PARK_CAR	Places de stationnement automobile
+PARK_CAR_SH	Places de stationnement automobile - court séjour
+PARK_CAR_ML	Places de stationnement automobile - moyen et long séjour
+UNK	Inconnu

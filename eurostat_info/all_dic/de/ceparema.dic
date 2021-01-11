@@ -1,0 +1,35 @@
+TOTAL	Umweltschutz- und Ressourcenmanagement-Aktivitäten insgesamt
+TOT_CEPA	Umweltschutzaktivitäten insgesamt
+CEPA1-3	Luftreinhaltung und Klimaschutz; Abwasserwirtschaft; Abfallwirtschaft
+CEPA1_4_5_7	Luftreinhaltung und Klimaschutz; Schutz und Sanierung von Boden, Grund- und Oberflächenwasser; Lärm- und Erschütterungsschutz; Strahlenschutz
+CEPA1_4-9	Luftreinhaltung und Klimaschutz; Schutz und Sanierung von Boden, Grund- und Oberflächenwasser; Lärm- und Erschütterungsschutz; Arten- und Landschaftsschutz; Strahlenschutz; Forschung und Entwicklung im Umweltbereich; Sonstige Umweltschutzaktivitäten
+CEPA1	Luftreinhaltung und Klimaschutz
+CEPA112_122	Schutz des Klimas und der Ozonschicht
+CEPA2	Abwasserwirtschaft
+CEPA3	Abfallwirtschaft
+CEPA4-9	Schutz und Sanierung von Boden, Grund- und Oberflächenwasser; Lärm- und Erschütterungsschutz; Arten- und Landschaftsschutz; Strahlenschutz; Forschung und Entwicklung im Umweltbereich; Sonstige Umweltschutzaktivitäten
+CEPA4	Schutz und Sanierung von Boden, Grund- und Oberflächenwasser
+CEPA5	Lärm- und Erschütterungsschutz (ohne Arbeitsschutzmaßnahmen)
+CEPA6	Arten- und Landschaftsschutz
+CEPA7-9	Strahlenschutz; Forschung und Entwicklung im Umweltbereich; Sonstige Umweltschutzaktivitäten
+CEPA7	Strahlenschutz (ohne Anlagensicherheit)
+CEPA8_9	Forschung und Entwicklung im Umweltbereich; Sonstige Umweltschutzaktivitäten
+CEPA8	Forschung und Entwicklung im Umweltbereich
+CEPA812	Forschung und Entwicklung im Umweltbereich für den Schutz des Klimas und der Ozonschicht
+CEPA9	Sonstige Umweltschutzaktivitäten
+TOT_CREMA	Ressourcenmanagement-Aktivitäten insgesamt
+CREMA10	Wassermanagement
+CREMA11	Management von Waldressourcen
+CREMA11A	Management von Waldflächen
+CREMA11B_13C_14	Minimierung der Aufnahme von Waldressourcen; Minimierung der Verwendung fossiler Energieträger als Rohstoffe; Management mineralischer Rohstoffe
+CREMA11B	Minimierung der Aufnahme von Waldressourcen
+CREMA12	Management des natürlichen Pflanzen- und Tierbestands
+CREMA13	Energieressourcenmanagement
+CREMA13A	Energiegewinnung aus erneuerbaren Quellen
+CREMA13B	Wärme-/Energieeinsparungen und -management
+CREMA13C	Minimierung der Verwendung fossiler Energieträger als Rohstoffe
+CREMA14	Management mineralischer Rohstoffe
+CREMA15	Forschung und Entwicklung für Ressourcenmanagement
+CREMA15A	Forschung und Entwicklung  für die Erzeugung von Energie aus erneuerbaren Quellen
+CREMA16	Sonstige Aktivitäten des Ressourcenmanagements
+CREMA12_15_16	Management des natürlichen Pflanzen- und Tierbestands; Forschung und Entwicklung für Ressourcenmanagement; Sonstige Aktivitäten des Ressourcenmanagements

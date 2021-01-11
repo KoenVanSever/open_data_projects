@@ -1,0 +1,10 @@
+TOTAL	Insgesamt
+COL	Tarifvertrag
+NAT	Landesweiter Tarifvertrag
+IND	Brancheninterner Tarifvertrag
+INDREG	Tarifvertrag für einzelne Branchen in einzelnen Regionen
+ENT	Unternehmensinterner Tarifvertrag, d.h. mit einem einzelnen Arbeitgeber abgeschlossener Tarifvertrag
+UNIT	Tarifvertrag, der nur für die Arbeitnehmer einer örtlichen Einheit gilt
+OTH	Tarifvertrag sonstiger Art
+NONE	Kein Tarifvertrag vorhanden
+UNK	Unbekannt

@@ -1,0 +1,11 @@
+FARM_NR	Landwirtschaftlicher Betriebe - Anzahl
+UAA_HA	Landwirtschaftlich genutzte Fläche - Hektar
+FA_HA	Fläche der Landwirtschaftlicher Betriebe - Hektar
+FAXSAA_HA	Fläche der Landwirtschaftlicher Betriebe ohne fläche für Spezielle Landwirtschaftliche Erzeugung - Hektar
+FARM_NR_LS	Landwirtschaftlicher Betriebe mit Viehbestand - Anzahl
+FARM_LSU_LS	Landwirtschaftlicher Betriebe mit Viehbestand - Grossvieheinheiten
+SO_EUR	Standardoutput - Euro
+LF_D_AWU	Direkt Beschäftigte - Jahresarbeitszeit
+FARM_NR_PD_GT50	Betriebe mit mehr als 50% Eigenverbrauch der Gesamtproduktion - Anzahl
+HRI1	Harmonisierter Risikoindikator 1
+HRI2	Harmonisierter Risikoindikator 2

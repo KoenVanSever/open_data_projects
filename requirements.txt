@@ -13,3 +13,6 @@ sklearn
 bs4
 kaggle
 folium
+selenium
+requests-html
+yfinance

@@ -1,0 +1,670 @@
+CRP	Produits végétaux
+AA_WA_FA9	Superficie agricole, superficie boisée et autres superficies des exploitations agricoles
+FA	Superficie de l'exploitation agricole
+FAXSAA	Superficie de l'exploitation agricoles, superficie de production agricole spéciale non compris
+AA	Superficie agricole
+UAA	Superficie agricole utilisée
+UAAIB	Superficie agricole utilisée irrigable
+UAAIT	Superficie agricole utilisée irriguée
+UAATIB	Superficie agricole utilisée irrigable - de plein air
+UAAT	Superficie agricole utilisée - de plein air
+UAAS	Superficie agricole utilisée - sous serre ou abris hauts accessibles
+UAAXK0000	Superficie agricole utilisée, jardins potagers non compris
+UAAXK0000_ORG	Entièrement converti et en conversion à l’agriculture biologique - superficie agricole utilisée (jardins potagers non compris)
+ARA_J0000	Terres arables ou prairies permanentes
+ARA	Terres arables
+ARAIB	Terres arables irrigables
+ARAXIB	Terres arables non irrigables
+FCONV_UCONV	Entièrement converti et en conversion à l'agriculture biologique 
+C0000	Céréales pour la production de grains (y compris semence)
+C0000T	Céréales pour la production de grains (y compris semence) - de plein air
+C1000	Céréales (riz non compris) pour la production de grains (y compris semence)
+C1000X1100	Céréales (blé non compris)
+C1000X1500	Céréales (riz, maïs grain et corn-cob-mix non compris) pour la production de grains (y compris semence)
+C1100	Blé et épeautre
+C1110	Blé tendre et épeautre
+C1110T	Blé tendre et épeautre - de plein air
+C1111	Blé tendre et épeautre d'hiver
+C1112	Blé tendre et épeautre de printemps
+C1120	Blé dur
+C1120T	Blé dur - de plein air
+C1121	Blé dur d'hiver
+C1122	Blé dur de printemps
+C1200	Seigle et mélange de céréales d'hiver (meteil)
+C1200T	Seigle et mélange de céréales d'hiver (meteil) - de plein air
+C1210	Seigle
+C1211	Seigle d'hiver
+C1212	Seigle de printemps
+C1220	Mélanges de céréales d'hiver (méteil)
+C1300	Orge
+C1300T	Orge - de plein air
+C1300F	Orge fourragère
+C1310	Orge d'hiver
+C1320	Orge de printemps
+C1320M	Orge de brasserie
+C1400	Avoine et mélanges de céréales de printemps (grains mélangés autres que méteil)
+C1400T	Avoine et mélanges de céréales de printemps (grains mélangés autres que méteil) - de plein air
+C1410	Avoine
+C1420	Mélanges de céréales de printemps (grains mélangés autres que méteil)
+C1500	Maïs grain et corn-cob-mix
+C1500T	Maïs grain et corn-cob-mix - de plein air
+C1510	Maïs grain
+C1520	Corn-cob-mix
+C1600_1700_1900	Autres céréales (y compris triticale et sorgho)
+C1600	Triticale
+C1600T	Triticale - de plein air
+C1610	Triticale d'hiver
+C1700	Sorgho
+C1700T	Sorgho - de plein air
+C1900	Autres céréales n.c.a. (sarrasin, millet, alpiste, etc.)
+C1900T	Autres céréales n.c.a. (sarrasin, millet, alpiste, etc.) - de plein air
+C1910	Sarrasin
+C2000	Riz
+C2000T	Riz - de plein air
+C2000X2000B	Riz (brisures de riz non comprises) (équivalent riz usiné)
+C2100	Riz Indica
+C2200	Riz Japonica
+C2000B	Brisures de riz
+C2000Y	Riz Paddy
+C2001Y	Riz Paddy, long
+C2002Y	Riz Paddy, rond
+C2003Y	Riz Paddy, moyen
+C2000U	Riz décortiqué
+C2001U	Riz décortiqué, long
+C2002U	Riz décortiqué, rond
+C2003U	Riz décortiqué, moyen
+C2000L	Riz usiné
+C2001L	Riz usiné, long
+C2002L	Riz usiné, rond
+C2003L	Riz usiné, moyen
+P0000	Légumes secs et cultures protéagineuses pour la production de grains (y compris semences et mélanges de céréales et de légumes secs)
+P1000	Pois secs, féves et lupins doux
+P1000T	Pois secs, féves et lupins doux - de plein air
+P1100	Pois secs
+P1200	Fèves et féveroles
+P1210	Fèves
+P1220	Féveroles
+P1300	Lupins doux
+P9000	Autres légumes secs et cultures protéagineuses n.c.a.
+P9100	Lentilles
+P9200	Pois chiches
+P9300	Haricots blancs
+R0000	Plantes sarclées
+R0000T	Plantes sarclées - de plein air
+R0000S	Plantes sarclées - sous serre ou abris hauts accessibles
+R1000	Pommes de terre (y compris plants de pommes de terre)
+R1000T	Pommes de terre (y compris plants de pommes de terre) - de plein air
+R1000S	Pommes de terre (y compris plants de pommes de terre) - sous serre ou abris hauts accessibles
+R1100	Pommes de terre de consommation
+R1110	Pommes de terre de conservation
+R1120	Pommes de terre de primeurs
+R1900	Autres pommes de terre
+R1910	Pommes de terre industrielles
+R1911	Pommes de terre à fécule
+R1919	Autres pommes de terre industrielles n.c.a.
+R1920	Plants de pommes de terre
+R1930	Pommes de terre fourragères
+R1990	Autres pommes de terre n.c.a.
+R2000	Betteraves à sucre (semences non comprises)
+R2000SQ	Betteraves à sucre: qualité standard
+R9000	Autres plantes sarclées n.c.a.
+R9100	Plantes sarclées fourragères (y compris betteraves fourragères)
+I0000AM	Plantes industrielles (agro-monétaire)
+I0000	Plantes industrielles
+I0000T	Plantes industrielles - de plein air
+I0000S	Plantes indutrielles - sous serre ou abris hauts accessibles
+I1000	Graines et fruits oléagineux
+I1100	Graines oléagineuses
+I1110-1130	Graines de colza, de navette, de tournesol et soja
+I1110	Graines de colza et de navette
+I1110T	Graines de colza et de navette - de plein air
+I1111	Graines de colza et de navette d'hiver
+I1112	Graines de colza et de navette de printemps
+I1120	Graines de tournesol
+I1120T	Graines de tournesol - de plein air
+I1130	Soja
+I1130T	Soja - de plein air
+I1140-1190	Autres graines oléagineuses
+I1140	Graines de lin (lin oléagineux)
+I1140T	Graines de lin (lin oléagineux) - de plein air
+I1150_2300	Graines et fibres de coton
+I1150_2300T	Graines et fibres de coton - de plein air
+I1150	Graines de coton
+I1190	Autres graines oléagineuses n.c.a.
+I1190T	Autres graines et fruits oléagineux - de plein air
+I1900	Autres graines et fruits oléagineux
+I1910	Arachides non décortiquées
+I1920AM	Pavots (graines)
+I2000	Plantes textiles
+I2100_2200_2900	Lin textile, chanvre et autres plantes textiles n.c.a.
+I2100	Lin textile
+I2100T	Lin textile - de plein air
+I2200	Chanvre
+I2200T	Chanvre - de plein air
+I2300	Fibres de coton
+I1190_2900	Autres plantes oléagineuses et textiles
+I2900	Autres plantes textiles n.c.a.
+I2900T	Autres plantes textiles n.c.a. - de plein air
+I3000	Tabac
+I3000T	Tabac - de plein air
+I3100	Tabac brut
+I3100V1	Tabac brut: variété la plus importante
+I3100V2	Tabac brut: 2de variété la plus importante
+I3110	Tabac brut: séché à l'air chaud
+I3120	Tabac brut: clair séché à l'air
+I3130	Tabac brut: noir séché à l'air
+I3140	Tabac brut: séché au feu
+I3150	Tabac brut: séché au soleil
+I4000	Houblon
+I4000T	Houblon - de plein air
+I4000V1	Houblon: variété la plus importante
+I5000_9000	Autres plantes industrielles y compris plantes aromatiques, médicinales et condimentaires
+I5000	Plantes aromatiques, médicinales et condimentaires
+I5000T	Plantes aromatiques, médicinales et condimentaires - de plein air
+I5000S	Plantes aromatiques, médicinales et condimentaires - sous serre ou abris hauts accessibles
+I6000_9000	Autres plantes industrielles y compris cultures énergétiques n.c.a.
+I6000	Cultures énergétiques n.c.a.
+I6000T	Cultures énergétiques n.c.a. - de plein air
+I9000	Autres plantes industrielles n.c.a.
+I9000T	Autres plantes industrielles n.c.a. - de plein air
+I9000AM	Autres plantes industrielles (agro-monétaire)
+I9900AM	Autres plantes industrielles (agro-monétaire) n.c.a.
+G0000_J0000	Plantes graminacées, légumineuses et oléagineuses prélevées en vert (y compris pâturages)
+G0000_J1000_2000	Plantes prélevées en vert, pâturages, prairies et pâturages pauvres permanents 
+G0000	Plantes prélevées en vert sur les terres arables
+G0000X1000	Plantes prélevées en vert sur les terres arables (prairies temporaires non compris)
+G1000	Prairies temporaires et pâturages
+G1000T	Prairies temporaires et pâturages - de plein air
+G1100	Prairies temporaires
+G1200	Pâturages temporaires
+G2000	Plantes légumineuses prélevées en vert
+G2000T	Plantes légumineuses prélevées en vert - de plein air
+G2100	Luzerne
+G2900	Autres plantes légumineuses prélevées en vert n.c.a.
+G2910	Trèfle et mélanges avec trèfle
+G3000	Maïs ensillage
+G3000T	Maïs ensillage - de plein air
+G9000	Autres plantes prélevées en vert sur des terres arrables
+G9000T	Autres plantes prélevées en vert sur des terres arrables - de plein air
+G9100	Autres céréales prélevées en vert (maïs ensilage non compris)
+G9900	Autres plantes prélevées en vert sur les terres arrables n.c.a.
+VSK	Légumes frais (y compris melons et pastèques) et fraises (y compris jardins potagers)
+V0000AM_PLF	Légumes frais (y compris melons et pastèques) et produits horticoles
+VSNPECRS	Légumes, fraises, cultures permanentes, fleurs et plantes ornementales sous serre ou abris hauts accessibles
+V0000_S0000	Légumes frais (y compris melons et pastèques) et fraises
+V0000_S0000T	Légumes frais (y compris melons et pastèques) et fraises - de plein air
+V0000_S0000TO	Légumes frais (y compris melons et pastèques) et fraises cultivés en rotation avec des cultures non horticoles (plein champ)
+V0000_S0000TK	Légumes frais (y compris melons et pastèques) et fraises cultivés en rotation avec des cultures horticoles (maraîchage)
+V0000_S0000S	Légumes (y compris melons et pastèques) et fraises - sous serre ou abris hauts accessibles
+V0000X3500	Légumes frais, melons et pastèques non compris
+V0000AM	Légumes frais y compris melons et pastèques (agro-monétaire)
+V0000	Légumes frais (y compris melons et pastèques)
+V1000	Choux communs (Brassicas)
+V1100	Choux-fleurs et brocolis
+V1110	Choux-fleurs
+V1110Q1	Choux-fleurs: qualité I
+V1120	Brocolis
+V1200_1900	Choux de Bruxelles et autres choux communs n.c.a.
+V1200	Choux de Bruxelles
+V1200Q1	Choux de Bruxelles: qualité I
+V1300	Choux pommés
+V1310	Choux blancs
+V1310Q1	Choux blancs: qualité I
+V1320	Choux rouges
+V1320Q1	Choux rouges: qualité I
+V1330	Choux de Milan / de Savoie
+V1330Q1	Choux de Milan / de Savoie: qualité I
+V1900	Autres choux communs n.c.a.
+V1910	Choux-raves
+V1920	Choux chinois
+V2000	Légumes à feuilles et à tiges (choux non compris)
+V2100	Poireaux
+V2100T	Poireaux - de plein air
+V2200	Céleris branches
+V2300	Laitues
+V2300T	Laitues - de plein air
+V2300TQ1	Laitues - de plein air: qualité I
+V2300S	Laitues - sous serre ou abris hauts accessibles
+V2300SQ1	Salate - unter Glas oder hohen begehbaren Schutzabdeckungen: Qualität I
+V2310	Laitue iceberg
+V2400	Endives (chicons)
+V2500	Épinards
+V2600	Asperges
+V2600Q1	Asperges: qualité I
+V2700	Chicorée
+V2710	Chicorée de consommation
+V2720	Chicorée destinée à la transformation
+V2800	Artichauts
+V2900	Autres légumes à feuilles ou à tiges n.c.a.
+V3000	Légumes cultivés pour le fruit (y compris melons et pastèques)
+V3100	Tomates
+V3110	Tomates de consommation
+V3120	Tomates destinées à la transformation
+V3100T	Tomates - de plein air
+V3101TQ1	Tomates - de plein air: rondes; qualité I
+V3102TQ1	Tomates - de plein air: allongées; qualité I
+V3100S	Tomates - sous serre ou abris hauts accessibles
+V3100SQ1	Tomates - sous serre ou abris hauts accessibles: qualité I
+V3200	Concombres
+V3200T	Concombres - de plein air
+V3200TQ1	Concombres - de plein air: qualité I
+V3200S	Concombres - sous serre ou abris hauts accessibles
+V3200SQ1	Concombres - sous serre ou abris hauts accessibles: qualité I
+V3300	Cornichons
+V3300T	Cornichons - de plein air
+V3400	Aubergines, courgettes (y compris courges), potirons et citrouilles
+V3410	Aubergines
+V3420	Courgettes
+V3430	Courges et citrouilles
+V3500	Melons et pastèques
+V3510	Melons
+V3520	Pastèques
+V3600	Poivrons (piments)
+V3600S	Poivrons (piments) - sous serre ou abris hauts accessibles
+V3610	Poivrons (piments) rouges
+V3900	Autres légumes cultivés pour le fruit n.c.a.
+V4000	Légumes-racines, bulbes et tubercules
+V4100	Carottes
+V4100Q1	Carottes: qualité I
+V4200	Oignons et échalotes
+V4210	Oignons
+V4220	Échalotes
+V4300	Betteraves potagères
+V4400	Céleris raves
+V4500	Radis
+V4600	Ail
+V4900	Autres légumes-racines, bulbes et tubercules n.c.a.
+V4910	Navets potagers
+V4920	Fenouil
+V4930	Salsifis et scorsonères
+V5000AM	Légumes frais à cosse (agro-monétaire)
+V5000	Légumes frais à cosse
+V5100	Petits pois frais
+V5100Q1	Haricots verts: qualité I
+V5200	Haricots frais
+V5210	Haricots verts
+V5210Q1	Haricots verts: qualité I
+V5220	Haricots d'Espagne
+V5900	Autres légumes frais à cosse n.c.a.
+V9000	Autres légumes frais n.c.a.
+V9000AM	Autres légumes frais (agro-monétaire)
+V9900AM	Autres légumes frais n.c.a. (agro-monétaire)
+S0000	Fraises
+S0000T	Fraises - de plein air
+S0000S	Fraises - sous serre ou abris hauts accessibles
+ARA9	Autres cultures de terres arables
+ARA9T	Autres cultures de terres arables - de plein air
+ARA9S	Autres cultures de terres arables - sous serre ou abris hauts accessibles
+PLF	Plantes et fleurs
+NUP	Produits de pépinières et plants
+N0000_L0000	Fleurs, plantes ornementales et produits de pépinière
+N0000_X0000	Fleurs, plantes ornementales et arbres de Noël
+N0000	Fleurs et plantes ornementales (pépinières non comprises)
+N0000T	Fleurs et plantes ornementales (pépinières non comprises) - de plein air
+N0000S	Fleurs et plantes ornementales (pépinières non comprises) - sous serre ou abris hauts accessibles
+N1001P	Azalées: en pot
+N1002P	Cyclamens: en pot
+N1003P	Poinsettias: en pot
+N1004P	Pelargonium: en pot
+N1005P	Ficus: en pot
+N1006P	Kalanchoe: en pot
+N1007P	Saint Paulia: en pot
+N1008P	Begonia: en pot
+N1009	Roses
+N1010	Roses baccara
+N1011	Oeillets
+N1012	Chrysanthèmes
+N1012P	Chrysanthèmes: en pot
+N1013	Glaïeuls
+N1014	Tulipes
+N1015	Freesias
+N1016	Lys
+N1017	Dianthus
+N1018	Gerbera
+N1019	Cymbidium
+PLT	Plantations
+E0000_ARA9	Semences, plants et autres plants de terres arables
+E0000	Semences et plants
+E0000T	Semences et plants - de plein air
+E0000S	Semences et plants - sous serre ou abris hauts accessibles
+E1000	Semences
+E1000T	Semences - de plein air
+E1000S	Semences - sous serre ou abris hauts accessibles
+E2000	Plants
+E2000T	Plants - de plein air
+E2000S	Plants - sous serre ou abris hauts accessibles
+E2100	Bulbes de fleurs
+ARA99	Autres cultures de terres arables n.c.a.
+ARA99T	Autres cultures de terres arables n.c.a.
+Q0000	Jachères
+Q0000T	Jachères - de plein air
+Q0000XS	Jachères non subventionnées
+Q0000ES	Jachères non exploitées admissibles aux subventions
+FOP	Plantes fourragères
+FOP9	Autres plantes fourragères
+FOP91	Foin
+FOP92	Paille
+FOP93	Fourrage ensilé
+FOP99	Autres plantes fourragères n.c.a.
+J0000	Superficie agricole toujours en herbe
+J0000T	Superficie agricole toujours en herbe - de plein air
+J1000	Pâturages et prairies permanentes
+J1000T	Pâturages et prairies permanentes - de plein air
+J1100	Pâturages
+J1200	Prairies permanentes
+J2000	Pâturages pauvres
+J2000T	Pâturages pauvres - de plein air
+J3000	Prairies permanentes agricoles non exploitées
+J3000ES	Prairies permanentes agricoles non exploitées, donnant droit au versement de subventions
+J3000TE	Prairies permanentes agricoles non exploitées, donnant droit au versement de subventions - de plein air
+PECR_K0000	Cultures permanentes y compris jardins potagers
+PECR	Cultures permanentes
+PECRS	Cultures permanentes sous serre ou abris hauts accessibles
+H0000_K2000	Cultures permanentes pour la consommation humaine y compris provenant de jardins potagers
+H0000	Cultures permanentes pour la consommation humaine
+H0000T	Cultures permanentes pour la consommation humaine - de plein air
+H0000S	Cultures permanentes pour la consommation humaine - sous serre ou abris hauts accessibles
+FRUAM	Fruits, agrumes, baies (y compris fraises), fruits à coque, raisins, olives et fruits séchés (agro-monétaire)
+F0000AM	Fruits frais (agro-monétaire)
+F0000	Fruits, baies et fruits à coque (agrumes, raisins et fraises non compris)
+F0000X3000	Fruits et fruits à coque (agrumes et raisins non compris)
+F1000_3000	Fruits et baies (fraises non compris) de zones climatiques tempérées
+F1000_2000	Fruits de zones climatiques tempérées, subtropicales et tropicales
+F1000	Fruits de zones climatiques tempérées
+F1100	Fruits à pépins
+F1110_1120	Pommes et poires
+F1110	Pommes
+F1111	Pommes de consommation
+F1111_01	Groupe Boskoop
+F1111_02	Groupe Braeburn
+F1111_03	Groupe Cox's orange
+F1111_031	Pommes Cox's orange pippin
+F1111_04	Groupe Cripps Pink
+F1111_05	Groupe Elstar
+F1111_051	Pommes Elstar
+F1111_06	Groupe Fuji
+F1111_07	Groupe Gala
+F1111_08	Groupe Golden Delicious
+F1111_081	Pommes Golden Delicious
+F1111_09	Groupe Granny Smith
+F1111_10	Groupe Idared
+F1111_11	Groupe Jonagold/Jonagored
+F1111_111	Pommes Jonagold
+F1111_112	Pommes Jonathan
+F1111_12	Groupe Lobo
+F1111_13	Groupe Morgenduft
+F1111_14	Groupe Pinova
+F1111_15	Groupe Red Delicious
+F1111_16	Groupe Reinette
+F1111_17	Groupe Shampion
+F1111_90	Autres pommes de consommation
+F1111_901	Pommes egrement russet
+F1111_902	Pommes Spartan
+F1111_909	Autres pommes de consommation n.c.a.
+F1112	Pommes destinées á la transformation
+F1112_01	Pommes à cuire
+F1112_011	Pommes à cuire Bramley
+F1112_02	Pommes à cidre
+F1120	Poires
+F1121	Poires de consommation
+F1121_01	Groupe Abate
+F1121_02	Groupe Blanquilla
+F1121_03	Groupe Conférence
+F1121_04	Groupe Coscia-Ercolini
+F1121_05	Groupe Decana
+F1121_051	Poires Doyenné du Comice
+F1121_06	Groupe Guyot
+F1121_07	Groupe Kaiser
+F1121_08	Groupe Rocha
+F1121_09	Groupe Williams
+F1121_091	Poires Williams
+F1121_90	Autres poires de consommation n.c.a.
+F1122	Poires destinées á la transformation
+F1190	Autres fruits à pépins n.c.a.
+F1191	Coings
+F1200	Fruits à noyau
+F1200T	Fruits à noyau - de plein air
+F1200S	Fruits à noyau - sous serre ou abris hauts accessibles
+F1210-1230	Pêches, nectarines, brugnons et abricots
+F1210_1220	Pêches, nectarines et brugnons
+F1211_1221	Pêches, nectarines et brugnons de consommation
+F1212_1222	Pêches, nectarines et brugnons destinés á la transformation
+F1210	Pêches
+F1211	Pêches de consommation
+F1211_01	Pêches à chair jaune
+F1211_01VE	Pêches à chair jaune très précoces
+F1211_01ER	Pêches à chair jaune précoces
+F1211_01ME	Pêches à chair jaune mi-précoces
+F1211_01LA	Pêches à chair jaune tardives
+F1211_02	Pêches à chair blanche
+F1211_02VE	Pêches à chair blanche très précoces
+F1211_02ER	Pêches à chair blanche précoces
+F1211_02ME	Pêches à chair blanche mi-précoces
+F1211_02LA	Pêches à chair blanche tardives
+F1211_03	Pêches plates
+F1212	Pêches destinées à la transformation
+F1220	Nectarines et brugnons
+F1221	Nectarines et brugnons de consommation
+F1221_01	Nectarines et brugnons à chair jaune
+F1221_01VE	Nectarines et brugnons à chair jaune très précoces
+F1221_01ER	Nectarines et brugnons à chair jaune précoces
+F1221_01ME	Nectarines et brugnons à chair jaune mi-précoces
+F1221_01LA	Nectarines et brugnons à chair jaune tardives
+F1221_02	Nectarines et brugnons à chair blanche
+F1221_02VE	Nectarines et brugnons à chair blanche très précoces
+F1221_02ER	Nectarines et brugnons à chair blanche précoces
+F1221_02ME	Nectarines et brugnons à chair blanche mi-précoces
+F1221_02LA	Nectarines et brugnons à chair blanche tardives
+F1222	Nectarines et brugnons destinées á la transformation
+F1230	Abricots
+F1230VE	Abricots très précoces
+F1230ER	Abricots précoces
+F1230ME	Abricots mi-précoces
+F1230LA	Abricots tardifs
+F1240	Cerises
+F1241	Cerises acides (Griottes)
+F1242	Cerises douces
+F1250	Prunes
+F1251	Quetsches
+F1252	Reines-claudes
+F1253	Mirabelles
+F1259	Prunes à pruneaux et autres
+F1290	Autres fruits à noyau n.c.a
+F2000	Fruits de zones climatiques subtropicales et tropicales
+F2000T	Fruits de zones climatiques subtropicales et tropicales - de plein air
+F2000S	Fruits de zones climatiques subtropicales et tropicales - sous serre ou abris hauts accessibles
+F2100	Figues
+F2200	Kiwis
+F2300	Avocats
+F2400	Bananes
+F2900	Autres fruits de zones climatiques subtropicales et tropicales n.c.a.
+F2910	Dattes
+F3000	Baies (fraises non comprises)
+F3000T	Baies (fraises non comprises) - de plein air
+F3000S	Baies (fraises non comprises) - sous serre ou abris hauts accessibles
+F3100	Cassis et groseilles
+F3100T	Cassis et groseilles - de plein air
+F3100S	Cassis et groseilles - sous serre ou abris hauts accessibles
+F3110	Cassis
+F3110T	Cassis - de plein air
+F3110S	Cassis - sous serre ou abris hauts accessibles
+F3120	Groseilles
+F3120T	Groseilles - de plein air
+F3120S	Groseilles - sous serre ou abris hauts accessibles
+F3200	Framboises
+F3200T	Framboises - de plein air
+F3200S	Framboises - sous serre ou abris hauts accessibles
+F3300	Myrtilles
+F3300T	Myrtilles - de plein air
+F3300S	Myrtilles - sous serre ou abris hauts accessibles
+F3900	Autres baies n.c.a.
+F3900T	Autres baies n.c.a. - de plein air
+F3900S	Autres baies n.c.a. - sous serre ou abris hauts accessibles
+F3910	Groseilles à maquereau
+F4000_5000AM	Fruits à coque et fruits secs
+F4000	Fruits à coque
+F4000T	Fruits à coque - de plein air
+F4100	Noix
+F4200	Noisettes
+F4300	Amandes
+F4400	Chataîgnes
+F4900	Autres fruits à coque n.c.a.
+F4910	Pistaches
+F5000AM_9000AM	Fruits frais et séchés (agro-monétaire)
+F5000AM	Fruits séchés (agro-monétaire)
+F5100AM	Figues séchées (agro-monétaire)
+F5900AM	Autres fruits séchés n.c.a. (agro-monétaire)
+F9000AM	Autres fruits frais, à coque et séchés (agro-monétaire)
+F9900AM	Autres fruits frais n.c.a. (agro-monétaire)
+T0000	Agrumes
+T1000_2000_3100	Oranges, petits agrumes et citrons
+T1000	Oranges
+T1100	Oranges Navel
+T1100ER	Oranges Navel précoces
+T1100ME	Oranges Navel semi-précoces
+T1100LA	Oranges Navel tardives
+T1110	Oranges Washington navel
+T1200	Oranges blondes
+T1200ER	Oranges blondes précoces
+T1200LA	Oranges blondes tardives
+T1210	Oranges Valencia
+T1300	Oranges sanguines
+T1310	Oranges Moro
+T1320	Oranges Sanguinello
+T1330	Oranges Tarocco
+T1900	Autres oranges n.c.a.
+T2000	Petits agrumes
+T2100	Satsumas
+T2100VE	Satsumas très précoces
+T2190	Autres satsumas
+T2200	Clémentines
+T2200ER	Clémentines précoces
+T2200ME	Clémentines semi-précoces
+T2200LA	Clémentines tardives
+T2900	Autres petits agrumes (y compris les hybrides) n.c.a.
+T2910	Mandarines
+T2920	Tangerines
+T3000	Citrons et limes (citrons verts)
+T3000AM	Citrons (agro-monétaire)
+T3100	Citrons jaunes
+T3110	Variétés de citrons d'hiver
+T3110_01	Citrons Invernali
+T3110_02	Citrons Mesero
+T3120	Variétés de citrons d'été
+T3120_01	Citrons Verdelli
+T3120_02	Citrons Vernia
+T3200	Limes (Citrons verts)
+T4000	Pomélos et pamplemousses
+T9000	Autres agrumes n.c.a.
+T9000AM	Autres agrumes n.c.a. (agro-monétaire)
+W0000	Raisins, moûts et vins
+W1000	Raisins
+W1000T	Raisins - de plein air
+W1000S	Raisins - sous serre ou abris hauts accessibles
+W1100	Raisins de cuve
+W1110_1120	Raisins de cuve pour vin à indication géographique (AOP/IGP)
+W1110	Raisins de cuve pour vin à appellation d'origine protégée (AOP)
+W1120	Raisins de cuve pour vin à indication géographique protégée (IGP)
+W1190	Raisins de cuve pour autres vins n.c.a. (sans AOP/IGP)
+W1190T	Raisins de cuve pour autres vins n.c.a. (sans AOP/IGP) - de plein air
+WDP	Raisins à double usage
+W1200	Raisins de table
+W1200T	Raisins de table - de plein air
+W1210	Raisins blancs de table
+W1211	Raisins blancs de table sans pépins
+W1212	Raisins blancs de table normaux
+W1220	Raisins rouges de table
+W1221	Raisins rouges de table sans pépins
+W1222	Raisins rouges de table normaux
+W1300	Raisins pour raisins secs
+W1300T	Raisins pour raisins secs - de plein air
+W1310	Raisins de Corinthe
+W1320	Raisins Sultana
+W1900	Raisins pour autres utilisations n.c.a.
+W1900AM	Autres raisins frais (agri-monétaire)
+W2000	Moût
+W2100	Moût vinifié
+W2200	Moût non-vinifié
+W2210	Moût concentré
+W2220	Jus de raisin
+W3000	Vins
+W3000R	Vins rouges et rosés
+W3000W	Vins blancs
+W3100	Vins à indication géographique (AOP/IGP)
+W3100R	Vins rouges et rosés AOP/IGP
+W3100W	Vins blancs AOP/IGP
+W3110	Vins à appellation d'origine protegée (AOP)
+W3110R	Vins rouge et rosés AOP
+W3110W	Vins blancs AOP
+W3120	Vins à indication géographique protegée (IGP)
+W3120R	Vins rouges et rosés IGP
+W3120W	Vins blancs IGP
+W3200	Vins sans indication géographique (AOP/IGP)
+W3200R	Vins rouges et rosés sans AOP/IGP
+W3200W	Vins blancs sans AOP/IGP
+W3120_3210_3221	Vins de table
+W3120_3210_3221R	Vins de table rouges et rosés
+W3120_3210_3221W	Vins de table blancs
+W3210_3221	Vins de table sans indication géographique (AOP/IGP)
+W3210_3221R	Vins de table rouges et rosés sans AOP/IGP
+W3210_3221W	Vins de table blancs sans AOP/IGP
+W3210	Vins de cépage
+W3210R	Vins de cépage rouges et rosés
+W3210W	Vins de cépage blancs
+W3220	Autres vins
+W3220R	Autres vins rouges et rosés
+W3220W	Autres vins blancs
+W3221	Autres vins pour la consommation humaine directe sans indication géograohique (AOP/IGP) et sans cépage
+W3221R	Autres vins rouges et rosés pour la consommation humaine directe sans AOP/IGP et sans cépage
+W3221W	Autres vins blancs pour la consommation humaine directesans AOP/IGP et sans cépage
+W3222	Autres vins destinés à la transformation n.c.a.
+W3222R	Autres vins rouges et rosés destinés à la transformation n.c.a.
+W3222W	Autres vins blancs destinés à la transformation n.c.a.
+O0000	Olives et huile d'olive
+O1000	Olives
+O1100	Olives de table
+O1900	Autres olives
+O1910	Olives pour l'huile
+O1990	Autres olives n.c.a.
+ODP	Olives à double usage
+O2000	Huile d'olive
+O2100	Huile d'olive: vierge extra
+O2200	Huile d'olive: vierge
+O2210	Huile d'olives: vierge - superfine
+O2220	Huile d'olives: vierge - fine
+O2230	Huile d'olives: vierge - semi-fine
+O2300	Huile d'olives: comune
+O2400	Huile d'olives: lampante
+H9000	Autres cultures permanentes pour la consommation humaine n.c.a.
+H9100	Caroubes
+L0000	Pépinières
+L0000T	Pépinières - de plein air
+L0000S	Pépinières - sous serre ou abris hauts accessibles
+PECR9_H9000	Autres cultures permanentes y compris autres cultures permanentes pour la consommation humaine
+PECR9_H9000T	Autres cultures permanentes y compris autres cultures permanentes pour la consommation humaine - de plein air
+PECR9_H9000S	Autres cultures permanentes y compris autres cultures permanentes pour la consommation humaine - sous serre ou abris hauts accessibles
+PECR9	Autres cultures permanentes
+PECR9T	Autres cultures permanentes - de plein air
+PECR9S	Autres cultures permanentes - sous serre ou abris hauts accessibles
+X0000	Sapins de Noël
+Z0000	Autres cultures permanentes (pour tressage, tissage etc.) n.c.a.
+Z1000	Matériau végétal utilisé principalement pour le tressage
+K0000	Jardins potagers
+K0000T	Jardins potagers - de plein air
+K1000	Légumes de jardins potagers
+K2000	Fruits de jardins potagers
+SAA	Superficie de production agricole spéciale
+U0000	Champignons
+U1000	Champignons cultivés
+U1100	Champignons de Paris
+U1900	Autres champignons cultivés n.c.a.
+U2000	Champignons sauvages
+SAA9	Autres superficie de production agricole spéciale
+NUAA	Superficie agricole inutilisée
+WA	Superficie boisée
+SRCAA	Superficie de taillis à rotation rapide
+FA9	Autres superficies des exploitations agricoles
+CRP9	Autres produits végétaux
+CRP9ORG	Autres produits végétaux organiques
+CRP99	Autres produits végétaux n.c.a.
+NONE	Aucun

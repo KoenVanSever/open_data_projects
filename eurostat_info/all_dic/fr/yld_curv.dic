@@ -1,0 +1,5 @@
+CIRR	Courbe des TICR pour les crédits à l'exportation
+PAR	Courbe des taux au pair
+SPOT_RT	Courbe des taux zéro-coupon
+CORB_AAA	Courbe des taux des obligations d'entreprise notées AAA
+INS_FWD	Courbe des taux à terme instantanés

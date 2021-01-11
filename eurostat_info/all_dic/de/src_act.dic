@@ -1,0 +1,15 @@
+TOTAL	Insgesamt
+SRC	Beschaffung
+SRC_IN	Beschaffung innerhalb der Unternehmensgruppe
+SRC_DOM	Inlandsbeschaffung
+SRC_DOM_IN	Inlandsbeschaffung innerhalb der Unternehmensgruppe
+SRC_DOM_OUT	Inlandsbeschaffung außerhalb der Unternehmensgruppe
+SRC_INTL	Internationale Beschaffung
+SRC_INTL_IN	Internationale Beschaffung innerhalb der Unternehmensgruppe
+SRC_INTL_OUT	Internationale Beschaffung außerhalb der Unternehmensgruppe
+NSRC	Keine Beschaffung
+SO	Funktion wird beschafft
+SO_DO	Funktion wird im Inland beschafft
+SO_IN	Funktion wird international beschafft
+NO	Funktion wird nicht beschafft
+UNK	Unbekannt

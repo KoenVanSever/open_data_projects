@@ -1,0 +1,14 @@
+TOTAL	Insgesamt
+PER_SUSP	Verdächtige Person
+PER_PRSC	Strafrechtlich verfolgte Person
+PER_CNV	Verurteilte Person
+PER_PRIS	Strafgefangener
+PER_VICT	Opfer
+TRI_PRE	Vor dem Verfahren
+TRI_SPSD	Verkündetes Urteil
+CRT_BGHT	Vor Gericht gestellt
+CRT_CNV	Verurteilt
+CRT_ACQT	Freigesprochen
+CRT_RESL	Entschieden
+CRT_PEN	Rechtshängig
+UNK	Unbekannt

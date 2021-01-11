@@ -1,0 +1,63 @@
+TOTAL	Insgesamt
+LBK	Flüssige Massengüter
+LBK_LGAS	Flüssiggut - verflüssigtes Gas
+LBK_COIL	Flüssiggut - Rohöl
+LBK_ROIL	Flüssiggut - Erdölerzeugnisse
+LBK_CHM	Flüssiggut - Chemikalien
+LBK_OTH	Flüssiggut - sonstiges
+LBK_NSP	Flüssiggut - nicht bezeichnet
+DBK	Schüttgüter
+DBK_ORES	Schüttgut - Erze
+DBK_COAL	Schüttgut  - Kohle
+DBK_PAGR	Schüttgut - landwirtschaftliche Erzeugnisse
+DBK_CON	Schüttgut - Baustoffe
+DBK_OTH	Schüttgut - sonstiges
+DBK_NSP	Schüttgut - nicht bezeichnet
+CNT_SWP	Container und Wechselbehälter
+LCNT	Großcontainer/-behälter
+LCNT_20	Großcontainer - 20-Fuß-Ladeeinheiten
+LCNT_40	Großcontainer - 40-Fuß-Ladeeinheiten
+LCNT_21-39	Großcontainer - Ladeeinheiten mehr als 20 Fuß und weniger als 40 Fuß
+LCNT_GT40	Großcontainer - Ladeeinheiten mehr als 40 Fuß
+LCNT_LD	Großcontainer (ohne Wechselbehälter) - beladen
+LCNT_EMP	Großcontainer (ohne Wechselbehälter) - leer
+LCNT_NSP	Großcontainer - nicht bezeichnete Größe
+CNT_OTH	Andere Container/Behälter
+SWP	Wechselbehälter
+PAL	Palettisierte Güter
+PSLG	Gebündelte Güter
+WRVEH	Eisenbahnwagen mit Strassenfahrzeugen beladen
+MSP	Fahrzeuge mit eigenem Antrieb
+RMSP	Straßenfahrzeuge mit eigenem Antrieb
+WMSP	Fahrzeuge mit eigenem Antrieb transportiert auf Eisenbahnwagen
+RVEH	Straßenfahrzeuge (begleitet)
+RO_TOT	Ro-Ro - mobile selbstfahrende und nicht selbstfahrende Einheiten
+RO_MSP	Ro-Ro - mobile selbstfahrende Einheiten
+RO_RVEH	Ro-Ro - Straßengüterfahrzeuge und Anhänger
+RO_CM	Ro-Ro - PKW bzw. Motorräder und Anhänger/Wohnwagen
+RO_PBUS	Ro-Ro - Omnibusse
+RO_TVEH	Ro-Ro - Handelsfahrzeuge (einschließlich Import-/Export- Kraftfahrzeuge)
+RO_LANI	Ro-Ro - lebende Tiere, stehend
+RO_MSP_OTH	Ro-Ro - sonstige mobile selbstfahrende Einheiten
+RO_MSP_NSP	Ro-Ro - nicht bezeichnete mobile selbstfahrende Einheiten
+MNSP	Fahrzeuge ohne eigenen Antrieb
+RMNSP	Straßenfahrzeuge ohne eigenen Antrieb
+WMNSP	Fahrzeuge ohne eigenen Antrieb transportiert auf Eisenbahnwagen
+STRL	Sattelanhänger (unbegleitet)
+RO_MNSP	Ro-Ro - mobile nicht selbstfahrende Einheiten
+RO_TRL_STRL	Ro-Ro - Straßenverkehrsanhänger und Sattelanhänger ohne Zugmaschine
+RO_CVAN_OTH	Ro-Ro - Wohnwagen ohne Zugfahrzeug und sonstige landwirtschaftliche Straßen- und Industriefahrzeuge
+RO_RWS	Ro-Ro - Eisenbahngüterwagen, Anhänger für die Güterbeförderung auf See, Lastkähne zur Güterbeförderung auf See
+RO_RW	Ro-Ro - Eisenbahngüterwagen
+RO_SPP	Ro-Ro - Anhänger für die Güterbeförderung auf See
+RO_SB	Ro-Ro - Lastkähne zur Güterbeförderung auf See
+RO_MNSP_OTH	Ro-Ro - sonstige mobile nicht-selbstfahrende Einheiten
+RO_MNSP_NSP	Ro-Ro - nicht bezeichnete mobile nicht selbstfahrende Einheiten
+RES	Nicht zugeordnet
+OTH	Sonstige Ladung, anderweitig nicht spezifiziert
+OTH_FOR	Sonstige Stückgüter - forstwirtschaftliche Erzeugnisse
+OTH_IS	Sonstige Stückgüter - Erzeugnisse der Eisen-und Stahlindustrie
+OTH_GN	Sonstige Stückgüter - sonstige allgemeine Stückgüter
+OTH_UNK	Sonstige Stückgüter - unbekannt
+UNK	Unbekannt
+NSP	Einheit ohne Ladeeinheit, nicht bezeichnet 

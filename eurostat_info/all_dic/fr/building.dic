@@ -1,0 +1,14 @@
+TOTAL	Total
+RES	Bâtiments résidentiels
+RES1	Bâtiments résidentiels avec un logement
+RES2	Bâtiments résidentiels avec deux logements
+RES_GE3	Bâtiments résidentiels avec trois logements ou plus
+HOUSE	Maison
+HOUSE_D	Maison individuelle
+HOUSE_SD	Maison mitoyenne
+FLAT	Appartement
+FLAT_LT10	Appartement dans une résidence de moins de dix logements
+FLAT_GE10	Appartement dans une résidence de dix logements ou plus
+NRES	Bâtiments non résidentiels
+OTH	Autres
+UNK	Inconnu

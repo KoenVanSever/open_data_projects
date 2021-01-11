@@ -1,0 +1,31 @@
+TOTAL	Total
+PC0	Zéro pour cent d'un temps plein
+PC1-24	De 1 à 24 pour cent d'un temps plein
+PC25-49	De 25 à 49 pour cent d'un temps plein
+PC50-74	De 50 à 74 pour cent d'un temps plein
+PC75-99	De 75 à 99 pour cent d'un temps plein
+PC100	100 pour cent d'un temps plein
+H0	Zéro heure
+H1-9	De 1 à 9 heures
+H1-19	De 1 à 19 heures
+H10-19	De 10 à 19 heures
+H20-29	De 20 à 29 heures
+H20-31	De 20 à 31 heures
+H30-39	De 30 à 39 heures
+H_GE32	32 heures et plus
+H40-49	De 40 à 49 heures
+H_GE50	50 heures et plus
+PT	Temps partiel
+FT	Temps plein
+TEMP	Contrat à durée déterminée
+TOT_FTE	Total en équivalent temps plein
+AVG_FTE	Moyenne annuelle en équivalent temps plein
+PT_FTE	Temps partiel en équivalent temps plein
+NORM	Temps de travail normal
+ATYP	Temps de travail atypique
+INCR	Augmenter le nombre d'heures de travail 
+DECR	Diminuer le nombre d'heures de travail
+NCHG	Pas de changement du nombre d'heures de travail
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

@@ -1,0 +1,392 @@
+BE	Belgien
+BE_RHI_W	Rhein - FGE (BE-Wallonische Region)
+BE_SCH_B	Schelde - FGE (BE-Brüssel)
+BE_SCH_W	Schelde - FGE (BE-Wallonische Region)
+BE_SCH_V	Schelde - FGE (BE-Flämische Region)
+BE_MAA_W	Maas - FGE (BE-Wallonische Region)
+BE_MAA_V	Maas - FGE (BE-Flämische Region)
+BE_SEI_W	Seine - FGE (BE-Wallonische Region)
+BG	Bulgarien
+BG_DAN_RBD	Donau - FGE (BG)
+BG_BKS	Schwarzes Meer - FGE
+BG_AEE	Östliche Ägäis - FGE (BG)
+BG_AEW	Westliche Ägäis - FGE (BG)
+CZ	Tschechien
+CZ_DAN	Donau - FGE (CZ)
+CZ_DYJ	Thaya
+CZ_DAN_OTH	Andere Nebenflüsse der Donau
+CZ_MOR	March (CZ)
+CZ_ELB	Elbe - FGE (CZ)
+CZ_ELB_UM	Obere und mittlere Elbe (CZ)
+CZ_MOL_U	Obere Moldau
+CZ_BRK	Berounka
+CZ_MOL_L	Untere Moldau
+CZ_OHR	Ohre und untere Elbe (CZ)
+CZ_ODR	Oder - FGE (CZ)
+CZ_ODR_U	Obere Oder
+CZ_LNO	Luzická Nisa und andere Nebenflüsse der Oder
+DK	Dänemark
+DK_JTL	Jütland und Fünen - FGE
+DK_ZEA	Seeland - FGE
+DK_BOR	Bornholm - FGE
+DK_VID	Vidaa-Krusaa - FGE
+DE	Deutschland (bis 1990 früheres Gebiet der BRD)
+DE_DAN	Donau - FGE (DE)
+DE_RHI	Rhein - FGE (DE)
+DE_RHI_C	Bodensee/Alpenrhein
+DE_RHI_H	Hochrhein
+DE_RHI_O	Oberrhein
+DE_NEC	Neckar
+DE_MAI	Main
+DE_MSL_SAR	Mosel-Saar (DE)
+DE_RHI_M	Mittelrhein
+DE_RHI_N	Niederrhein
+DE_RHI_D	Deltarhein
+DE_EMS	Ems - FGE (DE)
+DE_EMS_O	Obere Ems, Ems-Nordradde, Hase
+DE_LED	Leda-Jümme, Untere Ems, Ems-Ästuar
+DE_WES_RBD	Weser - FGE
+DE_WER	Werra
+DE_FUL	Fulda-Diemel
+DE_WES	Weser
+DE_ALR	Aller
+DE_LEI	Leine
+DE_TID	Tide-Weser
+DE_ELB	Elbe - FGE (DE)
+DE_MUL	Mulde-Elbe-Schwarze Elster
+DE_SAA	Saale, Obere Moldau, Berounka, Eger und untere Elbe
+DE_ELB_M	Mittelelbe-Elde
+DE_HAV	Havel
+DE_ELB_T	Tide-Elbe
+DE_ODR	Oder - FGE (DE)
+DE_MAA	Maas - FGE (DE)
+DE_EID	Eider - FGE
+DE_SLE	Schlei-Trave - FGE
+DE_WAR	Warnow-Peene - FGE
+EE	Estland
+EE_W	West-Estland - FGE
+EE_LAA	Läänesaarte
+EE_MAT	Matsalu
+EE_PAR	Pärnu
+EE_HAR	Harju
+EE_E_RBD	Ost-Estland - FGE
+EE_VIR	Viru
+EE_VOR	Vörtsjärve
+EE_PEI	Peipsi
+EE_GAU	Koiva/Gauja - FGE (EE)
+IE	Irland
+IE_E	Ost-Irland - FGE
+IE_SHA	Shannon - FGE
+IE_SE	Südost-Irland - FGE
+IE_SW	Südwest-Irland - FGE
+IE_W	West-Irland - FGE
+EL	Griechenland
+EL_PEL_W	Westlicher Peloponnes - FGE
+EL_PEL_N	Nördlicher Peloponnes - FGE
+EL_PEL_E	Östlicher Peloponnes - FGE
+EL_STE_W	Westliches Zentralgriechenland - FGE
+EL_EPI	Epirus - FGE
+EL_ATT	Attika - FGE
+EL_STE_E	Östliches Zentralgriechenland - FGE
+EL_THE	Thessalien - FGE
+EL_MAC_W	Westmakedonien - FGE
+EL_MAC_C	Zentralmakedonien - FGE
+EL_MAC_E	Ostmakedonien - FGE
+EL_THR	Thrakien - FGE
+EL_CRE	Kreta - FGE
+EL_AEG	Ägäische Inseln - FGE
+ES	Spanien
+ES_MIS	Miño-Sil - FGE (ES)
+ES_GAL	Küste Galiciens - FGE
+ES_BAS	Baskische interne Becken - FGE
+ES_CAN	Kantabrien - FGE
+ES_CAN_W	West Kantabrien FGE
+ES_CAN_E	Ost Kantabrien FGE
+ES_DUE	Duero - FGE (ES)
+ES_TAG	Tagus - FGE (ES)
+ES_GUD	Guadiana - FGE (ES)
+ES_GUL	Guadalquivir - FGE
+ES_ADL	Andalusiens Mittelmeer-Becken - FGE
+ES_GUA	Guadalete und Barbate - FGE
+ES_TIN	Tinto, Odiel und Piedras - FGE
+ES_SEG	Segura - FGE
+ES_JUC	Júcar - FGE
+ES_EBR	Ebro - FGE
+ES_CAT	Katalonien - FGE
+ES_BAI	Balearen - FGE
+ES_GRC	Gran Canaria - FGE
+ES_FUE	Fuerteventura - FGE
+ES_LAN	Lanzarote - FGE
+ES_TNR	Teneriffa - FGE
+ES_LPA	La Palma - FGE
+ES_LGM	La Gomera - FGE
+ES_EHI	El Hierro - FGE
+ES_CEU	Ceuta - FGE
+ES_MEL	Melilla - FGE
+FR	Frankreich
+FR_SCH	Schelde - FGE (FR)
+FR_MAA_C	Maas-Chiers - FGE (FR)
+FR_SAM	Sambre - FGE
+FR_RHI	Rhein - FGE (FR)
+FR_MSL_SAR	Mosel-Saar (FR)
+FR_RHI_I	Oberer Rhein und Ill
+FR_RHO_CM	Rhone und Küstenflüsse des Mittelmeers - FGE (FR)
+FR_CAZ	Küstenflüsse der Cote d'Azur
+FR_CLR	Küsten des Languedoc Roussillon
+FR_DOU	Doubs
+FR_DUR	Durance
+FR_ARD	Ardèche-Gard
+FR_RHO_H	Haut-Rhône
+FR_ISR	Isère-Drôme
+FR_RHO_M	Rhône moyen
+FR_SAO	Saône
+FR_COR	Korsika
+FR_ADO_OTH	Adour, Garonne, Dordogne, Charente und die Küstenflüsse der Charente und Aquitaniens - FGE
+FR_ADO	Adour
+FR_CHA	Charente
+FR_CAQ	Küstenflüsse der Charente und Aquitaniens
+FR_DOR	Dordogne
+FR_GAR	Garonne
+FR_LOT	Lot
+FR_TAR	Tarn-Aveyron
+FR_LOI	Loire, die Küstenflüsse der Vendée und der Bretagne - FGE
+FR_ALL	Allier-Obere Loire
+FR_LOI_A	Untere Loire und Küstenflüsse des Vendées
+FR_LOI_M	Mittlere Loire
+FR_MAY	Mayenne-Sarthe-Loir
+FR_VIL	Vilaine und die bretonischen Küstenflüsse
+FR_VIE	Vienne-Creuse
+FR_SEI_CN	Seine und die Küstenflüsse der Normandie - FGE (FR)
+FR_CNO	Küstenflüsse der Normandie
+FR_MRN	Marne
+FR_OIS	Oise
+FR_SEI_A	Seine stromaufwärts ab Paris (FR)
+FR_SEI_V	Seine stromabwärts ab Paris (FR)
+FR_GUY	Guyana - FGE
+FR_REU	Réunion - FGE
+FR_GDL	Guadeloupe - FGE
+FR_MAR	Martinique - FGE
+HR	Kroatien
+HR_DAN	Donau - FGE (HR)
+HR_DRA_SB	Drava und Donau - Teileinzugsgebiet
+HR_SAV_SB	Sava - Teileinzugsgebiet
+HR_ADR	Adria - FGE  (HR)
+IT	Italien
+IT_ALP_E	Östliche Alpen - FGE
+IT_PO	Po - FGE (IT)
+IT_APP_N	Nördliche Apenninen - FGE
+IT_SER	Serchio - FGE
+IT_APP_M	Mittlere Apenninen - FGE
+IT_APP_S	Südliche Apenninen - FGE
+IT_SAR	Sardinien - FGE
+IT_SIC	Sizilien - FGE
+CY	Zypern
+CY_RBD	Zypern - FGE
+LV	Lettland
+LV_DAU	Daugava - FGE (LV)
+LV_GAU	Gauja/Koiva - FGE (LV)
+LV_LIE	Lielupe - FGE (LV)
+LV_VEN_RBD	Windau - FGE (LV)
+LT	Litauen
+LT_NEM	Memel - FGE (LT)
+LT_CUR	Kurisches Haff
+LT_BAL	Küstengewässer des Baltischen Meeres
+LT_NEM_OTH	Kleine Nebenflüsse der Memel (einschließlich Memel)
+LT_MER	Merkys
+LT_NER	Kleine Nebenflüsse des Flusses Neris (einschließlich Fluss Neris)
+LT_ZEI	Zeimena
+LT_SVE_SB	Sventoji - Teileinzugsgebiet
+LT_NEV	Nevezis
+LT_DUB	Dubysa
+LT_SES	Scheschuppe
+LT_JUR	Jura
+LT_MIN	Minge
+LT_COA	Litauische Küstenflüsse
+LT_PRI	Pregel
+LT_VEN_RBD	Windau - FGE (LT)
+LT_VEN	Windau
+LT_SVE	Sventoji
+LT_BAR	Bartuva
+LT_LIE	Lielupe - FGE (LT)
+LT_LIE_OTH	Kleine Nebenflüsse des Flusses Lielupe
+LT_MUS	Musa
+LT_NEL	Nemunelis
+LT_DAU_RBD	Daugava - FGE (LT)
+LT_DAU	Daugava-Becken
+LU	Luxemburg
+LU_MSL	Mosel - FGE (LU)
+LU_MAA	Maas - FGE (LU)
+LU_RHI	Rhein - FGE (LU)
+HU	Ungarn
+HU_DAN_RBD	Donau - FGE (HU)
+HU_BAT	Plattensee
+HU_DRA	Drau (HU)
+HU_DAN	Donau (HU)
+HU_TIS	Theiss (HU)
+MT	Malta
+MT_RBD	Malta - FGE
+NL	Niederlande
+NL_EMS	Ems - FGE (NL)
+NL_MAA	Maas - FGE (NL)
+NL_RHI	Rhein - FGE (NL)
+NL_SCH	Schelde - FGE (NL)
+AT	Österreich
+AT_DAN	Donau - FGE (AT)
+AT_DAN_U	Donau stromaufwärts ab Jochenstein (AT)
+AT_DAN_D	Donau stromabwärts ab Jochenstein (AT)
+AT_DAN_SB	Donau - Teileinzugsgebiet (AT)
+AT_MOR	March (AT)
+AT_LER	Leitha, Raab, Rabnitz
+AT_MUR	Mur
+AT_DRA	Drau (AT)
+AT_RHI	Rhein - FGE (AT)
+AT_RHI_SB	Rhein - Teileinzugsgebiet (AT)
+AT_ELB	Elbe - FGE (AT)
+AT_ELB_SB	Elbe -Teileinzugsgebiet (AT)
+PL	Polen
+PL_DAN	Donau - FGE (PL)
+PL_VIS	Weichsel - FGE (PL)
+PL_VIS_S	Kleine Weichsel
+PL_VIS_U	Obere Weichsel
+PL_VIS_M	Mittlere Weichsel ohne Bug und Narew
+PL_BUG	Bug und Narew
+PL_VIS_L	Untere Weichsel
+PL_SWI	Swieza - FGE
+PL_JAR	Jarft - FGE
+PL_ELB	Elbe - FGE (PL)
+PL_ODR	Oder - FGE (PL)
+PL_ODR_U	Obere Oder
+PL_ODR_M	Mittlere Oder
+PL_WRT	Warthe
+PL_ODR_L	Untere Oder und westliche Küste
+PL_UCK	Ucker - FGE
+PL_PRI	Pregel (PL)
+PL_NEM	Memel - FGE (PL)
+PL_DNI	Dnister - FGE (PL)
+PT	Portugal
+PT_MIH	Minho und Lima - FGE (PT)
+PT_CAV	Cavado, Ave und Leca - FGE
+PT_DRO	Duero - FGE (PT)
+PT_VOU	Vouga, Mondego und Lis - FGE
+PT_VOU_SB	Vouga, Mondego und Lis - Teileinzugsgebiet
+PT_TAG	Tagus und westliche Becken - FGE (PT)
+PT_SAD	Sado und Mira - FGE
+PT_GUD	Guadiana - FGE (PT)
+PT_RIB_SB	Tejo und Ribeiras do Oeste - Teileinzugsgebiet
+PT_ALG	Algarve Becken - FGE
+PT_AZO	Azoren - FGE
+PT_MAD	Madeira - FGE
+RO	Rumänien
+RO_DAN_RBD	Donau - FGE (RO)
+RO_BAN	Banat
+RO_SIR	Sereth / Siret
+RO_PRU	Pruth-Bariach / Prut-Barlad
+RO_JIU	Jiu
+RO_OLT	Alt / Olt
+RO_ARV	Arges-Vedea
+RO_IAL	Ialomita-Buzau
+RO_DOB	Dobrudscha / Dobrogea
+RO_MRS	Mieresch / Mures
+RO_CRI	Kreisch / Crisuri
+RO_SOM	Somesch-Theiss / Somes-Tisa (RO)
+SI	Slowenien
+SI_DAN	Donau - FGE (SI)
+SI_ADR_N	Nördliche Adria - FGE
+SK	Slowakei
+SK_DUN	Dunajez und Popper (Weichsel) (SK)
+SK_DUN_SB	Dunajec und Popper (Weichsel) - Teileinzugsgebiet
+SK_DAN_RBD	Donau - FGE (SK)
+SK_BOD	Bodrog
+SK_MOR	March (SK)
+SK_DAN	Donau (SK)
+SK_VAH	Waag
+SK_HRO	Gran
+SK_IPE	Eipel
+SK_SLA	Salz / Slana
+SK_HOR	Hornád
+SK_BOV	Bodva
+FI	Finnland
+FI_VUO	Vuoksi - FGE
+FI_KYM	Kymijoki-Golf von Finnland - FGE
+FI_KOK	Kokemäenjoki-Archipelago Sea-Bothnian Sea - FGE
+FI_OUL	Oulujoki-Iijoki - FGE
+FI_KEM	Kemijoki - FGE
+FI_TOR_RBD	Tornionjoki - FGE
+FI_TEN	Teno, Näätämöjoki und Paatsjoki - FGE (FI)
+FI_ALD	Åland - FGE
+SE	Schweden
+SE_BBY	Bottnischer Meerbusen - FGE (SE)
+SE_BBY_TO	Torne (Bottnischer Meerbusen) - FGE (SE)
+SE_BSE	Bottnisches Meer - FGE (SE)
+SE_BAL_N	Nordliche Ostseeregion - FGE
+SE_BAL_S	Südliche Ostseeregion - FGE
+SE_SKK	Skagerrak und Kattegat - FGE (SE)
+SE_BSE_TD	Trondelagsfylkene (Bottnisches Meer) - FGE (SE)
+SE_BBY_NL	Nordland (Bottnischer Meerbusen) - FGE (SE)
+SE_BBY_TR	Troms (Bottnischer Meerbusen) - FGE (SE)
+SE_SGL	Glomma (Skagerrak und Kattegat) - FGE (SE)
+UK	Vereinigtes Königreich
+UK_SCO	Schottland - FGE
+UK_SCO_NE	Nordost Schottland
+UK_TAY	Tay
+UK_FOR	Forth
+UK_CLY	Clyde
+UK_ARG	Argyll
+UK_HIG_W	West Highland
+UK_HIG_N	North Highland
+UK_ORK	Orkney und Shetland
+UK_SOL	Solway Tweed - FGE
+UK_NTH	Northumbria - FGE
+UK_HUM	Humber - FGE
+UK_ANG	Anglia - FGE
+UK_THA	Themse - FGE
+UK_SOE	Südost-England - FGE
+UK_SOW	Südwest-England - FGE
+UK_SEV	Severn - FGE
+UK_WAL_W	West-Wales - FGE
+UK_DEE	Dee - FGE
+UK_NOW	Nordwest-England - FGE
+UK_NBA	Neagh Bann - FGE (Nordirland)
+UK_NWN	Nordwestliches Nordirland - FGE
+UK_NOE	Nordöstliches Nordirland - FGE
+IS	Island
+LI	Liechtenstein
+LI_RBD	Liechtenstein - FGE
+NO	Norwegen
+NO_NFI_SB	Norwegen-Finland - Teileinzugsgebiet
+NO_GLO	Glomma, Møre and Romsdal - FGE
+NO_TRD	Troendelag - FGE (NO)
+NO_NRL	Nordland - FGE (NO)
+NO_TRO	Troms - FGE (NO)
+NO_FMK	Finnmark - FGE
+NO_GLM	Glomma - FGE (NO)
+NO_WBA	West Bay - FGE
+NO_AGD	Agder - FGE
+NO_ROL	Rogaland - FGE
+NO_HDA	Hordaland - FGE
+NO_SFJ	Sogn und Fjordane - FGE
+NO_BBY	Bottnischer Meerbusen - FGE (NO)
+NO_TOR	Torne (Torniojoki) - FGE (NO)
+NO_BSE	Bottnisches Meer - FGE (NO)
+NO_SKK	Skagerrak und Kattegat - FGE (NO)
+NO_KEM	Kemijoki - FGE (NO)
+NO_TOR_FI	Tornionjoki - FGE (FI)
+CH	Schweiz
+CH_RHI	Rhein - FGE (CH)
+CH_RHO	Rhône - FGE (CH)
+CH_PO	Po - FGE (CH)
+CH_DAN	Donau - FGE (CH)
+CH_ADI	Etsch - FGE
+ME	Montenegro
+MK	Nordmazedonien
+AL	Albanien
+RS	Serbien
+RS_DAN	Donau (RS)
+RS_SAV	Save (RS)
+RS_MOR	March (RS)
+TR	Türkei
+BA	Bosnien und Herzegowina
+XK	Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+AD_RBD	Andorra - FGE
+GI_RBD	Gibraltar - FGE
+MC_RBD	Monaco - FGE

@@ -1,0 +1,16 @@
+TOTAL	Insgesamt
+AIR	Flugzeug
+LAND	Land
+RAIL_IWW_AVD	Eisenbahn, Binnenschifffahrt - Summe der verfügbaren Daten
+RAIL	Eisenbahn
+ROAD	Straßen
+PRV	Private Personenkraftwagen, Krafträder, Transporter
+PUB	Öffentliche Verkehrsmittel
+BUS	Bus, Reisebus
+CAR	Kraftfahrzeug
+BIKE	Fahrräder
+FOOT	Zu Fuß
+WW	Schiffsverkehr 
+SEA	See
+IWW	Binnenschifffahrt
+OTH	Sonstige

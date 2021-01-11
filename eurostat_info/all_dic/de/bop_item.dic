@@ -1,0 +1,391 @@
+CA	Leistungsbilanz
+CKA	Leistungs- und Vermögensübertragungsbilanz (Finanzierungssaldo)
+GS	Waren und Dienstleistungen
+GSIN1	Waren, Dienstleistungen und Primäreinkommen
+G	Waren
+G1	Allgemeiner Warenverkehr auf Zahlungsbilanzbasis
+G1Z	Allgemeiner Warenverkehr auf Zahlungsbilanzbasis, Wiederausfuhren
+G2	Nettoausfuhr von Waren im Transithandel
+G21	Im Transithandel erworbene Waren (negative Einnahmen)
+G22	Im Transithandel veräusserte Waren
+G3	Nichtwährungsgold
+G4EU	Branding - Anpassung für Quasi-Transit-Handel
+S	Dienstleistungen
+SA	Dienstleistungen: Fertigungsleistungen an Werkstoffen anderer Eigentümer
+SAY	Dienstleistungen: Waren zur Veredelung im Inland - zurückgesandte Waren, erhaltene Waren
+SAZ	Dienstleistungen: Waren zur Veredelung im Ausland - versandte Waren, zurück erhaltene Ware
+SB	Dienstleistungen: Intandhaltungs- und Reparaturdienstleistungen a. n. g.
+SC	Dienstleistungen: Transportleistungen
+SC1	Dienstleistungen: Seetransportleistungen
+SC11	Dienstleistungen: Seetransportleistungen; Personenbeförderung
+SC11Z	Dienstleistungen: Seetransportleistungen; Personbeförderung; darunter zahlbar durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+SC12	Dienstleistungen: Seetransportleistungen; Güterbeförderung
+SC13	Dienstleistungen: Seetransportleistungen; sonstige als Personen- und Güterbeförderung
+SC2	Dienstleistungen: Lufttransportleistungen
+SC21	Dienstleistungen: Lufttransportleistungen; Personenbeförderung
+SC21Z	Dienstleistungen: Lufttransportleistungen; Personenbeförderung; darunter zahlbar durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+SC22	Dienstleistungen: Lufttransportleistungen; Güterbeförderung
+SC23	Dienstleistungen: Lufttransportleistungen; Sonstige als Personen- und Güterbeförderung
+SC3	Dienstleistungen: Sonstige Transportleistungen
+SC31	Dienstleistungen: Sonstige Transportleistungen; Personenbeförderung
+SC31Z	Dienstleistungen: Sonstige Transportleistungen; Personenbeförderung; darunter zahlbar durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+SC32	Dienstleistungen: Sonstige Transportleistungen; Güterbeförderung
+SC33	Dienstleistungen: Sonstige Transportleistungen; Sonstige als Personen- und Güterbeförderung
+SC3A	Dienstleistungen: Raumtransportleistungen
+SC3B	Dienstleistungen: Eisenbahntransportleistungen
+SC3B1	Dienstleistungen: Eisenbahntransportleistungen; Personenbeförderung
+SC3B2	Dienstleistungen: Eisenbahntransportleistungen; Güterbeförderung
+SC3B3	Dienstleistungen: Eisenbahntransportleistungen; Sonstige als Personen- und Güterbeförderung
+SC3C	Dienstleistungen: Strassentransportleistungen;
+SC3C1	Dienstleistungen: Strassentransportleistungen; Personenbeförderung
+SC3C2	Dienstleistungen: Strassentransportleistungen; Güterbeförderung
+SC3C3	Dienstleistungen: Strassentransportleistungen; Sonstige als Personen- und Güterbeförderung
+SC3D	Dienstleistungen: Transportleistungen in der Binnenschifffahrt
+SC3D1	Dienstleistungen: Transportleistungen in der Binnenschifffahrt; Personenbeförderung
+SC3D2	Dienstleistungen: Transportleistungen in der Binnenschifffahrt; Güterbeförderung
+SC3D3	Dienstleistungen: Transportleistungen in der Binnenschifffahrt; Sonstige
+SC3E	Dienstleistungen: Transport in Rohrfernleitungen
+SC3F	Dienstleistungen: Elektrizitätsübertragung
+SC3G	Dienstleistungen: Sonstige Hilfs- und Nebentätigkeiten für Transportdienstleistungen
+SC4	Dienstleistungen: Post-, Kurier- und Expressdienstleistungen
+SC41X	Dienstleistungen: Postdienstleistungen
+SC42X	Dienstleistungen: Kurier- und Expressdienstleistungen
+SCA	Dienstleistungen: Alle Modi der Transporte; Personenbeförderung
+SCAZ	Dienstleistungen: Alle Modi der Transporte; Personenbeförderung; darunter zahlbar durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+SCB	Dienstleistungen: Alle Modi der Transporte; Güterbeförderung
+SCC	Dienstleistungen: Alle Modi der Transporte; sonstige als Personen- und Güterbeförderung
+SCC1	Dienstleistungen: Alle Modi der Transporte; sonstige als Personen- und Güterbeförderung; sonstige als Post-, Kurier- und Expressdienstleistungen
+SD	Dienstleistungen: Reiseverkehr
+SD1	Dienstleistungen: Reiseverkehr; Waren (Reiseverkehr)
+SD2	Dienstleistungen: Reiseverkehr; Nahverkehrdienstleistungen
+SD3	Dienstleistungen: Reiseverkehr; Unterkunftdienstleistungen
+SD4	Dienstleistungen: Reiseverkehr; Essendienstleistungen
+SD5	Dienstleistungen: Reiseverkehr; Sonstige als Waren (Reiseverkehr), Nahverkehrdienstleistungen, Unterkunftdienstleistungen und Essendienstleistungen
+SD5Y	Dienstleistungen: Reiseverkehr; Sonstige als Waren (Reiseverkehr), Nahverkehrdienstleistungen, Unterkunftdienstleistungen und Essendienstleistungen; darunter Bildungsdienstleistungen
+SD5Z	Dienstleistungen: Reiseverkehr; Sonstige als Waren (Reiseverkehr), Nahverkehrdienstleistungen, Unterkunftdienstleistungen und Essendienstleistungen; darunter Gesundheitdienstleistungen
+SDA	Dienstleistungen: Reiseverkehr; Geschäftsreisen
+SDA1	Dienstleistungen: Reiseverkehr; Geschäftsreisen; Gütererwerb durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+SDA2	Dienstleistungen: Reiseverkehr; Geschäftsreisen; Andere als Gütererwerb durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+SDB	Dienstleistungen: Reiseverkehr; Privatreisen
+SDB1	Dienstleistungen: Reiseverkehr; Privatreisen; Gesundheitsausgaben
+SDB2	Dienstleistungen: Reiseverkehr; Privatreisen; Bildungsausgaben
+SDB3	Dienstleistungen: Reiseverkehr; Privatreisen; Andere als Gesundheitsausgaben und Bildungsausgaben
+SDZ	Dienstleistungen: Tourismus Dienstleistungen im Reiseverkehr und Personenbeförderung
+SE	Dienstleistungen: Bauleistungen
+SE1	Dienstleistungen: Bauleistungen im Ausland
+SE2	Dienstleistungen: Bauleistungen im Inland
+SF	Dienstleistungen: Versicherungs- und Alterssicherungsleistungen
+SF1	Dienstleistungen: Direktversicherungen
+SF11	Dienstleistungen: Lebensversicherungen
+SF11Y	Dienstleistungen: Brutto-Lebensversicherungsprämien, zu empfangen (Einahmen) und zu leisten (Ausgaben)
+SF11Z	Dienstleistungen: Bruttoleistungen aus Lebensversicherungsleistungen, zu empfangen (Einahmen) und zu leisten (Ausgaben)
+SF12	Dienstleistungen: Frachtversicherungen
+SF12Y	Dienstleistungen: Brutto-Frachtversicherungsprämien, zu empfangen (Einahmen) und zu leisten (Ausgaben)
+SF12Z	Dienstleistungen: Bruttoleistungen aus Frachtversicherungsleistungen, zu empfangen (Einahmen) und zu leisten (Ausgaben)
+SF13	Dienstleistungen: Direktversicherungen sonstige als Lebens- und Frachtversicherungen
+SF13Y	Dienstleistungen: Brutto Direktversicherungen (sonstige als Lebens- und Frachtversicherungen), Brutto-Prämien, zu empfangen (Einahmen) und zu leisten (Ausgaben)
+SF13Z	Dienstleistungen: Brutto Direktversicherungen (sonstige als Lebens- und Frachtversicherungen), Brutto-Leistungen, zu empfangen (Einahmen) und zu leisten (Ausgaben)
+SF2	Dienstleistungen: Rückversicherungen
+SF3	Dienstleistungen: Versicherungsnebenleistungen
+SF4	Dienstleistungen: Dienstleistungen von Alterssicherungs- und Standardgarantie-Systemen
+SF41	Dienstleistungen: Dienstleistungen von Alterssicherungssystemen
+SF42	Dienstleistungen: Dienstleistungen von Standardgarantie-Systemen
+SG	Dienstleistungen: Finanzdienstleistungen
+SG1	Dienstleistungen: ausdrücklich in Rechnung gestellte und sonstige Finanzdienstleistungen
+SG2	Dienstleistungen: unterstellte Bankdienstleistungen (FISIM)
+SH	Dienstleistungen: Gebühren für die Nutzung von geistigem Eigentum, a. n. g.
+SH1	Dienstleistungen: Franchise-und Marken Lizenzgebühren
+SH2	Dienstleistungen: Lizenzen zur Nutzung der Ergebnisse von Forschung und Entwicklung
+SH3	Dienstleistungen: Lizenzen um Computersoftware zu reproduzieren und/oder verteilen
+SH4	Dienstleistungen: Lizenzen um audiovisuelle und verbundene Produkte zu reproduzieren und/oder verteilen
+SH41	Dienstleistungen: Lizenzen um audiovisuelle Produkte zu reproduzieren und/oder verteilen
+SH42	Dienstleistungen: Lizenzen um sonstige als audivisuselle Produkte zu reproduzieren und/oder verteilen
+SI	Dienstleistungen: Telekommunikations-, EDV- und Informationsdienstleistungen
+SI1	Dienstleistungen: Telekommunikationsdieinstleistungen
+SI2	Dienstleistungen: EDV-Dienstleistungen
+SI21	Dienstleistungen: Computersoftware
+SI21Z	Dienstleistungen: Computersoftware; darunter: Softwareoriginale
+SI22	Dienstleistungen: EDV-Dienstleistungen sonstige als Computersoftware
+SI3	Dienstleistungen: Informationsdienstleistungen
+SI31	Dienstleistungen: Dienstleistungen von Korrespondenz- und Nachrichtenbüros
+SI32	Dienstleistungen: Informationsdienstleistungen, sonstige als Dienstleistungen von Korrespondenz- und Nachrichtenbüros
+SJ	Dienstleistungen: sonstige unternehmensbezogene Dienstleistungen
+SJ1	Dienstleistungen: Forschung und Entwicklung
+SJ11	Dienstleistungen: Systematisch durchgeführte Arbeiten zur Erweiterung des Kenntnisstands
+SJ111	Dienstleistungen: Bereitstellung kundenspezifischer und nicht kundenspezifischer Forschungsdienstleistungen
+SJ112	Dienstleistungen: Verkauf von Urheberrechte aus Forschung und Entwicklung
+SJ1121	Dienstleistungen: Patente
+SJ1122	Dienstleistungen: Urheberrechte, die aus Forschung und Entwicklung stammen
+SJ1123	Dienstleistungen: Industrielle Prozesse und Designs
+SJ1124	Dienstleistungen: Verkauf von Eigentumsrechten aus Forschung und Entwicklung, sonstige als Patente, Urheberrechte aus Forschung und Entwicklung und industrielle Prozesse und Designs
+SJ12	Dienstleistungen: Forschungs- und Entwicklungsdienstleistungen, andere als systematisch durchgeführte Arbeiten zur Erweiterung des Kenntnisstands
+SJ2	Dienstleistungen: Freiberufliche Dienstleistungen und Managementberatungsleistungen
+SJ21	Dienstleistungen: Rechtsberatung, Wirtschaftsprüfung, Unternehmens- und Public Relations-Beratung
+SJ211	Dienstleistungen: Rechtsberatung
+SJ212	Dienstleistungen: Wirtschaftsprüfung, Buchführung und Steuerberatung
+SJ213	Dienstleistungen: Unternehmens- und Public-Relations-Beratung
+SJ22	Dienstleistungen: Werbung, Marktforschung und Meinungsumfragen
+SJ22Z	Dienstleistungen: Werbung, Marktforschung und Meinungsumfragen; darunter: Konvention, Messe-und Ausstellungsorganisation Dienstleistungen
+SJ3	Dienstleistungen: Technische Dienstleistungen, Handelsdienstleistungen und sonstige übrige unternehmensbezogene Dienstleistungen
+SJ31	Dienstleistungen: Architektur- und Ingenieurdienstleistungen sowie wissenschaftliche und übrige technische Dienstleistungen
+SJ311	Dienstleistungen: Dienstleistungen von Architekten
+SJ312	Dienstleistungen: Ingenieursdienstleistungen
+SJ313	Dienstleistungen: Wissenschaftliche und übrige technische Dienstleistungen
+SJ32	Dienstleistungen: Abfallbehandlung und Reinigungsdienste, Dienstleistungen in Landwirtschaft und Bergbau
+SJ321	Dienstleistungen: Abfallbehandlung und Reinigungsdienste
+SJ322	Dienstleistungen: Nebendienstleisungen für Landwirtschaft, Forstwirtschaft und Fischerei
+SJ323	Dienstleistungen: Nebendienstleisungen fûr Bergbau und Öl-und Gasförderung
+SJ32X	Dienstleistungen: Nebendienstleisungen für Landwirtschaft und Bergbau
+SJ33	Dienstleistungen: Operating Leasing
+SJ34	Dienstleistungen: Handelsdienstleistungen
+SJ35	Dienstleistungen: Übrige unternehmensbezogene Dienstleistungen, a. n. g.
+SJ35Z	Dienstleistungen: Übrige unternehmensbezogene Dienstleistungen, a. n. g.; darunter: Beschäftigungsdienstleistungen d.h. Suche, Praktikum und Vermittlung von Personaldienstleistungen
+SK	Dienstleistungen: Dienstleistungen für persönliche Zwecke, Kultur und Freizeit
+SK1	Dienstleistungen: Audiovisuelle und verwandte Dienstleistungen
+SK11	Dienstleistungen: Audiovisuelle Dienstleistungen
+SK11Z	Dienstleistungen: Audiovisuelle Dienstleistungen; darunter: Audiovisuelle Originale
+SK12	Dienstleistungen: Künstlerisch verwandte Dienstleistungen
+SK2	Dienstleistungen: Übrige Dienstleistungen für persönliche Zwecke, für Kultur und Freizeit, ausser audivisuellen und verwandten Dienstleistungen
+SK21	Dienstleistungen: Übrige Dienstleistungen für persönliche Zwecke, für Kultur und Freizeit; Gesundheitsdienstleistungen, ausser audivisuellen und verwandten Dienstleistungen; Gesundheitsdienstleistungen
+SK22	Dienstleistungen: Übrige Dienstleistungen für persönliche Zwecke, für Kultur und Freizeit; ausser audivisuellen und verwandten Dienstleistungen; Erziehungs- und Unterrichtsdienstleistungen
+SK23	Dienstleistungen: Übrige Dienstleistungen für persönliche Zwecke, für Kultur und Freizeit; ausser audivisuellen und verwandten Dienstleistungen; Dienstleistungen im Zusammenhang mit dem Kulturerbe und der Freizeit
+SK24	Dienstleistungen: Übrige Dienstleistungen für persönliche Zwecke, für Kultur und Freizeit; ausser audivisuellen und verwandten Dienstleistungen, sonstige persönliche Dienstleistungen ass¿er Dienstleistungen für Gesundheit, Kulturerbe und Freizeit
+SL	Dienstleistungen: Staatliche Waren und Dienstleistungen, a. n. g.
+SL1	Dienstleistungen: Botschaften und Konsulate
+SL2	Dienstleistungen: Militärische Einrichtungen und Verteidigungsstellen
+SL3	Dienstleistungen: Staatliche Waren und Dienstleistungen, sonstige als Botschaften und Konsulate und Militärische Einrichtungen und Verteidigungsstellen
+SL31X	Nachrichtliche Position: Dienstleistungen: Staatliche Dienstleistungen; Rückerstattung von Kosten der Mitgliedstaaten bei der Erhebung der Eigenmittel
+SL32X	Dienstleistungen: Staatliche Dienstleistungen; Mieten für Gebäude
+SL33X	Dienstleistungen: Staatliche Dienstleistungen; sonstiges Regierungsleistungen a.n.g.
+SOX	Dienstleistungen: Kommerzielle Dienstleistungen
+SN	Dienstleistungen: Nicht zugeordnete Dienstleistungen
+S1	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Audiovisuelle Transaktionen
+S1Z	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Audiovisuelle Transaktionen; Lizenzen zur Nutzung der Audiovisuellen Produkte
+S2	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Kulturtransaktionen
+S3	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Computersoftware Transaktionen
+S3Z	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Computersoftware Transaktionen; Lizenzen zur Nutzung von Computersoftware-Produkten
+S4	Dienstleistungen: Call-Center Dienstleistungen
+S6	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Gesamthandelbezogene Transaktionen
+S7	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Umwelttransaktionen
+S8	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Gesundheitsdienstleistungen
+S9	Dienstleistungen: EBOPS 2010 komplementäre Gruppierungen: Bildungsdienstleistungen
+S_X_CG	Dienstleistungen ohne Transport und Finanzdienstleistungen
+OTH_S	Sonstige Dienstleistungen
+IN	Primär- und Sekundäreinkommen
+IN1	Primäreinkommen
+D1	Primäreinkommen: Erwerbseinkommen
+D11	Primäreinkommen: Löhne und Gehälter ohne Sozialbeiträge der Arbeitgeber
+D12	Primäreinkommen: Sozialbeiträge der Arbeitgeber
+D4	Vermägenseinkommen
+D4P__F	Primäreinkommen: Vermägenseinkommen
+D4P__D__F	Primäreinkommen: Vermägenseinkommen; Direktinvestitionen
+D42S	Primäreinkommen: Ausschüttungen, Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften und Einkommen verteilt Investmentfonds Aktionäre
+D4S__D__F5	PrimÄreinkommen: Direktinvestitionen, Einkünfte aus Beteiligungskapital
+D42S__D__F5	Primäreinkommen: Direktinvestitionen, Beteiligungskapital, Ausschüttungen, Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften und Einkommen verteilt an Investmentfonds Aktionäre
+D42S__D1__F5	Primäreinkommen: Direktinvestitionen in Direktinvestitionsunternehmen, Beteiligungskapital, Ausschüttungen, Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften und Einkommen verteilt Investmentfonds Aktionäre
+D42S__D2__F5	Primäreinkommen: Direktinvestitionen in Direktinvestoren (Reverse Investment), Beteiligungskapital, Ausschüttungen, Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften und Einkommen verteilt Investmentfonds Aktionäre
+D42S__D3__F5	Primäreinkommen: Direktinvestitionen zwischen Schwesterunternehmen, Beteiligungskapital, Ausschüttungen, Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften und Einkommen verteilt an Investmentfonds Aktionäre
+D43	Primäreinkommen: Direktinvestitionen, reinvestierte Gewinne (ohne Investmentfonds)
+D43S__D__F5	Primäreinkommen: Direktinvestitionen, reinvestierte Gewinne (einschliesslich Investmentfonds)
+D4Q__D__FL	Primäreinkommen: Vermögenseinkommen; Direktinvestitionen, Schuldtitel
+D4Q__D1__FL	Primäreinkommen: Direktinvestitionen in Direktinvestitionsunternehmen, Schuldtitel
+D4Q__D2__FL	Primäreinkommen: Vermögenseinkommen; Direktinvestitionen in Direktinvestoren (Reverse Investment), Schuldtitel
+D4Q__D3__FL	Primäreinkommen: Vermögenseinkommen; Direktinvestitionen zwischen Schwesterunternehmen, Schuldtitel
+D41	Primäreinkommen: Zinsen
+D41__D__FLA	Primäreinkommen: Direktinvestitionen, Schuldtitel, Zinsen
+D41G	Primäreinkommen: Zinsen vor FISIM
+D41G__D__FLA	Primäreinkommen: Direktinvestitionen, Schuldtitel,Zinsen vor FISIM
+D4P__P__F	Primäreinkommen: Vermögenseinkommen; Wertpapieranlagen
+D4S__P__F5	Primäreinkommen: Einkünfte aus Wertpapieranlagen, Anteilsrechten und Anteilen an Investmentfonds
+D42	Primäreinkommen: Ausschüttungen und Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften
+D42__P__F51	Primäreinkommen: Wertpapieranlagen, Dividendenwerte, Ausschüttungen und Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften
+D443__P__F52	Primäreinkommen: Wertpapieranlagen, Anteile an Investmentfonds, Vermögenseinkommen zuzurechnen Investmentfonds Aktionäre
+D4431__P__F52	Primäreinkommen: Wertpapieranlagen, Anteile an Investmentfonds, Ausschüttungen zuzurechnen Investmentfonds Aktionäre
+D4432__P__F52	Primäreinkommen: Wertpapieranlagen, Anteile an Investmentfonds, reinvestierte Gewinne zuzurechnen Investmentfonds Aktionäre
+D41__P__F3	Primäreinkommen: Wertpapieranlagen, Schuldverschreibungen, Zinsen
+D41__P__F3__S	Primäreinkommen: Wertpapieranlagen, Schuldverschreibungen, Zinsen, kurzfristig
+D41__P__F3__L	Primäreinkommen: Wertpapieranlagen, Schuldverschreibungen, Zinsen, langfristig
+D4P__O__F	Primäreinkommen: Vermögenseinkommen; ssbrige Vermögenseinkommen
+D41__O__F12	Primäreinkommen: ssbrige Vermögenseinkommen, Zinsen aus Sonderziehungsrechten (SZR)
+D422__O__F5	Primäreinkommen: ssbrige Vermögenseinkommen, Entnahmen aus dem Einkommen von Quasi-Kapitalgesellschaften
+D41__O__FLA	Primäreinkommen: ssbrige Vermögenseinkommen, Zinsen
+D41G__O__FLA	Primäreinkommen: ssbrige Vermögenseinkommen, Zinsen vor FISIM
+D44P__O__F6	Primäreinkommen: Vermögenseinkommen aus Versicherungsverträgen (Versicherungs-, Alterssicherungs- und Standardgarantie-Systemen)
+D4P__R__F	Primäreinkommen: Vermögenseinkommen; Währungsreserven
+D41__R__FLA	Primäreinkommen: Währungsreserven, Zinsen
+D41G__R__FLA	Primäreinkommen: Währungsreserven, Zinsen vor FISIM
+D4O	Primäreinkommen: Sonstiges Primäreinkommen
+D2	Primäreinkommen: Produktions- und Importabgaben
+D21	Primäreinkommen: Gütersteuern
+D2121EU1	Primäreinkommen: Importabgaben, Zollbasierte Einnahmequellen, Traditionelle Eigenmittel
+D2122EU2	Primäreinkommen: Importabgaben, Agrarabschöpfungen, Handel mit Nichtmitgliedstaaten unter der GAP, Traditionelle Eigenmittel
+D214AEU3	Primäreinkommen: Gütersteuern, Zucker/Isoglukoseabgaben, Traditionelle Eigenmittel
+D21EU	Primäreinkommen: Gütersteuern gegenüber Institutionen der Europäischen Union, Traditionelle Eigenmittel
+D29	Primäreinkommen: Sonstige Produktionsabgaben
+D29EU	Primäreinkommen: Sonstige Produktionsabgaben, EGKS-Abgaben
+D3	Primäreinkommen: Subventionen
+D31	Primäreinkommen: Gütersubventionen
+D31EU	Primäreinkommen: Gütersubventionen, Institutionen der Europäischen Union
+D31EU1	Primäreinkommen: Gütersubventionen - Landwirtschaft und Fischerei
+D39	Primäreinkommen: Sonstige Subventionen ohne Gütersubventionen
+D39EU	Primäreinkommen: Sonstige Subventionen ohne Gütersubventionen, die Institutionen der Europäischer Union
+D39EU1	Primäreinkommen: Sonstige Subventionen - Landwirtschaft und Fischerei
+D39EU2	Primäreinkommen: Sonstige Subventionen - Zinszuschüsse
+D39EU3	Primäreinkommen: Produktionsubventionen - Sonstige ohne Landwirtschaft, Fischerei und Zinszuschüsse
+D45	Primäreinkommen: Pachteinkommen
+IN2	Sekundäreinkommen
+IN21	Sekundäreinkommen, laufende Transfers
+IN22	Sekundäreinkommen, sonstige laufende Transfers ohne persönliche ssbertragungen
+D5	Sekundäreinkommen: Einkommen- und Vermögensteuern
+D51	Sekundäreinkommen: Einkommensteuern
+D59	Sekundäreinkommen: Sonstige direkte Steuern und Abgaben, ohne auf Einkommen
+D5Z	Sekundäreinkommen: Einkommen- und Vermögensteuern zahlbar durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+D6	Sekundäreinkommen: Sozialbeiträge und Sozialleistungen
+D61	Sekundäreinkommen: Sozialbeiträge
+D61Z	Sekundäreinkommen: Sozialbeiträge zahlbar durch Grenzgänger, Saisonarbeiter und andere kurzzeitig Beschäftigte
+D62	Sekundäreinkommen: Monetäre Sozialleistungen
+D63	Sekundäreinkommen: Soziale Sachtransfers
+D7	Sekundäreinkommen: Sonstige laufende Transfers anders als
+D71	Sekundäreinkommen: Nettoprämien für Nichtlebensversicherungen
+D72	Sekundäreinkommen: Nichtlebensversicherungsleistungen
+D73	Sekundäreinkommen: Laufende Transfers innerhalb des Staates
+D74	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit
+D74EU	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit gegenüber Institutionen der Europäischer Union
+D74EU1	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit - Europäischer Entwicklungsfonds
+D74EU2	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit - Europäischer Sozialfonds
+D74EU3	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit - Landwirtschaft und Fischerei
+D74EU4	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit - Europäischer Fonds für regionale Entwicklung
+D74EU5	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit - Europäische Gemeinschaft für Kohle und Stahl
+D74EU6	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit - Sonstige
+D75	Sekundäreinkommen: ssbrige laufende Transfers
+D751	Sekundäreinkommen: Laufende Transfers zu Nichtfinanziellen Kapitalgesellschaften, privaten Haushalten und privaten Organisationen ohne Erwerbszweck
+D752	Sekundäreinkommen: Persönliche ssbertragungen
+D752O	Sekundäreinkommen: Persönliche ssbertragungen, andere als Heimatüberweisungen von Arbeitnehmern
+D752W	Sekundäreinkommen: Heimatüberweisungen von Arbeitnehmern
+R1	Nachrichtliche Position: Persönliche ssberweisungen
+R1WR	Nachrichtliche Position: Heimatüberweisungen von Arbeitnehmern und Erwerbseinkommen
+R2	Nachrichtliche Position: Gesamte ssberweisungen
+R3	Nachrichtliche Position: ssberweisungen und Transfers
+D759	Sekundäreinkommen: Sonstige übrige laufende Transfers
+D76	Sekundäreinkommen: MwSt.- und BNE-Eigenmittel der EU (dritte und vierte Eigenmittelquelle)
+D761	Sekundäreinkommen: MwSt.-Eigenmittel der EU (dritte Eigenmittelquelle)
+D762	Sekundäreinkommen: BNE-Eigenmittel der EU (vierte Eigenmittelquelle)
+D762K	Sekundäreinkommen: Laufende Transfers UK-Rabatt
+D763	Sekundäreinkommen: ssbrige nicht-steuerbasierte Beiträge der Staaten an die Institutionen der Europäischen Union
+D7N	Sekundäreinkommen: Laufende Transfers im Rahmen internationaler Zusammenarbeit und übrige laufende Transfers
+D7O	Sekundäreinkommen: Alle übrigen laufenden Transfers
+D8	Sekundäreinkommen: Zunahme betrieblicher Versorgungsansprüche
+KA	Vermögensübertragungsbilanz
+KAFA	Vermögensänderungs- und Finanzierungskonto
+NP	Bruttoerwerb/-veräusserung von nicht produziertem Sachvermögen
+D9	Vermögenstransfers
+D91	Vermögenswirksame Steuern
+D92	Investitionszuschüsse
+D92EU	Investitionszuschüsse die Institutionen der Europäischen Union einbeziehend
+D92EU1	Landwirtschaft und Fischerei Investitionszuschüsse
+D92EU2	Europäischer Fonds für Regionale Entwicklung Investitionszuschüsse
+D92EU3	Europäischer Entwicklungsfonds - Vermögenstransfers der EU Kommission in Drittländer
+D92EU4	Kohäsionsfonds
+D92EU5	Investitionszuschüsse - Sonstige
+D99	Sonstige Vermögenstransfers
+D99A	Sonstige Vermögenstransfers: Schuldenerlass
+D99B	Sonstige Vermögenstransfers ohne Schuldenerlass
+D99EU	Sonstige Vermögenstransfers mit den Institutionen der Europäischen Union
+D99EU1	Sonstige Vermögenstransfers - Landwirtschaft und Fischerei
+D99EU2	Sonstige Vermögenstransfers - sonstige
+FA	Kapitalbilanz
+FA__D__F	Kapitalbilanz; Direktinvestitionen
+FA__D__F5	Kapitalbilanz; Direktinvestitionen; Beteiligungskapital und Anteile an Investmentfonds
+FA__D__F51	Kapitalbilanz; Direktinvestitionen; Beteiligungskapital
+FA__D__F511	Kapitalbilanz; Direktinvestitionen; Beteiligungskapital; Börsennotierte Aktien
+FA__D__F512	Kapitalbilanz; Direktinvestitionen; Beteiligungskapital; Nicht börsennotierte Aktien
+FA__D__F519	Kapitalbilanz; Direktinvestitionen; Beteiligungskapital; ssbriges (z. B. Immobilien)
+FA__D__F52	Kapitalbilanz; Direktinvestitionen; Anteile an Investmentfonds
+FA__D__F5A	Kapitalbilanz; Direktinvestitionen; Beteiligungskapital ohne reinvestierte Gewinne
+FA__D1__F5A	Kapitalbilanz; Direktinvestitionen in Direktinvestitionsunternehmen; Beteiligungskapital ohne reinvestierte Gewinne
+FA__D2__F5A	Kapitalbilanz; Direktinvestitionen in Direktinvestoren (Reverse Investment); Beteiligungskapital ohne reinvestierte Gewinne
+FA__D3__F5A	Kapitalbilanz; Direktinvestitionen zwischen Schwesterunternehmen; Beteiligungskapital ohne reinvestierte Gewinne
+FA__D1__F5	Kapitalbilanz; Direktinvestitionen in Direktinvestitionsunternehmen; Beteiligungskapital und Anteile an Investmentfonds
+FA__D2__F5	Kapitalbilanz; Direktinvestitionen in Direktinvestoren (Reverse Investment); Beteiligungskapital und Anteile an Investmentfonds
+FA__D3__F5	Kapitalbilanz; Direktinvestitionen zwischen Schwesterunternehmen; Beteiligungskapital und Anteile an Investmentfonds
+FA__D__F5B	Kapitalbilanz; Direktinvestitionen; Einbehaltene Gewinne
+FA__D__FL	Kapitalbilanz; Direktinvestitionen; Schuldtitel
+FA__D1__FL	Kapitalbilanz; Direktinvestitionen in Direktinvestitionsunternehmen; Schuldtitel
+FA__D2__FL	Kapitalbilanz; Direktinvestitionen in Direktinvestoren (Reverse Investment); Schuldtitel
+FA__D3__FL	Kapitalbilanz; Direktinvestitionen zwischen Schwesterunternehmen; Schuldtitel
+FA__P__F	Kapitalbilanz; Wertpapieranlagen
+FA__P__F5	Kapitalbilanz; Wertpapieranlagen; Anteilsrechte und Anteile an Investmentfonds
+FA__P__F51	Kapitalbilanz; Wertpapieranlagen; Dividendenwerte
+FA__P__F511	Kapitalbilanz; Wertpapieranlagen; Dividendenwerte; Börsennotierte Aktien
+FA__P__F512	Kapitalbilanz; Wertpapieranlagen; Dividendenwerte; nicht-börsennotierte Aktien
+FA__P__F519	Kapitalbilanz; Wertpapieranlagen; Dividendenwerte; Sonstige
+FA__P__F52	Kapitalbilanz; Wertpapieranlagen; Investmentfondsanteile
+FA__P__F52B	Kapitalbilanz; Wertpapieranlagen; einbehaltene Gewinne
+FA__P__F3	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen
+FA__P__F3__S	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; kurzfristig
+FA__P__F3__EUR	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; Nach Währung; Euro
+FA__P__F3__T__EUR	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; Nach Währung; Euro
+FA__P__F3__USD	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; Nach Währung; US-Dollar
+FA__P__F3__T__USD	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; Nach Währung; US-Dollar
+FA__P__F3__X4	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; Nach Währung; Sonstige Währungen als Euro und US-Dollar
+FA__P__F3__T__X4	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; Nach Währung; Sonstige Währungen als Euro und US-Dollar
+FA__P__F3__S__EUR	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; kurzfristig; Nach Währung; Euro
+FA__P__F3__S__USD	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; kurzfristig; Nach Währung; US-Dollar
+FA__P__F3__S__X4	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; kurzfristig; Nach Währung; Sonstige Währungen als Euro und US-Dollar
+FA__P__F3__L	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; langfristig
+FA__P__F3__LS	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; langfristig; ursprüngliche Laufzeit über 1 Jahr, kurzfristige Restlaufzeit (bis zu 1 Jahr)
+FA__P__F3__LL	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; langfristig; ursprüngliche Laufzeit über 1 Jahr, langfristige Restlaufzeit (über 1 Jahr)
+FA__P__F3__L__EUR	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; langfristig; nach Währung; Euro
+FA__P__F3__L__USD	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; langfristig; nach Währung; US-Dollar
+FA__P__F3__L__X4	Kapitalbilanz; Wertpapieranlagen; Schuldverschreibungen; langfristig; Nach Währung; Sonstige Währungen als Euro und US-Dollar
+FA__F__F7	Kapitalbilanz; Finanzderivate und Mitarbeiteraktienoptionen
+FA__O__F	Kapitalbilanz; ssbriger Kapitalverkehr
+FA__O__F12	Kapitalbilanz; ssbriger Kapitalverkehr; SZR
+FA__O__F2	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld und Einlagen
+FA__O__F2__EUR	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld und Einlagen in Euro-Währung
+FA__O__F2__T__EUR	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld und Einlagen in Euro-Währung
+FA__O__F2__S	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld und Einlagen; kurzfristig
+FA__O__F2__L	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld und Einlagen; langfristig
+FA__O__F21__EUR	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld; Intra-Eurosystem technische Ansprüche und Verbindlichkeiten
+FA__O__F21__S__EUR	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld; Intra-Eurosystem technische Ansprüche und Verbindlichkeiten; kurzfristig
+FA__O__F221C__S__EUR	Kapitalbilanz; ssbriger Kapitalverkehr; Bargeld und Einlagen; Zentralbank; Intra-Eurosystem technische Ansprüche und Verbindlichkeiten
+FA__O__F4	Kapitalbilanz; ssbriger Kapitalverkehr; Kredite
+FA__O__F4__S	Kapitalbilanz; ssbriger Kapitalverkehr; Kredite; kurzfristig
+FA__O__F4__L	Kapitalbilanz; ssbriger Kapitalverkehr; Kredite; langfristig
+FA__O__F519	Kapitalbilanz; ssbriger Kapitalverkehr; Sonstige Anteilsrechte
+FA__O__F6	Kapitalbilanz; ssbriger Kapitalverkehr; Versicherungs-, Alterssicherungs- und Standardgarantie-Systeme
+FA__O__F81	Kapitalbilanz; ssbriger Kapitalverkehr; Handelskredite und Anzahlungen
+FA__O__F81__S	Kapitalbilanz; ssbriger Kapitalverkehr; Handelskredite und Anzahlungen
+FA__O__F81__L	Kapitalbilanz; ssbriger Kapitalverkehr; Handelskredite und Anzahlungen
+FA__O__F89	Kapitalbilanz; ssbriger Kapitalverkehr; Sonstige Forderungen/Verbindlichkeiten
+FA__O__F89__S	Kapitalbilanz; ssbriger Kapitalverkehr; Sonstige Forderungen/Verbindlichkeiten; kurzfristig
+FA__O__F89__L	Kapitalbilanz; ssbriger Kapitalverkehr; Sonstige Forderungen/Verbindlichkeiten; langfristig
+FA__R__F	Kapitalbilanz; Währungsreserven
+FA__R__F1	Kapitalbilanz; Währungsreserven; Währungsgold und Sonderziehungsrechte (SZR)
+FA__R__F11	Kapitalbilanz; Währungsreserven; Währungsgold
+FA__R__F11A	Kapitalbilanz; Währungsreserven; Goldbullion
+FA__R__F11B	Kapitalbilanz; Währungsreserven; Goldkonten ohne Zuweisung
+FA__R__F12	Kapitalbilanz; Währungsreserven; Sonderziehungsrechte (SZR)
+FA__R__F2	Kapitalbilanz; Währungsreserven; Bargeld und Einlagen
+FA__R__FK	Kapitalbilanz; Währungsreserven; Reserveposition beim Internationalen Währungsfonds (IWF)
+FA__R__FR1	Kapitalbilanz; Währungsreserven; Wertpapiere (Anteilsrechte, Anteile an Investmentfonds und Schuldverschreibungen)
+FA__R__FR2	Kapitalbilanz; Währungsreserven; ssbrige Währungsreserven (Bargeld, Einlagen, Wertpapiere, Finanzderivate und sonstige Forderungen)
+FA__R__FR41	Kapitalbilanz; Währungsreserven; Sonstige Forderungen
+FA__R__F3	Kapitalbilanz; Währungsreserven; Schuldverschreibungen
+FA__R__F3__S	Kapitalbilanz; Währungsreserven; Schuldverschreibungen; kurzfristig
+FA__R__F3__L	Kapitalbilanz; Währungsreserven; Schuldverschreibungen; langfristig
+FA__R__F5	Kapitalbilanz; Währungsreserven; Anteilsrechte und Anteile an Investmentfonds
+FA__R__F71	Kapitalbilanz; Währungsreserven; Finanzderivate
+EO	Saldo der statistisch nicht aufgliederbaren Transaktionen
+FA__T__F1	Kapitalbilanz; alle Funktionskategorien; Währungsgold und Sonderziehungsrechte (SZR)
+FA__T__F2	Kapitalbilanz; alle Funktionskategorien; Bargeld und Einlagen
+FA__T__F3	Kapitalbilanz; alle Funktionskategorien; Schuldverschreibungen
+FA__T__F4	Kapitalbilanz; alle Funktionskategorien; Kredite
+FA__T__F5	Kapitalbilanz; alle Funktionskategorien; Anteilsrechte und Anteile an Investmentfonds
+FA__T__F6	Kapitalbilanz; alle Funktionskategorien; Versicherungs-, Alterssicherungs- und Standardgarantie-Systeme
+FA__T__F7	Kapitalbilanz; alle Funktionskategorien; Finanzderivate und Mitarbeiteraktienoptionen
+FA__T__F8	Kapitalbilanz; alle Funktionskategorien; Sonstige Forderungen/Verbindlichkeiten
+FA__TXR__F	Kapitalbilanz ohne Währungsreserven
+FA__FNED	Netto-Auslandsschuld
+FA__FGED	Brutto-Auslandsschuld
+FA__NENDI	Netto-Auslandsvermögensstatus mit Ausnahme nicht ausfallgefährdeter Instrumente

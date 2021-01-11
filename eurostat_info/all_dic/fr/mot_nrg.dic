@@ -1,0 +1,22 @@
+TOTAL	Total
+PET	Produits pétroliers
+LPG	Gaz de pétrole liquéfié (GPL)
+DIE	Diesel
+GAS	Gaz naturel
+ELC	Electricité
+ALT	Energie alternative
+PET_X_HYB	Essence (hors hybrides)
+ELC_PET_HYB_PI	Hybride essence-électrique et hybride essence-électrique rechargeable
+ELC_PET_HYB	Hybride essence-électrique
+ELC_PET_PI	Hybride essence-électrique rechargeable
+DIE_X_HYB	Diesel (hors hybrides)
+ELC_DIE_HYB_PI	Hybride diesel-électrique et hybride diesel-électrique rechargeable
+ELC_DIE_HYB	Hybride diesel-électrique
+ELC_DIE_PI	Hybride diesel-électrique rechargeable
+HYD_FCELL	Hydrogène et piles à combustible
+BIOETH	Bioéthanol
+BIODIE	Biodiesel
+BIFUEL	Bi-carburant
+CNG	Gaz naturel comprimé (GNC)
+LNG	Gaz naturel liquéfié (GNL)
+OTH	Autres

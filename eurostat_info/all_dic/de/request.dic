@@ -1,0 +1,17 @@
+TOTAL	Gesuche insgesamt (Gesuche und Gesuche um neuerliche Prüfung)
+REQ	Gesuche
+RX_REQ	Gesuche um neuerliche Prüfung
+INFO	Informationsersuchen
+INFO_GEN	Informationsersuchen: allgemeine Gründe (Artikel 34.5)
+INFO_UAM	Informationsersuchen: Familien von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+INFO_DEP	Informationsersuchen: Familien von abhängigen Personen (Artikel 16.4)
+RESP	Antworten auf Informationsersuchen
+RESP_GEN	Antworten auf Informationsersuchen: allgemeine Gründe (Artikel 34.5)
+RG_W1-5	Antworten auf Informationsersuchen innerhalb von 5 Wochen erhalten: allgemeine Gründe (Artikel 34.5)
+RG_W_GT5	Antworten auf Informationsersuchen nach mehr als 5 Wochen erhalten: allgemeine Gründe (Artikel 34.5)
+RESP_UAM	Antworten auf Informationsersuchen: Familien von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+RU_W1-5	Antworten auf Informationsersuchen innerhalb von 5 Wochen erhalten: Familien von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+RU_W_GT5	Antworten auf Informationsersuchen nach mehr als 5 Wochen erhalten: Familien von unbegleiteten Minderjährigen (Artikel 6.5 und 8.6)
+RESP_DEP	Antworten auf Informationsersuchen: Familien von abhängigen Personen (Artikel 16.4)
+RD_W1-5	Antworten auf Informationsersuchen innerhalb von 5 Wochen erhalten: Familien von abhängigen Personen (Artikel 16.4)
+RD_W_GT5	Antworten auf Informationsersuchen nach mehr als 5 Wochen erhalten: Familien von abhängigen Personen (Artikel 16.4)

@@ -1,0 +1,17 @@
+TOTAL	Insgesamt
+FIN	Finanzielle Gründe
+NINT	Kein Interesse
+NTIME_FAM	Keine Zeit wegen der Familie
+NTIME_WRK_STU	Keine Zeit aufgrund von Arbeit oder Studium
+PERS	Persönliche Gründe
+PER	Persönliche Gründe
+PER_HOL	Urlaub, Freizeit und Erholung
+PER_RF	Besuch von Freunden und Verwandten
+PER_OTH	Sonstige persönliche Gründe
+PROF	Dienstlich, geschäftlich
+HLTH	Gesundheitliche Gründe
+SAFE	Sicherheitsgründe
+PERS_HOL	Urlaub, Freizeit und Erholung
+PERS_VFR	Besuch bei Freunden, Bekannten und Verwandten
+PERS_OTH	Sonstige persönliche Gründe
+OTH	Sonstige

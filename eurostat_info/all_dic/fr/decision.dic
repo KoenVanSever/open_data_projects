@@ -1,0 +1,42 @@
+TOTAL	Total
+POS	Décision positive
+POS_RFG	Décision positive - statut de réfugié
+POS_HUM	Décision positive - statut humanitaire
+POS_SPROT	Décision positive - statut de protection subsidiaire
+POS_TPROT	Décision positive - statut de protection temporaire
+POS_PART	Décision partiellement positive
+POS_OTH	Décision positive - autre
+NSTA	Décision de non-statut
+NEG	Décision négative
+PEN	Décision en attente à la fin de la période
+CHG	Décision de changer
+RNEW	Décision de renouveler
+GRNT	Décision d'accorder
+GRNT_FRST	Décision de délivrer un premier permis
+WDN	Décision de retrait
+NOTF_RECV	Notification reçue
+NOTF_OBJ	Notification d'objection
+TOTAL_POS	Nombre total de décisions positives
+GENCONV	Statut de la convention de Genève
+HUMSTAT	Statut humanitaire
+OTH_POS	Autre décisions positives
+OTH_NONST	Autres décisions ne portant pas sur le statut
+APP_PENDING	Demandes en cours à la fin de la période
+GRANTED	Accordé
+FIRST	Permis délivré pour la première fois
+CHANGED	Changé
+REJECTED	Rejeté
+RENEWED	Renouvelé 
+WITHDRAWN	Retraits
+SUB_PROT	Statut de protection subsidiaire
+TEMP_PROT	Statut de protection temporaire
+ACC	Demandes acceptées
+PART	Demandes partiellement acceptées
+REF	Demandes refusées
+RECV	Notifications reçues
+OBJ	Notifications d'objection
+SOV	Clause de souveraineté (Article 17.1)
+RESP_DEF	Responsabilité par défaut
+RD_NCRI	Responsabilité par défaut: Pas de critères préalables applicables (Article 3.2 premier paragr.)
+RD_NTRF	Responsabilité par défaut: Pas de transfert (Article 3.2 deuxième et troisième paragr.)
+RD_NTL	Responsabilité par défaut: Transfert non exécuté dans les délais (Article 29.2)

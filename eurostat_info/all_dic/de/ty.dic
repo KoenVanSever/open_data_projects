@@ -1,0 +1,27 @@
+TY0001	Laufende Ausgaben plus Kapitalaufwendungen
+TY0002	Investitionen
+TY0003	End-of-pipe Technik 
+TY0004	Integrierte Technologien
+TY0005	Laufende Ausgaben
+TY0006	Interne laufende Ausgaben
+TY0007	Löhne und Gehälter
+TY0008	Sonstige
+TY0009	Externe laufende Ausgaben
+TY0010	Gebühren und andere Zahlungen an öffentliche Unternehmen
+TY0011	Zahlungen an private Unternehmen
+TY0012	Betriebsergebnis aus Umweltschutzaktivitäten
+TY0013	Verkäufe an verbundenen Dienstleistungen 
+TY0014	Ersparnisse/Kostenüberschreitungen
+TY0015	Beschäftigte - Zahl der Personen
+TY0016	Kapitalaufwendungen
+TOT_EGSS	Insgesamt Umweltgüter und-Dienstleistungssektor
+ANC	Hilfstätigkeiten
+MKT	Marktbestimmte Tätigkeiten
+ES_CS	Marktbestimmte Tätigkeiten: Umweltschutzdienstleistungen und verbundene Dienstleistungen 
+GDC	Marktbestimmte Tätigkeiten: Verbundene Waren 
+GDA	Marktbestimmte Tätigkeiten: Umweltfreundliche Waren
+TCE	Marktbestimmte Tätigkeiten: nachgeschaltete Technologien ("end-of-pipe")
+TCI	Marktbestimmte Tätigkeiten: Integrierte Technologien
+C_REP	Marktbestimmte Tätigkeiten: sauberere und ressourceneffizientere Produckte  
+NMKT	Nichtmarktbestimmte Tätigkeiten
+OWN_USE	Tätigkeiten für die Eigenverwendung

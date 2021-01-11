@@ -1,0 +1,144 @@
+NMIGRAT	Wanderungssaldo - insgesamt
+IMMIGR	Einwanderung - insgesamt
+EMIGR	Auswanderung - insgesamt
+JAN	Bevölkerung am 1. Januar - insgesamt
+MJAN	Bevölkerung am 1. Januar - Männer
+FJAN	Bevölkerung am 1. Januar, Frauen
+AVG	Bevölkerungsdurchschnitt - insgesamt
+MAVG	Bevölkerungsdurchschnitt - Männer
+FAVG	Bevölkerungsdurchschnitt - Frauen
+BIRTH	Geburten
+LBIRTH	Lebendgeburten - insgesamt
+MLBIRTH	Lebendgeburten - Männer
+FLBIRTH	Lebendgeburten - Frauen
+LBIRTH_NR	Lebendgeburten - Anzahl
+LBIRTHOUT	Außereheliche Geburten
+DEATH	Sterbefälle - insgesamt
+MDEATH	Sterbefälle - Männer
+FDEATH	Sterbefälle - Frauen
+DEATH_NR	Sterbefälle -  Anzahl
+DEATHUN5	Sterberate unter 5 Jahre (per 1000 Lebendgeburten)
+NATGROW	Natürliche Bevölkerungsveränderung
+CNMIGRAT	Wanderungssaldo einschliesslich statistischer Anpassungen
+INTL_MIG	Internationale Wanderung
+INTRG_MIG	Interregionale Wanderung
+GROW	Bevölkerungsveränderung insgesamt
+GBIRTHRT	Bruttogeburtenziffer
+GBIRTHRT_THSP	Bruttogeburtenziffer - Pro tausend Personen
+GDEATHRT	Bruttosterbeziffer
+GDEATHRT_THSP	Bruttosterbeziffer  - Pro tausend Personen
+NATGROWRT	Rate der natürlichen Bevölkerungsveränderung
+CNMIGRATRT	Rate des Wanderungssaldos einschliesslich statistischer Anpassungen
+GROWRT	Rate der Bevölkerungsveränderung insgesamt
+POPT	Summe der Bevölkerungsentwicklung
+NATT	Summe der Geburten und Todesfälle
+MIGT	Summe der Ein- und Auswanderungen einschliesslich statistischer Anpassungen
+POPTRT	Rate der Summe der Bevölkerungsentwicklung
+NATTRT	Rate der Summe der Bevölkerungsentwicklung
+MIGTRT	Rate der Summe der Ein- und Auswanderungen einschliesslich statistischer Anpassungen
+MAR	Ehelich
+NMAR	Außerehelich
+NMARPCT	Anteil der außerehelichen Lebendgeburten
+TOTFERRT	Gesamtfruchtbarkeitsrate
+AGEMOTH	Durchschnittsalter der Mutter bei der Geburt
+AGEMOTH1	Durchschnittsalter der Frauen bei der Geburt des ersten Kindes
+MEDAGEMOTH	Medianalter der Mutter bei der Geburt
+LBIRTHR1PC	Prozentsatz der Erstlebendgeburten
+LBIRTHR2PC	Prozentsatz der Zweitlebendgeburten
+LBIRTHR3PC	Prozentsatz der Drittlebendgeburten
+LBIRTHR4_MAXPC	Prozentsatz der Viert- und Mehrlebendgeburten
+INFMOR	Säuglingssterblichkeit
+INFMORRT	Säuglingssterbeziffer
+NEOMORRT	Neonatalsterbeziffer
+ENEOMORRT	Frühneonatalsterbeziffer
+LFOEMORRT	Totgeborenenquote
+PERIMORRT	Perinatalsterberziffer
+LEXPEC	Lebenserwartung bei der Geburt
+MLEXPEC	Lebenserwartung bei der Geburt - Männer
+FLEXPEC	Lebenserwartung bei der Geburt - Frauen
+MARRIAGE	Eheschließungen
+GNUPRT	Bruttoeheschließungsziffer
+AGEMAR1	Durchschnittliches Ersteheschließungsalter
+DIV	Ehescheidungen
+GDIVRT	Scheidungsziffer
+DEATHRATE	Altersspezifische Sterbeziffer (Mx)
+PROBDEATH	Sterbewahrscheinlichkeit vom Alter x bis x+1 (qx)
+PROBSURV	Überlebenswahrscheinlichkeit vom Alter x bis x+1 (px)
+SURVIVORS	Überlebende im Alter x (lx)
+NUMBERDYING	Gestorbene im Alter x bis unter x+1 (dx)
+PYLIVED	Von den Überlebenden im Alter x bis zum Alter x+1 durchlebte Jahre (Lx)
+TOTPYLIVED	Von den Überlebenden im Alter x ingesamt noch zu durchlebende Jahre (Tx)
+LIFEXP	Lebenserwartung im Alter x in Jahren (ex)
+POPSHARE_EU27_2020	Bevölkerung in Prozent der EU27-Bevölkerung (ab 2020)
+POPSHARE	Bevölkerung in Prozent der EU28-Bevölkerung (2013-2020)
+MEDAGEPOP	Medianalter der Bevölkerung
+PC_Y0_4	Anteil der Bevölkerung im Alter von 0-4 Jahren
+PC_Y0_14	Anteil der Bevölkerung  jünger als 15 Jahre
+PC_Y0_19	Anteil der Bevölkerung jünger als 20 Jahre
+PC_Y5_9	Anteil der Bevölkerung im Alter von 5-9 Jahren
+PC_Y10_14	Anteil der Bevölkerung im Alter von 10-14 Jahren
+PC_Y15_19	Anteil der Bevölkerung im Alter von 15-19 Jahren
+PC_Y15_24	Anteil der Bevölkerung im Alter von 15-24 Jahren
+PC_Y15_64	Anteil der Bevölkerung im Alter von 15-64 Jahren
+PC_Y20_24	Anteil der Bevölkerung im Alter von 20-24 Jahren
+PC_Y20_39	Anteil der Bevölkerung im Alter von 20-39 Jahren
+PC_Y25_44	Anteil der Bevölkerung im Alter von 25-44 Jahren
+PC_Y25_29	Anteil der Bevölkerung im Alter von 25-29 Jahren
+PC_Y25_49	Anteil der Bevölkerung im Alter von 25-49 Jahren
+PC_Y30_34	Anteil der Bevölkerung im Alter von 30-34 Jahren
+PC_Y35_39	Anteil der Bevölkerung im Alter von 35-39 Jahren
+PC_Y40_44	Anteil der Bevölkerung im Alter von 40-44 Jahren
+PC_Y40_59	Anteil der Bevölkerung im Alter von 40-59 Jahren
+PC_Y45_49	Anteil der Bevölkerung im Alter von 45-49 Jahren
+PC_Y45_64	Anteil der Bevölkerung im Alter von 45-64 Jahren
+PC_Y50_54	Anteil der Bevölkerung im Alter von 50-54 Jahren
+PC_Y50_64	Anteil der Bevölkerung im Alter von 50-64 Jahren
+PC_Y55_59	Anteil der Bevölkerung im Alter von 55-59 Jahren
+PC_Y60_64	Anteil der Bevölkerung im Alter von 60-64 Jahren
+PC_Y60_79	Anteil der Bevölkerung im Alter von 60-79 Jahren
+PC_Y60_MAX	Anteil der Bevölkerung im Alter von 60 und mehr Jahren
+PC_Y65_69	Anteil der Bevölkerung im Alter von 65-69 Jahren
+PC_Y65_79	Anteil der Bevölkerung im Alter von 65-79 Jahren
+PC_Y65_MAX	Anteil der Bevölkerung im Alter von 65 und mehr Jahren
+PC_Y70_74	Anteil der Bevölkerung im Alter von 70-74 Jahren
+PC_Y75_79	Anteil der Bevölkerung im Alter von 75-79 Jahren
+PC_Y80_84	Anteil der Bevölkerung im Alter von 80-84 Jahren
+PC_Y80_MAX	Anteil der Bevölkerung im Alter von 80 und mehr Jahren
+PC_Y85_MAX	Anteil der Bevölkerung im Alter von 85 und mehr Jahren
+PC_FM	Zahl der Frauen pro 100 Männer
+DEPRATIO1	Gesamtbelastungsquote, 1. Variante (Anteil der Bevölkerung unter 15 Jahren und im Alter von 65 und mehr Jahren bezogen auf die Bevölkerung im Alter von 15 bis 65 Jahren)
+DEPRATIO2	Gesamtbelastungsquote, 2. Variante (Anteil der Bevölkerung unter 20 Jahren und im Alter von 60 und mehr Jahren bezogen auf die Bevölkerung im Alter von 20 bis 59 Jahren)
+YOUNGDEP1	Jugendlastenquote, 1. Variante (Anteil der Bevölkerung unter 15 Jahren bezogen auf die Bevölkerung im Alter von 15 bis 64 Jahren)
+YOUNGDEP2	Jugendlastenquote, 2. Variante (Anteil der Bevölkerung unter 20 Jahren bezogen auf die Bevölkerung im Alter von 20 bis 59 Jahren)
+OLDDEP1	Alterslastenquote, 1. Variante (Anteil der Bevölkerung im Alter von 65 und mehr Jahren bezogen auf die Bevölkerung im Alter von 15 bis 64 Jahren)
+OLDDEP2	Alterslastenquote, 2. Variante (Anteil der Bevölkerung im Alter von 60 und mehr Jahren bezogen auf die Bevölkerung im Alter von 20 bis 59 Jahren)
+MAGEMAR1	Durchschnittliches Ersteheschließungsalter - Männer
+FAGEMAR1	Durchschnittliches Ersteheschließungsalter - Frauen
+MMAR1CUM	Gesamt-Ersteheschließungsziffer - Männer
+FMAR1CUM	Gesamt-Ersteheschließungsziffer - Frauen
+ABORTRT	Rohe Schwangerschaftsabbruchsziffer
+ABRATIO	Schwangerschaftsabbruchsproportion
+MMAR1PC	Anteil der Ersteheschließungen - Männern
+FMAR1PC	Anteil der Ersteheschließungen - Frauen
+TOTDIVRT	Gesamtscheidungsziffer
+DURMAR	Durchschnittsdauer der Ehe bei der Ehescheidung
+MEDDURMAR	Mediandauer der Ehe bei der Ehescheidung
+DIVMARPCT	Anzahl der Ehescheidungen je 100 Eheschließungen
+AGEMOTH2	Durchschnittsalter der Frauen bei der Geburt des zweiten Kindes
+AGEMOTH3	Durchschnittsalter der Frauen bei der Geburt des zweiten Kindes
+AGEMOTH4_MAX	Durchschnittsalter der Frauen bei der Geburt des vierten und mehrlebenden Kindes
+GREPRT	weibliche Bruttoreproduktionsziffer
+NREPRT	weibliche Nettoreproduktionsziffer
+MMEDAGEPOP	Medianalter der Bevölkerung - Männern
+FMEDAGEPOP	Medianalter der Bevölkerung - Frauen
+UNK	Unbekannt
+DEPRATIO3	Gesamtbelastungsquote, 3. Variante (Anteil der Bevölkerung unter 20 Jahren und im Alter von 65 und mehr Jahren bezogen auf die Bevölkerung im Alter von 20 bis 64 Jahren)
+DEPRATIO4	Gesamtbelastungsquote, 4. Variante (Anteil der Bevölkerung unter 25 Jahren und im Alter von 65 und mehr Jahren bezogen auf die Bevölkerung im Alter von 25 bis 64 Jahren)
+YOUNGDEP3	Jugendlastenquote, 3. Variante (Anteil der Bevölkerung unter 20 Jahren bezogen auf die Bevölkerung im Alter von 20 bis 64 Jahren)
+YOUNGDEP4	Jugendlastenquote, 4. Variante (Anteil der Bevölkerung unter 25 Jahren bezogen auf die Bevölkerung im Alter von 25 bis 64 Jahren)
+OLDDEP3	Alterslastenquote, 3. Variante (Anteil der Bevölkerung im Alter von 65 und mehr Jahren bezogen auf die Bevölkerung im Alter von 20 bis 64 Jahren)
+OLDDEP4	Alterslastenquote, 4. Variante (Anteil der Bevölkerung im Alter von 65 und mehr Jahren bezogen auf die Bevölkerung im Alter von 25 bis 64 Jahren)
+PC_Y0_17	Anteil der Bevölkerung jünger als 18 Jahre
+PC_Y0_24	Anteil der Bevölkerung jünger als 25 Jahre
+PC_Y20_64	Anteil der Bevölkerung im Alter von 20-64 Jahren
+PC_Y24_64	Anteil der Bevölkerung im Alter von 24-64 Jahren

@@ -1,0 +1,640 @@
+HOLD_HOLD	Betr: Anz. Betriebe
+HOLDSL_HOLD	Betr: Betriebe mit alleinigem Inhaber
+HOLDLEG_GRP_HOLD	Betr: Juristische Personen oder Gruppenbetriebe
+AGRAREA_HA	ha: Landwirtschaftliche Fläche
+AGRAREA_HOLD	Betriebe mit Landwirtschaftliche Fläche
+AGRAREA_LSU	GVE der Betriebe mit Landwirtschaftliche Fläche
+B_1_HA	ha: Ackerland
+B_1_HOLD	Betr: Ackerland
+B_1_1_HA	ha: Getreide
+B_1_1_HOLD	Betr: Getreide
+B_1_1_1_HA	ha: Weichweizen und Spelz
+B_1_1_1_HOLD	Betr: Weichweizen und Spelz
+B_1_1_2_HA	ha: Hartweizen
+B_1_1_2_HOLD	Betr: Hartweizen
+B_1_1_3_HA	ha: Roggen
+B_1_1_3_HOLD	Betr: Roggen
+B_1_1_4_HA	ha: Gerste
+B_1_1_4_HOLD	Betr: Gerste
+B_1_1_5_HA	ha: Hafer
+B_1_1_5_HOLD	Betr: Hafer
+B_1_1_6_HA	ha: Körnermais
+B_1_1_6_HOLD	Betr: Körnermais
+B_1_1_7_HA	ha: Reis
+B_1_1_7_HOLD	Betr: Reis
+B_1_1_99_HA	ha: Sonstiges Getreide
+B_1_1_99_HOLD	ha: Sonstiges Getreide
+B_1_2_HA	ha: Hülsenfrüchte
+B_1_2_HOLD	Betr: Hülsenfrüchte
+B_1_345_HA	ha: Hackfrüchte
+B_1_345_HOLD	hold: Hackfrüchte
+B_1_3_HA	ha: Kartoffeln
+B_1_3_HOLD	Betr: Kartoffeln
+B_1_4_HA	ha: Zuckerrüben
+B_1_4_HOLD	Betr: Zuckerrüben
+B_3_99_HA	ha: Futterfläche
+B_3_99_HOLD	Betr: Futterfläche
+B_1_5_HA	ha: Futterhackfrüchte
+B_1_5_HOLD	Betr: Futterhackfrüchte
+B_1_6_HA	ha: Handelsgewächse
+B_1_6_HOLD	Betr: Handelsgewächse
+B_1_6_1_HA	ha: Tabak
+B_1_6_1_HOLD	Betr: Tabak
+B_1_6_2_HA	ha: Hopfen
+B_1_6_2_HOLD	Betr: Hopfen
+B_1_6_3_HA	ha: Baumwolle
+B_1_6_3_HOLD	Betr: Baumwolle
+B_1_6_4_HA	ha: Raps und Rübsen
+B_1_6_4_HOLD	Betr: Raps und Rübsen
+B_1_6_5_HA	ha: Sonnenblumen
+B_1_6_5_HOLD	Betr: Sonnenblumen
+B_1_6_6_HA	ha: Soja
+B_1_6_6_HOLD	Betr: Soja
+B_1_6_7_11_HA	ha: Sonstige Ölsaaten oder Textilpflanzen
+B_1_6_7_11_HOLD	Betr: Sonstige Ölsaaten oder Textilpflanzen
+B_1_6_12_HA	ha: Heil-, Duft- und Gewürzpflanzen
+B_1_6_12_HOLD	Betr: Heil-, Duft- und Gewürzpflanzen
+B_1_6_99_HA	ha: Andere Handelsgewächse
+B_1_6_99_HOLD	Betr: Andere Handelsgewächse
+B_4_7_7_2_8_2_HA	ha: Unter Glas: Gemüse, Blumen, Dauerkulturen
+B_4_7_7_2_8_2_HOLD	Betr: Unter Glas: Gemüse, Blumen, Dauerkulturen
+B_1_7_HA	ha: Gemüse, Melonen, Erdbeeren
+B_1_7_HOLD	Betr: Gemüse, Melonen, Erdbeeren
+B_1_7_1_HA	ha: Im Freiland: Gemüse, Melonen, Erdbeeren
+B_1_7_1_HOLD	Betr: Im Freiland: Gemüse, Melonen, Erdbeeren
+B_1_7_1_1_HA	ha: Feldanbau: Im Freiland: Gemüse, Melonen, Erdbeeren
+B_1_7_1_1_HOLD	Betr: Feldanbau: Im Freiland: Gemüse, Melonen, Erdbeeren
+B_1_7_1_2_HA	ha: Gartenbaukulturen: Im Freiland:Gemüse, Melonen, Erdbeeren
+B_1_7_1_2_HOLD	Betr: Gartenbaukulturen: Im Freiland:Gemüse, Melonen, Erdbeeren
+B_1_7_2_HA	ha: Unter Glas: Gemüse, Melonen, Erdbeeren
+B_1_7_2_HOLD	Betr: Unter Glas: Gemüse, Melonen, Erdbeeren
+B_1_8_HA	ha: Blumen und Zierpflanzen
+B_1_8_HOLD	Betr: Blumen und Zierpflanzen (ohne Baumschulen)
+B_1_8_1_HA	ha: Im Freiland:Blumen und Zierpflanzen (ohne Baumschulen)
+B_1_8_1_HOLD	Betr: Im Freiland:Blumen und Zierpflanzen (ohne Baumschulen)
+B_1_8_2_HA	ha: Unter Glas: Blumen und Zierpflanzen (ohne Baumschulen)
+B_1_8_2_HOLD	Betr: Unter Glas: Blumen und Zierpflanzen (ohne Baumschulen)
+B_1_9_HA	ha: Futterpflanzen
+B_1_9_HOLD	Betr: Futterpflanzen
+B_1_9_1_HA	ha: Futterpflanzen - Ackerwiesen und -weiden
+B_1_9_1_HOLD	Betr: Futterpflanzen - Ackerwiesen und -weiden
+B_1_9_2_HA	ha: Insgesamt: Sonstige Grünfutterpflanzen: Futterpflanzen
+B_1_9_2_HOLD	Betr: Insgesamt: Sonstige Grünfutterpflanzen: Futterpflanzen
+B_1_9_2_1_HA	ha: Grünmais: Sonstige Grünfutterpflanzen: Futterpflanzen
+B_1_9_2_1_HOLD	Betr: Grünmais: Sonstige Grünfutterpflanzen: Futterpflanzen
+B_1_9_2_2_HA	ha: Sonstige Futterpflanzen: Leguminosen
+B_1_9_2_2_HOLD	Betr: Sonstige Futterpflanzen: Leguminosen
+B_1_9_2_99_HA	ha: Sonstige Grünfutterpflanzen - andere als Grünmais und Leguminosen
+B_1_9_2_99_HOLD	Betr: Sonstige Grünfutterpflanzen - andere als Grünmais und Leguminosen
+B_1_10_11_HA	ha: Sämereien und Pflanzgut auf Ackerland und
+B_1_10_11_HOLD	Betr: Sämereien und Pflanzgut auf Ackerland und
+B_1_10_HA	ha: Sämereien und Pflanzgut auf Ackerland
+B_1_10_HOLD	Betr: Sämereien und Pflanzgut auf Ackerland
+B_1_11_HA	ha: Sonstige Kulturen auf Ackerland
+B_1_11_HOLD	Betr: Sonstige Kulturen auf Ackerland
+B_1_12_HA	ha: Schwarz-, Grünbrache - Total
+B_1_12_HOLD	Betr: Schwarz-, Grünbrache - Total
+B_2_HA	ha: Haus- und Nutzgärten
+B_2_HOLD	Betr: Haus- und Nutzgärten
+B_3_HA	ha: Insgesamt: Dauergrünland
+B_3_HOLD	Betr: Insgesamt: Dauergrünland
+B_3_1_HA	ha: Dauerwiesen und-weiden: Dauergrünland
+B_3_1_HOLD	Betr: Dauerwiesen und-weiden: Dauergrünland
+B_3_2_HA	ha: Ertragsarme Weiden: Dauergrünland
+B_3_2_HOLD	Betr: Ertragsarme Weiden: Dauergrünland
+B_3_3_HA	ha: Dauergrünland, nicht genutzt, beihilfefähig
+B_3_3_HOLD	Betr: Dauergrünland, nicht genutzt, beihilfefähig
+B_4_HA	ha: Dauerkulturen
+B_4_HOLD	Betr: Dauerkulturen
+B_4_1_HA	ha: Obst- und Beerenobstanlagen
+B_4_1_HOLD	Betr: Obst- und Beerenobstanlagen
+B_4_1_1_HA	ha: Obstanlagen: Obst- und Beerenobstanlagen
+B_4_1_1_HOLD	Betr: Obstanlagen: Obst- und Beerenobstanlagen
+B_4_1_1_1_HA	ha: Obst der gemäßigten Klimazonen
+B_4_1_1_1_HOLD	Betr: Obst der gemäßigten Klimazonen
+B_4_1_1_2_HA	ha: Obst der subtropischen Klimazonen
+B_4_1_1_2_HOLD	Betr: Obst der subtropischen Klimazonen
+B_4_1_2_HA	ha: Beerenarten: Obst- und Beerenobstanlagen
+B_4_1_2_HOLD	Betr: Beerenarten: Obst- und Beerenobstanlagen
+B_4_1_99_1_HA	ha: Arten der gemäßigten Klimazonen: Obst- und Beerenobstanlagen - bis 2007
+B_4_1_99_1_HOLD	Betr: Arten der gemäßigten Klimazonen: Obst- und Beerenobstanlagen - bis 2007
+B_4_1_99_2_HA	ha: Arten der subtropischen Klimazonen: Obst- und Beerenobstanlagen - bis 2007
+B_4_1_99_2_HOLD	Betr: Arten der subtropischen Klimazonen: Obst- und Beerenobstanlagen - bis 2007
+B_4_1_3_HA	ha: Schalenobst: Obst- und Beerenobstanlagen
+B_4_1_3_HOLD	Betr: Schalenobst: Obst- und Beerenobstanlagen
+B_4_2_HA	ha: Zitrusanlagen
+B_4_2_HOLD	Betr: Zitrusanlagen
+B_4_3_HA	ha: Olivenanlagen
+B_4_3_HOLD	Betr: Olivenanlagen
+B_4_3_1_HA	ha: Olivenanlagen - Tafeloliven
+B_4_3_1_HOLD	Betr: Olivenanlagen - Tafeloliven
+B_4_3_2_HA	ha: Olivenanlagen - Olivenöl
+B_4_3_2_HOLD	Betr: Olivenanlagen - Olivenöl
+B_4_4_HA	ha: Rebanlagen
+B_4_4_HOLD	Betr: Rebanlagen
+B_4_4_1_HA	ha: Rebanlagen - Qualitätswein
+B_4_4_1_HOLD	Betr: Rebanlagen - Qualitätswein
+B_4_4_2_HA	ha: Rebanlagen - anderer Wein
+B_4_4_2_HOLD	Betr: Rebanlagen - anderer Wein
+B_4_4_3_HA	ha: Rebanlagen - Tafeltrauben
+B_4_4_3_HOLD	Betr: Rebanlagen - Tafeltrauben
+B_4_4_4_HA	ha: Rebanlagen - Rosinen
+B_4_4_4_HOLD	Betr: Rebanlagen - Rosinen
+B_4_5_HA	ha: Reb- und Baumschulen
+B_4_5_HOLD	Betr: Reb- und Baumschulen
+B_4_6_HA	ha: Sonstige Dauerkulturen
+B_4_6_HOLD	Betr: Sonstige Dauerkulturen
+B_4_7_HA	ha: Dauerkulturen unter Glas
+B_4_7_HOLD	Betr: Dauerkulturen unter Glas
+B_5_HA	ha: Sonstige Flächen - Total
+B_5_HOLD	Betr: Sonstige Flächen - Total
+B_5_1_5_3_HA	ha: Nicht genutzte landwirtschaftliche Flächen und Sonstige Flächen
+B_5_1_5_3_HOLD	Betr: Nicht genutzte landwirtschaftliche Flächen und Sonstige Flächen
+B_5_1_HA	ha: Nicht genutzte landwirtschaftliche Flächen
+B_5_1_HOLD	Betr :Nicht genutzte landwirtschaftliche Flächen
+B_5_2_HA	ha: Forstfläche
+B_5_2_HOLD	Betr: Forstfläche
+B_5_2_1_HA	ha: Forstfläche - mit kurzer Umtriebszeit
+B_5_2_1_HOLD	Betr.: Forstfläche - mit kurzer Umtriebszeit
+B_5_3_HA	ha: Sonstige Flächen
+B_5_3_HOLD	Betr: Sonstige Flächen
+B_6_1_HA	ha: Pilze
+B_6_1_HOLD	Betr: Pilze
+B_6_3_HA	ha: Energiepflanzen
+B_6_3_HOLD	Betr: Energiepflanzen
+B_6_3_1_HA	ha: Energiepflanzen auf stillgelegten Flächen
+B_6_3_1_HOLD	Betr: Energiepflanzen auf stillgelegten Flächen
+B_6_4_HA	ha: Gentechnisch veränderte Kulturen
+B_6_4_HOLD	Betr: Gentechnisch veränderte Kulturen
+B_6_2_1_HA	ha: Bewässerbare Fläche
+B_6_2_1_HOLD	Betr: Bewässerbare Fläche
+B_6_2_2_HA	ha: Mindestens einmal im Jahre bewässerte Fläche (ohne Hausgärten und Kulturen unter Glas)
+B_6_2_2_HOLD	Betr: Mindestens einmal im Jahre bewässerte Fläche  (ohne Hausgärten und Kulturen unter Glas)
+B_6_2_2_99_HOLD	Betr: Mindestens einmal im Jahre bewässerte Fläche  (einschl. Hausgärten und Kulturen unter Glas)
+C_LIVESTOCK_HOLD	Betr: Viehbestand
+C_LIVESTOCK_LSU	GVE der Betriebe mit Viehbestand
+C_1_HEADS	Tiere: Einhufer
+C_1_HOLD	Betr: Einhufer
+C_1_3_LSU	GVE: Pflanzenfresser
+C_1_3_HOLD	Betriebe mit Pflanzenfresser
+C_2_LSU	GVE: Rinder
+C_2_HEADS	Tiere: Rinder
+C_2_HOLD	Betr: Rinder
+C_2_1_HEADS	Tiere: Rinder <1 Jahr
+C_2_1_HOLD	Betr: Rinder <1 Jahr
+C_2_2_HEADS	Tiere: Rinder 1-<2 Jahren - männlich
+C_2_2_HOLD	Betr: Rinder 1-<2 Jahren - männlich
+C_2_3_HEADS	Tiere: Rinder 1-<2 Jahren - weiblich
+C_2_3_HOLD	Betr: Rinder 1-<2 Jahren - weiblich
+C_2_4_HEADS	Tiere: Rinder, 2 Jahre und älter, männlich
+C_2_4_HOLD	Betr: Rinder, 2 Jahre und älter, männlich
+C_2_5_HEADS	Tiere: Färsen, 2 Jahre und älter
+C_2_5_HOLD	Betr: Färsen, 2 Jahre und älter
+C_2_6_HEADS	Tiere: Milchkühe
+C_2_6_HOLD	Betr: Milchkühe
+C_2_99_HEADS	Tiere: Sonstige Kühe
+C_2_99_HOLD	Betr: Sonstige Kühe
+C_3_1_HEADS	Tiere: Schafe
+C_3_1_HOLD	Betr: Schafe
+C_3_1_1_HEADS	Tiere: Mutterschafe
+C_3_1_1_HOLD	Betr: Mutterschafe
+C_3_1_99_HEADS	Tiere: Schafe, sonstige
+C_3_1_99_HOLD	Betr: Schafe, sonstige
+C_3_2_HEADS	Tiere: Ziegen
+C_3_2_HOLD	Betr: Ziegen
+C_3_2_1_HEADS	Tiere: Ziegen, weiblich zur Zucht
+C_3_2_1_HOLD	Betr: Ziegen, weiblich zur Zucht
+C_3_2_99_HEADS	Tiere: Ziegen, sonstige
+C_3_2_99_HOLD	Betr: Ziegen, sonstige
+C_4_HEADS	Tiere: Schweine
+C_4_HOLD	Betr: Schweine
+C_4_1_HEADS	Tiere: Ferkel mit einem Lebendgewicht unter 20 kg
+C_4_1_HOLD	Betr: Ferkel mit einem Lebendgewicht unter 20 kg
+C_4_2_HEADS	Tiere: Mutterschweine von 50 kg und mehr
+C_4_2_HOLD	Betr: Mutterschweine von 50 kg und mehr
+C_4_99_HEADS	Tiere: Schweine, andere
+C_4_99_HOLD	Betr: Schweine, andere
+C_5_1000_HEADS	1000 Tiere: Geflügel
+C_5_HOLD	Betr: Geflügel
+C_5_1_1000_HEADS	1000 Tiere: Masthähnchen und -hühnchen
+C_5_1_HOLD	Betr: Masthähnchen und -hühnchen
+C_5_2_1000_HEADS	1000 Tiere: Legehennen
+C_5_2_HOLD	Betr: Legehennen
+C_5_3_1000_HEADS	1000 Tiere: Sonstiges Geflügel
+C_5_3_HOLD	Betr: Sonstiges Geflügel
+C_6_HEADS	Tiere: Mutterkaninchen
+C_6_HOLD	Betr: Mutterkaninchen
+C_7_HIVE	Nb: Bienenstöcke
+C_7_HOLD	Betr: Bienenstöcke
+C_99_EQ_Y_HOLD	Betriebe mit sonstigen Tieren
+A_3_2_1_HOLD	Betr:ökologischer Landbau
+A_3_2_1_HA	ha:ökologischer Landbau
+A_3_2_2_HOLD	Betr:Ökologischer Landbau - in Umstellung
+A_3_2_2_HA	ha:Ökologischer Landbau - in Umstellung
+A_3_2_3_HOLD	Betr:ökologischer Landbau (einschl. in Umstellung)
+A_3_2_3_HA	ha:ökologischer Landbau (einschl. in Umstellung)
+A_3_2_3_1_HOLD	Betr:Ökologischer Landbau - Getreide
+A_3_2_3_1_HA	ha:Ökologischer Landbau - Getreide
+A_3_2_3_2_HOLD	Betr:Ökologischer Landbau - Hülsenfrüchte
+A_3_2_3_2_HA	ha:Ökologischer Landbau - Hülsenfrüchte
+A_3_2_3_3_HOLD	Betr:Ökologischer Landbau - Kartoffeln
+A_3_2_3_3_HA	ha:Ökologischer Landbau - Kartoffeln
+A_3_2_3_4_HOLD	Betr:Ökologischer Landbau - Zuckerrüben
+A_3_2_3_4_HA	ha:Ökologischer Landbau - Zuckerrüben
+A_3_2_3_5_HOLD	Betr:Ökologischer Landbau - Ölsaat
+A_3_2_3_5_HA	ha:Ökologischer Landbau - Ölsaat
+A_3_2_3_6_HOLD	Betr:Ökologischer Landbau - Frischgemüse, Melonen, Erdbeeren
+A_3_2_3_6_HA	ha:Ökologischer Landbau - Frischgemüse, Melonen, Erdbeeren
+A_3_2_3_7_HOLD	Betr:Ökologischer Landbau - Dauerwiesen und -weiden, ohne etragsames Grünland
+A_3_2_3_7_HA	ha:Ökologischer Landbau - Dauerwiesen und -weiden, ohne etragsames Grünland
+A_3_2_3_8_HOLD	Betr:Ökologischer Landbau - Obst- und Beerenanlagen
+A_3_2_3_8_HA	ha:Ökologischer Landbau - Obst- und Beerenanlagen
+A_3_2_3_9_HOLD	Betr:Ökologischer Landbau - Zitrusanlagen
+A_3_2_3_9_HA	ha:Ökologischer Landbau - Zitrusanlagen
+A_3_2_3_10_HOLD	Betr:Ökologischer Landbau - Olivenanlagen
+A_3_2_3_10_HA	ha:Ökologischer Landbau - Olivenanlagen
+A_3_2_3_11_HOLD	Betr:Ökologischer Landbau - Rebanlagen
+A_3_2_3_11_HA	ha:Ökologischer Landbau - Rebanlagen
+A_3_2_3_99_HOLD	Betr:Ökologischer Landbau - Sonstige Pflanzen
+A_3_2_3_99_HA	ha:Ökologischer Landbau - Sonstige Pflanzen
+A_3_2_4_1_HOLD	Betr: Ökologische Produktionsmethoden - Rinder
+A_3_2_4_1_HEADS	Tiere: Ökologische Produktionsmethoden - Rinder
+A_3_2_4_2_HOLD	Betr: Ökologische Produktionsmethoden - Schweine
+A_3_2_4_2_HEADS	Tiere: Ökologische Produktionsmethoden - Schweine
+A_3_2_4_3_HOLD	Betr:Ökologische Produktionsmethoden - Schafe und Ziegen
+A_3_2_4_3_HEADS	Tiere: Ökologische Produktionsmethoden - Schafe und Ziegen
+A_3_2_4_4_HOLD	Betr: Ökologische Produktionsmethoden - Geflügel
+A_3_2_4_4_HEADS	Tiere: Ökologische Produktionsmethoden - Geflügel
+A_3_2_4_5_EQ_Y_HOLD	Betr: Ökologische Produktionsmethoden - mit sonstigen Tieren
+E_1_2_4B_EQ_Y_HOLD	Betr. mit beruflicher Bildung des Betriebsleiters in den letzten 12 Monaten
+M_1_1_HA	ha: Herkömmliche Bodenbearbeitung
+M_1_1_HOLD	Betr: Herkömmliche Bodenbearbeitung
+M_1_2_HA	ha: bodenschonende Bodenbearbeitung
+M_1_2_HOLD	Betr: bodenschonende Bodenbearbeitung
+M_1_3_HA	ha: Nullbodenbearbeitung
+M_1_3_HOLD	Betr: Nullbodenbearbeitung
+M_2_1_1_HA	ha: Winterbodenbedeckung: Normale Winterkultur
+M_2_1_1_HOLD	Betr: Winterbodenbedeckung: Normale Winterkultur
+M_2_1_2_HA	ha: Winterbodenbedeckung: Bodenbedeckende Kultur
+M_2_1_2_HOLD	Betr: Winterbodenbedeckung: Bodenbedeckende Kultur
+M_2_1_3_HA	ha: Winterbodenbedeckung: Restbewuchs
+M_2_1_3_HOLD	Betr: Winterbodenbedeckung: Restbewuchs
+M_2_1_4_HA	ha: Winterbodenbedeckung: Vegetationsloser Boden
+M_2_1_4_HOLD	Betr: Winterbodenbedeckung: Vegetationsloser Boden
+M_2_2_1_EQ_0_HOLD	Betr: Anteil Ackerfläche außerhalb Fruchtfolge: 0
+M_2_2_1_EQ_0_HA	ha Ackerfläche der Betr: Anteil Ackerfläche außerhalb Fruchtfolge: 0
+M_2_2_1_EQ_24_HOLD	Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >0-<25
+M_2_2_1_EQ_24_HA	ha Ackerfläche der Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >0-<25
+M_2_2_1_EQ_49_HOLD	Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >=25-<50
+M_2_2_1_EQ_49_HA	ha Ackerfläche der Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >=25-<50
+M_2_2_1_EQ_74_HOLD	Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >=50-<75
+M_2_2_1_EQ_74_HA	ha Ackerfläche der Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >=50-<75
+M_2_2_1_EQ_100_HOLD	Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >=75
+M_2_2_1_EQ_100_HA	ha Ackerfläche der Betr: Anteil Ackerfläche außerhalb Fruchtfolge: >=75
+M_3_1_ABC_Y_HOLD	Betr: Erhaltene lineare Landschaftselemente: ja
+M_3_1_A_EQ_Y_HOLD	Betr: Erhaltene lineare Landschaftselemente: Hecken - ja
+M_3_1_B_EQ_Y_HOLD	Betr: Erhaltene lineare Landschaftselemente: Baumreihen - ja
+M_3_1_C_EQ_Y_HOLD	Betr: Erhaltene lineare Landschaftselemente: Steinmauern - ja
+M_3_2_ABC_Y_HOLD	Betr: Angelegte lineare Landschaftselemente: ja
+M_3_2_A_EQ_Y_HOLD	Betr: Angelegte lineare Landschaftselemente: Hecken - ja
+M_3_2_B_EQ_Y_HOLD	Betr: Angelegte lineare Landschaftselemente: Baumreihen - ja
+M_3_2_C_EQ_Y_HOLD	Betr: Angelegte lineare Landschaftselemente: Steinmauern - ja
+M_3_12_ABC_Y_HOLD	Betr: Angelegte oder erhaltene lineare Landschaftselemente: ja
+M_3_12_A_Y_HOLD	Betr: Angelegte oder erhaltene lineare Landschaftselemente: Hecken - ja
+M_3_12_B_Y_HOLD	Betr: Angelegte oder erhaltene lineare Landschaftselemente: Baumreihen - ja
+M_3_12_C_Y_HOLD	Betr: Angelegte oder erhaltene lineare Landschaftselemente: Steinmauern - ja
+M_4_1_1_HA	ha: Weidehaltung im Betrieb: Beweidete Fläche
+M_4_2_1_HEADS	Zahl der auf Gemeindeland weidenden: Tiere
+M_4_2_1_HOLD	Zahl der auf Gemeindeland weidenden: Betriebe
+M_4_2_1_LSU	Zahl der auf Gemeindeland weidenden: GVE
+M_5_1_1_PLACES	Plätze: Unterbringung Tiere - Rinder - Anbindestall mit Festmist und Jauche
+M_5_1_1_HOLD	Betr: Unterbringung Tiere - Rinder - Anbindestall mit Festmist und Jauche
+M_5_1_1_HEADS	Tiere:Unterbringung Tiere - Rinder - Anbindestall mit Festmist und Jauche
+M_5_1_2_PLACES	Plätze: Unterbringung Tiere - Rinder - Anbindestall mit Gülle
+M_5_1_2_HOLD	Betr: Unterbringung Tiere - Rinder - Anbindestall mit Gülle
+M_5_1_2_HEADS	Tiere: Unterbringung Tiere - Rinder - Anbindestall mit Gülle
+M_5_1_3_PLACES	Plätze: Unterbringung Tiere - Rinder - Laufstall mit Festmist und Jauche
+M_5_1_3_HOLD	Betr: Unterbringung Tiere - Rinder - Laufstall mit Festmist und Jauche
+M_5_1_3_HEADS	Tiere: Unterbringung Tiere - Rinder - Laufstall mit Festmist und Jauche
+M_5_1_4_PLACES	Plätze: Unterbringung Tiere - Rinder - Laufstall mit Gülle
+M_5_1_4_HOLD	Betr: Unterbringung Tiere - Rinder - Laufstall mit Gülle
+M_5_1_4_HEADS	Tiere: Unterbringung Tiere - Rinder - Laufstall mit Gülle
+M_5_1_99_PLACES	Plätze: Unterbringung Tiere - Rinder - Sonstige
+M_5_1_99_HOLD	Betr: Unterbringung Tiere - Rinder - Sonstige
+M_5_1_99_HEADS	Tiere: Unterbringung Tiere - Rinder - Sonstige
+M_5_2_1_PLACES	Plätze: Unterbringung Tiere - Schweine - Auf Teilspaltenboden
+M_5_2_1_HOLD	Betr: Unterbringung Tiere - Schweine - Auf Teilspaltenboden
+M_5_2_1_HEADS	Tiere: Unterbringung Tiere - Schweine - Auf Teilspaltenboden
+M_5_2_2_PLACES	Plätze: Unterbringung Tiere - Schweine - Auf Vollspaltenboden
+M_5_2_2_HOLD	Betr: Unterbringung Tiere - Schweine - Auf Vollspaltenboden
+M_5_2_2_HEADS	Tiere: Unterbringung Tiere - Schweine - Auf Vollspaltenboden
+M_5_2_3_PLACES	Plätze: Unterbringung Tiere - Schweine - Auf Stroh
+M_5_2_3_HOLD	Betr: Unterbringung Tiere - Schweine - Auf Stroh
+M_5_2_3_HEADS	Tiere: Unterbringung Tiere - Schweine - Auf Stroh
+M_5_2_99_PLACES	Plätze: Unterbringung Tiere - Schweine - Sonstige
+M_5_2_99_HOLD	Betr: Unterbringung Tiere - Schweine - Sonstige
+M_5_2_99_HEADS	Tiere: Unterbringung Tiere - Schweine - Sonstige
+M_5_3_1_PLACES	Plätze: Unterbringung Tiere - Legehennen - Auf Stroh
+M_5_3_1_HOLD	Betr: Unterbringung Tiere - Legehennen - Auf Stroh
+M_5_3_1_1000_HEADS	1000 Tiere: Unterbringung Tiere - Legehennen - Auf Stroh
+M_5_3_2_PLACES	Plätze: Unterbringung Tiere - Legehennen - Käfigbatterien (alle Arten)
+M_5_3_2_HOLD	Betr: Unterbringung Tiere - Legehennen - Käfigbatterien (alle Arten)
+M_5_3_2_1000_HEADS	1000 Tiere: Unterbringung Tiere - Legehennen - Käfigbatterien (alle Arten)
+M_5_3_2_1_PLACES	Plätze: Unterbringung Tiere - Legehennen - Käfigbatterien mit Kotband
+M_5_3_2_1_HOLD	Betr: Unterbringung Tiere - Legehennen - Käfigbatterien mit Kotband
+M_5_3_2_1_1000_HEADS	1000 Tiere: Unterbringung Tiere - Legehennen - Käfigbatterien mit Kotband
+M_5_3_2_2_PLACES	Plätze: Unterbringung Tiere - Legehennen - Käfigbatterien mit Kotgrube
+M_5_3_2_2_HOLD	Betr: Unterbringung Tiere - Legehennen - Käfigbatterien mit Kotgrube
+M_5_3_2_2_1000_HEADS	1000 Tiere: Unterbringung Tiere - Legehennen - Käfigbatterien mit Kotgrube
+M_5_3_2_3_PLACES	Plätze: Unterbringung Tiere - Legehennen - Käfigbatterien als Stilt House
+M_5_3_2_3_HOLD	Betr: Unterbringung Tiere - Legehennen - Käfigbatterien als Stilt House
+M_5_3_2_3_1000_HEADS	1000 Tiere: Unterbringung Tiere - Legehennen - Käfigbatterien als Stilt House
+M_5_3_99_PLACES	Plätze: Unterbringung Tiere - Legehennen - Andere als Käfigbatterien und auf Stroh in Käfigbatterien
+M_5_3_99_HOLD	Betr: Unterbringung Tiere - Legehennen - Andere als Käfigbatterien und auf Stroh in Käfigbatterien
+M_5_3_99_1000_HEADS	1000 Tiere: Unterbringung Tiere - Legehennen - Andere als Käfigbatterien und auf Stroh in Käfigbatterien
+M_6_1_2_EQ_0_HOLD	Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - 0
+M_6_1_2_EQ_0_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht = 0
+M_6_1_2_EQ_0_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht = 0
+M_6_1_2_EQ_24_HOLD	Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >0 - <25
+M_6_1_2_EQ_24_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >0 - <25
+M_6_1_2_EQ_24_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >0 - <25
+M_6_1_2_EQ_49_HOLD	Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >25 - <50
+M_6_1_2_EQ_49_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >25 - <50
+M_6_1_2_EQ_49_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >25 - <50
+M_6_1_2_EQ_74_HOLD	Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >50 - <75
+M_6_1_2_EQ_74_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >50 - <75
+M_6_1_2_EQ_74_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >50 - <75
+M_6_1_2_EQ_100_HOLD	Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >=75
+M_6_1_2_EQ_100_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >=75
+M_6_1_2_EQ_100_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Festmist mit unverzüglicher Einarbeitung ausgebracht - >=75
+M_6_2_2_EQ_0_HOLD	Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht = 0
+M_6_2_2_EQ_0_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht = 0
+M_6_2_2_EQ_0_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht = 0
+M_6_2_2_EQ_24_HOLD	Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - >0-<25
+M_6_2_2_EQ_24_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - >0-<25
+M_6_2_2_EQ_24_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - >0-<25
+M_6_2_2_EQ_49_HOLD	Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - 25-<50
+M_6_2_2_EQ_49_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - 25-<50
+M_6_2_2_EQ_49_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - 25-<50
+M_6_2_2_EQ_74_HOLD	Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - 50-<75
+M_6_2_2_EQ_74_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - 50-<75
+M_6_2_2_EQ_74_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - 50-<75
+M_6_2_2_EQ_100_HOLD	Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - >=75
+M_6_2_2_EQ_100_HA	ha LF der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - >=75
+M_6_2_2_EQ_100_LSU	GVE der Betr: % Landwirtschaftliche Fläche mit Gülle mit unverzüglicher Einarbeitung ausgebracht - >=75
+M_7_1_1_EQ_Y_HOLD	Betriebe mit Lagereinrichtungen für Festmist
+M_7_1_1_EQ_Y_HA	ha LF der Betriebe mit Lagereinrichtungen für Festmist
+M_7_1_1_EQ_Y_LSU	GVE der Betriebe mit Lagereinrichtungen für Festmist
+M_7_1_2_EQ_Y_HOLD	Betriebe mit Lagereinrichtungen für Jauche
+M_7_1_2_EQ_Y_HA	ha LF der Betriebe mit Lagereinrichtungen für Jauche
+M_7_1_2_EQ_Y_LSU	GVE der Betriebe mit Lagereinrichtungen für Jauche
+M_7_1_3_1_EQ_Y_HOLD	Betriebe mit Güllebehälter
+M_7_1_3_1_EQ_Y_HA	ha LF der Betriebe mit Güllebehälter
+M_7_1_3_1_EQ_Y_LSU	GVE der Betriebe mit Güllebehälter
+M_7_1_3_2_EQ_Y_HOLD	Betriebe mit Flüssigmistbecken
+M_7_1_3_2_EQ_Y_HA	ha LF der Betriebe mit Flüssigmistbecken
+M_7_1_3_2_EQ_Y_LSU	GVE der Betriebe mit Flüssigmistbecken
+M_7_2_1_EQ_Y_HOLD	Betriebe mit abgedeckter Lagereinrichtung für Festmist
+M_7_2_1_EQ_Y_HA	ha LF der Betriebe mit abgedeckter Lagereinrichtung für Festmist
+M_7_2_1_EQ_Y_LSU	GVE der Betriebe mit abgedeckter Lagereinrichtung für Festmist
+M_7_2_2_EQ_Y_HOLD	Betriebe mit abgedeckten Lagereinrichtungen für Jauche
+M_7_2_2_EQ_Y_HA	ha LF der Betriebe mit abgedeckten Lagereinrichtungen für Jauche
+M_7_2_2_EQ_Y_LSU	GVE der Betriebe mit abgedeckten Lagereinrichtungen für Jauche
+M_7_2_3_EQ_Y_HOLD	Betriebe mit abgedeckten Lagereinrichtungen für Gülle
+M_7_2_3_EQ_Y_HA	ha LF der Betriebe mit abgedeckten Lagereinrichtungen für Gülle
+M_7_2_3_EQ_Y_LSU	GVE der Betriebe mit abgedeckten Lagereinrichtungen für Gülle
+M_8_1_1_HA	ha: Bewässerte Fläche in den letzten 3 Jahren
+M_8_1_1_HOLD	Betr: Bewässerte Fläche in den letzten 3 Jahren
+M_8_1_2_1_HA	ha: Mindestens einmal bewässerte Fläche: Getreide (ohne Reis und Mais)
+M_8_1_2_1_HOLD	Betr: Mindestens einmal bewässerte Fläche: Getreide (ohne Reis und Mais)
+M_8_1_2_2_HA	ha: Mindestens einmal bewässerte Fläche: Mais
+M_8_1_2_2_HOLD	Betr: Mindestens einmal bewässerte Fläche: Mais
+M_8_1_2_3_HA	ha: Mindestens einmal bewässerte Fläche: Reis
+M_8_1_2_3_HOLD	Betr: Mindestens einmal bewässerte Fläche: Reis
+M_8_1_2_4_HA	ha: Mindestens einmal bewässerte Fläche: Hülsenfrüchte
+M_8_1_2_4_HOLD	Betr: Mindestens einmal bewässerte Fläche: Hülsenfrüchte
+M_8_1_2_5_HA	ha: Mindestens einmal bewässerte Fläche: Kartoffeln
+M_8_1_2_5_HOLD	Betr: Mindestens einmal bewässerte Fläche: Kartoffeln
+M_8_1_2_6_HA	ha: Mindestens einmal bewässerte Fläche: Zuckerrüben
+M_8_1_2_6_HOLD	Betr: Mindestens einmal bewässerte Fläche: Zuckerrüben
+M_8_1_2_7_HA	ha: Mindestens einmal bewässerte Fläche: Raps und Rübsen
+M_8_1_2_7_HOLD	Betr: Mindestens einmal bewässerte Fläche: Raps und Rübsen
+M_8_1_2_8_HA	ha: Mindestens einmal bewässerte Fläche: Sonnenblumen
+M_8_1_2_8_HOLD	Betr: Mindestens einmal bewässerte Fläche: Sonnenblumen
+M_8_1_2_9_HA	ha: Mindestens einmal bewässerte Fläche: Faserpflanzen
+M_8_1_2_9_HOLD	Betr: Mindestens einmal bewässerte Fläche: Faserpflanzen
+M_8_1_2_10_HA	ha: Mindestens einmal bewässerte Fläche: Gemüse, Melonen, Erdbeeren
+M_8_1_2_10_HOLD	Betr: Mindestens einmal bewässerte Fläche: Gemüse, Melonen, Erdbeeren
+M_8_1_2_11_HA	ha: Mindestens einmal bewässerte Fläche: Ackerwiesen und Dauergrünland
+M_8_1_2_11_HOLD	Betr: Mindestens einmal bewässerte Fläche: Ackerwiesen und Dauergrünland
+M_8_1_2_12_HA	ha: Mindestens einmal bewässerte Fläche: Sonstige Ackerlandkulturen
+M_8_1_2_12_HOLD	Betr: Mindestens einmal bewässerte Fläche: Sonstige Ackerlandkulturen
+M_8_1_2_13_HA	ha: Mindestens einmal bewässerte Fläche: Obst- und Beerenanlagen
+M_8_1_2_13_HOLD	Betr: Mindestens einmal bewässerte Fläche: Obst- und Beerenanlagen
+M_8_1_2_14_HA	ha: Mindestens einmal bewässerte Fläche: Zitrusanlagen
+M_8_1_2_14_HOLD	Betr: Mindestens einmal bewässerte Fläche: Zitrusanlagen
+M_8_1_2_15_HA	ha: Mindestens einmal bewässerte Fläche: Olivenanlagen
+M_8_1_2_15_HOLD	Betr: Mindestens einmal bewässerte Fläche: Olivenanlagen
+M_8_1_2_16_HA	ha: Mindestens einmal bewässerte Fläche: Rebanlagen
+M_8_1_2_16_HOLD	Betr: Mindestens einmal bewässerte Fläche: Rebanlagen
+M_8_2_1_EQ_Y_HOLD	Betriebe mit: Bewässerungsmethode: Oberflächenbewässerung
+M_8_2_2_EQ_Y_HOLD	Betriebe mit: Bewässerungsmethode: Sprinklerbewässerung
+M_8_2_3_EQ_Y_HOLD	Betriebe mit: Bewässerungsmethode: Tröpfchenbewässerung
+M_8_3_1_EQ_Y_HOLD	Betriebe mit: Quelle des Bewässerungswassers: Grundwasser
+M_8_3_2_EQ_Y_HOLD	Betriebe mit: Quelle des Bewässerungswassers: Oberflächenwasser im Betrieb
+M_8_3_3_EQ_Y_HOLD	Betriebe mit: Quelle des Bewässerungswassers: Oberflächenwasser aus Seen etc. außerhalb des Betriebes
+M_8_3_4_EQ_Y_HOLD	Betriebe mit: Quelle des Bewässerungswassers: Wasser aus Versorgunsnetzen außerhalb des Betriebes
+M_8_3_99_EQ_Y_HOLD	Betriebe mit: Quelle des Bewässerungswassers: Sonstige Quellen
+M_8_4_M3	Jährliche Wassermenge für Bewässerung - in m3
+LFH_W_PERS	Per: Alleiniger Betriebsinhaber working on the farm
+LFH_W_F_PERS	Per: Weiblich: Alleiniger Betriebsinhaber working on the farm
+LFH_W_M_PERS	Per: Männlich: Alleiniger Betriebsinhaber working on the farm
+LFRMF_PERS	Per: Arbeitskräfte: Mitglieder der Familie des Inhabers
+LFRMF_M_PERS	Per: Männlich: Arbeitskräfte: Mitglieder der Familie des Inhabers
+LFRMF_F_PERS	Per: Weiblich: Arbeitskräfte: Mitglieder der Familie des Inhabers
+LFRF_PERS	Per: Familienarbeitskräfte
+LFRF_M_PERS	Per: Männlich: Familienarbeitskräfte
+LFRF_F_PERS	Per: Weiblich: Familienarbeitskräfte
+LFRNF_PERS	Per: Regelm. beschäftigte familienfremde Arbeitskräfte
+LFRNF_M_PERS	Per: Männlich: Regelmäßig beschäftigte familienfremde Arbeitskräfte
+LFRNF_F_PERS	Per: Weiblich: Regelmäßigbeschäftigte familienfremde Arbeitskräfte
+LFR_PERS	Per: Arbeitskräfte : Regelmäßig vom Betrieb beschäftigt
+LFR_M_PERS	Per: Männlich: Regelmäßig Arbeitskräfte vom Betrieb beschäftigt
+LFR_F_PERS	Per: Weiblich: Regelmäßig Arbeitskräfte vom Betrieb beschäftigt
+LFH_AWU	JAE: Alleiniger Betriebsinhaber
+LFH_W_F_AWU	JAE: Weiblich: Alleiniger Betriebsinhaber working on the farm
+LFH_W_M_AWU	JAE: Männlich: Alleiniger Betriebsinhaber working on the farm
+LFRMF_AWU	JAE: Arbeitskräfte: Mitglieder der Familie des Inhabers
+LFRMF_M_AWU	JAE: Männlich: Arbeitskräfte: Mitglieder der Familie des Inhabers
+LFRMF_F_AWU	JAE: Weiblich:Arbeitskräfte: Mitglieder der Familie des Inhabers
+LFRF_AWU	JAE: Familienarbeitskräfte
+LFRF_M_AWU	JAE: Männlich: Familienarbeitskräfte
+LFRF_F_AWU	JAE: Weiblich: Familienarbeitskräfte
+LFRNF_AWU	JAE: Regelmäßig beschäftigte familienfremde Arbeitskräfte
+LFRNF_M_AWU	JAE: Männlich: Regelmäßig beschäftigte familienfremde Arbeitskräfte
+LFRNF_F_AWU	JAE: Weiblich: Regelmäßig beschäftigte familienfremde Arbeitskräfte
+LFR_AWU	JAE: Arbeitskräfte : Regelmäßig vom Betrieb beschäftigt
+LFR_M_AWU	JAE: Männlich: Regelmäßig Arbeitskräfte vom Betrieb beschäftigt
+LFR_F_AWU	JAE: Weiblich: Regelmäßig Arbeitskräfte vom Betrieb beschäftigt
+LFNRNF_AWU	JAE: Unregelmäßig beschäftigte Familienfremde
+LFD_AWU	JAE: Insgesamt: Arbeitskräfte vom Betrieb beschäftigt
+LFND_AWU	JAE: Arbeitskräfte - nicht unmittelbar vom Betrieb beschäftigt
+SO_EURO	Standardoutput (SO) Euro
+A_3_1_1_HA	ha: Eigentum: Landwirtschaftliche Fläche
+A_3_1_1_HOLD	Betr: Eigentum: Landwirtschaftliche Fläche
+A_3_1_2_HA	ha: Pacht: Landwirtschaftliche Fläche
+A_3_1_2_HOLD	Betr: Pacht: Landwirtschaftliche Fläche
+A_3_1_3_HA	ha: Anderen Besitzformen:Landwirtschaftliche Fläche
+A_3_1_3_HOLD	Betr: Anderen Besitzformen:Landwirtschaftliche Fläche
+TOTAREA_HA	ha: Gesamtfläche
+TOTAREA_HOLD	Betr: Gesamtfläche
+A_3_3_1_EQ_Y_HOLD	Betr: Mehr als 50% der Produktion Eigenverbrauch des Betriebsinhabers
+LFROF_PERS	total: Members of sole holder's family- persons
+D_2_1_1_Y_HOLD	Betr. mit Einrichtungen zur Energieerzeugung: Wind
+D_2_1_1_Y_HA	LF (ha) der Betr. mit Einrichtungen zur Energieerzeugung: Wind
+D_2_1_2_Y_HOLD	Betr. mit Einrichtungen zur Energieerzeugung: Biomasse
+D_2_1_2_Y_HA	LF (ha) der Betr. mit Einrichtungen zur Energieerzeugung: Biomasse
+D_2_1_2_1_Y_HOLD	Betr. mit Einrichtungen zur Energieerzeugung: Biomethan aus Biomasse
+D_2_1_2_1_Y_HA	LF (ha) der Betr. mit Einrichtungen zur Energieerzeugung: Biomethan aus Biomasse
+D_2_1_3_Y_HOLD	Betr. mit Einrichtungen zur Energieerzeugung: Sonnenkraft
+D_2_1_3_Y_HA	LF (ha) der Betr. mit Einrichtungen zur Energieerzeugung: Sonnenkraft
+D_2_1_4_Y_HOLD	Betr. mit Einrichtungen zur Energieerzeugung: Wasserkraft
+D_2_1_4_Y_HA	LF (ha) der Betr. mit Einrichtungen zur Energieerzeugung: Wasserkraft
+D_2_1_99_Y_HOLD	Betr. mit Einrichtungen zur Energieerzeugung: Sonstige Energiequellen
+D_2_1_99_Y_HA	LF (ha) der Betr. mit Einrichtungen zur Energieerzeugung: Sonstige Energiequellen
+OGA_H_D_Y_HOLD	Betr. mit AET des Inhaber-Leiters in Verbindung mit Betrieb
+OGA_H_N_Y_HOLD	Betr. mit AET des Inhaber-Leiters nicht in Verbindung mit Betrieb
+OGA_S_D_Y_HOLD	Betr. Mit AET des Inhabergatten in Verbindung mit Betrieb
+OGA_S_N_Y_HOLD	Betr. mit AET des Inhabergatten nicht in Verbindung mit Betrieb
+OGA_F_M_PERS	Pers: Mitarbeitende Familienangehörige mit hauptberuflicher AET
+OGA_F_M_HOLD	Betr. mit mitarbeitenden  Familienangehörigen mit hauptberuflicher AET
+OGA_F_S_PERS	Pers: Mitarbeitende Familienangehörige mit nebenberuflicher AET
+OGA_F_S_HOLD	Betr. mit mitarbeitenden  Familienangehörigen mit nebenberuflicher AET
+OGA_F_D_PERS	Pers: Mitarbeitende Familienangehörige mit AET in Verbindung mit dem Betrieb
+OGA_F_D_HOLD	Betr. mit mitarbeitenden Familienangehörige mit AET in Verbindung mit dem Betrieb
+OGA_F_N_PERS	Pers: Mitarbeitende Familienangehörige mit AET nicht in Verbindung mit dem Betrieb
+OGA_F_N_HOLD	Betr. mit mitarbeitenden Familienangehörige mit AET nicht in Verbindung mit dem Betrieb
+OGA_N_D_M_PERS	Pers: mitarbeitende Familienfremde mit hauptberuflicher AET in Verbindung mit dem Betrieb
+OGA_N_D_M_HOLD	Betr. mit mitarbeitenden Familienfremden mit hauptberuflicher AET in Verbindung mit dem Betrieb
+OGA_N_D_S_PERS	Pers: mitarbeitende Familienfremde mit nebenberuflicher AET in Verbindung mit dem Betrieb
+OGA_N_D_S_HOLD	Betr. mit mitarbeitenden Familienfremden mit nebenberuflicher AET in Verbindung mit dem Betrieb
+OGA_F_1_Y_HOLD	Betr. mit AET
+OGA_F_1_Y_HA	LF (ha) der Betr. mit AET
+OGA_F_1_Y_EUR	SO (Euro) der Betr. mit AET
+OGA_F_1_Y_LSU	GVE der Betr. mit AET
+OGA_F_1_1_Y_HOLD	Betr. mit AET - Fremdenverkehr
+OGA_F_1_1_Y_HA	LF (ha) der Betr. mit AET - Fremdenverkehr
+OGA_F_1_1_Y_EUR	SO (Euro) der Betr. mit AET - Fremdenverkehr
+OGA_F_1_1_Y_LSU	GVE der Betr. mit AET - Fremdenverkehr
+OGA_F_1_2_Y_HOLD	Betr. mit AET - Handwerk
+OGA_F_1_2_Y_HA	LF (ha) der Betr. mit AET - Handwerk
+OGA_F_1_2_Y_EUR	SO (Euro) der Betr. mit AET - Handwerk
+OGA_F_1_2_Y_LSU	GVE der Betr. mit AET - Handwerk
+OGA_F_1_3_Y_HOLD	Betr. mit AET - Verarbeitung landw. Erzeugnisse
+OGA_F_1_3_Y_HA	LF (ha) der Betr. mit AET - Verarbeitung landw. Erzeugnisse
+OGA_F_1_3_Y_EUR	SO (Euro) der Betr. mit AET - Verarbeitung landw. Erzeugnisse
+OGA_F_1_3_Y_LSU	GVE der Betr. mit AET - Verarbeitung landw. Erzeugnisse
+OGA_F_1_4_Y_HOLD	Betr. mit AET - Erzeugung erneuerbarer Energie
+OGA_F_1_4_Y_HA	LF (ha) der Betr. mit AET - Erzeugung erneuerbarer Energie
+OGA_F_1_4_Y_EUR	SO (Euro) der Betr. mit AET - Erzeugung erneuerbarer Energie
+OGA_F_1_4_Y_LSU	GVE der Betr. mit AET - Erzeugung erneuerbarer Energie
+OGA_F_1_5_Y_HOLD	Betr. mit AET - Holzverarbeitung
+OGA_F_1_5_Y_HA	LF (ha) der Betr. mit AET - Holzverarbeitung
+OGA_F_1_5_Y_EUR	SO (Euro) der Betr. mit AET - Holzverarbeitung
+OGA_F_1_5_Y_LSU	GVE der Betr. mit AET - Holzverarbeitung
+OGA_F_1_6_Y_HOLD	Betr. mit AET - Aquakultur
+OGA_F_1_6_Y_HA	LF (ha) der Betr. mit AET - Aquakultur
+OGA_F_1_6_Y_EUR	SO (Euro) der Betr. mit AET - Aquakultur
+OGA_F_1_6_Y_LSU	GVE der Betr. mit AET - Aquakultur
+OGA_F_1_7_Y_HOLD	Betr. mit AET - Vertragsarbeiten
+OGA_F_1_7_Y_HA	LF (ha) der Betr. mit AET - Vertragsarbeiten
+OGA_F_1_7_Y_EUR	SO (Euro) der Betr. mit AET - Vertragsarbeiten
+OGA_F_1_7_Y_LSU	GVE der Betr. mit AET - Vertragsarbeiten
+OGA_F_1_7_1_Y_HOLD	Betr. mit AET - Vertragsarbeiten - landwirtschaftliche Arbeiten
+OGA_F_1_7_1_Y_HA	LF (ha) der Betr. mit AET - Vertragsarbeiten - landwirtschaftliche Arbeiten
+OGA_F_1_7_1_Y_EUR	SO (Euro) der Betr. mit AET - Vertragsarbeiten - landwirtschaftliche Arbeiten
+OGA_F_1_7_1_Y_LSU	GVE der Betr. mit AET - Vertragsarbeiten - landwirtschaftliche Arbeiten
+OGA_F_1_7_2_Y_HOLD	Betr. mit AET - Vertragsarbeiten - nichtlandwirtschaftliche Arbeiten
+OGA_F_1_7_2_Y_HA	LF (ha) der Betr. mit AET - Vertragsarbeiten - nichtlandwirtschaftliche Arbeiten
+OGA_F_1_7_2_Y_EUR	SO (Euro) der Betr. mit AET - Vertragsarbeiten - nichtlandwirtschaftliche Arbeiten
+OGA_F_1_7_2_Y_LSU	GVE der Betr. mit AET - Vertragsarbeiten - nichtlandwirtschaftliche Arbeiten
+OGA_F_1_8_Y_HOLD	Betr. mit AET - Forstarbeiten
+OGA_F_1_8_Y_HA	LF (ha) der Betr. mit AET - Forstarbeiten
+OGA_F_1_8_Y_EUR	SO (Euro) der Betr. mit AET - Forstarbeiten
+OGA_F_1_8_Y_LSU	GVE der Betr. mit AET - Forstarbeiten
+OGA_F_1_99_Y_HOLD	Betr. mit AET - Sonstige Tätigkeiten
+OGA_F_1_99_Y_HA	LF (ha) der Betr. mit AET - Sonstige Tätigkeiten
+OGA_F_1_99_Y_EUR	SO (Euro) der Betr. mit AET - Sonstige Tätigkeiten
+OGA_F_1_99_Y_LSU	GVE der Betr. mit AET - Sonstige Tätigkeiten
+OGA_F_2_1_0_HOLD	Betr. mit bis 10% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_0_HA	LF (ha) der Betr. mit bis 10% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_0_EUR	SO (Euro) der Betr. mit bis 10% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_0_LSU	GVE der Betr. mit bis 10% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_11_HOLD	Betr. mit 10- 50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_11_HA	LF (ha) der Betr. mit 10-50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_11_EUR	SO (Euro) der Betr. mit 10-50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_11_LSU	GVE der Betr. mit 10-50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_51_HOLD	Betr. mit mehr als 50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_51_HA	LF (ha) der Betr. mit mehr als 50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_51_EUR	SO (Euro) der Betr. mit mehr als 50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+OGA_F_2_1_51_LSU	GVE der Betr. mit mehr als 50% des Umsatzes aus außerbetrieblicher Erwerbstätigkeit
+RD_G_1_Y_HOLD	Betr: Förderung ländlicher Raum
+RD_G_1_Y_HA	LF(ha) der Betr.: Förderung ländlicher Raum
+RD_G_1_Y_EUR	SO (Euro) der Betr.: Förderung ländlicher Raum
+RD_G_1_Y_LSU	GVE der Betr.: Förderung ländlicher Raum
+RD_G_1_1_Y_HOLD	Betr.: Förderung - Betriebe mit Inanspruchnahme von Beratungsdiensten
+RD_G_1_1_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Inanspruchnahme von Beratungsdiensten
+RD_G_1_1_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Inanspurchnahme Beratungsdiensten
+RD_G_1_1_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Inanspruchnahme Beratungsdiensten
+RD_G_1_2_Y_HOLD	Betr.: Förderung - Betriebe mit  Modernisierungsmaßnahmen
+RD_G_1_2_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Modernisierungsmaßnahmen
+RD_G_1_2_Y_EUR	SO (Euro) der Betr: Förderung - Betriebe mit Modernisierungsmaßnahmen
+RD_G_1_2_Y_LSU	GVE der Betr: Förderung - Betriebe mit Modernisierungsmaßnahmen
+RD_G_1_3_Y_HOLD	Betr.: Förderung - Betriebe mit Erhöhung der Wertschöpfung landwirtschaftl. Erzeugnisse
+RD_G_1_3_Y_HA	LF(ha) der Betr.: Förderung -Betriebe mit Erhöhung der Wertschöpfung landwirtschaftl. Erzeugnisse
+RD_G_1_3_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Erhöhung der Wertschöpfung landwirtschaftl. Erzeugnisse
+RD_G_1_3_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Erhöhung der Wertschöpfung landwirtschaftl. Erzeugnisse
+RD_G_1_4_Y_HOLD	Betr.: Förderung - Maßnahmen zur Einhaltung von Normen
+RD_G_1_4_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Inanspruchnahme Einhaltung von Normen
+RD_G_1_4_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Maßnahmen zur Einhaltung von Normen
+RD_G_1_4_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Maßnahmen zur Einhaltung von Normen
+RD_G_1_5_Y_HOLD	Betr: Förderung - Betriebe mit Teilnahme an Qualitätsregelungen
+RD_G_1_5_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Teilnahme an Qualitätsregelungen
+RD_G_1_5_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Inanspruchnahme Teilnahme an Qualitätsregelungen
+RD_G_1_5_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Teilnahme an Qualitätsregelungen
+RD_G_1_6_Y_HOLD	Betr.: Förderung - Betriebe mit Natura 2000 Mitteln
+RD_G_1_6_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Natura 2000 Mitteln
+RD_G_1_6_Y_EUR	SO(Euro) der Betr.: Förderung - Betriebe mit Natura 2000 Mitteln
+RD_G_1_6_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Natura 2000 Mitteln
+RD_G_1_7_Y_HOLD	Betr.: Förderung - Betriebe mit Mitteln nach der Wasserrahmenrichtlinie
+RD_G_1_7_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Mitteln nach der Wasserrahmenrichtlinie
+RD_G_1_7_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Mitteln nach der Wasserrahmenrichtlinie
+RD_G_1_7_Y_LSU	GVE des Betr:Förderung - Betriebe mit Mitteln nach der Wasserrahmenrichtlinie
+RD_G_1_8_Y_HOLD	Betr.: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen
+RD_G_1_8_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen
+RD_G_1_8_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen
+RD_G_1_8_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen
+RD_G_1_8_1_Y_HOLD	Betr: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen bei ökologischem Landbau
+RD_G_1_8_1_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen bei  ökologischem Landbau
+RD_G_1_8_1_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen bei ökologischem Landbau
+RD_G_1_8_1_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Mitteln für Agrarumweltmaßnahmen bei  ökologischem Landbau
+RD_G_1_9_Y_HOLD	Betr.: Förderung - Betriebe mit Mitteln für Tierschutzmaßnahmen
+RD_G_1_9_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Mitteln für Tierschutzmaßnahmen
+RD_G_1_9_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Mitteln für Tierschutzmaßnahmen
+RD_G_1_9_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Mitteln für Tierschutzmaßnahmen
+RD_G_1_10_Y_HOLD	Betr.: Förderung - Betriebe mit Mitteln zur Diversifizierung nichtlandwirtschaftlicher Tätigkeiten
+RD_G_1_10_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Mitteln zur Diversifizierung nichtlandwirtschaftlicher Tätigkeiten
+RD_G_1_10_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Mitteln zur Diversifizierung nichtlandwirtschaftlicher Tätigkeiten
+RD_G_1_10_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Mitteln zur  Diversifizierung nichtlandwirtschaftlicher Tätigkeiten
+RD_G_1_11_Y_HOLD	Betr.: Förderung - Betriebe mit Mitteln zur Fremdenverkehrsförderung
+RD_G_1_11_Y_HA	LF(ha) der Betr.: Förderung - Betriebe mit Mitteln zur Fremdenverkehrsförderung
+RD_G_1_11_Y_EUR	SO (Euro) der Betr.: Förderung - Betriebe mit Mitteln zur Fremdenverkehrsförderung
+RD_G_1_11_Y_LSU	GVE der Betr.: Förderung - Betriebe mit Mitteln zur Fremdenverkehrsförderung
+D_1_1_A	Vierradschlepper, Kettenschlepper, Geräteträger im Alleinbesitz des Betriebes
+D_1_1_B	Einachsschlepper etc. im Alleinbesitz des Betriebes
+D_1_1_C	Mähdrescher im Alleinbesitz des Betriebes
+D_1_1_D	Andere vollmechanisierte Erntemaschinen im Alleinbesitz des Betriebes
+D_1_2_A_EQ_Y	Betr. die Vierradschlepper (nicht-eigen) in den letzten 12 Monaten benutzt haben
+D_1_2_B_EQ_Y	Betr. die Einachsschlepper (nicht-eigen) in den letzten 12 Monaten genutzt haben
+D_1_2_C_EQ_Y	Betr. die Mähdrescher (nicht-eigene) in den letzten 12 Monaten benutzt haben
+D_1_2_D_EQ_Y	Betr. die andere vollmechanisierte Erntegeräte (nicht-eigene) in den letzten 12 Monaten genutzt haben

@@ -1,0 +1,9 @@
+TOTAL	Insgesamt
+0	Keine Kunden
+1	1 Kunde
+2-9_D0	2 bis 9 Kunden, kein Hauptkunde
+2-9_D1	2 bis 9 Kunden, 1 Hauptkunde
+GT9_D0	Mehr als 9 Kunden, kein Hauptkunde
+GT9_D1	Mehr als 9 Kunden, 1 Hauptkunde
+NAP	Nicht anwendbar
+NRP	Keine Antwort

@@ -1,0 +1,35 @@
+TOTAL	Ensemble des activités de protection de l'environnement et de gestion des ressources naturelles
+TOT_CEPA	Ensemble des activités de protection de l'environnement
+CEPA1-3	Protection de l'air ambiant et du climat; gestion des eaux usées; gestion des déchets
+CEPA1_4_5_7	Protection de l'air ambiant et du climat; protection et assainissement des sols, des eaux souterraines et eaux de surface; lutte contre le bruit et les vibrations; protection contre les radiations
+CEPA1_4-9	Protection de l'air ambiant et du climat; protection et assainissement des sols, des eaux souterraines et eaux de surface; lutte contre le bruit et les vibrations; protection de la biodiversité et des paysages; protection contre les radiations; recherche et développement dans le domaine de l'environnement; autres activités de protection de l'environnement
+CEPA1	Protection de l'air ambiant et du climat
+CEPA112_122	Protection du climat et de la couche d'ozone
+CEPA2	Gestion des eaux usées
+CEPA3	Gestion des déchets
+CEPA4-9	Protection et assainissement des sols, des eaux souterraines et eaux de surface; lutte contre le bruit et les vibrations; protection de la biodiversité et des paysages; protection contre les radiations; recherche et développement dans le domaine de l'environnement; autres activités de protection de l'environnement
+CEPA4	Protection et assainissement des sols, des eaux souterraines et eaux de surface
+CEPA5	Lutte contre le bruit et les vibrations (à l'exclusion de la protection des lieux de travail)
+CEPA6	Protection de la biodiversité et des paysages
+CEPA7-9	Protection contre les radiations; recherche et développement dans le domaine de l'environnement; autres activités de protection de l'environnement
+CEPA7	Protection contre les radiations (à l'exclusion de la sécurité extérieure)
+CEPA8_9	Recherche et développement dans le domaine de l'environnement; autres activités de protection de l'environnement
+CEPA8	Recherche et développement dans le domaine de l'environnement
+CEPA812	Recherche et développement dans le domaine de l'environnement pour la protection du climat et de la couche d'ozone
+CEPA9	Autres activités de protection de l'environnement
+TOT_CREMA	Ensemble des activités de gestion des ressources naturelles
+CREMA10	Gestion de l'eau
+CREMA11	Gestion des ressources forestières
+CREMA11A	Gestion des aires forestières
+CREMA11B_13C_14	Minimisation du prélèvement de ressources forestières; réduction de l'utilisation des énergies fossiles comme matières premières; gestion des ressources minérales
+CREMA11B	Minimisation du prélèvement de ressources forestières
+CREMA12	Gestion de la faune et de la flore sauvage
+CREMA13	Gestion des ressources énergétiques
+CREMA13A	Production d'énergie à partir de sources renouvelables
+CREMA13B	Gestion et économies d'énergie/chaleur
+CREMA13C	Réduction de l'utilisation des énergies fossiles comme matières premières
+CREMA14	Gestion des ressources minérales
+CREMA15	Activités de recherche et de développement en matière de gestion des ressources
+CREMA15A	Activités de recherche et de développement pour la production d'énergie à partir de sources renouvelables
+CREMA16	Autres activités de gestion des ressources
+CREMA12_15_16	Gestion de la faune et de la flore sauvage; activités de recherche et de développement en matière de gestion des ressources; autres activités de gestion des ressources

@@ -1,0 +1,7 @@
+VITARTOT	Weinbaubetriebe insgesamt
+VITARC1	Betriebe mit >0-<10% Rebfläche an der landwirtschaftlich genutzten Fläche
+VITARC2	Betriebe mit 10-< 25% Rebfläche an der landwirtschaftlich genutzten Fläche
+VITARC3	Betriebe mit 25-< 50% Rebfläche an der landwirtschaftlich genutzten Fläche
+VITARC4	Betriebe mit 50-< 75% Rebfläche an der landwirtschaftlich genutzten Fläche
+VITARC5	Betriebe mit 75-< 90% Rebfläche an der landwirtschaftlich genutzten Fläche
+VITARC6	Betriebe mit >=90% Rebfläche an der landwirtschaftlich genutzten Fläche

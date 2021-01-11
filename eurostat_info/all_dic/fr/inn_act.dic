@@ -1,0 +1,31 @@
+TOTAL	Total
+INN_GE1	Au moins une activité d'innovation
+INN_XRND_CONTR_OUT	Toutes les activités d'innovation, à l'exception de la recherche et développement (R&D) sous contrat (activités externes de R&D)
+INNXRND_CONTR_OUT	Toutes les activités d'innovation, à l'exception de la recherche et développement (R&D) sous contrat (activités externes de R&D)
+RND	Recherche et développement (R&D)
+RNDINN	Recherche et développement (R&D) ou d'autres activités liées à l'innovation
+INN_XRND	Autres activités d'innovation, à l'exception de la recherche et développement (R&D)
+INNXRND	Autres activités d'innovation, à l'exception de la recherche et développement (R&D)
+RND_IH	Recherche et développement interne (R&D)
+RND_IH_CONT	Recherche et développement interne (R&D) - continuellement
+RND_IH_OCC	Recherche et développement interne (R&D) - occasionnellement
+RND_IH_CONTR_OUT	Recherche et développement interne (R&D) ou sous-traité
+RND_CONTR_OUT	Recherche et développement sous-traité (R&D)
+RND_CONTR_OUT_NIH	Recherche et développement sous-traité (R&D), pas de recherche et développement interne
+ACQ_MEBTA	Acquisition de machines, équipements, bâtiments et autres biens corporels
+ACQ_MEBS	Acquisition de machines, équipements, bâtiments et logiciels
+ACQ_EKNOW_OTH	Acquisition des connaissances existantes d'autres entreprises ou organisations
+ACQ_TKNOW	Acquisition des connaissances techniques
+ACQ_FINRES	Acquisition des ressources financières
+ACQ_PER	Acquisition de personnel
+ACQ_BACT	Acquisition des activités des entreprises
+TRF_TKNOW	Transfert des connaissances techniques
+TRF_FINRES	Transfert des ressources financières
+TRF_PER	Transfert de personnel
+TRF_BACT	Transfert des activités des entreprises
+TNG_MKT_DESG_OTH	Entreprises, engagées dans la formation, l'introduction sur le marché, la conception ou d'autres activités d'innovation
+TNG	Formation pour des activités novatrices
+INN_MKT	Introduction d'innovations sur le marché
+DESG_SHP	Conception d'activités pour modifier la forme, l'apparence ou l'ergonomie des biens ou des services
+BACT_OTH	Autres activités des entreprises
+OTH	Autres activités d'innovation

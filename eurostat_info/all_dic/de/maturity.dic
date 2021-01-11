@@ -1,0 +1,388 @@
+TOTAL	Insgesamt - alle Fälligkeiten
+SHORT	Kurzfristige Fälligkeit
+LONG	Langfristige Fälligkeit
+LONG_FX	Langfristige Fälligkeit, festverzinslich
+LONG_FL	Langfristige Fälligkeit, variabel verzinslich
+M_LT1	Fälligkeit: weniger als 1 Monat
+M1-3	Fälligkeit: 1 bis 3 Monate
+M_LT3	Fälligkeit: weniger als 3 Monate
+M3	Fälligkeit: 3 Monate
+M3-12	Fälligkeit: 3 bis 12 Monate
+M_GT3	Fälligkeit: mehr als 3 Monate
+M4	Fälligkeit: 4 Monate
+M5	Fälligkeit: 5 Monate
+M6	Fälligkeit: 6 Monate
+M7	Fälligkeit: 7 Monate
+M8	Fälligkeit: 8 Monate
+M9	Fälligkeit: 9 Monate
+M10	Fälligkeit: 10 Monate
+M11	Fälligkeit: 11 Monate
+Y_LT1	Fälligkeit: weniger als 1 Jahr
+Y_LE1	Fälligkeit: 1 Jahr und weniger
+Y1	Fälligkeit: 1 Jahr
+Y1_M1	Fälligkeit: 1 Jahr und 1 Monat
+Y1_M2	Fälligkeit: 1 Jahr und 2 Monate
+Y1_M3	Fälligkeit: 1 Jahr und 3 Monate
+Y1_M4	Fälligkeit: 1 Jahr und 4 Monate
+Y1_M5	Fälligkeit: 1 Jahr und 5 Monate
+Y1_M6	Fälligkeit: 1 Jahr und 6 Monate
+Y1_M7	Fälligkeit: 1 Jahr und 7 Monate
+Y1_M8	Fälligkeit: 1 Jahr und 8 Monate
+Y1_M9	Fälligkeit: 1 Jahr und 9 Monate
+Y1_M10	Fälligkeit: 1 Jahr und 10 Monate
+Y1_M11	Fälligkeit: 1 Jahr und 11 Monate
+Y1-2	Fälligkeit: 1 bis 2 Jahre
+Y1-3	Fälligkeit: 1 bis 3 Jahre
+Y1-5	Fälligkeit: 1 bis 5 Jahre
+Y_GT1	Fälligkeit: mehr als 1 Jahr
+Y_LT2	Fälligkeit: weniger als 2 Jahre
+Y2	Fälligkeit: 2 Jahre
+Y2_M1	Fälligkeit: 2 Jahre und 1 Monat
+Y2_M2	Fälligkeit: 2 Jahre und 2 Monate
+Y2_M3	Fälligkeit: 2 Jahre und 3 Monate
+Y2_M4	Fälligkeit: 2 Jahre und 4 Monate
+Y2_M5	Fälligkeit: 2 Jahre und 5 Monate
+Y2_M6	Fälligkeit: 2 Jahre und 6 Monate
+Y2_M7	Fälligkeit: 2 Jahre und 7 Monate
+Y2_M8	Fälligkeit: 2 Jahre und 8 Monate
+Y2_M9	Fälligkeit: 2 Jahre und 9 Monate
+Y2_M10	Fälligkeit: 2 Jahre und 10 Monate
+Y2_M11	Fälligkeit: 2 Jahre und 11 Monate
+Y_GT2	Fälligkeit: mehr als 2 Jahre
+Y3	Fälligkeit: 3 Jahre
+Y3_M1	Fälligkeit: 3 Jahre und 1 Monat
+Y3_M2	Fälligkeit: 3 Jahre und 2 Monate
+Y3_M3	Fälligkeit: 3 Jahre und 3 Monate
+Y3_M4	Fälligkeit: 3 Jahre und 4 Monate
+Y3_M5	Fälligkeit: 3 Jahre und 5 Monate
+Y3_M6	Fälligkeit: 3 Jahre und 6 Monate
+Y3_M7	Fälligkeit: 3 Jahre und 7 Monate
+Y3_M8	Fälligkeit: 3 Jahre und 8 Monate
+Y3_M9	Fälligkeit: 3 Jahre und 9 Monate
+Y3_M10	Fälligkeit: 3 Jahre und 10 Monate
+Y3_M11	Fälligkeit: 3 Jahre und 11 Monate
+Y3-5	Fälligkeit: 3 bis 5 Jahre
+Y4	Fälligkeit: 4 Jahre
+Y4_M1	Fälligkeit: 4 Jahre und 1 Monat
+Y4_M2	Fälligkeit: 4 Jahre und 2 Monate
+Y4_M3	Fälligkeit: 4 Jahre und 3 Monate
+Y4_M4	Fälligkeit: 4 Jahre und 4 Monate
+Y4_M5	Fälligkeit: 4 Jahre und 5 Monate
+Y4_M6	Fälligkeit: 4 Jahre und 6 Monate
+Y4_M7	Fälligkeit: 4 Jahre und 7 Monate
+Y4_M8	Fälligkeit: 4 Jahre und 8 Monate
+Y4_M9	Fälligkeit: 4 Jahre und 9 Monate
+Y4_M10	Fälligkeit: 4 Jahre und 10 Monate
+Y4_M11	Fälligkeit: 4 Jahre und 11 Monate
+Y_LT5	Fälligkeit: weniger als 5 Jahre
+Y5	Fälligkeit: 5 Jahre
+Y5_M1	Fälligkeit: 5 Jahre und 1 Monat
+Y5_M2	Fälligkeit: 5 Jahre und 2 Monate
+Y5_M3	Fälligkeit: 5 Jahre und 3 Monate
+Y5_M4	Fälligkeit: 5 Jahre und 4 Monate
+Y5_M5	Fälligkeit: 5 Jahre und 5 Monate
+Y5_M6	Fälligkeit: 5 Jahre und 6 Monate
+Y5_M7	Fälligkeit: 5 Jahre und 7 Monate
+Y5_M8	Fälligkeit: 5 Jahre und 8 Monate
+Y5_M9	Fälligkeit: 5 Jahre und 9 Monate
+Y5_M10	Fälligkeit: 5 Jahre und 10 Monate
+Y5_M11	Fälligkeit: 5 Jahre und 11 Monate
+Y5-7	Fälligkeit: 5 bis 7 Jahre
+Y5-10	Fälligkeit: 5 bis 10 Jahre
+Y_GT5	Fälligkeit: mehr als 5 Jahre
+Y6	Fälligkeit: 6 Jahre
+Y6_M1	Fälligkeit: 6 Jahre und 1 Monat
+Y6_M2	Fälligkeit: 6 Jahre und 2 Monate
+Y6_M3	Fälligkeit: 6 Jahre und 3 Monate
+Y6_M4	Fälligkeit: 6 Jahre und 4 Monate
+Y6_M5	Fälligkeit: 6 Jahre und 5 Monate
+Y6_M6	Fälligkeit: 6 Jahre und 6 Monate
+Y6_M7	Fälligkeit: 6 Jahre und 7 Monate
+Y6_M8	Fälligkeit: 6 Jahre und 8 Monate
+Y6_M9	Fälligkeit: 6 Jahre und 9 Monate
+Y6_M10	Fälligkeit: 6 Jahre und 10 Monate
+Y6_M11	Fälligkeit: 6 Jahre und 11 Monate
+Y7	Fälligkeit: 7 Jahre
+Y7_M1	Fälligkeit: 7 Jahre und 1 Monat
+Y7_M2	Fälligkeit: 7 Jahre und 2 Monate
+Y7_M3	Fälligkeit: 7 Jahre und 3 Monate
+Y7_M4	Fälligkeit: 7 Jahre und 4 Monate
+Y7_M5	Fälligkeit: 7 Jahre und 5 Monate
+Y7_M6	Fälligkeit: 7 Jahre und 6 Monate
+Y7_M7	Fälligkeit: 7 Jahre und 7 Monate
+Y7_M8	Fälligkeit: 7 Jahre und 8 Monate
+Y7_M9	Fälligkeit: 7 Jahre und 9 Monate
+Y7_M10	Fälligkeit: 7 Jahre und 10 Monate
+Y7_M11	Fälligkeit: 7 Jahre und 11 Monate
+Y7-10	Fälligkeit: 7 bis 10 Jahre
+Y8	Fälligkeit: 8 Jahre
+Y8_M1	Fälligkeit: 8 Jahre und 1 Monat
+Y8_M2	Fälligkeit: 8 Jahre und 2 Monate
+Y8_M3	Fälligkeit: 8 Jahre und 3 Monate
+Y8_M4	Fälligkeit: 8 Jahre und 4 Monate
+Y8_M5	Fälligkeit: 8 Jahre und 5 Monate
+Y8_M6	Fälligkeit: 8 Jahre und 6 Monate
+Y8_M7	Fälligkeit: 8 Jahre und 7 Monate
+Y8_M8	Fälligkeit: 8 Jahre und 8 Monate
+Y8_M9	Fälligkeit: 8 Jahre und 9 Monate
+Y8_M10	Fälligkeit: 8 Jahre und 10 Monate
+Y8_M11	Fälligkeit: 8 Jahre und 11 Monate
+Y9	Fälligkeit: 9 Jahre
+Y9_M1	Fälligkeit: 9 Jahre und 1 Monat
+Y9_M2	Fälligkeit: 9 Jahre und 2 Monate
+Y9_M3	Fälligkeit: 9 Jahre und 3 Monate
+Y9_M4	Fälligkeit: 9 Jahre und 4 Monate
+Y9_M5	Fälligkeit: 9 Jahre und 5 Monate
+Y9_M6	Fälligkeit: 9 Jahre und 6 Monate
+Y9_M7	Fälligkeit: 9 Jahre und 7 Monate
+Y9_M8	Fälligkeit: 9 Jahre und 8 Monate
+Y9_M9	Fälligkeit: 9 Jahre und 9 Monate
+Y9_M10	Fälligkeit: 9 Jahre und 10 Monate
+Y9_M11	Fälligkeit: 9 Jahre und 11 Monate
+Y10	Fälligkeit: 10 Jahre
+Y10_M1	Fälligkeit: 10 Jahre und 1 Monat
+Y10_M2	Fälligkeit: 10 Jahre und 2 Monate
+Y10_M3	Fälligkeit: 10 Jahre und 3 Monate
+Y10_M4	Fälligkeit: 10 Jahre und 4 Monate
+Y10_M5	Fälligkeit: 10 Jahre und 5 Monate
+Y10_M6	Fälligkeit: 10 Jahre und 6 Monate
+Y10_M7	Fälligkeit: 10 Jahre und 7 Monate
+Y10_M8	Fälligkeit: 10 Jahre und 8 Monate
+Y10_M9	Fälligkeit: 10 Jahre und 9 Monate
+Y10_M10	Fälligkeit: 10 Jahre und 10 Monate
+Y10_M11	Fälligkeit: 10 Jahre und 11 Monate
+Y10-15	Fälligkeit: 10 bis 15 Jahre
+Y10-20	Fälligkeit: 10 bis 20 Jahre
+Y_GT10	Fälligkeit: mehr als 10 Jahre
+Y11	Fälligkeit: 11 Jahre
+Y11_M1	Fälligkeit: 11 Jahre und 1 Monat
+Y11_M2	Fälligkeit: 11 Jahre und 2 Monate
+Y11_M3	Fälligkeit: 11 Jahre und 3 Monate
+Y11_M4	Fälligkeit: 11 Jahre und 4 Monate
+Y11_M5	Fälligkeit: 11 Jahre und 5 Monate
+Y11_M6	Fälligkeit: 11 Jahre und 6 Monate
+Y11_M7	Fälligkeit: 11 Jahre und 7 Monate
+Y11_M8	Fälligkeit: 11 Jahre und 8 Monate
+Y11_M9	Fälligkeit: 11 Jahre und 9 Monate
+Y11_M10	Fälligkeit: 11 Jahre und 10 Monate
+Y11_M11	Fälligkeit: 11 Jahre und 11 Monate
+Y12	Fälligkeit: 12 Jahre
+Y12_M1	Fälligkeit: 12 Jahre und 1 Monat
+Y12_M2	Fälligkeit: 12 Jahre und 2 Monate
+Y12_M3	Fälligkeit: 12 Jahre und 3 Monate
+Y12_M4	Fälligkeit: 12 Jahre und 4 Monate
+Y12_M5	Fälligkeit: 12 Jahre und 5 Monate
+Y12_M6	Fälligkeit: 12 Jahre und 6 Monate
+Y12_M7	Fälligkeit: 12 Jahre und 7 Monate
+Y12_M8	Fälligkeit: 12 Jahre und 8 Monate
+Y12_M9	Fälligkeit: 12 Jahre und 9 Monate
+Y12_M10	Fälligkeit: 12 Jahre und 10 Monate
+Y12_M11	Fälligkeit: 12 Jahre und 11 Monate
+Y13	Fälligkeit: 13 Jahre
+Y13_M1	Fälligkeit: 13 Jahre und 1 Monat
+Y13_M2	Fälligkeit: 13 Jahre und 2 Monate
+Y13_M3	Fälligkeit: 13 Jahre und 3 Monate
+Y13_M4	Fälligkeit: 13 Jahre und 4 Monate
+Y13_M5	Fälligkeit: 13 Jahre und 5 Monate
+Y13_M6	Fälligkeit: 13 Jahre und 6 Monate
+Y13_M7	Fälligkeit: 13 Jahre und 7 Monate
+Y13_M8	Fälligkeit: 13 Jahre und 8 Monate
+Y13_M9	Fälligkeit: 13 Jahre und 9 Monate
+Y13_M10	Fälligkeit: 13 Jahre und 10 Monate
+Y13_M11	Fälligkeit: 13 Jahre und 11 Monate
+Y14	Fälligkeit: 14 Jahre
+Y14_M1	Fälligkeit: 14 Jahre und 1 Monat
+Y14_M2	Fälligkeit: 14 Jahre und 2 Monate
+Y14_M3	Fälligkeit: 14 Jahre und 3 Monate
+Y14_M4	Fälligkeit: 14 Jahre und 4 Monate
+Y14_M5	Fälligkeit: 14 Jahre und 5 Monate
+Y14_M6	Fälligkeit: 14 Jahre und 6 Monate
+Y14_M7	Fälligkeit: 14 Jahre und 7 Monate
+Y14_M8	Fälligkeit: 14 Jahre und 8 Monate
+Y14_M9	Fälligkeit: 14 Jahre und 9 Monate
+Y14_M10	Fälligkeit: 14 Jahre und 10 Monate
+Y14_M11	Fälligkeit: 14 Jahre und 11 Monate
+Y15	Fälligkeit: 15 Jahre
+Y15_M1	Fälligkeit: 15 Jahre und 1 Monat
+Y15_M2	Fälligkeit: 15 Jahre und 2 Monate
+Y15_M3	Fälligkeit: 15 Jahre und 3 Monate
+Y15_M4	Fälligkeit: 15 Jahre und 4 Monate
+Y15_M5	Fälligkeit: 15 Jahre und 5 Monate
+Y15_M6	Fälligkeit: 15 Jahre und 6 Monate
+Y15_M7	Fälligkeit: 15 Jahre und 7 Monate
+Y15_M8	Fälligkeit: 15 Jahre und 8 Monate
+Y15_M9	Fälligkeit: 15 Jahre und 9 Monate
+Y15_M10	Fälligkeit: 15 Jahre und 10 Monate
+Y15_M11	Fälligkeit: 15 Jahre und 11 Monate
+Y15-30	Fälligkeit: 15 bis 30 Jahre
+Y16	Fälligkeit: 16 Jahre
+Y16_M1	Fälligkeit: 16 Jahre und 1 Monat
+Y16_M2	Fälligkeit: 16 Jahre und 2 Monate
+Y16_M3	Fälligkeit: 16 Jahre und 3 Monate
+Y16_M4	Fälligkeit: 16 Jahre und 4 Monate
+Y16_M5	Fälligkeit: 16 Jahre und 5 Monate
+Y16_M6	Fälligkeit: 16 Jahre und 6 Monate
+Y16_M7	Fälligkeit: 16 Jahre und 7 Monate
+Y16_M8	Fälligkeit: 16 Jahre und 8 Monate
+Y16_M9	Fälligkeit: 16 Jahre und 9 Monate
+Y16_M10	Fälligkeit: 16 Jahre und 10 Monate
+Y16_M11	Fälligkeit: 16 Jahre und 11 Monate
+Y17	Fälligkeit: 17 Jahre
+Y17_M1	Fälligkeit: 17 Jahre und 1 Monat
+Y17_M2	Fälligkeit: 17 Jahre und 2 Monate
+Y17_M3	Fälligkeit: 17 Jahre und 3 Monate
+Y17_M4	Fälligkeit: 17 Jahre und 4 Monate
+Y17_M5	Fälligkeit: 17 Jahre und 5 Monate
+Y17_M6	Fälligkeit: 17 Jahre und 6 Monate
+Y17_M7	Fälligkeit: 17 Jahre und 7 Monate
+Y17_M8	Fälligkeit: 17 Jahre und 8 Monate
+Y17_M9	Fälligkeit: 17 Jahre und 9 Monate
+Y17_M10	Fälligkeit: 17 Jahre und 10 Monate
+Y17_M11	Fälligkeit: 17 Jahre und 11 Monate
+Y18	Fälligkeit: 18 Jahre
+Y18_M1	Fälligkeit: 18 Jahre und 1 Monat
+Y18_M2	Fälligkeit: 18 Jahre und 2 Monate
+Y18_M3	Fälligkeit: 18 Jahre und 3 Monate
+Y18_M4	Fälligkeit: 18 Jahre und 4 Monate
+Y18_M5	Fälligkeit: 18 Jahre und 5 Monate
+Y18_M6	Fälligkeit: 18 Jahre und 6 Monate
+Y18_M7	Fälligkeit: 18 Jahre und 7 Monate
+Y18_M8	Fälligkeit: 18 Jahre und 8 Monate
+Y18_M9	Fälligkeit: 18 Jahre und 9 Monate
+Y18_M10	Fälligkeit: 18 Jahre und 10 Monate
+Y18_M11	Fälligkeit: 18 Jahre und 11 Monate
+Y19	Fälligkeit: 19 Jahre
+Y19_M1	Fälligkeit: 19 Jahre und 1 Monat
+Y19_M2	Fälligkeit: 19 Jahre und 2 Monate
+Y19_M3	Fälligkeit: 19 Jahre und 3 Monate
+Y19_M4	Fälligkeit: 19 Jahre und 4 Monate
+Y19_M5	Fälligkeit: 19 Jahre und 5 Monate
+Y19_M6	Fälligkeit: 19 Jahre und 6 Monate
+Y19_M7	Fälligkeit: 19 Jahre und 7 Monate
+Y19_M8	Fälligkeit: 19 Jahre und 8 Monate
+Y19_M9	Fälligkeit: 19 Jahre und 9 Monate
+Y19_M10	Fälligkeit: 19 Jahre und 10 Monate
+Y19_M11	Fälligkeit: 19 Jahre und 11 Monate
+Y20	Fälligkeit: 20 Jahre
+Y20_M1	Fälligkeit: 20 Jahre und 1 Monat
+Y20_M2	Fälligkeit: 20 Jahre und 2 Monate
+Y20_M3	Fälligkeit: 20 Jahre und 3 Monate
+Y20_M4	Fälligkeit: 20 Jahre und 4 Monate
+Y20_M5	Fälligkeit: 20 Jahre und 5 Monate
+Y20_M6	Fälligkeit: 20 Jahre und 6 Monate
+Y20_M7	Fälligkeit: 20 Jahre und 7 Monate
+Y20_M8	Fälligkeit: 20 Jahre und 8 Monate
+Y20_M9	Fälligkeit: 20 Jahre und 9 Monate
+Y20_M10	Fälligkeit: 20 Jahre und 10 Monate
+Y20_M11	Fälligkeit: 20 Jahre und 11 Monate
+Y_GT20	Fälligkeit: mehr als 20 Jahre
+Y21	Fälligkeit: 21 Jahre
+Y21_M1	Fälligkeit: 21 Jahre und 1 Monat
+Y21_M2	Fälligkeit: 21 Jahre und 2 Monate
+Y21_M3	Fälligkeit: 21 Jahre und 3 Monate
+Y21_M4	Fälligkeit: 21 Jahre und 4 Monate
+Y21_M5	Fälligkeit: 21 Jahre und 5 Monate
+Y21_M6	Fälligkeit: 21 Jahre und 6 Monate
+Y21_M7	Fälligkeit: 21 Jahre und 7 Monate
+Y21_M8	Fälligkeit: 21 Jahre und 8 Monate
+Y21_M9	Fälligkeit: 21 Jahre und 9 Monate
+Y21_M10	Fälligkeit: 21 Jahre und 10 Monate
+Y21_M11	Fälligkeit: 21 Jahre und 11 Monate
+Y22	Fälligkeit: 22 Jahre
+Y22_M1	Fälligkeit: 22 Jahre und 1 Monat
+Y22_M2	Fälligkeit: 22 Jahre und 2 Monate
+Y22_M3	Fälligkeit: 22 Jahre und 3 Monate
+Y22_M4	Fälligkeit: 22 Jahre und 4 Monate
+Y22_M5	Fälligkeit: 22 Jahre und 5 Monate
+Y22_M6	Fälligkeit: 22 Jahre und 6 Monate
+Y22_M7	Fälligkeit: 22 Jahre und 7 Monate
+Y22_M8	Fälligkeit: 22 Jahre und 8 Monate
+Y22_M9	Fälligkeit: 22 Jahre und 9 Monate
+Y22_M10	Fälligkeit: 22 Jahre und 10 Monate
+Y22_M11	Fälligkeit: 22 Jahre und 11 Monate
+Y23	Fälligkeit: 23 Jahre
+Y23_M1	Fälligkeit: 23 Jahre und 1 Monat
+Y23_M2	Fälligkeit: 23 Jahre und 2 Monate
+Y23_M3	Fälligkeit: 23 Jahre und 3 Monate
+Y23_M4	Fälligkeit: 23 Jahre und 4 Monate
+Y23_M5	Fälligkeit: 23 Jahre und 5 Monate
+Y23_M6	Fälligkeit: 23 Jahre und 6 Monate
+Y23_M7	Fälligkeit: 23 Jahre und 7 Monate
+Y23_M8	Fälligkeit: 23 Jahre und 8 Monate
+Y23_M9	Fälligkeit: 23 Jahre und 9 Monate
+Y23_M10	Fälligkeit: 23 Jahre und 10 Monate
+Y23_M11	Fälligkeit: 23 Jahre und 11 Monate
+Y24	Fälligkeit: 24 Jahre
+Y24_M1	Fälligkeit: 24 Jahre und 1 Monat
+Y24_M2	Fälligkeit: 24 Jahre und 2 Monate
+Y24_M3	Fälligkeit: 24 Jahre und 3 Monate
+Y24_M4	Fälligkeit: 24 Jahre und 4 Monate
+Y24_M5	Fälligkeit: 24 Jahre und 5 Monate
+Y24_M6	Fälligkeit: 24 Jahre und 6 Monate
+Y24_M7	Fälligkeit: 24 Jahre und 7 Monate
+Y24_M8	Fälligkeit: 24 Jahre und 8 Monate
+Y24_M9	Fälligkeit: 24 Jahre und 9 Monate
+Y24_M10	Fälligkeit: 24 Jahre und 10 Monate
+Y24_M11	Fälligkeit: 24 Jahre und 11 Monate
+Y25	Fälligkeit: 25 Jahre
+Y25_M1	Fälligkeit: 25 Jahre und 1 Monat
+Y25_M2	Fälligkeit: 25 Jahre und 2 Monate
+Y25_M3	Fälligkeit: 25 Jahre und 3 Monate
+Y25_M4	Fälligkeit: 25 Jahre und 4 Monate
+Y25_M5	Fälligkeit: 25 Jahre und 5 Monate
+Y25_M6	Fälligkeit: 25 Jahre und 6 Monate
+Y25_M7	Fälligkeit: 25 Jahre und 7 Monate
+Y25_M8	Fälligkeit: 25 Jahre und 8 Monate
+Y25_M9	Fälligkeit: 25 Jahre und 9 Monate
+Y25_M10	Fälligkeit: 25 Jahre und 10 Monate
+Y25_M11	Fälligkeit: 25 Jahre und 11 Monate
+Y26	Fälligkeit: 26 Jahre
+Y26_M1	Fälligkeit: 26 Jahre und 1 Monat
+Y26_M2	Fälligkeit: 26 Jahre und 2 Monate
+Y26_M3	Fälligkeit: 26 Jahre und 3 Monate
+Y26_M4	Fälligkeit: 26 Jahre und 4 Monate
+Y26_M5	Fälligkeit: 26 Jahre und 5 Monate
+Y26_M6	Fälligkeit: 26 Jahre und 6 Monate
+Y26_M7	Fälligkeit: 26 Jahre und 7 Monate
+Y26_M8	Fälligkeit: 26 Jahre und 8 Monate
+Y26_M9	Fälligkeit: 26 Jahre und 9 Monate
+Y26_M10	Fälligkeit: 26 Jahre und 10 Monate
+Y26_M11	Fälligkeit: 26 Jahre und 11 Monate
+Y27	Fälligkeit: 27 Jahre
+Y27_M1	Fälligkeit: 27 Jahre und 1 Monat
+Y27_M2	Fälligkeit: 27 Jahre und 2 Monate
+Y27_M3	Fälligkeit: 27 Jahre und 3 Monate
+Y27_M4	Fälligkeit: 27 Jahre und 4 Monate
+Y27_M5	Fälligkeit: 27 Jahre und 5 Monate
+Y27_M6	Fälligkeit: 27 Jahre und 6 Monate
+Y27_M7	Fälligkeit: 27 Jahre und 7 Monate
+Y27_M8	Fälligkeit: 27 Jahre und 8 Monate
+Y27_M9	Fälligkeit: 27 Jahre und 9 Monate
+Y27_M10	Fälligkeit: 27 Jahre und 10 Monate
+Y27_M11	Fälligkeit: 27 Jahre und 11 Monate
+Y28	Fälligkeit: 28 Jahre
+Y28_M1	Fälligkeit: 28 Jahre und 1 Monat
+Y28_M2	Fälligkeit: 28 Jahre und 2 Monate
+Y28_M3	Fälligkeit: 28 Jahre und 3 Monate
+Y28_M4	Fälligkeit: 28 Jahre und 4 Monate
+Y28_M5	Fälligkeit: 28 Jahre und 5 Monate
+Y28_M6	Fälligkeit: 28 Jahre und 6 Monate
+Y28_M7	Fälligkeit: 28 Jahre und 7 Monate
+Y28_M8	Fälligkeit: 28 Jahre und 8 Monate
+Y28_M9	Fälligkeit: 28 Jahre und 9 Monate
+Y28_M10	Fälligkeit: 28 Jahre und 10 Monate
+Y28_M11	Fälligkeit: 28 Jahre und 11 Monate
+Y29	Fälligkeit: 29 Jahre
+Y29_M1	Fälligkeit: 29 Jahre und 1 Monat
+Y29_M2	Fälligkeit: 29 Jahre und 2 Monate
+Y29_M3	Fälligkeit: 29 Jahre und 3 Monate
+Y29_M4	Fälligkeit: 29 Jahre und 4 Monate
+Y29_M5	Fälligkeit: 29 Jahre und 5 Monate
+Y29_M6	Fälligkeit: 29 Jahre und 6 Monate
+Y29_M7	Fälligkeit: 29 Jahre und 7 Monate
+Y29_M8	Fälligkeit: 29 Jahre und 8 Monate
+Y29_M9	Fälligkeit: 29 Jahre und 9 Monate
+Y29_M10	Fälligkeit: 29 Jahre und 10 Monate
+Y29_M11	Fälligkeit: 29 Jahre und 11 Monate
+Y30	Fälligkeit: 30 Jahre
+Y_GT30	Fälligkeit: mehr als 30 Jahre

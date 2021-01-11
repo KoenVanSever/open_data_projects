@@ -1,0 +1,43 @@
+EPS_EPE	Dépense de protection de l'environnement
+EPS_P1	Production
+EPS_P11	Production marchande
+EPS_P11_MA	Production marchande des activités principales (producteurs spécialisés)
+EPS_P11_SA	Production marchande des activités secondaires (producteurs non-spécialisés)
+EPS_P13	Production non marchande
+EPS_P1_ANC	Production auxiliaire relative à la protection de l'environnement
+EPS_P1_ANCESA	Production auxiliaire relative à la protection de l'environnement (mesure cohérente avec le SEC)
+EPS_P2	Consommation intermédiaire
+EPS_P2_EPS	Consommation intermédiaire de services de protection de l'environnement
+EPS_P2_EPS_SP	Consommation intermédiaire de services de protection de l'environnement par les sociétés comme producteurs spécialisés
+EPS_P2_NEPS	Consommation intermédiaire de produits autres que les services de protection de l'environnement
+TOT_P2_EPS	Consommation intermédiaire de services de protection de l'environnement pour la production des services de protection de l'environnement et pour d'autre production
+P3_EPS	Dépense de consommation finale de services de protection de l'environnement
+P3_ACP	Dépense de consommation finale de produits adaptés et connectés
+EPS_P51G_NP	Formation brute de capital fixe et acquisitions moins cessions d'actifs non financiers non produits
+EPS_INV	Investissements
+EPS_INV_PT	Formation brute de capital fixe spécifique à la protection de l'environnement (technologies en bout de chaîne)
+EPS_INV_PP	Formation brute de capital fixe dans des actifs moins polluants (technologies intégrées)
+EPS_INV_PP_PC_INV	Investissements de prévention de la pollution en % des investissements totaux pour la protection de l'environnement
+EPS_INV_PC_P51G	Investissements pour la protection de l'environnement en % de la formation brute de capital fixe
+EPS_D1	Rémunération des salariés
+EPS_CUR	Dépenses courantes
+EPS_CUR_IN	Dépenses courantes internes
+EPS_CUR_FEE	Redevances et achats
+EPS_CUR_PC_P1	Dépenses courantes en % de la production
+EPS_D29X39	Autres impôts moins autres subventions sur la production
+EPS_P51C	Consommation de capital fixe
+EPS_B2N	Excédent net d'exploitation
+EPS_REC_BYPR	Production non environnementale dérivée des activités de protection de l'environnement
+EPS_EMP	Emploi
+P7_EPS	Importations de services de protection de l'environnement
+P6_EPS	Exportations de services de protection de l'environnement
+EPS_D21X31	Impôts moins subventions sur les produits
+EPS_SUP_NU	Ressources aux prix d'acquisition disponibles pour les emplois nationaux
+EP_D3_7_92_99_P	Transferts courants et transferts en capital pour la protection de l'environnement, payés
+EP_D3_7_92_99_R	Transferts courants et transferts en capital pour la protection de l'environnement, reçus
+EP_D3_7_R	Transferts courants pour la protection de l'environnement, reçus
+EP_D92_99_R	Aides à l'investissement et autres transferts en capital pour la protection de l'environnement, reçus
+EP_TAXEM_P	Impôts et taxes affectés à la protection de l'environnement, payés
+EPS_NEGB2N_MP	Excédent net d'exploitation négatif des producteurs marchands (des administrations publiques)
+EP_TRF	Subventions/transferts pour la protection de l'environnement
+EPS_REV_SLS	Recettes des ventes

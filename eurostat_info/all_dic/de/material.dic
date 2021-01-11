@@ -1,0 +1,228 @@
+TOTAL	Insgesamt
+MF1	Biomasse
+MF11	Erzeugnisse pflanzlichen Ursprungs (außer Futterpflanzen)
+MF111	Getreide
+MF112	Wurzeln, Knollen
+MF113	Zuckerpflanzen
+MF114	Hülsenfrüchte
+MF115	Nüsse
+MF116	Ölhaltige Früchte
+MF117	Gemüse
+MF118	Obst
+MF119	Fasern
+MF11A	Sonstige Erzeugnisse pflanzlichen Ursprungs (außer Futterpflanzen) a.n.g.
+MF1110	Sonstige Erzeugnisse pflanzlichen Ursprungs a.n.g.
+MF12	Pflanzenrückstände (verwendet), Futterpflanzen und geweidete Biomasse
+MF121	Pflanzenrückstände (verwendet)
+MF1211	Stroh
+MF1212	Sonstige Pflanzenrückstände (Zucker- und Futterrübenblätter, etc.)
+MF122	Futterpflanzen und geweidete Biomasse
+MF1221	Futterpflanzen (darunter auf Weiden anfallende Biomasse)
+MF1222	Geweidete Biomasse
+MF13	Holz
+MF131	Industrierundholz (Stamm- und Faserholz)
+MF132	Brennholz und sonstige Entnahmen
+MF13MEMO	Nettozuwachs an stehendem Holz (memo item)
+MF14	Wildfischfang, Wasserpflanzen und -tiere, Jagen und Sammeln
+MF141	Wildfischfang
+MF142	Alle sonstigen Wassertiere und -pflanzen
+MF143	Jagen und Sammeln
+MF15	Lebende Tiere und Tierprodukte (außer Wildfisch, Wasserpflanzen und -tiere, Jagen und Sammeln)
+MF151	Lebende Tiere (außer Wildfisch, Wasserpflanzen und -tiere, Jagen und Sammeln)
+MF152	Fleisch und Fleischzubereitungen
+MF153	Milch und Milcherzeugnisse, Vogeleier und Honig
+MF154	Sonstige Tierprodukte (Fasern tierischen Ursprungs, Tierhäute und -felle, Leder usw.)
+MF16	Produkte vorwiegend aus Biomasse
+MF2	Erze (Roherze)
+MF21	Eisen
+MF22	NE-Metalle
+MF221	Kupfer
+MF221MEMO	Kupfer - Metallgehalt
+MF222	Nickel
+MF222MEMO	Nickel - Metallgehalt
+MF223	Blei
+MF223MEMO	Blei - Metallgehalt
+MF224	Zink
+MF224MEMO	Zink - Metallgehalt
+MF225	Zinn
+MF225MEMO	Zinn - Metallgehalt
+MF226	Gold, Silber, Platin und sonstige Edelmetalle
+MF2261	Gold
+MF2262	Silber
+MF2263	Platin und sonstige Edelmetalle
+MF227	Bauxit und sonstiges Aluminium
+MF228	Uran und Thorium
+MF229	Sonstige Nichteisenmetalle
+MF2291	Wolfram
+MF2292	Tantal
+MF2293	Magnesiumerz
+MF2294	Titan
+MF2295	Mangan
+MF2296	Chrom
+MF2297	Sonstige Nichteisenmetalle a.n.g.
+MF23	Produkte überwiegend aus Metal
+MF3	Nichtmetallische Mineralien
+MF31	Marmor, Granit, Sandstein, Porphyr, Basalt, sonstige Naturwerksteine und Natursteine (außer Tonschiefer)
+MF32	Kreide und Dolomit
+MF33	Tonschiefer
+MF34	Chemische und Düngemittelminerale
+MF35	Salz
+MF36	Kalk- und Gipsstein
+MF37	Ton und Kaolin
+MF38	Sand und Kies
+MF39	Sonstige nichtmetallische Mineralien a.n.g.
+MF3A	Bodenaushub, nur wenn genutzt (wahlweise)
+MF3B	Produkte überwiegend aus nichtmetallischen Mineralen
+MF4	Fossile Energiematerialien/-träger
+MF41	Kohle und sonstige feste Energiematerialien/-träger
+MF411	Braunkohle
+MF412	Steinkohle
+MF413	Ölhaltige Schiefer und Sande
+MF414	Torf
+MF42	Flüssige und gasförmige Energiematerialien/-träger
+MF421	Erdöl, Erdgaskondensate und Flüssigerdgas
+MF422	Erdgas
+MF423	Hochseebunkerungen (Importe durch im Inland ansässige Produktionseinheiten aus der übrigen Welt) (Exporte durch nicht ansässige Produktionseinheiten aus dem Inland)
+MF4231	Treibstoff für Landverkehr
+MF4232	Treibstoff für Schiffsverkehr
+MF4233	Treibstoff für Luftverkehr
+MF43	Produkte überwiegend aus fossilen Energieprodukten
+MF5	Sonstige Produkte
+MF6	Abfallstoffe zur Endbehandlung und Endlagerung
+MF71	Luftemissionen
+MF711	Kohlendioxid
+MF7111	Kohlendioxid von Biomasseverbrennung
+MF7112	Kohlendioxid ausschliesslich von Biomasseverbrennung
+MF712	Methan
+MF713	Distickstoffoxid
+MF714	Stickstoffoxide
+MF715	Hydrofluorocarbones
+MF716	Perfluorocarbones
+MF717	Schwefelhexafluorid
+MF718	Kohlenmonoxid
+MF719	Flüchtige organische Verbindungen ohne Methan
+MF71A	Schwefeloxide
+MF71B	Ammoniak
+MF71C	Schwermetalle
+MF71D	Persitente organische Verbindungen (POPs)
+MF71E	Partikel (z.B. PM10, Staub)
+MF71F	Sonstige Luftemissionen
+MF72	Abfallablagerung in die Umwelt
+MF72MEMO	Abfallablagerung in kontrollierten Deponien (memo item)
+MF721	Ablagerung von Siedlungsabfällen in die Umwelt
+MF721MEMO	Ablagerung von Siedlungsabfällen in kontrollierten Deponien (memo item)
+MF722	Ablagerung von Industrieabfällen in die Umwelt
+MF722MEMO	Ablagerung von Industrieabfällen in kontrollierten Deponien (memo item)
+MF73	Abgaben an Gewässer
+MF731	Stickstoff (P)
+MF732	Phosphor (P)
+MF733	Schwermetalle
+MF734	Sonstige Substanzen und (organische) Materialien
+MF735	Verklappung auf See
+MF74	Dissipative Nutzung von Gütern
+MF741	Organische Dünger (Gülle)
+MF742	Mineralische Dünger
+MF743	Klärschlamm
+MF744	Kompost
+MF745	Pestizide
+MF746	Samen
+MF747	Salz und anderes Streugut
+MF748	Lösungsmittel, Lachgas und sonstiges
+MF75	Dissipative Verluste
+MF81	Abstimmungssalden: inputseitig
+MF811	Sauerstoff für Verbrennungsprozesse
+MF812	Sauerstoff für menschlische und tierische Respiration; bakterielle Respiration von festen Abfällen und Abwässern
+MF813	Stickstoff für Haber-Bosch Verfahren
+MF814	Wasserbedarf für die inländische Produktion von ausgeführten von Getränken
+MF82	Abstimmungssalden: outputseitig
+MF821	Wasserdampf aus Verbrennungsprozessen
+MF8211	Verdunstung des Wassergehaltes aus Treibstoffen
+MF8212	Wasserdampf von den oxidierten Wasserstoffkomponenten in Treibstoffen
+MF822	Gase von menschlicher und tierischer Respiration (Co2 und H2O), sowie von bakterieller Respiration von festen Abfällen und Abwässern
+MF8221	Kohlendioxid (CO2)
+MF8222	Wasserverdunstung (H2O)
+MF823	Wasserverdunstung von Biomassegütern
+SM_FIN	Verarbeitungsgrad - Fertigwaren
+SM_SFIN	Verarbeitungsgrad - Halbfertigwaren
+SM_RAW	Verarbeitungsgrad - Rohstoffe
+CROC	Aggregate - Schotter, andere Sande (nicht Quarz), Kieselsteine, Kies, Bitumenzusätze
+AL	Aluminium
+SB	Antimon
+BRT	Baryt
+BAUX	Bauxit
+BENT	Bentonit
+BE	Beryllium
+BI	Bismut
+BOR	Borat
+CE	Cer
+CR	Chrom
+CO	Cobalt
+COCO	Kokskohle
+CU	Kupfer
+DIAT	Diatomit
+DY	Dysprosium
+ER	Erbium
+EU	Europium
+FSP	Feldspat
+FL	Fluorspat
+GD	Gadolinium
+GA	Gallium
+GE	Germanium
+AU	Gold
+GP	Gips
+HF	Hafnium
+HE	Helium
+HO	Holmium
+IN	Indium
+IR	Iridium
+FEOR	Eisenerz
+FE	Eisen
+KAOL	Kaolin Ton
+LA	Lanthan
+PB	Blei
+LST	Kalkstein
+LI	Lithium
+LU	Lutetium
+MGS	Magnesit
+MG	Magnesium
+MN	Mangan
+MO	Molybdän
+CORK	Naturkorken
+GR	Naturgraphit
+RUBB	Natürliches Gummi
+TEAK	Natürliches Teakholz
+ND	Neodym
+NI	Nickel
+NB	Niob
+PD	Palladium
+PERL	Perlite
+PHOR	Phosphatgestein
+P	Phosphor
+PT	Platin
+PTSH	Pottasche
+K	Kalium
+PR	Praseodym
+RE	Rhenium
+RH	Rhodium
+RU	Ruthenium
+SM	Samarium
+SAPE	Sapelli Holz
+SC	Scandium
+SE	Selen
+SLCA	Quarzsand
+SIME	Silizium-Metall
+SI	Silizium
+AG	Silber
+S	Schwefel
+TALC	Talk
+TA	Tantal
+TE	Tellur
+TB	Terbium
+TM	Thulium
+SN	Zinn
+TI	Titan
+W	Wolfram
+V	Vanadium
+YB	Ytterbium
+Y	Yttrium
+ZN	Zink

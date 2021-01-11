@@ -1,0 +1,7 @@
+BSL	Basisvorausberechnung
+LFRT	Sensitivitätstest: niedrigere Fertilität 
+LMRT	Sensitivitätstest: niedrigere Mortalität
+HMIGR	Sensitivitätstest: höhere Wanderung
+LMIGR	Sensitivitätstest: niedrigere Wanderung
+NMIGR	Sensitivitätstest: keine Wanderung
+NIRMIGR	Sensitivitätstest: keine interregionale Wanderung

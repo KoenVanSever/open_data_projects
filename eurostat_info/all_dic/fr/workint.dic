@@ -1,0 +1,14 @@
+TOTAL	Total
+WI1	Intensité de travail maximale (1)
+WI0-1	Certaine intensité de travail (0-1)
+WI085-1	Intensité de travail très élevée (0.85-1)
+WI055-085	Intensité de travail élevée (0.55-0.85)
+WI05-1	Intensité de travail moyenne à élevée (0.5-1)
+WI045-055	Intensité de travail moyenne (0.45-0.55)
+WI0-05	Intensité de travail moyenne à faible (0-0.5)
+WI02-1_NAP	Intensité de travail pas très faible (0.2-1) et non applicable
+WI02-1	Intensité de travail pas très faible (0.2-1)
+WI02-045	Intensité de travail faible (0.2-0.45)
+WI0-02	Intensité de travail très faible (0-0.2)
+WI0	Pas d'intensité de travail (0)
+NAP	Non applicable

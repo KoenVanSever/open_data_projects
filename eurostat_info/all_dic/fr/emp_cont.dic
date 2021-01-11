@@ -1,0 +1,17 @@
+TOTAL	Total
+NLTD	Durée indéterminée
+NLTD_FT	Durée indéterminée et temps plein
+NLTD_PT	Durée indéterminée et temps partiel
+LTD	Durée déterminée
+LTD_FT	Durée déterminée et temps plein
+LTD_PT	Durée déterminée et temps partiel
+LTD_X_APP_TRN	Durée déterminée sauf apprenti et stagiaire
+TNG_PROB	Période de formation ou probatoire
+EMP_SELF_FAM	Employeurs, indépendants et aides familiaux
+APP_TRN	Apprenti ou stagiaire
+FT	Temps plein
+PT	Temps partiel
+OTH	Autre
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

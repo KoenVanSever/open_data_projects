@@ -1,0 +1,9 @@
+TOTAL	Insgesamt
+PRES	Anwesenheit wird erfasst
+HW_MNL_OSELF	Arbeitszeit wird selbst manuell erfasst
+HW_MNL_SVIS	Arbeitszeit wird von Vorgesetzten/Kollegen manuell erfasst
+HW_ATM	Arbeitszeit wird automatisch erfasst
+HW_OTH	Arbeitszeit wird anderweitig erfasst
+NONE	Keine
+NAP	Nicht anwendbar
+NRP	Ohne Antwort

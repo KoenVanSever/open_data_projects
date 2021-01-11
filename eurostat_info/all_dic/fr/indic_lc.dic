@@ -1,0 +1,16 @@
+SAL	Salariés
+HW_SAL_Y	Heures réellement travaillées par les salariés par an
+HP_SAL_Y	Heures payées aux salariés par an
+APP	Apprentis
+HW_APP_Y	Heures réellement travaillées par les apprentis par an
+HW_SAL_AVG	Moyenne annuelle des heures réellement travaillées par salarié
+HP_SAL_AVG	Moyenne annuelle des heures payées par salarié
+HW_APP_AVG	Moyenne annuelle des heures réellement travaillées par apprenti
+HP_APP_AVG	Moyenne annuelle des heures payées par apprenti
+LC_NAC	Coût de la main-d'oeuvre - monnaie nationale
+LC_EUR	Coût de la main-d'oeuvre - euro
+LC_M	Coût de la main-d'oeuvre par mois
+LC_H	Coût de la main-d'oeuvre par heure
+HW	Heures travaillées
+HP_HW_RAT	Ratio entre les heures payées et effectivement travaillées
+HP_NHW	Heures payées mais non effectivement travaillées

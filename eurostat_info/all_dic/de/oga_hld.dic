@@ -1,0 +1,32 @@
+TOTAL	Insgesamt
+OGA_HLD	Inhaber mit sonstigen Erwerbstätigkeiten
+OGA_HLD_RH	Inhaber mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten
+OGA_HLD_NRH	Inhaber mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten
+MOGA_HLD	Inhaber mit sonstigen Erwerbstätigkeiten als Haupttätigkeit
+MOGA_HLD_RH	Inhaber mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+MOGA_HLD_NRH	Inhaber mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+MOGA_FAM	Familienmitglieder mit sonstigen Erwerbstätigkeiten als Haupttätigkeit
+MOGA_FAM_RH	Familienmitglieder mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+MOGA_FAM_NRH	Familienmitglieder mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+MOGA_NFAM_RH	Im landwirtschaftlichen Betrieb arbeitende familienfremde Arbeitskräfte mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+SOGA_HLD	Inhaber mit sonstigen Erwerbstätigkeiten als Nebentätigkeit
+SOGA_HLD_RH	Inhaber mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+SOGA_HLD_NRH	Inhaber mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+SOGA_FAM	Familienmitglieder mit sonstigen Erwerbstätigkeiten als Nebentätigkeit
+SOGA_FAM_RH	Familienmitglieder mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+SOGA_FAM_NRH	Familienmitglieder mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+SOGA_NFAM_RH	Im landwirtschaftlichen Betrieb arbeitende familienfremde Arbeitskräfte mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+NOGA_HLD	Inhaber nicht mit sonstigen Erwerbstätigkeiten
+NOGA_HLD_RH	Inhaber nicht mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten
+NOGA_HLD_NRH	Inhaber nicht mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten
+NOGA_FAM	Familienmitglieder ohne sonstige Erwerbstätigkeiten
+NOGA_FAM_RH	Familienmitglieder ohne sonstige (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten
+NOGA_FAM_NRH	Familienmitglieder ohne sonstige (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten
+OGA_MT_HLD	Inhaber welcher mehr Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+OGA_MT_SPOU	Ehepartner welcher mehr Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+OGA_LT_HLD	Inhaber welcher weniger Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+OGA_LT_SPOU	Ehepartner welcher weniger Zeit in Anspruch nimmt für andere Erwerbstätigkeiten als für seinen eigenen Besitz
+NOGA_SPOU	Ehepartner hat keine sonstige Erwerbstätigkeit
+NSPOU	Kein Gatte des Alleininhabers
+NMAN_NHLD	Der Alleininhaber ist nicht der Betreibsleiter
+LEG_GRP	Der Betrieb ist eine juristische Person oder ein Gruppenbetrieb

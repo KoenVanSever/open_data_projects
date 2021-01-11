@@ -1,0 +1,8 @@
+IRT_DTD	Taux au jour-le-jour
+IRT_M1	Taux à 1 mois
+IRT_M3	Taux à 3 mois
+IRT_M6	Taux à 6 mois
+IRT_M12	Taux à 12 mois
+GBY_LT	Rendement des obligations d'État à long terme
+MCBY	Critère de convergence de l'UEM concernant les rendements des obligations
+3MR	Taux d'intérêt du marché monétaire à 3 mois

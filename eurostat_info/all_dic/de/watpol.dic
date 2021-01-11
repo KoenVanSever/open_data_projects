@@ -1,0 +1,17 @@
+VOL	Volumen
+VOL_WW	Abwasservolumen
+BOD	Biochemischer Sauerstoffbedarf (BSB)
+COD	Chemischer Sauerstoffbedarf (CSB)
+SS	Schwebstoffe
+N_T	Stickstoff (N-tot )
+P_T	Phosphor (P-tot)
+PE	Einwohnerwert (EW)
+CD	Cadmium (Cd)
+CR	Chrome (Cr)
+CU	Kupfer (Cu)
+NI	Nickel (Ni)
+PB	Blei (Pb)
+ZN	Zink (Zn)
+AS	Arsen (As)
+NO3_GW	Nitratkonzentration im Grundwasser
+PO4_RIV	Phosphatkonzentration in Flüssen

@@ -1,0 +1,346 @@
+BP010	Insgesamt
+BP020	Warenhandel
+BP030	Handel mit Dienstleistungen
+BP040	Einkommen
+BP050	Laufende Übertragungen
+BP060	Vermögensübertragungen - Millionen Euro - Monatliche Daten
+BP070	Leistungsbilanz und Vermögensübertragungen - Millionen Euro - Monatliche Daten
+BP080	Insgesamt
+BP090	Direktinvestitionen
+BP100	Wertpapieranlagen
+BP110	Finanzderivate
+BP120	Sonstige Investitionen
+BP130	Währungsreserven
+BP140	Nettorestposten
+BP200	Insgesamt
+BP210	Warenhandel
+BP220	Handel mit Dienstleistungen
+BP230	Einkommen
+BP240	Laufende Transfers
+BP_CA	Leistungsbilanz
+BP_CKA	Leistungsbilanz und Vermögensübertragungen - Millionen Euro - Monatliche Daten
+BP_EO	Saldo der statistisch nicht aufgliederbaren Transaktionen
+BP_G	Waren
+BP_IN1	Primäreinkommen
+BP_IN2	Sekundäreinkommen
+BP_S	Dienstleistungen
+BP_FA	Kapitalbilanz
+BP_FA__D__F	"Kapitalbilanz; Direktinvestitionen"
+BP_FA__P__F	"Kapitalbilanz; Wertpapieranlagen"
+BP_FA__F__F7	"Kapitalbilanz; Finanzderivate und Mitarbeiteraktienoptionen"
+BP_FA__O__F	"Kapitalbilanz; Übriger Kapitalverkehr"
+BP_FA__R__F	"Kapitalbilanz; Währungsreserven"
+BP-100	Warenverkehr
+BP-200	Dienstleistungsverkehr
+BP-300	Einkommen
+BP-379	Laufende Übertragungen
+BP-993	Leistungsbilanz
+BP-994	Vermögensübertragungen
+BP-010	Leistungsbilanz und Vermögensübertragungen
+BP-995	Finanzierungskonto
+BP-500	Direktinvestitionen
+BP-600	Wertpapieranlagen
+BP-910	Finanzderivate
+BP-700	Sonstige Investitionen
+BP-802	Währungsreserven
+BP-998	Restposten
+BS-IPT	Entwicklung der Produktion in den letzten 3 Monaten
+BS-EEI-I	Indikator für die Beschäftigungserwartung in den nächsten 3 Monaten
+BS-IEME	Erwartungen für Beschäftigung in den nächsten 3 Monaten
+BS-IEME-BAL	Erwartungen für Beschäftigung in den nächsten 3 Monaten - Industry
+BS-CEME-BAL	Erwartungen für Beschäftigung in den nächsten 3 Monaten - Baugewerbe
+BS-REM-BAL	Erwartungen für Beschäftigung in den nächsten 3 Monaten - Einzelhandel
+BS-SEEM-BAL	Erwartungen für Beschäftigung in den nächsten 3 Monaten - Dienstleistungen
+BS-IOB	Beurteilung der Auftragsbestände
+BS-IEOB	Beurteilung der Auslandsbestandsaufträge
+BS-ISFP	Beurteilung der Fertigwarenlager
+BS-IPE	Erwartungen für Produktion in den nächsten 3 Monaten
+BS-ISPE	Erwartungen der Verkaufspreise im Verlauf der nächsten 3 Monate
+BS-ICI	Industrie, Vertrauensindikator
+BS-ICPC-BAL	Beurteilung der Produktionskapazität
+BS-IPCO-BAL	Durch Auftragsbestände gesicherte Produktionsdauer, Monate
+BS-INO-BAL	Auftragseingänge in der jüngsten Vergangenheit
+BS-IEE-BAL	Erwartungen hinsichtlich des Ausfuhrvolumens in den kommenden Monaten
+BS-ICU-PC	Laufendes Niveau der Kapazitätsauslastung (%)
+BS-CP3M-DM-BAL	Wettbewerbslage in den letzten 3 Monaten auf dem Inlandsmarkt
+BS-CP3M-FMIEU-BAL	Wettbewerbslage in den letzten 3 Monaten auf dem Auslandsmarkt innerhalb der UE
+BS-CP3M-EXEU-BAL	Wettbewerbslage in den letzten 3 Monaten außerhalb der UE
+BS-FLP1-PC	Die Produktionstätigkeit behindernde Faktoren - Keine
+BS-FLP2-PC	Die Produktionstätigkeit behindernde Faktoren - Nachfragemangel
+BS-FLP3-PC	Die Produktionstätigkeit behindernde Faktoren - Arbeitskräftemangel
+BS-FLP4-PC	Die Produktionstätigkeit behindernde Faktoren - Materialmangel/Kapazitätsengpässe
+BS-FLP5-PC	Die Produktionstätigkeit behindernde Faktoren - Andere
+BS-FLP6-PC	Die Produktionstätigkeit behindernde Faktoren - Finanzierungsprobleme
+BS-CTA-BAL	Neue Bautätigkeit im Verlauf der letzten 3 Monate
+BS-COB-BAL	Entwicklung der derzeitigen Gesamtauftragsbücher
+BS-CPE-BAL	Preiserwartungen in den nächsten 3 Monaten
+BS-CCI-BAL	Vertrauensindikator im Baugewerbe
+BS-FLBA1-PC	Die Bautätigkeit behindernde Faktoren - Keine
+BS-FLBA2-PC	Die Bautätigkeit behindernde Faktoren - Nachfragemangel
+BS-FLBA3-PC	Die Bautätigkeit behindernde Faktoren - Ungünstige Witterungsverhältnisse
+BS-FLBA4-PC	Die Bautätigkeit behindernde Faktoren - Arbeitskräftemangel
+BS-FLBA5-PC	Die Bautätigkeit behindernde Faktoren - Materialmangel/Kapazitätsengpässe
+BS-FLBA6-PC	Die Bautätigkeit behindernde Faktoren - Andere
+BS-FLBA7-PC	Die Bautätigkeit behindernde Faktoren - Finanzierungsprobleme
+BS-OTEB	Arbeitsdauer gesichert durch Nachholbedarf, Monate
+BS-RPBS	Geschäftslage (Verkäufe) im Verlauf der letzten 3 Monate
+BS-RAS	Umfang des derzeitigen Bestands
+BS-ROP	Bestellungen bei den Vorlieferanten
+BS-REBS	Erwartungen der Geschäftslage in den nächsten 3 Monaten
+BS-REM	Erwartungen der Beschäftigung in den nächsten 3 Monaten
+BS-RPE	Preiserwartungen in den nächsten 3 Monaten
+BS-RCI	Einzelhandel, Vertrauensindikator
+BS-FS-LY	Finanzielle Lage der letzten 12 Monaten
+BS-FS-NY	Finanzielle Lage der nächsten 12 Monaten
+BS-GES-LY	Allgemeine Wirtschaftslage in den letzten 12 Monaten
+BS-GES-NY	Allgemeine Wirtschaftslage in den nächsten 12 Monaten
+BS-PT-LY	Preise in den letzten 12 Monaten
+BS-PT-NY	Preise in den nächsten 12 Monaten
+BS-UE-NY	Arbeitslosigkeit in den nächsten 12 Monaten
+BS-MP-PR	Derzeitige größere Anschaffungen
+BS-MP-NY	Künftige größere Anschaffungen vorgesehen für die nächsten 12 Monaten
+BS-SV-PR	Aktuelle Ersparnisse
+BS-SV-NY	Ersparnisse in den nächsten 12 Monaten
+BS-SFSH	Finanzielle derzeitige Lage des Haushaltes
+BS-CSMCI	Verbraucher, Vertrauensindikator
+BS-IBC-NTY	Absicht in den kommenden 12 Monate einen PKW zu kaufen
+BS-PBH-NTY	Kauf bzw. Bau eines Hauses in den kommenden 12 Monate
+BS-HI-NY	Wichtige Ausbauarbeiten des Wohnungseigentums in den nächsten 12 Monaten
+BS-ESI-I	Indikator des wirtschaftlichen Klimas
+BS-ICI-BAL	Industrie, Vertrauensindikator
+BS-RCI-BAL	Einzelhandel, Vertrauensindikator
+BS-CSMCI-BAL	Verbraucher, Vertrauensindikator
+BS-SCI-BAL	Vertrauensindikator im Dienstleistungssektor
+BS-SABC	Entwicklung der Geschäftslage im Verlauf der letzten 3 Monate
+BS-SARM	Entwicklung der Nachfrage im Verlauf der letzten 3 Monate
+BS-SAEM	Erwartungen der Nachfrage in den nächsten 3 Monaten
+BS-SERM	Entwicklung der Beschäftigung im Verlauf der letzten 3 Monate
+BS-SEEM	Erwartung der Beschäftigung in den nächsten 3 Monaten
+BS-SCI	Vertrauensindikator im Dienstleistungssektor
+BS-PE3M	Erwartungen der Preisen in den nächsten 3 Monaten
+BS-BCI	Geschäftsklima-Indikator
+CP-HI00	HVPI - Alle Angaben (HVPI=Harmonisierte Verbraucherpreisindizes)
+CP-HI01	HVPI - Nahrungsmittel und alkoholfreie Getränke
+CP-HI02	HVPI - Alkoholische Getränke und Tabakwaren
+CP-HI03	HVPI - Bekleidung und Schuhe
+CP-HI04	HVPI - Wohnung, Wasser, Elektrizität und andere Brennstoffe
+CP-HI05	HVPI - Zusatzanlagen, Haushaltsgeräte und Haushaltsführung
+CP-HI06	HVPI - Gesundheit
+CP-HI07	HVPI - Verkehr
+CP-HI08	HVPI - Nachrichtenverkehr
+CP-HI09	HVPI - Freizeitgestaltung und Kultur
+CP-HI10	HVPI - Bildungswesen
+CP-HI11	HVPI - Gaststätten- und Beherbergungsgewerbe
+CP-HI12	HVPI - Sonstiger Warenhandel und Dienstleistungen
+CP-HI00XEF	HVPI - Alle Angaben ohne Energie, Nahrungsmittel, Alkohol und Tabakwaren
+CP-HI00XTB	HVPI - Alle Angaben ohne Tabak
+CP-HIE	HVPI - Energie
+CP-HIF	HVPI - Nahrungsmittel
+CP-HIFU	HVPI - Unbearbeitete Lebensmittel
+CP-HIG	HVPI - Waren insgesamt
+CP-HIIG	HVPI - Industrielle Güter
+CP-HIS	HVPI - Dienstleistungen insgesamt
+CP-HIIGXE	HVPI - Nicht-energetische industrielle Waren
+CP-HI00XE	HVPI - Alle Angaben ohne Energie
+CP-HI00XEFU	HVPI - Alle Angaben ohne Energie und unbearbeitete Lebensmittel
+CP-HI00XES	HVPI - Alle Angaben ohne Energie und saisonale Lebensmittel
+ET-T	Insgesamt
+ET-CAP	Investitionsgüter
+ET-CONS	Gebrauchsgüter
+ET-CONXT	Gebrauchsgüter (ohne Fahrzeuge)
+ET-INTER	Vorleistungsgüter
+IS-PPI	Erzeugerpreis des Inlandsmarktindexes (Erzeugerpreisindex) (NSA)
+IS-IO	Index der erhaltenen Auftragseingänge
+IS-IP	Produktionsindex
+IS-IP-CA	Produktionsindex - Kalenderbereinigte Daten, nicht saisonbereinigte Daten (CA)
+IS-IP-SA	Produktionsindex - Saison- und kalenderbereinigte Daten (SCA)
+IS-IP-SCA	Produktionsindex - Saisonbereinigt und arbeitstäglich bereinigte Daten
+IS-EPI	Index der Beschäftigtenzahl
+IS-HWI	Arbeitsstundenindex
+IS-WSI	Index von Bruttolöhne und -gehälter
+IS-IPI	Kostenindex (unterstellter Preisindex) - Neue Wohngebäude
+IS-PEI	Index von Baugenehmigungen - Neue Wohngebäude
+IS-IT	Umsatzindex - Kalenderbereinigte Daten, nicht saisonbereinigte Daten (CA)
+IS-ITT	Umsatzindex - Insgesamt
+IS-ITD	Umsatzindex - Inlandsmarkt
+IS-ITND	Umsatzindex - Auslandsmarkt
+IS-DIT	Index des deflationierten Umsatzes
+IS-IMPR	Einfuhrpreisindex  (NSA)
+IS-IMPX	Einfuhrpreisindex -  Nicht-Euroraum (NSA)
+IS-IMPZ	Einfuhrpreisindex - Euroraum (NSA)
+IS-PNG-TJ	Erzeugung von Naturgas, TJ (GCV)
+IS-CNG-TJ	Gesamtverbrauch von Naturgaz, TJ (GCV)
+IS-ING-TJ	Einfuhren von Naturgas, TJ (GCV)
+IS-PEL-GWH	Erzeugung von Elektrizität - GWh
+IS-CEL-GWH	Elektrizitätsverbrauch - GWH
+IS-IEL-GWH	Einfuhren von Elektrizität - GWh
+IS-ROMS-T	Produktion von Motorbenzin aus Raffinerien - 1000t
+IS-IDMS-T	Lieferungen von Motorenbenzin für den Inlandsmarkt - 1000t
+IS-ROGD-T	Produktion von Dieselöl aus Raffinerien - 1000t
+IS-IDGD-T	Lieferungen von Dieselöl für den Inlandsmarkt - 1000t
+IS-IDC-T	Inlandslieferungen von Braunkohle - 1000t
+IS-ICO-T	Rohölimporte - 1000t
+IS-IDMG-T	Inlandslieferungen von Motorenbenzin - 1000t
+IS-IDJF-T	Inlandslieferungen von Flugturbinenkraftstoff auf Petroleumbasis - 1000t
+LM-UN-T-TOT	Arbeitslose nach IAA-Definition - Insgesamt
+LM-UN-M-TOT	Arbeitslose nach IAA-Definition - Männer
+LM-UN-F-TOT	Arbeitslose nach IAA-Definition - Frauen
+LM-UN-T-LE25	Arbeitslose nach IAA-Definition - Unter 25 Jahre - Insgesamt
+LM-UN-M-LE25	Arbeitslose nach IAA-Definition - unter 25 Jahre - Männer
+LM-UN-F-LE25	Arbeitslose nach IAA-Definition - unter 25 Jahre - Frauen
+LM-UN-T-GT25	Arbeitslose nach IAA-Definition - Über 25 Jahre - Insgesamt
+LM-UN-M-GT25	Arbeitslose nach IAA-Definition - Über 25 Jahre - Männer
+LM-UN-F-GT25	Arbeitslose nach IAA-Definition - Über 25 Jahre - Frauen
+LM-LCI-TOT	Arbeitskostenindex - Arbeitskosten insgesamt
+LM-LCI-SAL	Arbeitskostenindex - Löhne und Gehälter
+LM-LCI-OTH	Arbeitskostenindex - Andere Kosten als Löhne und Gehälter
+MF-DDI-RT	Täglicher Zinssatz des Geldmarktes (Durchschnitt)
+MF-3MI-RT	3-Monats-Zinssätze (Durchschnitt)
+MF-EY1YM-RT	Renditen in Euro - 1 Jähr (Durchschnitt)
+MF-EY5YM-RT	Renditen in Euro - 5 Jahren (Durchschnitt)
+MF-EY10YM-RT	Renditen in Euro - 10 Jahren (Durchschnitt)
+MF-LTGBY-RT	Rendite Langfristiger öffentlicher Anleihen - Maastricht-Definition
+MF-EXA-RT	Wechselkurse gegenüber dem ECU/Euro (Durchschnitt)
+F4	Kredite
+NA-B1G-CP-MIO-EUR	Bruttowertschöpfung zu jeweiligen Preisen (Mio Euro)
+NA-B1G-CP	Bruttowertschöpfung zu jeweiligen Preisen
+NA-D1-CP-MIO-EUR	Arbeitnehmerentgelt zu jeweiligen Preisen (Mio Euro)
+NA-D11-CP-MIO-EUR	Bruttolöhne und -gehälter zu jeweiligen Preisen (Mio Euro)
+NA-D11	Bruttolöhne und -gehälter
+NA-B2G_B3G-CP-MIO-EUR	Bruttobetriebsüberschuß und Selbständigeneinkommen (Mio Euro)
+NA-EMP-1000	Beschäftigung insgesamt (1000)
+NA-EMP	Beschäftigung insgesamt
+NA-SAL-1000	Arbeitnehmer (1000)
+NA-SAL	Arbeitnehmer
+NA-SELF-1000	Selbständige (1000)
+NA-SELF	Selbständige
+NA-B1GM-CP-MIO-EUR	Bruttowertschöpfung zu jeweiligen Marktpreisen (Mio Euro)
+NA-B1GM-KP-RT1	Bruttoinlandsprodukt zu konstanten Preisen (Prozentveränderung t/t-1)
+NA-B1GM-CLV-I2000	Bruttoinlandsprodukt zu konstanten Preisen (Index 2000=100)
+NA-D21_M_D31	Steuern ohne Produktions- und Importsubventionen
+NA-B2G_B3G	Bruttobetriebsüberschuß und Bruttoselbständigeneinkommen
+NA-D1	Arbeitnehmerentgelt
+NA-B5N	Nettonationaleinkommen
+NA-B5G	Bruttonationaleinkommen
+NA-B6N	Verfügbares Nettoeinkommen
+NA-B6G	Verfügbares Bruttoeinkommen
+NA-B8G	Bruttosparen
+NA-B8N	Nettosparen
+NA-B9	Finanzierungssaldo
+NA-D1_D4PAY	Primäreinkommen, zu leistende
+NA-D1_D4REC	Primäreinkommen, zu empfangende
+NA-D1_D4	Netto Primäreinkommen
+NA-D5_TO_D7PAY	Laufende Transfers, zu leistende
+NA-D5_TO_D7REC	Laufende Transfers, zu empfangende
+NA-D5_TO_D7	Netto laufende Transfers
+NA-D9	Netto Vermögenstransfers
+NA-D9PAY	Vermögenstransfers, zu leistende
+NA-D9REC	Vermögenstransfers, zu empfangende
+NA-D8	Zunahme betrieblicher Versorgungsansprüche
+NA-K2	Nettozugang an nichtproduzierten Vermögensgütern
+NA-K1	Abschreibungen
+NA-D2_M_D3	Produktions- und Importabgaben abzüglich Subventionen
+NA-P119	Unterstellte Bankgebühr (FISIM)
+NA-B1G	Bruttowertschöpfung
+NA-B1G-CLV2000	Bruttowertschöpfung - Volumen
+NA-B1G-MIO-EUR-CLV2000	Bruttowertschöpfung - verkettete Volumen, Referenzjahr 2000 (in Wechselkursen von 2000) (Mio Euro)
+NA-B1G-MIO-EUR-CLV2005	Bruttowertschöpfung - verkettete Volumen, Referenzjahr 2005 (in Wechselkursen von 2005) (Mio Euro)
+NA-B1GM	Bruttoinlandsprodukt zu Marktpreisen
+NA-P3	Konsumausgaben
+NA-P3_S13	Konsumausgaben: Staat
+NA-P31_S14	Konsumausgaben: private Haushalte
+NA-P31_S15	Konsumausgaben: POoE
+NA-P31_S14_S15	Konsumausgaben: private Haushalte und POoE
+NA-P5	Bruttoinvestitionen
+NA-P51	Bruttoanlageinvestitionen - insgesamt
+NA-P51-AB	Bruttoanlageinvestitionen: Erzeugnisse der Landwirtschaft
+NA-P51-MET	Bruttoanlageinvestitionen: Maschinen und Geräte
+NA-P51-DM	Bruttoanlageinvestitionen: Fahrzeuge
+NA-P51-FA	Bruttoanlageinvestitionen: Bauarbeiten - Wohnungswesen
+NA-P51-FB	Bruttoanlageinvestitionen: Bauarbeiten - sonstige Bauarbeiten
+NA-P51-OTH	Bruttoanlageinvestitionen: sonstige Produkte
+NA-P52	Vorratsveränderungen
+NA-P53	Nettozugang an Wertsachen
+NA-P3_P5	Binnennachfrage
+NA-P61	Warenexporte
+NA-P62	Dienstleistungsexporte
+NA-P6	Exporte von Waren und Dienstleistungen
+NA-P71	Warenimporte
+NA-P72	Dienstleistungsimporte
+NA-P7	Importe von Waren und Dienstleistungen
+NA-B111	Außenbeitrag : Waren
+NA-B112	Außenbeitrag : Dienstleistungen
+NA-B11	Außenbeitrag : insgesamt
+NA-GDEF	Defizit (-) / Überschuß (+) des Staates
+NA-GDEBT	Bruttoverschuldung des Staates
+NA-GEXP	Staatsausgaben
+NA-GREV	Staatseinnahmen
+NA-GFINV	Staatsanlageinvestitionen
+NA-GPBAL	Primärer Haushaltssaldo des Staates
+GD	Bruttoschuld des Staates (konsolidiert)
+NA-IGL-EU27_2020	Zwischenstaatliches Darlehen innerhalb der EU27 (ab 2020) im Rahmen der Finanzkrise
+NA-IGL-EU28	Zwischenstaatliches Darlehen innerhalb der EU28 (2013-2020) im Rahmen der Finanzkrise
+NA-IGL-EU27_2007	Zwischenstaatliches Darlehen innerhalb der EU27 (2007-2013) im Rahmen der Finanzkrise
+NA-IGL-EU25	Zwischenstaatliches Darlehen innerhalb der EU25 (2004-2006) im Rahmen der Finanzkrise
+NA-IGL-EA17	Zwischenstaatliches Darlehen innerhalb der EA17 (2011-2013) im Rahmen der Finanzkrise
+NA-IGL-EA16	Zwischenstaatliches Darlehen innerhalb der EA16 (2009-2010) im Rahmen der Finanzkrise
+INV_TOT	Gesamte Investitionen
+INV_BSN	Unternehmensinvestitionen
+INV_GOV	Staatsinvestitionen
+INV_HH	Investitionen der Haushalte
+BS-FCI	Indikator des Vertrauens im Finanzdienstleistungsbereich
+BS-BSDP3	Entwicklung der Geschäftslage in den vergangenen 3 Monaten
+BS-DEVP3	Entwicklung der Nachfrage in den vergangenen 3 Monaten
+BS-DEXN3	Erwartung der Entwicklung der Nachfrage in den nächsten 3 Monaten
+BS-EEVP3	Entwicklung der Beschäftigungslage in den vergangenen 3 Monaten
+BS-EEXN3	Erwartung der Entwicklung der Beschäftigungslage in den nächsten 3 Monaten
+BS-OIDP3	Entwicklung der Betriebserträge in den vergangenen 3 Monaten
+BS-OIEN3	Erwartung der Entwicklung der Betriebserträge in den nächsten 3 Monaten
+BS-OEDP3	Entwicklung der Betriebsausgaben in den vergangenen 3 Monaten
+BS-OEEN3	Erwartung der Entwicklung der Betriebsausgaben in den nächsten 3 Monaten
+BS-PDP3	Entwicklung der Rentabilität in den vergangenen 3 Monaten
+BS-PEN3	Erwartung der Entwicklung der Rentabilität in den nächsten 3 Monaten
+BS-CEDP3	Entwicklung des Kapitalaufwandes in den vergangenen 3 Monaten
+BS-CEEN3	Erwartung der Entwicklung des Kapitalaufwandes in den nächsten 3 Monaten
+BS-CPDTP3	Entwicklung der Wettbewerbslage in den vergangenen 3 Monaten (gesamt)
+BS-CPD1P3	Entwicklung der Wettbewerbslage in den vergangenen 3 Monaten (in Ihrem Land)
+BS-CPD2P3	Entwicklung der Wettbewerbslage in den vergangenen 3 Monaten (im Eurogebiet)
+BS-CPD3P3	Entwicklung der Wettbewerbslage in den vergangenen 3 Monaten (in der EU)
+BS-CPD4P3	Entwicklung der Wettbewerbslage in den vergangenen 3 Monaten (außerhalb der EU)
+BS-CPETN3	Erwartung der Entwicklung der Wettbewerbslage in den nächsten 3 Monaten (gesamt)
+BS-CPE1N3	Erwartung der Entwicklung der Wettbewerbslage in den nächsten 3 Monaten (in Ihrem Land)
+BS-CPE2N3	Erwartung der Entwicklung der Wettbewerbslage in den nächsten 3 Monaten (im Eurogebiet)
+BS-CPE3N3	Erwartung der Entwicklung der Wettbewerbslage in den nächsten 3 Monaten (in der EU)
+BS-CPE4N3	Erwartung der Entwicklung der Wettbewerbslage in den nächsten 3 Monaten (außerhalb der EU)
+TOTAL	Ingesamt
+NEW_DW	Neuer Wohnraum
+EXST_DW	Bestehender Wohnraum
+JOBRATE	Quote der offenen Stellen
+INTINVT	Auslandsvermögensstatus: Insgesamt
+DIRINVT	Direktinvestitionen: Insgesamt
+PORINVT	Wertpapieranlagen: Insgesamt
+FINDERT	Finanzderivate: Insgesamt
+OTHINVT	Übrige Anlagen: Insgesamt
+RESASSETST	Währungsreserven: insgesamt
+GROSFORDEBT	Brutto-Auslandsschuld
+NETFORDEBT	Netto Auslandsschuld
+NEEREA17	Nominaler effektiver Wechselkurs - 17 Handelspartner (Euroraum)
+NEER27	Nominaler effektiver Wechselkurs - 27 Handelspartner
+NEER37	Nominaler effektiver Wechselkurs - 37 Handelspartner
+NEER42	Nominaler effektiver Wechselkurs - 42 Handelspartner
+REEREA17CPI	Realer effektiver Wechselkurs (Deflator: Verbraucherpreisindizes - 17 Handelspartner - Euroraum)
+REER27CPI	Realer effektiver Wechselkurs (Deflator: Verbraucherpreisindizes - 27 Handelspartner)
+REER37CPI	Realer effektiver Wechselkurs (Deflator: Verbraucherpreisindizes - 37 Handelspartner)
+REER42CPI	Realer effektiver Wechselkurs (Deflator: Verbraucherpreisindizes - 42 Handelspartner)
+IND_H	Leitindikatoren
+IND_A	Hilfsindikatoren
+IND_T	Alle Indikatoren
+BS-FLB1-PC	Hauptfaktoren für die Einschränkung der Geschäftstätigkeit - keine
+BS-FLB2-PC	Hauptfaktoren für die Einschränkung der Geschäftstätigkeit – ungenügende Nachfrage
+BS-FLB3-PC	Hauptfaktoren für die Einschränkung der Geschäftstätigkeit – Arbeitskräfte
+BS-FLB4-PC	Hauptfaktoren für die Einschränkung der Geschäftstätigkeit – Betriebsausstattung und/oder Gewerbefläche
+BS-FLB5-PC	Hauptfaktoren für die Einschränkung der Geschäftstätigkeit – finanzielle Beschränkungen
+BS-FLB6-PC	Hauptfaktoren für die Einschränkung der Geschäftstätigkeit – andere
+BS-QP-PC	Möglichkeit der Steigerung des Geschäftsvolumens mit derzeitigen Ressourcen
+TOVT	Umsatzindex - Insgesamt
+TOVV	Deflationierter Umsatzindex

@@ -1,0 +1,10 @@
+TOTCOST	Coûts totaux
+DIR	Coûts directs
+LCP	Coûts de la main-d'oeuvre des participants
+FEE	Frais et montants dus
+TRAVEL	Frais de déplacement et de séjour
+INTEX	Coûts de la main-d'oeuvre pour les formateurs internes, impliqués exclusivement dans la formation
+INTPART	Coûts de la main-d'oeuvre pour les formateurs interne, impliqués partiellement dans la formation
+PREM	Coûts des centres de formation, de la location de salles et du matériel pédagogique
+CONTR	Contributions FPC
+RECEIPTS	Recettes FPC

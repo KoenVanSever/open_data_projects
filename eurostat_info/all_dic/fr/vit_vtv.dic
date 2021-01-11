@@ -1,0 +1,7 @@
+VITARTOT	Total des exploitations viticoles
+VITARC1	Exploitations avec > 0 à < 10% de superficie viticole dans la superficie agricole utilisée
+VITARC2	Exploitations avec 10 à < 25% de superficie viticole dans la superficie agricole utilisée
+VITARC3	Exploitations avec 25 à < 50% de superficie viticole dans la superficie agricole utilisée
+VITARC4	Exploitations avec 50 à < 75% de superficie viticole dans la superficie agricole utilisée
+VITARC5	Exploitations avec 75 à < 90% de superficie viticole dans la superficie agricole utilisée
+VITARC6	Exploitations avec >= 90% de superficie viticole dans la superficie agricole utilisée

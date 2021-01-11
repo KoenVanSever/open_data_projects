@@ -1,0 +1,23 @@
+TOTAL	Total
+SIN	Personnes célibataires (n'ayant jamais vécu en union légale)
+LUN	Personnes en union légale (mariées ou en partenariat enregistré)
+MAR	Personnes mariées
+MARO	Personnes mariées dans un couple de sexe opposés
+MARS	Personnes mariées dans un couple de même sexe
+REP	Personnes en partenariat enregistré
+REPO	Personnes de sexe opposés vivant en partenariat enregistré
+REPS	Personnes de même sexe vivant en partenariat enregistré
+CSU	Personnes en union consensuelle
+DTHLUN	Personnes dont l'union légale s'est terminée par la mort du conjoint  
+WID	Personnes veuves
+DTHREP	Personnes dont le partenariat enregistré s'est terminé par la mort du conjoint
+DISLUN	Personnes dont l'union légale a été légalement dissoute
+DIV	Personnes divorcées
+DISREP	Personnes dont le partenariat enregistré est légalement dissous
+SEP	Personnes légalement séparées
+NLUN	Personnes non mariées ni en partenariat enregistré
+ENDLUN	Personnes dont l'union légale s'est terminée
+NMAR	Personnes non mariées
+NLUN_NCSU	Personnes non en union légale ni en union consensuelle
+UNK	Personnes ayant un statut matrimonial inconnu
+NRP	Sans réponse

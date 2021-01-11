@@ -1,0 +1,16 @@
+GSP_MIO_NAC	Prestations de protection sociale brutes en millions de monnaie nationale
+NSP_MIO_NAC	Prestations de protection sociale nettes en millions de monnaie nationale
+GSP_MIO_EUR	Prestations de protection sociale brutes en millions d'euros
+NSP_MIO_EUR	Prestations de protection sociale nettes en millions d'euros
+NSP_PC_GSP	Prestations de protection sociale nettes en pourcentage des prestations brutes
+GSP_PC_GDP	Prestations de protection sociale brutes en pourcentage du PIB
+NSP_PC_GDP	Prestations de protection sociale nettes en pourcentage du PIB
+SPB_PC_TSC	Pourcentage des prestations de protection sociale sujettes à taxation ou cotisations sociales
+SPB_PC_TAX	Pourcentage des prestations de protection sociale sujettes à taxation
+SPB_PC_SC	Pourcentage des prestations de protection sociale sujettes à cotisations sociales
+SPC_PC_TSC	Pourcentage des prestations de protection sociale en especes sujettes à taxation ou cotisations sociales
+SPC_PC_TAX	Pourcentage des prestations de protection sociale en especes sujettes à taxation
+SPC_PC_SC	Pourcentage des prestations de protection sociale en espèces sujettes à cotisations sociales
+TSC_RT_LE	Taux effectifs de taxation  et de cotisations sociales combinés par rapport aux prestations sujettes à prélèvement
+TSC_RT_SPB	Taux effectifs de taxation  et de cotisations sociales combinés par rapport aux prestations de protection sociale totales
+FBE_MIO_EUR	Avantages fiscaux résiduels en millions d'euros

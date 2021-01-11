@@ -1,0 +1,52 @@
+TOT_HC	Laufende Gesundheitsausgaben (CHE)
+HC1_2	Kurative und rehabilitative Gesundheitsversorgung
+HC1	Kurative Gesundheitsversorgung
+HC11_21	Stationäre kurative und rehabilitative Gesundheitsversorgung
+HC11	Stationäre kurative Gesundheitsversorgung
+HC12_22	Tagesklinische kurative und rehabilitative Gesundheitsversorgung
+HC12	Tagesklinische kurative Gesundheitsversorgung
+HC13_23	Ambulante kurative und rehabilitative Gesundheitsversorgung
+HC13	Ambulante kurative Gesundheitsversorgung
+HC131	Ambulante kurative Gesundheitsversorgung, allgemeinmedizinisch
+HC132	Ambulante kurative Gesundheitsversorgung, zahnmedizinisch
+HC133	Ambulante kurative Gesundheitsversorgung, fachärztlich
+HC139	Sonstige ambulante kurative Gesundheitsversorgung, a.n.g.
+HC14_24	Häusliche kurative und rehabilitative Gesundheitsversorgung
+HC14	Häusliche kurative Gesundheitsversorgung
+HC2	Rehabilitative Gesundheitsversorgung
+HC21	Stationäre rehabilitative Gesundheitsversorgung
+HC22	Tagesklinische rehabilitative Gesundheitsversorgung
+HC23	Ambulante rehabilitative Gesundheitsversorgung
+HC24	Häusliche rehabilitative Gesundheitsversorgung
+HC3	Langzeitpflege (Gesundheit)
+HC31	Stationäre Langzeitpflege (Gesundheit)
+HC32	Tagesklinische Langzeitpflege (Gesundheit)
+HC33	Ambulante Langzeitpflege (Gesundheit)
+HC34	Häusliche Langzeitpflege (Gesundheit)
+HC4	Hilfsleistungen (nicht nach Funktion spezifiziert)
+HC41	Laborleistungen
+HC42	Bildgebende Verfahren
+HC43	Ambulanzdienste
+HC5	Medizinische Güter  (nicht nach Funktion spezifiziert)
+HC51	Arzneimittel und sonstige medizinische Verbrauchsgüter
+HC511	Rezeptpflichtige Arzneimittel
+HC512	Rezeptfreie Arzneimittel
+HC513	Sonstige medizinische Verbrauchsgüter
+HC52	Therapeutische Hilfsmittel und sonstige (langlebige) medizinische Güter
+HC6	Prävention
+HC61	Informations-, Ausbildungs- und Beratungsprogramme
+HC62	Impfprogramme
+HC63	Früherkennungsprogramme
+HC64	Programme zur Überwachung der gesundheitlichen Verfassung
+HC65	Epidemiologische Überwachung und Kontrollprogramme zur Vermeidung von Gesundheitsrisiken
+HC66	Katastrophenschutz- und Krisenreaktionsprogramme
+HC7	Governance sowie Verwaltung des Gesundheitssystems und seiner Finanzierung
+HC71	Governance und Verwaltung des Gesundheitssystems
+HC72	Verwaltung der Finanzierung des Gesundheitssystems
+HC9	Sonstige Gesundheitsleistungen, die nicht anderweitig erfasst sind
+HC_UNK	Sonstige Gesundheitsdienstleistungen (nicht bekannt)
+HCRI1	Arzneimittelausgaben insgesamt (TPE)
+HCRI2	Heilpraktische bzw. anerkannt alternative Verfahren (TCAM)
+HCR1	Langzeitpflege (soziale Leistungen)
+HCR2	Gesundheitsförderung (bereichsübergreifender Ansatz)
+LTC	Langzeitpflege (HC.3 und HCR.1)

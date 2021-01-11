@@ -1,0 +1,388 @@
+TOTAL	Total - toutes échéances
+SHORT	Echéance à court terme
+LONG	Echéance à long terme
+LONG_FX	Echéance à long terme, taux fixe
+LONG_FL	Echéance à long terme, taux variable
+M_LT1	Echéance: moins de 1 mois
+M1-3	Echéance: de 1 à 3 mois
+M_LT3	Echéance: moins de 3 mois
+M3	Echéance: 3 mois
+M3-12	Echéance: de 3 à 12 mois
+M_GT3	Echéance: plus de 3 mois
+M4	Echéance: 4 mois
+M5	Echéance: 5 mois
+M6	Echéance: 6 mois
+M7	Echéance: 7 mois
+M8	Echéance: 8 mois
+M9	Echéance: 9 mois
+M10	Echéance: 10 mois
+M11	Echéance: 11 mois
+Y_LT1	Echéance: moins de 1 an
+Y_LE1	Echéance: 1 an ou moins
+Y1	Echéance: 1 an
+Y1_M1	Echéance: 1 an et 1 mois
+Y1_M2	Echéance: 1 an et 2 mois
+Y1_M3	Echéance: 1 an et 3 mois
+Y1_M4	Echéance: 1 an et 4 mois
+Y1_M5	Echéance: 1 an et 5 mois
+Y1_M6	Echéance: 1 an et 6 mois
+Y1_M7	Echéance: 1 an et 7 mois
+Y1_M8	Echéance: 1 an et 8 mois
+Y1_M9	Echéance: 1 an et 9 mois
+Y1_M10	Echéance: 1 an et 10 mois
+Y1_M11	Echéance: 1 an et 11 mois
+Y1-2	Echéance: de 1 à 2 ans
+Y1-3	Echéance: de 1 à 3 ans
+Y1-5	Echéance: de 1 à 5 ans
+Y_GT1	Echéance: plus de 1 an
+Y_LT2	Echéance: moins de 2 ans
+Y2	Echéance: 2 ans
+Y2_M1	Echéance: 2 ans et 1 mois
+Y2_M2	Echéance: 2 ans et 2 mois
+Y2_M3	Echéance: 2 ans et 3 mois
+Y2_M4	Echéance: 2 ans et 4 mois
+Y2_M5	Echéance: 2 ans et 5 mois
+Y2_M6	Echéance: 2 ans et 6 mois
+Y2_M7	Echéance: 2 ans et 7 mois
+Y2_M8	Echéance: 2 ans et 8 mois
+Y2_M9	Echéance: 2 ans et 9 mois
+Y2_M10	Echéance: 2 ans et 10 mois
+Y2_M11	Echéance: 2 ans et 11 mois
+Y_GT2	Echéance: plus de 2 ans
+Y3	Echéance: 3 ans
+Y3_M1	Echéance: 3 ans et 1 mois
+Y3_M2	Echéance: 3 ans et 2 mois
+Y3_M3	Echéance: 3 ans et 3 mois
+Y3_M4	Echéance: 3 ans et 4 mois
+Y3_M5	Echéance: 3 ans et 5 mois
+Y3_M6	Echéance: 3 ans et 6 mois
+Y3_M7	Echéance: 3 ans et 7 mois
+Y3_M8	Echéance: 3 ans et 8 mois
+Y3_M9	Echéance: 3 ans et 9 mois
+Y3_M10	Echéance: 3 ans et 10 mois
+Y3_M11	Echéance: 3 ans et 11 mois
+Y3-5	Echéance: de 3 à 5 ans
+Y4	Echéance: 4 ans
+Y4_M1	Echéance: 4 ans et 1 mois
+Y4_M2	Echéance: 4 ans et 2 mois
+Y4_M3	Echéance: 4 ans et 3 mois
+Y4_M4	Echéance: 4 ans et 4 mois
+Y4_M5	Echéance: 4 ans et 5 mois
+Y4_M6	Echéance: 4 ans et 6 mois
+Y4_M7	Echéance: 4 ans et 7 mois
+Y4_M8	Echéance: 4 ans et 8 mois
+Y4_M9	Echéance: 4 ans et 9 mois
+Y4_M10	Echéance: 4 ans et 10 mois
+Y4_M11	Echéance: 4 ans et 11 mois
+Y_LT5	Echéance: moins de 5 ans
+Y5	Echéance: 5 ans
+Y5_M1	Echéance: 5 ans et 1 mois
+Y5_M2	Echéance: 5 ans et 2 mois
+Y5_M3	Echéance: 5 ans et 3 mois
+Y5_M4	Echéance: 5 ans et 4 mois
+Y5_M5	Echéance: 5 ans et 5 mois
+Y5_M6	Echéance: 5 ans et 6 mois
+Y5_M7	Echéance: 5 ans et 7 mois
+Y5_M8	Echéance: 5 ans et 8 mois
+Y5_M9	Echéance: 5 ans et 9 mois
+Y5_M10	Echéance: 5 ans et 10 mois
+Y5_M11	Echéance: 5 ans et 11 mois
+Y5-7	Echéance: de 5 à 7 ans
+Y5-10	Echéance: de 5 à 10 ans
+Y_GT5	Echéance: plus de 5 ans
+Y6	Echéance: 6 ans
+Y6_M1	Echéance: 6 ans et 1 mois
+Y6_M2	Echéance: 6 ans et 2 mois
+Y6_M3	Echéance: 6 ans et 3 mois
+Y6_M4	Echéance: 6 ans et 4 mois
+Y6_M5	Echéance: 6 ans et 5 mois
+Y6_M6	Echéance: 6 ans et 6 mois
+Y6_M7	Echéance: 6 ans et 7 mois
+Y6_M8	Echéance: 6 ans et 8 mois
+Y6_M9	Echéance: 6 ans et 9 mois
+Y6_M10	Echéance: 6 ans et 10 mois
+Y6_M11	Echéance: 6 ans et 11 mois
+Y7	Echéance: 7 ans
+Y7_M1	Echéance: 7 ans et 1 mois
+Y7_M2	Echéance: 7 ans et 2 mois
+Y7_M3	Echéance: 7 ans et 3 mois
+Y7_M4	Echéance: 7 ans et 4 mois
+Y7_M5	Echéance: 7 ans et 5 mois
+Y7_M6	Echéance: 7 ans et 6 mois
+Y7_M7	Echéance: 7 ans et 7 mois
+Y7_M8	Echéance: 7 ans et 8 mois
+Y7_M9	Echéance: 7 ans et 9 mois
+Y7_M10	Echéance: 7 ans et 10 mois
+Y7_M11	Echéance: 7 ans et 11 mois
+Y7-10	Echéance: de 7 à 10 ans
+Y8	Echéance: 8 ans
+Y8_M1	Echéance: 8 ans et 1 mois
+Y8_M2	Echéance: 8 ans et 2 mois
+Y8_M3	Echéance: 8 ans et 3 mois
+Y8_M4	Echéance: 8 ans et 4 mois
+Y8_M5	Echéance: 8 ans et 5 mois
+Y8_M6	Echéance: 8 ans et 6 mois
+Y8_M7	Echéance: 8 ans et 7 mois
+Y8_M8	Echéance: 8 ans et 8 mois
+Y8_M9	Echéance: 8 ans et 9 mois
+Y8_M10	Echéance: 8 ans et 10 mois
+Y8_M11	Echéance: 8 ans et 11 mois
+Y9	Echéance: 9 ans
+Y9_M1	Echéance: 9 ans et 1 mois
+Y9_M2	Echéance: 9 ans et 2 mois
+Y9_M3	Echéance: 9 ans et 3 mois
+Y9_M4	Echéance: 9 ans et 4 mois
+Y9_M5	Echéance: 9 ans et 5 mois
+Y9_M6	Echéance: 9 ans et 6 mois
+Y9_M7	Echéance: 9 ans et 7 mois
+Y9_M8	Echéance: 9 ans et 8 mois
+Y9_M9	Echéance: 9 ans et 9 mois
+Y9_M10	Echéance: 9 ans et 10 mois
+Y9_M11	Echéance: 9 ans et 11 mois
+Y10	Echéance: 10 ans
+Y10_M1	Echéance: 10 ans et 1 mois
+Y10_M2	Echéance: 10 ans et 2 mois
+Y10_M3	Echéance: 10 ans et 3 mois
+Y10_M4	Echéance: 10 ans et 4 mois
+Y10_M5	Echéance: 10 ans et 5 mois
+Y10_M6	Echéance: 10 ans et 6 mois
+Y10_M7	Echéance: 10 ans et 7 mois
+Y10_M8	Echéance: 10 ans et 8 mois
+Y10_M9	Echéance: 10 ans et 9 mois
+Y10_M10	Echéance: 10 ans et 10 mois
+Y10_M11	Echéance: 10 ans et 11 mois
+Y10-15	Echéance: de 10 à 15 ans
+Y10-20	Echéance: de 10 à 20 ans
+Y_GT10	Echéance: plus de 10 ans
+Y11	Echéance: 11 ans
+Y11_M1	Echéance: 11 ans et 1 mois
+Y11_M2	Echéance: 11 ans et 2 mois
+Y11_M3	Echéance: 11 ans et 3 mois
+Y11_M4	Echéance: 11 ans et 4 mois
+Y11_M5	Echéance: 11 ans et 5 mois
+Y11_M6	Echéance: 11 ans et 6 mois
+Y11_M7	Echéance: 11 ans et 7 mois
+Y11_M8	Echéance: 11 ans et 8 mois
+Y11_M9	Echéance: 11 ans et 9 mois
+Y11_M10	Echéance: 11 ans et 10 mois
+Y11_M11	Echéance: 11 ans et 11 mois
+Y12	Echéance: 12 ans
+Y12_M1	Echéance: 12 ans et 1 mois
+Y12_M2	Echéance: 12 ans et 2 mois
+Y12_M3	Echéance: 12 ans et 3 mois
+Y12_M4	Echéance: 12 ans et 4 mois
+Y12_M5	Echéance: 12 ans et 5 mois
+Y12_M6	Echéance: 12 ans et 6 mois
+Y12_M7	Echéance: 12 ans et 7 mois
+Y12_M8	Echéance: 12 ans et 8 mois
+Y12_M9	Echéance: 12 ans et 9 mois
+Y12_M10	Echéance: 12 ans et 10 mois
+Y12_M11	Echéance: 12 ans et 11 mois
+Y13	Echéance: 13 ans
+Y13_M1	Echéance: 13 ans et 1 mois
+Y13_M2	Echéance: 13 ans et 2 mois
+Y13_M3	Echéance: 13 ans et 3 mois
+Y13_M4	Echéance: 13 ans et 4 mois
+Y13_M5	Echéance: 13 ans et 5 mois
+Y13_M6	Echéance: 13 ans et 6 mois
+Y13_M7	Echéance: 13 ans et 7 mois
+Y13_M8	Echéance: 13 ans et 8 mois
+Y13_M9	Echéance: 13 ans et 9 mois
+Y13_M10	Echéance: 13 ans et 10 mois
+Y13_M11	Echéance: 13 ans et 11 mois
+Y14	Echéance: 14 ans
+Y14_M1	Echéance: 14 ans et 1 mois
+Y14_M2	Echéance: 14 ans et 2 mois
+Y14_M3	Echéance: 14 ans et 3 mois
+Y14_M4	Echéance: 14 ans et 4 mois
+Y14_M5	Echéance: 14 ans et 5 mois
+Y14_M6	Echéance: 14 ans et 6 mois
+Y14_M7	Echéance: 14 ans et 7 mois
+Y14_M8	Echéance: 14 ans et 8 mois
+Y14_M9	Echéance: 14 ans et 9 mois
+Y14_M10	Echéance: 14 ans et 10 mois
+Y14_M11	Echéance: 14 ans et 11 mois
+Y15	Echéance: 15 ans
+Y15_M1	Echéance: 15 ans et 1 mois
+Y15_M2	Echéance: 15 ans et 2 mois
+Y15_M3	Echéance: 15 ans et 3 mois
+Y15_M4	Echéance: 15 ans et 4 mois
+Y15_M5	Echéance: 15 ans et 5 mois
+Y15_M6	Echéance: 15 ans et 6 mois
+Y15_M7	Echéance: 15 ans et 7 mois
+Y15_M8	Echéance: 15 ans et 8 mois
+Y15_M9	Echéance: 15 ans et 9 mois
+Y15_M10	Echéance: 15 ans et 10 mois
+Y15_M11	Echéance: 15 ans et 11 mois
+Y15-30	Echéance: de 15 à 30 ans
+Y16	Echéance: 16 ans
+Y16_M1	Echéance: 16 ans et 1 mois
+Y16_M2	Echéance: 16 ans et 2 mois
+Y16_M3	Echéance: 16 ans et 3 mois
+Y16_M4	Echéance: 16 ans et 4 mois
+Y16_M5	Echéance: 16 ans et 5 mois
+Y16_M6	Echéance: 16 ans et 6 mois
+Y16_M7	Echéance: 16 ans et 7 mois
+Y16_M8	Echéance: 16 ans et 8 mois
+Y16_M9	Echéance: 16 ans et 9 mois
+Y16_M10	Echéance: 16 ans et 10 mois
+Y16_M11	Echéance: 16 ans et 11 mois
+Y17	Echéance: 17 ans
+Y17_M1	Echéance: 17 ans et 1 mois
+Y17_M2	Echéance: 17 ans et 2 mois
+Y17_M3	Echéance: 17 ans et 3 mois
+Y17_M4	Echéance: 17 ans et 4 mois
+Y17_M5	Echéance: 17 ans et 5 mois
+Y17_M6	Echéance: 17 ans et 6 mois
+Y17_M7	Echéance: 17 ans et 7 mois
+Y17_M8	Echéance: 17 ans et 8 mois
+Y17_M9	Echéance: 17 ans et 9 mois
+Y17_M10	Echéance: 17 ans et 10 mois
+Y17_M11	Echéance: 17 ans et 11 mois
+Y18	Echéance: 18 ans
+Y18_M1	Echéance: 18 ans et 1 mois
+Y18_M2	Echéance: 18 ans et 2 mois
+Y18_M3	Echéance: 18 ans et 3 mois
+Y18_M4	Echéance: 18 ans et 4 mois
+Y18_M5	Echéance: 18 ans et 5 mois
+Y18_M6	Echéance: 18 ans et 6 mois
+Y18_M7	Echéance: 18 ans et 7 mois
+Y18_M8	Echéance: 18 ans et 8 mois
+Y18_M9	Echéance: 18 ans et 9 mois
+Y18_M10	Echéance: 18 ans et 10 mois
+Y18_M11	Echéance: 18 ans et 11 mois
+Y19	Echéance: 19 ans
+Y19_M1	Echéance: 19 ans et 1 mois
+Y19_M2	Echéance: 19 ans et 2 mois
+Y19_M3	Echéance: 19 ans et 3 mois
+Y19_M4	Echéance: 19 ans et 4 mois
+Y19_M5	Echéance: 19 ans et 5 mois
+Y19_M6	Echéance: 19 ans et 6 mois
+Y19_M7	Echéance: 19 ans et 7 mois
+Y19_M8	Echéance: 19 ans et 8 mois
+Y19_M9	Echéance: 19 ans et 9 mois
+Y19_M10	Echéance: 19 ans et 10 mois
+Y19_M11	Echéance: 19 ans et 11 mois
+Y20	Echéance: 20 ans
+Y20_M1	Echéance: 20 ans et 1 mois
+Y20_M2	Echéance: 20 ans et 2 mois
+Y20_M3	Echéance: 20 ans et 3 mois
+Y20_M4	Echéance: 20 ans et 4 mois
+Y20_M5	Echéance: 20 ans et 5 mois
+Y20_M6	Echéance: 20 ans et 6 mois
+Y20_M7	Echéance: 20 ans et 7 mois
+Y20_M8	Echéance: 20 ans et 8 mois
+Y20_M9	Echéance: 20 ans et 9 mois
+Y20_M10	Echéance: 20 ans et 10 mois
+Y20_M11	Echéance: 20 ans et 11 mois
+Y_GT20	Echéance: plus de 20 ans
+Y21	Echéance: 21 ans
+Y21_M1	Echéance: 21 ans et 1 mois
+Y21_M2	Echéance: 21 ans et 2 mois
+Y21_M3	Echéance: 21 ans et 3 mois
+Y21_M4	Echéance: 21 ans et 4 mois
+Y21_M5	Echéance: 21 ans et 5 mois
+Y21_M6	Echéance: 21 ans et 6 mois
+Y21_M7	Echéance: 21 ans et 7 mois
+Y21_M8	Echéance: 21 ans et 8 mois
+Y21_M9	Echéance: 21 ans et 9 mois
+Y21_M10	Echéance: 21 ans et 10 mois
+Y21_M11	Echéance: 21 ans et 11 mois
+Y22	Echéance: 22 ans
+Y22_M1	Echéance: 22 ans et 1 mois
+Y22_M2	Echéance: 22 ans et 2 mois
+Y22_M3	Echéance: 22 ans et 3 mois
+Y22_M4	Echéance: 22 ans et 4 mois
+Y22_M5	Echéance: 22 ans et 5 mois
+Y22_M6	Echéance: 22 ans et 6 mois
+Y22_M7	Echéance: 22 ans et 7 mois
+Y22_M8	Echéance: 22 ans et 8 mois
+Y22_M9	Echéance: 22 ans et 9 mois
+Y22_M10	Echéance: 22 ans et 10 mois
+Y22_M11	Echéance: 22 ans et 11 mois
+Y23	Echéance: 23 ans
+Y23_M1	Echéance: 23 ans et 1 mois
+Y23_M2	Echéance: 23 ans et 2 mois
+Y23_M3	Echéance: 23 ans et 3 mois
+Y23_M4	Echéance: 23 ans et 4 mois
+Y23_M5	Echéance: 23 ans et 5 mois
+Y23_M6	Echéance: 23 ans et 6 mois
+Y23_M7	Echéance: 23 ans et 7 mois
+Y23_M8	Echéance: 23 ans et 8 mois
+Y23_M9	Echéance: 23 ans et 9 mois
+Y23_M10	Echéance: 23 ans et 10 mois
+Y23_M11	Echéance: 23 ans et 11 mois
+Y24	Echéance: 24 ans
+Y24_M1	Echéance: 24 ans et 1 mois
+Y24_M2	Echéance: 24 ans et 2 mois
+Y24_M3	Echéance: 24 ans et 3 mois
+Y24_M4	Echéance: 24 ans et 4 mois
+Y24_M5	Echéance: 24 ans et 5 mois
+Y24_M6	Echéance: 24 ans et 6 mois
+Y24_M7	Echéance: 24 ans et 7 mois
+Y24_M8	Echéance: 24 ans et 8 mois
+Y24_M9	Echéance: 24 ans et 9 mois
+Y24_M10	Echéance: 24 ans et 10 mois
+Y24_M11	Echéance: 24 ans et 11 mois
+Y25	Echéance: 25 ans
+Y25_M1	Echéance: 25 ans et 1 mois
+Y25_M2	Echéance: 25 ans et 2 mois
+Y25_M3	Echéance: 25 ans et 3 mois
+Y25_M4	Echéance: 25 ans et 4 mois
+Y25_M5	Echéance: 25 ans et 5 mois
+Y25_M6	Echéance: 25 ans et 6 mois
+Y25_M7	Echéance: 25 ans et 7 mois
+Y25_M8	Echéance: 25 ans et 8 mois
+Y25_M9	Echéance: 25 ans et 9 mois
+Y25_M10	Echéance: 25 ans et 10 mois
+Y25_M11	Echéance: 25 ans et 11 mois
+Y26	Echéance: 26 ans
+Y26_M1	Echéance: 26 ans et 1 mois
+Y26_M2	Echéance: 26 ans et 2 mois
+Y26_M3	Echéance: 26 ans et 3 mois
+Y26_M4	Echéance: 26 ans et 4 mois
+Y26_M5	Echéance: 26 ans et 5 mois
+Y26_M6	Echéance: 26 ans et 6 mois
+Y26_M7	Echéance: 26 ans et 7 mois
+Y26_M8	Echéance: 26 ans et 8 mois
+Y26_M9	Echéance: 26 ans et 9 mois
+Y26_M10	Echéance: 26 ans et 10 mois
+Y26_M11	Echéance: 26 ans et 11 mois
+Y27	Echéance: 27 ans
+Y27_M1	Echéance: 27 ans et 1 mois
+Y27_M2	Echéance: 27 ans et 2 mois
+Y27_M3	Echéance: 27 ans et 3 mois
+Y27_M4	Echéance: 27 ans et 4 mois
+Y27_M5	Echéance: 27 ans et 5 mois
+Y27_M6	Echéance: 27 ans et 6 mois
+Y27_M7	Echéance: 27 ans et 7 mois
+Y27_M8	Echéance: 27 ans et 8 mois
+Y27_M9	Echéance: 27 ans et 9 mois
+Y27_M10	Echéance: 27 ans et 10 mois
+Y27_M11	Echéance: 27 ans et 11 mois
+Y28	Echéance: 28 ans
+Y28_M1	Echéance: 28 ans et 1 mois
+Y28_M2	Echéance: 28 ans et 2 mois
+Y28_M3	Echéance: 28 ans et 3 mois
+Y28_M4	Echéance: 28 ans et 4 mois
+Y28_M5	Echéance: 28 ans et 5 mois
+Y28_M6	Echéance: 28 ans et 6 mois
+Y28_M7	Echéance: 28 ans et 7 mois
+Y28_M8	Echéance: 28 ans et 8 mois
+Y28_M9	Echéance: 28 ans et 9 mois
+Y28_M10	Echéance: 28 ans et 10 mois
+Y28_M11	Echéance: 28 ans et 11 mois
+Y29	Echéance: 29 ans
+Y29_M1	Echéance: 29 ans et 1 mois
+Y29_M2	Echéance: 29 ans et 2 mois
+Y29_M3	Echéance: 29 ans et 3 mois
+Y29_M4	Echéance: 29 ans et 4 mois
+Y29_M5	Echéance: 29 ans et 5 mois
+Y29_M6	Echéance: 29 ans et 6 mois
+Y29_M7	Echéance: 29 ans et 7 mois
+Y29_M8	Echéance: 29 ans et 8 mois
+Y29_M9	Echéance: 29 ans et 9 mois
+Y29_M10	Echéance: 29 ans et 10 mois
+Y29_M11	Echéance: 29 ans et 11 mois
+Y30	Echéance: 30 ans
+Y_GT30	Echéance: plus de 30 ans

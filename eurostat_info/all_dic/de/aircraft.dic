@@ -1,0 +1,69 @@
+S20	SAAB--2000 aircraft
+TOTAL	Insgesamt
+AC_A32	Aerospatiale AS332
+AC_AT4	Aerospatiale ATR 42 - alle Modelle
+AC_AT7	Aerospatiale ATR 72 - alle Modelle
+AC_OAS	Sonstige Aerospatiale-Modelle
+AC_300	Airbus A300 - alle Modelle
+AC_310	Airbus A310 - alle Modelle
+AC_318	Airbus A318 - alle Modelle
+AC_319	Airbus A319 - alle Modelle
+AC_320	Airbus A320 - alle Modelle
+AC_321	Airbus A321 - alle Modelle
+AC_330	Airbus A330 - alle Modelle
+AC_340	Airbus A340 - alle Modelle
+AC_OAB	Sonstige Airbus-Modelle
+AC_AN3	Antonov An-32
+AC_OAN	Sonstige Antonov-Modelle
+AC_RJ1	BAe-Avroliner RJ 100
+AC_RJ8	BAe-Avroliner RJ 85
+AC_OAL	Sonstige Avroliner-Modelle
+AC_B46	BAe 146 - alle Modelle
+AC_OBA	Sonstige Bae-Modelle
+AC_717	Boeing 717 - alle Modelle
+AC_727	Boeing 727 - alle Modelle
+AC_737	Boeing 737 - alle Modelle
+AC_747	Boeing 747 - alle Modelle
+AC_757	Boeing 757 - alle Modelle
+AC_767	Boeing 767 - alle Modelle
+AC_777	Boeing 777 - alle Modelle
+AC_M11	Boeing MD-11
+AC_M80	Boeing MD-80
+AC_M81	Boeing MD-81
+AC_M82	Boeing MD-82
+AC_M83	Boeing MD-83
+AC_M87	Boeing MD-87
+AC_M88	Boeing MD-88
+AC_M90	Boeing MD-90
+AC_OBO	Sonstige Boeing-Modelle
+AC_BN2	Britten-Norman BN-2
+AC_OBN	Sonstige Britten-Norman-Modelle
+AC_C60	Canadair CL-600 regional jet - alle Modelle
+AC_OCA	Sonstige Canadair-Modelle
+AC_DH8	De Havilland Canada Dash 8 - alle Modelle
+AC_ODH	Sonstige de Havilland-Modelle
+AC_DO3	Dornier 328
+AC_ODO	Sonstige Dornier-Modelle
+AC_DC1	Douglas DC-10 - alle Modelle
+AC_DC8	Douglas DC-8 - alle Modelle
+AC_DC9	Douglas DC-9 - alle Modelle
+AC_ODG	Sonstige Douglas-Modelle
+AC_E12	Embraer 120
+AC_E13	Embraer 135
+AC_E14	Embraer 145
+AC_E17	Embraer 170
+AC_OEM	Sonstige Embraer-Modelle
+AC_F50	Fokker 50
+AC_F70	Fokker 70
+AC_F10	Fokker 100
+AC_OFK	Sonstige Fokker-Modelle
+AC_L10	Lockheed L-1011 TriStar
+AC_OLO	Sonstige Lockheed-Modelle
+AC_S20	Saab 2000
+AC_S34	Saab 340
+AC_OSA	Sonstige Saab-Modelle
+AC_T13	Tupolev Tu-134
+AC_T15	Tupolev Tu-154
+AC_OUT	Sonstige Tupolev-Modelle
+OTH	Sonstige
+UNK	Unbekannt

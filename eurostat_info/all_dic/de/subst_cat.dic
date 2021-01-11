@@ -1,0 +1,12 @@
+HRI1	Pestizide - harmonisierter Risikoindikator 1 (alle Wirkstoffe)
+GRP1	Gruppe 1 - Wirkstoffe mit geringem Risiko
+GRP1_CAT_A	Gruppe 1, Kategorie A - Mikroorganismen mit geringem Risiko
+GRP1_CAT_B	Gruppe 1, Kategorie B - chemische Wirkstoffe mit geringem Risiko
+GRP2	Gruppe 2 - Wirkstoffe
+GRP2_CAT_C	Gruppe 2, Kategorie C - Mikroorganismen
+GRP2_CAT_D	Gruppe 2, Kategorie D - chemische Wirkstoffe
+GRP3	Gruppe 3 - Wirkstoffe, Substitutionskandidaten
+GRP3_CAT_E	Gruppe 3, Kategorie E - Wirkstoffe, Substitutionskandidaten, eingestuft als nicht karzinogen der Kategorie 1A oder 1B und/oder nicht reproduktionstoxisch der Kategorie 1A oder 1B und/oder nicht als endokrine Disruptoren eingestuft
+GRP3_CAT_F	Gruppe 3, Kategorie F - Wirkstoffe, Substitutionskandidaten, eingestuft als karzinogen der Kategorie 1A oder 1B und/oder reproduktionstoxisch der Kategorie 1A oder 1B und/oder endokrine Disruptoren, bei denen die Exposition von Menschen vernachlässigbar ist
+GRP4	Gruppe 4 - nicht genehmigte Wirkstoffe
+GRP4_CAT_G	Gruppe 4, Kategorie G - nicht genehmigte Wirkstoffe

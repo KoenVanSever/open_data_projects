@@ -1,0 +1,11 @@
+TOTAL	Total
+ENFORC	Retour forcé
+VOLUNT	Retour volontaire
+ASSIST	Retour assisté
+NASSIST	Retour non assisté
+THRD	Retour dans un autre pays tiers
+EURA	Retour effectué sous accord de réadmission de l'UE (EURA)
+RA_OTH	Retour effectué sous autre accord de réadmission
+NRA	Retour effectué sans un accord de réadmission existant
+OTH	Autre
+UNK	Inconnu

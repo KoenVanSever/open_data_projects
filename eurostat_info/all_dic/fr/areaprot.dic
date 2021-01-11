@@ -1,0 +1,16 @@
+AREA_KM2	Superficie du pays (km2)
+PRO	Superficie protégée
+PRO_BIO	Superficie protégée - biodiversité
+PRO_BIO_TFW_PC	Protected area - terrestrial and freshwater biodiversity (%)
+PRO_BIO_KEY_PC	Protected area - key biodiversity (%)
+PRO_BIO_MNT_PC	Protected area - mountain biodiversity (%)
+PRO_LSC	Superficie protégée - paysage
+PRO_NAT00	Superficie protégée - Natura 2000
+TPA_KM2	Superficie terrestre protégée (km2)
+TPA_PC	Superficie terrestre protégée (%)
+TPA_SI	Superficie terrestre protégée (indice de suffisance)
+MPA_KM2	Superficie marine protégée (km2)
+MPA_SI	Superficie marine protégée (indice de suffisance)
+PRT	Superficie ayant une fonction de protection
+PRT_ECO	Protection des sols, des eaux et d'autres ecosystèmes
+PRT_INFR	Protection d'infrastructure et du paysage

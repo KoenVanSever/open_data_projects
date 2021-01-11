@@ -1,0 +1,4 @@
+PLC_MKT	Quantité mise sur le marché
+I_TAX_CHRG_LEV	Montant calculé a partir des taxes, frais ou prélèvements obligatoires
+X_TAX_CHRG_LEV	Montant exempté des taxes, frais ou prélèvements obligatoires
+I_X_TAX_CHRG_LEV	Montant calculé a partir des taxes, frais ou prélèvements obligatoire ou montant exempté des taxes, frais ou prélèvements obligatoires

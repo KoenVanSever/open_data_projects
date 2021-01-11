@@ -1,0 +1,12 @@
+CP	Jeweiliger Preis
+NP	Nominaler Preis
+RP	Reeller Preis
+NV	Nominaler Wert
+RV	Reeller Wert
+NI	Nominaler Index
+RI	Reeller Index
+VOL	Volumen
+CLV00	Verkettete Volumen, Bezugsjahr 2000 (zu Wechselkursen von 2000)
+CLV05	Verkettete Volumen, Bezugsjahr 2005 (zu Wechselkursen von 2005)
+VW	Wertgewicht
+NAP	Nicht anwendbar

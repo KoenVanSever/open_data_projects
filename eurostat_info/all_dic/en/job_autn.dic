@@ -1,0 +1,11 @@
+TOTAL	Total
+CONT_ORD	Content and order of tasks
+CONT	Content of tasks
+ORD	Order of tasks
+SOMECONT_SOMEORD	Some or large on content and order of tasks
+LTLCONT_SOMEORD	Little or none on content and some or large on order of tasks
+SOMECONT_LTLORD	Some or large on content and little or none on order of tasks
+LTLCONT_LTLORD	Little or none on content and order of tasks
+NONE	None
+NAP	Not applicable
+NRP	No response

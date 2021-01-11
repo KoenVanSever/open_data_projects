@@ -1,0 +1,25 @@
+NEI_EXT	Extraction de ressources énergétiques naturelles
+EPRD_DOM	Production intérieure des produits énergétiques
+EPRD_ICNS	Consommation intermédiaire des produits énergétiques
+EPRD_HHCNS	Consommation des produits énergétiques par les ménages
+WST_USE	Utilisation de déchets à des fins énergétiques
+WST_USE_EP	Utilisation de déchets à des fins énergétiques
+NETDOM_EUSE	Utilisation intérieure d'énergie nette
+NETDOM_EUSE_EP	Utilisation intérieure d'énergie nette pour des fins énergétiques
+NETDOM_EUSE_NEP	Utilisation intérieure d'énergie nette pour des fins non-énergétiques
+NRG_INP_OUT	Entrées et sorties d'énergie
+ER_EUSE	Emploi d'énergie liée aux émissions
+DEI	Apports directs d'énergie
+DEO	Libération directe d'énergie
+NAS_CAL	Addition nette au stock (calculé)
+NAS_REP	Addition nette au stock (rapporté)
+DEC	Consommation intérieure d'énergie
+EPRD_ERES_IMP	Importations de produits énergétiques et résidus énergétiques (déchets pour utilisation énergétique)
+EPRD_IMP	Importations de produits énergétiques
+ERES_IMP	Importations de résidus énergétiques
+DPO	Émissions vers la nature des processus intérieurs
+EPRD_ERES_EXP	Exportations de produits énergétiques et résidus énergétiques
+EPRD_ERES_NETCHG	Variation nette de stock (emploi moins ressource) de produits énergétiques et résidus énergétiques
+ERES_SUP	Approvisionnement de résidus énergétiques de stock
+EPRD_ERES_AS	Augmentation de stock (emploi) en produits énergétiques et résidus énergétiques
+EPRD_ERES_DSP	Difference statistique entre approvisionnement et emploi de produits énergétiques et résidus énergétiques

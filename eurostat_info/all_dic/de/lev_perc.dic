@@ -1,0 +1,25 @@
+STR	Stark
+VG_FG	Sehr gut oder relativ gut
+VGOOD	Sehr gut
+GOOD	Gut
+VG_G	Sehr gut oder gut
+FGOOD	Relativ gut
+FAIR	Mittelmässig
+INT	Mittel
+MOD	Mässig
+VMILD	Sehr leicht
+MILD	Leicht
+M_VM	Leicht oder sehr leicht
+NONE_MIN	Kein oder Minimum
+POOR	Schwach
+BAD	Schlecht
+VB_FB	Sehr schlecht oder relativ schlecht
+VBAD	Sehr schlecht
+FBAD	Relativ schlecht
+B_VB	Schlecht oder sehr schlecht
+SEV	Stark
+MODS	Mässig stark
+MOD_MODS_SEV	Mässig, mässig stark oder stark
+S_VS	Stark oder sehr stark
+NONE	Kein
+UNK	Unbekannt

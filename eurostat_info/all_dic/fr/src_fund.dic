@@ -1,0 +1,16 @@
+PUB_FUND	Financement public
+PUB_FUND_RNDINN	Financement public (utilisé pour l'activité R&D ou d'autres activités liées à l'innovation)
+GOV_CTL	Gouvernement central national
+GOV_CTL_RNDINN	Gouvernement central national (utilisé pour l'activité R&D ou d'autres activités liées à l'innovation)
+AUT_LOC_REG	Autorités locales ou régionales
+AUT_LOC_REG_RNDINN	Autorités locales ou régionales (utilisées pour l'activité R&D ou d'autres activités liées à l'innovation)
+EU	Union européenne
+EU_FP5_6	5ème ou 6ème programme-cadre de l'UE
+EU_FP6	6ème programme-cadre de l'UE
+EU_FP6_7	6ème ou 7ème programme-cadre de l'UE
+EU_FP7	7ème programme-cadre de l'UE
+EU_FP7_HP2020	7ème programme-cadre de l'UE et programme Horizon 2020 de l'UE
+EU_HP2020	Programme Horizon 2020 de l'UE 
+EU_HP2020_RNDINN	Programme Horizon 2020 de l'UE (utilisés pour l'activité R&D ou d'autres activités liées à l'innovation)
+EU_OTH	Autre soutien financier venant d'une institution de l'UE
+EU_OTH_RNDINN	Autre soutien financier venant d'une institution de l'UE (utilisé pour une activité R&D ou d'autres activités liées à l'innovation)

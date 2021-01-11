@@ -1,0 +1,87 @@
+TOTAL	Insgesamt
+UNI	Gesamtheit
+SPL	Stichprobe
+SRC	Datenquelle der Umfrage 
+AVG	Durchschnitt
+AVG_3Y	Dreijahresdurchschnitt
+MMEAN	Gemessenes Mittel
+CMEAN	Berechnetes Mittel
+MED	Median
+SD	Standardabweichung
+SE	Standardfehler
+CV	Variationskoeffizient
+CVA	Variationskoeffizient für den absoluten Wert
+CVR	Variationskoeffizient für den relativen Wert
+CV_PLI	Variationskoeffizient der Preisniveauindizes
+CV_VI_HAB	Variationskoeffizient der Volumenindizes der Pro-Kopf Ausgaben
+CUM	Kumulierte Reihen
+VAL	Wert
+VAL_A	Jährlicher Wert
+RV	Relativer Wert
+END	Wert am Periodenende
+MAX	Höchstwert in der Periode
+MIN	Mindestwert in der Periode
+DISP_NUTS2	Streuung auf Ebene NUTS 2
+DISP_NUTS3	Streuung auf Ebene NUTS 3
+SUM3Y	Summe der letzten 3 Jahren
+SUM4Y	Summe der letzten 4 Jahren
+SUM6Y	Summe der letzten 6 Jahren
+NSME	Nicht geglättete Schätzung
+SME	Geglättete Schätzung
+SME_UP95	Geglättete Schätzung - Obergrenze des 95%-Vertrauensintervalls
+SME_LW95	Geglättete Schätzung - Untergrenze des 95%-Vertrauensintervalls
+STA	Status
+WT	Gewichte
+COWEU	Ländergewichte für die Europäische Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)
+COWEU27_2020	Ländergewichte für EU27 (ab 2020)
+COWEU28	Ländergewichte für EU28 (2013-2020)
+COWEU27_2007	Ländergewichte für EU27 (2007-2013)
+COWEU25	Ländergewichte für EU25 (2004-2006)
+COWEU15	Ländergewichte für EU15 (1995-2004)
+COWEA	Ländergewichte für den Euroraum (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)
+COWEA19	Ländergewichte für EA19 (Euroraum ab 2015)
+COWEA18	Ländergewichte für EA18 (Euroraum - 2014)
+COWEA17	Ländergewichte für EA17 (Euroraum - 2011-2013)
+COWEA16	Ländergewichte für EA16 (Euroraum - 2009-2010)
+COWEA15	Ländergewichte für EA15 (Euroraum - 2008)
+COWEA13	Ländergewichte für EA13 (Euroraum - 2007)
+COWEA12	Ländergewichte für EA12 (Euroraum - 2001-2006)
+COWEEA	Ländergewichte für EWR (Europäischer Wirtschaftsraum)
+IWBS	Gewichte der Indizes für Industrie, Baugewerbe und Dienstleistungen (ohne private Haushalte mit Hauspersonal und extra-territoriale Organisationen und Körperschaften)  - NACE rev.2, B bis S
+NONE	Kein Einkommen
+Q1	Erstes Quartil
+Q2	Zweites Quartil
+Q3	Drittes Quartil
+Q4	Viertes Quartil
+QU1	Erstes Quintil
+QU2	Zweites Quintil
+QU3	Drittes Quintil
+QU4	Viertes Quintil
+QU5	Fünftes Quintil
+D1	Erstes Dezil
+D2	Zweites Dezil
+D3	Drittes Dezil
+D4	Viertes Dezil
+D5	Fünftes Dezil
+D6	Sechstes Dezil
+D7	Siebtes Dezil
+D8	Achtes Dezil
+D9	Neuntes Dezil
+D10	Zehntes Dezil
+P1	Erstes Perzentil
+P2	Zweites Perzentil
+P3	Drittes Perzentil
+P4	Viertes Perzentil
+P5	Fünftes Perzentil
+P10	Zehntes Perzentil
+P25	Fünfundzwanzigstes Perzentil
+S2	Zweites Sextil
+P75	Fünfundsiebzigstes Perzentil
+P90	Neunzigstes Perzentil
+P95	Fünfundneunzigstes Perzentil
+P96	Sechsundneunzigstes Perzentil
+P97	Siebenundneunzigstes Perzentil
+P98	Achtundneunzigstes Perzentil
+P99	Neunundneunzigstes Perzentil
+P100	Hundertstes Perzentil
+UNK	Unbekannt

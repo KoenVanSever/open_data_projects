@@ -1,0 +1,47 @@
+TOTAL	Insgesamt
+HEIGHT	Größe
+WEIGHT	Gewicht
+N_EODS_OBL	Anzahl, nicht tödlich, der verbindlichen EODS Liste
+I_EODS_OBL	Inzidenzrate, nicht tödlich, der verbindlichen EODS Liste
+EM0611	Index der Anzahl ernsthafter Arbeitsunfälle je 100 Tausend Erwerbstätige (1998=100)
+EM0612	Index der Anzahl ernsthafter Arbeitsunfälle von Frauen je 100 Tausend erwerbstätige Frauen (1998=100)
+EM0613	Index der Anzahl ernsthafter Arbeitsunfälle von Männern je 100 Tausend erwerbstätige Männer (1998=100)
+EM062	Index der Anzahl der Arbeitsunfälle mit tödlichem Ausgang je 100 Tausend Erwerbstätige (1998=100)
+F_0_DFLE	Gesunde Lebensjahre bei der Geburt - Frauen
+F_0_DFLEPC	Gesunde Lebensjahre bei der Geburt - Anteil an der totalen Lebenserwartung - Frauen
+F_0_LE	Lebenserwartung bei der Geburt - Frauen
+M_0_DFLE	Gesunde Lebensjahre bei der Geburt - Männer
+M_0_DFLEPC	Gesunde Lebensjahre bei der Geburt - Anteil an der totalen Lebenserwartung- Männer
+M_0_LE	Lebenserwartung bei der Geburt - Männer
+F_50_DFLE	Gesunde Lebensjahre im Alter von 50 Jahren - Frauen
+F_50_DFLEPC	Gesunde Lebensjahre im Alter von 50 Jahren - Anteil an der totalen Lebenserwartung - Frauen
+F_50_LE	Lebenserwartung im Alter von 50 Jahren - Frauen
+M_50_DFLE	Gesunde Lebensjahre im Alter von 50 Jahren - Männer
+M_50_DFLEPC	Gesunde Lebensjahre im Alter von 50 Jahren - Anteil an der totalen Lebenserwartung - Männer
+M_50_LE	Lebenserwartung im Alter von 50 Jahren - Männer
+F_65_DFLE	Gesunde Lebensjahre im Alter von 65 Jahren - Frauen
+F_65_DFLEPC	Gesunde Lebensjahre im Alter von 65 Jahren - Anteil an der totalen Lebenserwartung - Frauen
+F_65_LE	Lebenserwartung im Alter von 65 Jahren - Frauen
+M_65_DFLE	Gesunde Lebensjahre im Alter von 65 Jahren - Männer
+M_65_DFLEPC	Gesunde Lebensjahre im Alter von 65 Jahren - Anteil an der totalen Lebenserwartung - Männer
+M_65_LE	Lebenserwartung im Alter von 65 Jahren - Männer
+HE_BIRTH	Gesunde Lebenserwartung bei der Geburt
+HE_50	Gesunde Lebenserwartung im Alter von 50 Jahren
+HE_65	Gesunde Lebenserwartung im Alter von 65 Jahren
+HLY_0	Gesunde Lebensjahre bei der Geburt
+HLY_PC_0	Gesunde Lebensjahre bei der Geburt - Anteil an der totalen Lebenserwartung
+LE_0	Lebenserwartung bei der Geburt
+HLY_50	Gesunde Lebensjahre im Alter von 50 Jahren
+HLY_PC_50	Gesunde Lebensjahre im Alter von 50 Jahren - Anteil an der totalen Lebenserwartung
+LE_50	Lebenserwartung im Alter von 50 Jahren
+HLY_65	Gesunde Lebensjahre im Alter von 65 Jahren
+HLY_PC_65	Gesunde Lebensjahre im Alter von 65 Jahren - Anteil an der totalen Lebenserwartung
+LE_65	Lebenserwartung im Alter von 65 Jahren
+DISCH	Krankenhausentlassungen
+ALOS	Durchschnittliche Krankenhausverweildauer stationärer Patienten (in Tagen)
+DAY_HOSP	Krankenhaustage
+INPAT	Patienten in stationärer Behandlung (Gesamtzahl)
+ONE_DAY	Tagesklinkfälle (Gesamtzahl)
+AMEN	Durch Gesundheitsfürsorge vermeidbare Todesfälle
+PREVENT	Durch Prävention vermeidbare Sterblichkeit
+TREAT	Durch Behandlung vermeidbare Sterblichkeit

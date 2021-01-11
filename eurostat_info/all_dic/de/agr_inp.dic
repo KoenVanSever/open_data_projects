@@ -1,0 +1,313 @@
+INP	Gesamtinput
+INP_S1	Vorleistungen
+SED	Saat- und Pflanzgut
+SED_IN	Saat- und Pflanzgut gekauft bei anderen landwirtschaftlichen Einheiten
+SED_OUT	Saat- und Pflanzgut gekauft außerhalb des Wirtschaftsbereichs
+ARP	Nutz- und Zuchtvieh
+NRG_LUB	Energieprodukte und Schmierstoffe
+NRG	Energieprodukte
+NRG_E	Elektrizität
+NRG_G	Gas
+NRG_F	Brenn- und Treibstoffe
+NRG_FH	Heizstoffe
+NRG_FH_G	Destillat-Heizöl
+NRG_R	Rückstands-Heizöl
+NRG_FM	Treibstoffe
+NRG_FM_S	Motorenbenzin
+NRG_FM_D	Dieselkraftstoff
+LUB	Schmierstoffe
+NRG_LUB_OTH	Sonstige Energieprodukte und Schmierstoffe
+FER	Dünge- und Bodenverbesserungsmittel
+FER_IN	Dünger gekauft bei anderen landwirtschaftlichen Einheiten
+FER_OUT	Dünger gekauft außerhalb des Wirtschaftsbereichs
+FER_S	Einnährstoffdünger
+FER_S_N	Stickstoffdünger
+FER_S_N_SA	Ammonsulfat
+FER_S_N_AN1	Kalkammonsalpeter (20.5 % N)
+FER_S_N_AN2	Kalkammonsalpeter (21 % N)
+FER_S_N_AN3S	Kalkammonsalpeter (26 % N) (Sackware)
+FER_S_N_AN3B	Kalkammonsalpeter (26 % N) (Schüttgut)
+FER_S_N_AN4	Kalkammonsalpeter (33 % N)
+FER_S_N_AN4S	Ammonsalpeter (33 % N) (Sackware)
+FER_S_N_AN4B	Ammonsalpeter (33% N) (Schüttgut)
+FER_S_N_AA	Ammoniumhydroxid (82% N)
+FER_S_N_NH	Harnstoff
+FER_S_N_UAN	Harnstoff  - Ammoniumnitrat Lösung (AHL)
+FER_S_N_OTH	Sonstige Stickstoffdünger
+FER_S_P	Phosphatdünger
+FER_S_P_PR	Phosphatgestein
+FER_S_P_AP	Ammoniumphosphat
+FER_S_P_SP	Superphosphat (18% P205)
+FER_S_P_TSP	Tripelsuperphosphat (46 % P2O5)
+FER_S_K	Kalidünger
+FER_S_K_MOP	Kaliumchlorid
+FER_S_K_SOP	Kaliumsulfat
+FER_C	Mehrnährstoffdünger
+FER_C_NP	NP-Dünger
+FER_C_NP1	NP-Dünger 1 - 1 - 0
+FER_C_NP2	Diammoniumphosphat (DAP)
+FER_C_NP3	Monoammoniumphosphat (MAP)
+FER_C_NP_OTH	Sonstige NP-Dünger
+FER_C_PK	PK-Dünger
+FER_C_PK1	PK-Dünger 0 - 1 - 1
+FER_C_PK2	PK-Dünger 0 - 20 - 20
+FER_C_PK3	Kaliumnitrat
+FER_C_PK4	Zweinährstoffdünger: 0 - 20 - 25
+FER_C_NPK	NPK-Dünger
+FER_C_NPK1	NPK-Dünger 1 - 0.5 - 0.5
+FER_C_NPK2	NPK-Dünger 20 - 10 - 10
+FER_C_NPK3S	NPK-Dünger 1 - 1 - 1 (Sackware)
+FER_C_NPK4S	NPK-Dünger 17 - 17 - 17 (Sackware)
+FER_C_NPK3B	NPK-Dünger 1 - 1 - 1 (Schüttgut)
+FER_C_NPK4B	NPK-Dünger 17 - 17 - 17 (Schüttgut)
+FER_C_NPK5C	NPK Mehrnährstoffdünger 15 - 15 - 15
+FER_C_NPK5M	NPK Mischdünger 15 - 15 - 15
+FER_C_NPK6	NPK-Dünger 26 - 2 - 3
+FER_C_NPK7	NPK-Dünger 20 - 4 - 8
+FER_C_NPK8	NPK-Dünger 18 - 5 - 10
+FER_C_NPK9	NPK-Dünger 23 - 5 - 10
+FER_C_NPK10	NPK-Dünger 18 - 3 - 12
+FER_C_NPK11	NPK-Dünger 12 - 6 - 17
+FER_C_NPK12	NPK-Dünger 14 - 9 - 10
+FER_C_NPK13	NPK-Dünger 1 - 2 - 2
+FER_C_NPK14	NPK-Dünger 9 - 9 - 18
+FER_C_NPK15	NPK-Dünger 1 - 1 - 2
+FER_C_NPK16	NPK-Dünger 10 - 20 - 20
+FER_OTH	Sonstige Dünge- und Bodenverbesserungsmittel
+PES	Pflanzenschutzmittel
+PES_F	Fungizide und Bakterizide
+F01	Anorganische Fungizide
+F01_01	Kupferverbindungen
+F01_02	Anorganischer Schwefel
+F01_99	Sonstige anorganische Fungizide
+F02	Von Carbamaten und Dithiocarbamaten abgeleitete Fungizide
+F02_01	Carbanilatfungizide
+F02_02	Carbamatfungizide
+F02_03	Dithiocarbamatfungizide
+F02_99	Sonstige von Carbamaten oder Dithiokarbamaten abgeleitete Fungizide
+F03	Von Benzimidazolen abgeleitete Fungizide
+F03_01	Benzimidazol-Fungizide
+F03_99	Sonstige von Benzimidazolen abgeleitete Fungizide
+F04	Von Imidazolen und Triazolen abgeleitete Fungizide
+F04_01	Conazol-Fungizide
+F04_02	Imidazol-Fungizide
+F04_99	Sonstige von Imidazolen und Triazolen abgeleitete Fungizide
+F05	Von Morpholinen abgeleitete Fungizide
+F05_01	Morpholin-Fungizide
+F05_99	Sonstige von Morpholinen abgeleitete Fungizide
+F06	Fungizide auf pflanzlicher oder mikrobieller Basis
+F06_01	Fungizide auf pflanzlicher oder mikrobieller Basis
+F06_99	Sonstige Fungizide auf pflanzlicher und mikrobieller Basis
+F99	Sonstige Fungizide
+F99_01	Aliphatische Stickstoffffungizide
+F99_02	Amidfungizide
+F99_03	Anilidfungizide
+F99_05	Aromatische Fungizide
+F99_06	Dicarboximid-Fungizide
+F99_07	Dinitroanilin-Fungizide
+F99_08	Dinitrophenol-Fungizide
+F99_09	Organophosphor-Fungizide
+F99_10	Oxazol-Fungizide
+F99_11	Phenylpyrrol-Fungizide
+F99_12	Phthalimid-Fungizide
+F99_13	Pyrimidin-Fungizide
+F99_14	Chinolin-Fungizide
+F99_15	Chinon-Fungizide
+F99_16	Strobilurin-Fungizide
+F99_17	Harnstofffungizide
+F99_99	Nicht klassifizierte Fungizide
+PES_I	Insektizide und Akarizide
+I01	Von Pyrethroiden abgeleitete Insektizide
+I01_01	Pyrethroid-Insektizide
+I01_99	Sonstige von Pyrethroiden abgeleitete Insektizide
+I02	Von chlorierten Kohlenwasserstoffen abgeleitete Insektizide
+I02_99	Sonstige von Chlorierten Kohlenwasserstoffen abgeleitete Insektizide
+I03	Von Carbamaten und Oximcarbamaten abgeleitete Insektizide
+I03_01	Oximcarbamat-Insektizide
+I03_02	Carbamat-Insektizide
+I03_99	Sonstige von Carbamaten und Oximcarbamaten abgeleitete Insektizide
+I04	Von organischen Phosphaten abgeleitete Insektizide
+I04_01	Organophosphor-Insektizide
+I04_99	Sonstige von organischen Phosphaten abgeleitete Insektizide
+I05	Insektizide auf pflanzlicher oder mikrobieller Basis
+I05_01	Insektizide auf pflanzlicher oder mikrobieller Basis
+I05_99	Sonstige Insektizide auf pflanzlicher oder mikrobieller Basis
+I99	Sonstige Insektizide
+I99_01	Durch Fermentierung erzeugte Insektizide
+I99_03	Benzoylharnstoff-Insektizide
+I99_04	Carbazat-Insektizide
+I99_05	Diazylhydrazin-Insektizide
+I99_06	Insektenwachstumsregler
+I99_07	Insektenpheromone
+I99_08	Nitroguanidin-Insektizide
+I99_09	Organozinn-Insektizide
+I99_10	Oxadiazin-Insektizide
+I99_11	Phenylether-Insektizide
+I99_12	Pyrazol(Phenyl-)-Insektizide
+I99_13	Pyridin-Insektizide
+I99_14	Pyridylmethylamin-Insektizide
+I99_15	Sulfit-Ester-Insektizide
+I99_16	Tetrazin-Insektizide
+I99_17	Tetronsäure-Insektizide
+I99_99	Nicht klassifizierte Insektizide/Akarizide
+PES_H	Herbizide, krautabtötende Mittel und Moosvernichter
+H01	Von Phenoxy-Phytohormonen abgeleitete Herbizide
+H01_01	Phenoxyherbizide
+H01_99	Sonstige von Phenoxy-Phytohormonen abgeleitete Herbizide
+H02	Von Triazinen und Triazinonen abgeleitete Herbizide
+H02_02	Triazin-Herbizide
+H02_03	Triazinon-Herbizide
+H02_99	Sonstige von Triazinen und Triazinonen abgeleitete Herbizide
+H03	Von Amiden und Aniliden abgeleitete Herbizide
+H03_01	Amid-Herbizide
+H03_02	Anilid-Herbizide
+H03_03	Chloroacetanilid-Herbizide
+H03_99	Sonstige von Amiden und Aniliden abgeleitete Herbizide
+H04	Von Carbamaten und Biscarbamaten abgeleitete Herbizide
+H04_01	Biscarbamat-Herbizide
+H04_02	Carbamat-Herbizide
+H04_99	Sonstige von Carbamaten und Biscarbamaten abgeleitete Herbizide
+H05	Von Dinitroanilinderivaten abgeleitete Herbizide
+H05_01	Dinitroanilin-Herbizide
+H05_99	Sonstige von Dinitroanilinderivaten abgeleitete Herbizide
+H06	Von Harnstoff-, Uracil- oder Sulfonylharnstoffderivaten abgeleitete Herbizide
+H06_01	Sulfonylharnstoff-Herbizide
+H06_02	Uracil-Herbizide
+H06_03	Harnstoff-Herbizide
+H06_99	Sonstige von Harnstoff-, Uracil- oder Sulfonyl-Harnstoffderivaten abgeleitete Herbizide
+H99	Sonstige Herbizide
+H99_01	Aryloxyphenoxypropion-Herbizide
+H99_02	Benzofuran-Herbizide
+H99_03	Benzoesäure-Herbizide
+H99_04	Bipyridylium-Herbizide
+H99_05	Cyclohexandion- Herbizide
+H99_06	Diazin-Herbizide
+H99_07	Dicarboximid-Herbizide
+H99_08	Diphenylether-Herbizide
+H99_09	Imidazolinon-Herbizide
+H99_10	Anorganische Herbizide
+H99_11	Isoxazol-Herbizide
+H99_13	Nitril-Herbizide
+H99_14	Organophosphor-Herbizide
+H99_15	Phenylpyrazol-Herbizide
+H99_16	Pyridazinon- Herbizide
+H99_17	Pyridincarboxamid-Herbizide
+H99_18	Pyridincarboxyl-Herbizide
+H99_19	Pyridyloxyessigsäure-Herbizide
+H99_20	Chinolin-Herbizide
+H99_21	Thiadiazin-Herbizide
+H99_22	Thiocarbamat- Herbizide
+H99_23	Triazol-Herbizide
+H99_24	Triazolinon-Herbizide
+H99_25	Triazolon-Herbizide
+H99_26	Triketon-Herbizide
+H99_99	Nicht klassifizierte Herbizide
+PES_M	Molluskizide
+M01	Molluskizide
+M01_01	Molluskizide
+PES_PGR	Pflanzenwachstumsregler
+PGR01	Physiologisch wirkende Pflanzenwachstumsregler
+PGR01_01	Physiologisch wirkende Pflanzenwachstumsregler
+PGR01_99	Sonstige physiologisch wirkende Pflanzenwachstumsregler
+PGR02	Keimhemmungsmittel
+PGR02_02	Keimungshemmer
+PGR02_99	Sonstige Keimungshemmer
+PGR03	Sonstige Pflanzenwachstumsregler
+PGR03_99	Sonstige Pflanzenwachstumsregler
+PES_ZR	Sonstige Pflanzenschutzmittel
+ZR01	Mineralöle
+ZR02	Pflanzenöle
+ZR02_01	Pflanzenöl
+ZR03	Bodenentseuchungsmittel (einschließlich Nematizide)
+ZR03_01	Methylbromid
+ZR03_99	Sonstige Bodenentseuchungsmittel
+ZR04	Rodentizide
+ZR04_01	Rodentizide
+ZR99	Alle sonstigen Pflanzenschutzmittel
+ZR99_01	Desinfektionsmittel
+ZR99_99	Sonstige Pflanzenschutzmittel
+FDS	Futtermittel
+FDS_IN	Futtermittel gekauft bei anderen landwirtschaftlichen Einheiten
+FDS_OUT	Futtermittel gekauft außerhalb des Wirtschaftsbereichs
+FDS_OWN	Futtermittel erzeugte und verbrauchte innerbetrieblich
+FDS_S	Einzelfuttermittel
+FDS_S_CM	Futtermittel: Getreide und Mühlennachprodukte
+FDS_S_CM_FW	Futtermittel: Futterweizen
+FDS_S_CM_BAR	Futtermittel: Gerste
+FDS_S_CM_OAT	Futtermittel: Hafer
+FDS_S_CM_MAI	Futtermittel: Mais
+FDS_S_CM_WB	Futtermittel: Weizenkleie
+FDS_S_CM_GB	Futtermittel: Gerste - gemahlen
+FDS_S_CM_GM	Futtermittel: Mais - gemahlen
+FDS_S_OC	Futtermittel: Ölkuchen
+FDS_S_OC_L	Futtermittel: Leinkuchen (gepreßt)
+FDS_S_OC_TSM	Futtermittel: Sojaextraktionsschrot (getoastet)
+FDS_S_ANI	Futtermittel tierischer Herkunft
+FDS_S_ANI_A	Futtermittel: Tiermehl
+FDS_S_ANI_F	Futtermittel: Fischmehl
+FDS_S_OTH	Sonstige Einzelfuttermittel
+FDS_S_OTH_FDB	Futtermittel: Ackerbohnen
+FDS_S_OTH_FDP	Futtermittel: Felderbsen
+FDS_S_OTH_FOP	Futtermittel: Futtererbsen
+FDS_S_OTH_DSB	Futtermittel: Getrocknete Diffusionsschnitzel
+FDS_S_OTH_MH	Futtermittel: Wiesenheu
+FDS_S_OTH_DL	Futtermittel: Luzerneheu
+FDS_S_OTH_CS	Futtermittel: Getreidestroh
+FDS_C	Mischfuttermittel
+FDS_C_CAL	Mischfuttermittel für Kälber
+FDS_C_CAL_1	Ergänzungsfutter für die Kälberaufzucht
+FDS_C_CAL_2MS	Milchaustauschfutter für Kälbermast (Sackware)
+FDS_C_CAL_2MB	Milchaustauschfutter für Kälbermast (Schüttgut)
+FDS_C_CATXCAL	Mischfuttermittel für Rinder (ohne Kälber)
+FDS_C_CAT_1	Ergänzungsfutter für Milchvieh (bei Weidegang)
+FDS_C_CAT_2S	Ergänzungsfutter für Milchvieh (Aufstallung) (Sackware)
+FDS_C_CAT_2B	Ergänzungsfutter für Milchvieh (Aufstallung) (Schüttgut)
+FDS_C_CAT_P2S	Eiweißreiches Ergänzungsfutter für Milchvieh (Aufstallung) (Sackware)
+FDS_C_CAT_P2B	Eiweißreiches Ergänzungsfutter für Milchvieh (Aufstallung) (Schüttgut)
+FDS_C_CAT_3S	Ergänzungsfutter für die Rindermast (Sackware)
+FDS_C_CAT_3B	Ergänzungsfutter für die Rindermast (Schüttgut)
+FDS_C_CAT_P3S	Eiweißreiches Ergänzungsfutter für die Rindermast (Sackware)
+FDS_C_CAT_P3B	Eiweißreiches Ergänzungsfutter für die Rindermast (Schüttgut)
+FDS_C_PIG	Mischfuttermittel für Schweine
+FDS_C_PIG_1S	Alleinfutter für die Ferkelaufzucht (Sackware)
+FDS_C_PIG_1B	Alleinfutter für die Ferkelaufzucht (Schüttgut)
+FDS_C_PIG_2S	Alleinfutter für Zuchtsauen (Sackware)
+FDS_C_PIG_2B	Alleinfutter für Zuchtsauen (Schüttgut)
+FDS_C_PIG_3S	Alleinfutter für die Schweinemast (Sackware)
+FDS_C_PIG_3B	Alleinfutter für die Schweinemast (Schüttgut)
+FDS_C_PLT	Mischfuttermittel für Geflügel
+FDS_C_PLT_1S	Alleinfutter für Küken der ersten Tage (Sackware)
+FDS_C_PLT_1B	Alleinfutter für Küken der ersten Tage (Schüttgut)
+FDS_C_PLT_2S	Alleinfutter für Junghennen bis zur Legereife (Sackware)
+FDS_C_PLT_2B	Alleinfutter für Junghennen bis zur Legereife (Schüttgut)
+FDS_C_PLT_3S	Alleinfutter für Legehennen in Batteriehaltung (Sackware)
+FDS_C_PLT_3B	Alleinfutter für Legehennen in Batteriehaltung (Schüttgut)
+FDS_C_PLT_4S	Alleinfutter für die Endmast von Geflügel (Sackware)
+FDS_C_PLT_4B	Alleinfutter für die Endmast von Geflügel (Schüttgut)
+FDS_C_OTH	Sonstige Mischfuttermittel
+MTL	Material und Kleinwerkzeug
+MNT	Instandhaltung und Reparatur von Maschinen
+MNT_BLD	Instandhaltung von baulichen Anlagen
+VET	Veterinärleistungen
+AGR	Landwirtschaftliche Dienstleistungen
+AGR_FISIM	Unterstellte Bankgebühr (FISIM)
+GEN	Allgemeine Wirtschaftsausgaben
+INP_S1_OTH	Sonstige Vorleistungen
+INP_S2	Investierte Waren und Dienstleistungen
+MAC	Maschinen und sonstige Ausrüstungsgüter
+MAC_2WHL	Einachsschlepper und andere einachsige Motorgeräte
+MAC_CLT	Maschinen und Geräte für die Bodenbearbeitung
+MAC_HVT	Maschinen und Geräte für die Ernte
+MAC_INS	Maschinen und Einrichtungen der Innenwirtschaft
+MAC_INS_CRP	Maschinen und Einrichtungen für die pflanzliche Produktion
+MAC_INS_ANI	Maschinen und Einrichtungen für die tierische Produktion
+MAC_INS_OTH	Sonstige Maschinen und Einrichtungen der Innenwirtschaft
+MAC_TSP	Fahrzeuge
+MAC_TSP_TRT	Ackerschlepper
+MAC_TSP_OTH	Sonstige Fahrzeuge
+BLD	Bauten und bauliche Einheiten
+BLD_FRM	Wirtschaftsgebäude
+BLD_IMP	Tiefbau- und Bodenverbesserungsarbeiten
+BLD_OTH	Sonstige Bauten und bauliche Einheiten
+INP_S2_OTH	Sonstige Investierte Waren und Dienstleistungen
+INP_OTH	Sonstige Investitionen

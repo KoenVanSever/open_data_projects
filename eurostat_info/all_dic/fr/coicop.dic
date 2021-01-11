@@ -1,0 +1,799 @@
+TOTAL	Total
+TOT_X_CP041_042	Total sauf les loyers réels
+CP00	Ensemble ICPH
+CP01	Produits alimentaires et boissons non alcoolisées
+CP011	Produits alimentaires
+CP0111	Pain et céréales
+CP01111	Riz
+CP01111A	Riz à grains longs (1 kg)
+CP01112	Farines et autres céréales
+CP01112A	Farine de blé (1 kg)
+CP01112B	Flocons de maïs (1 kg)
+CP01113	Pain
+CP01113A	Pain blanc, miche (1 kg)
+CP01114	Autres produits de boulangerie
+CP01115	Pizza et quiche
+CP01115A	Pizza congelée (500 g)
+CP01116	Pâtes alimentaires et couscous
+CP01116A	Pâtes, sans oeufs (1 kg)
+CP01117	Céréales pour petit déjeuner
+CP01118	Autres produits céréaliers
+CP0112	Viande
+CP01121	Boeuf et veau
+CP01121A	Boeuf haché (1 kg)
+CP01122	Porc
+CP01122A	Escalope de porc (1 kg)
+CP01122B	Côtelette de porc (1 kg)
+CP01123	Agneau et chèvre
+CP01124	Volaille
+CP01124A	Poulet entier (1 kg)
+CP01124B	Filets de poitrine de poulet (1 kg)
+CP01125	Autres viandes
+CP01126_01127	Viande séchée, salée ou fumée et abats comestibles
+CP01126	Abats comestibles 
+CP01127	Viande séchés, salés ou fumés 
+CP01127A	Saucisse de Francfort/Viennoise (1 kg)
+CP01127B	Saucisse de type salami (1 kg)
+CP01128	Autres préparations à base de viande
+CP01128A	Conserves de viande ou produits de la transformation de viandes, préparations à base de viande
+CP01128B	Autres viandes comestibles fraîches, congelées ou surgelées
+CP0113	Poisson et aliment marin
+CP01131_01132	Poisson frais, congelé ou surgelé
+CP01131	Poissons frais ou congelés 
+CP01131A	Darne de saumon (1 kg)
+CP01132	Poissons surgelés 
+CP01133_01134	Fruits de mer frais, congelés ou surgelés
+CP01133	Fruits de mer frais ou congelés 
+CP01134	Fruits de mer surgelé 
+CP01135	Poissons et fruits de mer séchés, fumés ou salés
+CP01136	Conserves, produits de la transformation, préparations à base de poisson et de fruits de mer
+CP01136A	Thon rose en conserve (1 kg/net)
+CP01136B	Bâtonnets de poisson (500 g)
+CP0114	Lait, fromages et oeufs
+CP01141	Lait frais entier 
+CP01141A	Lait frais entier (1 l)
+CP01142	Lait écrémé et demi écrémé
+CP01143	Lait de conserve
+CP01144	Yaourt
+CP01144A	Yaourt nature (1 kg/l)
+CP01144B	Yaourt aux fruits (1 kg/l)
+CP01145	Fromage et lait caillé
+CP01145A	Fromage de type Camembert (1 kg)
+CP01145B	Fromage de type Gouda (1 kg)
+CP01145C	Fromage frais à tartiner (200 g)
+CP01146	Autres produits laitiers
+CP01147	Oeufs
+CP01147A	oeufs de poule (10 ¿ufs)
+CP0115	Huiles et graisses
+CP01151	Beurre
+CP01151A	Beurre, non salé (250 g)
+CP01152	Margarine et autres graisses végétales
+CP01152A	Margarine (250 g)
+CP01153	Huile d'olive
+CP01153A	Huile d'olive (1 l)
+CP01154	Huiles alimentaires
+CP01154A	Huile végétale (1 l)
+CP01155	Autres graisses animales comestibles
+CP0116	Fruits
+CP0116A	Agrumes (frais, réfrigérés ou congelés)
+CP0116B	Bananes (fraîches, réfrigérées ou congelées)
+CP0116C	Pommes (fraîches, réfrigérées ou congelées)
+CP0116D	Poires (fraîches, réfrigérées ou congelées)
+CP0116E	Fruits à noyaux (frais, réfrigérés ou congelés)
+CP0116F	Baies (fraîches, réfrigérées ou congelées)
+CP0116G	Autres fruits frais, réfrigérés ou congelés
+CP01161	Fruits frais ou réfrigérés 
+CP01161A	Pommes (1 kg)
+CP01161B	Bananes fraîches (1 kg)
+CP01162	Fruits surgelés 
+CP01163	Fruits secs et noix
+CP01164	Conserves de fruits et produits à base de fruits
+CP01164A	Fruits en conserve (1 kg/net)
+CP0117	Légumes
+CP0117A	Légumes à feuilles et à tiges (frais, réfrigérés ou congelés)
+CP0117B	Choux (frais ou réfrigérés)
+CP0117C	Légumes cultivés pour leurs fruits (frais, réfrigérés ou congelés)
+CP0117D	Racines alimentaires, racines non amylacées et champignons (frais, réfrigérés ou congelés)
+CP01171	Légumes frais ou réfrigérés autres que les pommes de terre et autres tubercules 
+CP01171A	Carottes fraîches (1 kg)
+CP01171B	Tomates fraîches rondes (1 kg)
+CP01172	Légumes surgelés autres que les pommes de terre et autres tubercules 
+CP01173	Légumes secs, autres légumes en conserve ou transformés 
+CP01173A	Maïs doux en conserve (500 g/net)
+CP01173B	Légumes séchés
+CP01173C	Légumes en conserve ou transformés
+CP01174	Pommes de terre
+CP01174A	Pommes de terre (1 kg)
+CP01174B	Frites congelées (1 kg)
+CP01175	Chips 
+CP01175A	Chips de pommes de terre, emballage unique (200 g)
+CP01176	Autres tubercules et produits à base de tubercules
+CP0118	Sucre, confitures, miel, chocolat et confiserie
+CP01181	Sucre
+CP01181A	Sucre blanc (1 kg)
+CP01182	Confitures, marmelades et miel 
+CP01182A	Confiture (1 kg)
+CP01183	Chocolats
+CP01183A	Chocolat au lait (1 kg)
+CP01184	Produits de confiserie
+CP01184A	Gomme à mâcher (1 paquet)
+CP01185	Glaces alimentaires et crèmes glacées
+CP01185A	Crème glacée (1 l)
+CP01186	Substituts de sucre artificiel 
+CP01186A	Autres produits à base de sucre
+CP0119	Produits alimentaires n.d.a.
+CP01191	Sauces, condiments
+CP01191A	Ketchup de tomates (1 kg)
+CP01192	Sel, épices et herbes culinaires
+CP01192A	Sel minéral (1 kg)
+CP01192B	Poivre noir (100 g)
+CP01193	Aliments pour nourrissons 
+CP01193A	Aliments pour nourrisson, à base de viande (500 g)
+CP01194	Plats cuisinés 
+CP01199	Autres produits alimentaires n.d.a. 
+CP01199A	Levure de boulanger, préparations pour dessert, soupes
+CP012	Boissons non alcoolisées
+CP0121	Café, thé, cacao
+CP01211	Café
+CP01211A	Café (1 kg)
+CP01212	Thé
+CP01212A	Thé noir (25 sachets)
+CP01213	Cacao et chocolat en poudre
+CP01213A	Boisson instantanée au cacao, en poudre (1 kg)
+CP0122	Eau minérale, boissons gazeuses, jus de fruits et de légumes
+CP01221	Eau minérale ou de source
+CP01221A	Eau minérale gazeuse (1 l)
+CP01221B	Eau minérale plate (1 l)
+CP01222	Boissons gazeuses
+CP01222A	Boisson gazeuse parfumée à l'orange (1 l)
+CP01223	Jus de fruits et de légumes 
+CP01223A	Jus de fruits
+CP01223B	Jus d'orange (1 l)
+CP01223C	Jus de légumes
+CP02	Boissons alcoolisées, tabac et narcotiques
+CP021	Boissons alcoolisées
+CP0211	Spiritueux
+CP02111	Spiritueux et liqueurs
+CP02111A	Vodka (1 l)
+CP02112	Boissons gazeuses alcoolisées
+CP0212	Vins
+CP02121	Vins à base de raisin
+CP02121A	Vin rouge (0.75 l)
+CP02121B	Vin blanc (0.75 l)
+CP02122	Vins provenant d'autres fruits
+CP02123	Vins fortifiés
+CP02124	Boissons à base de vin
+CP0213	Bière
+CP02131	Bières blondes
+CP02131A	Bière (1 l)
+CP02132	Autres bières alcoolisées
+CP02133	Bières peu on non-alcoolisées
+CP02134	Boissons à base de bière
+CP022	Tabac
+CP0220	Tabac
+CP02201	Cigarettes
+CP02201A	Cigarettes (20 cigarettes)
+CP02202	Cigares
+CP02203	Autres produits du tabac
+CP023	Narcotiques
+CP0230	Narcotiques
+CP02300	Narcotiques
+CP03	Articles d'habillement et articles chaussants
+CP031	Articles d'habillement
+CP0311	Tissus d'habillement
+CP03110	Tissus d'habillement
+CP03110A	Coton (1 m2)
+CP0312	Vêtements
+CP03121	Vêtements pour homme
+CP03121A	Costume homme, laine (1 costume)
+CP03121B	Pantalon homme (1 pièce)
+CP03121C	Jeans homme (1 pièce)
+CP03121D	Chemise homme (1 pièce)
+CP03121E	T-shirt homme à manches courtes (1 pièce)
+CP03121F	Boxer homme (1 pièce)
+CP03122	Vêtements pour femmes
+CP03122A	Manteau femme (1 pièce)
+CP03122B	Veste femme, laine mélangée (1 pièce)
+CP03122C	Pantalon droit femme, synthétique (1 pièce)
+CP03122D	Jeans femme (1 pièce)
+CP03122E	Jupe femme (1 pièce)
+CP03122F	Chemisier femme (1 pièce)
+CP03122G	T-shirt femme (1 pièce)
+CP03122H	Pull-over femme (1 pièce)
+CP03122I	Soutien-gorge push-up (1 pièce)
+CP03122J	Collants (1 pièce)
+CP03122K	Bikini femme (1 ensemble)
+CP03123	Vêtements pour bébés (0 à 2 ans) et enfants (3 à 13 ans)
+CP03123A	Jeans enfant (1 pièce)
+CP03123B	T-shirt enfant à manches longues (1 pièce)
+CP03123C	Jupe fille (1 pièce)
+CP03123D	Collants fille (1 pièce)
+CP03123E	Chaussettes garçon (1 paire)
+CP03123F	Chaussettes enfant (1 paire) 
+CP0313	Autres articles vestimentaires et accessoires du vêtement
+CP03131	Autres articles vestimentaires
+CP03132	Accessoires du vêtements
+CP0314	Nettoyage, réparation et location de vêtements
+CP03141	Nettoyage des vêtements
+CP03141A	Nettoyage à sec (1 service)
+CP03142	Réparation et location de vêtements
+CP032	Articles chaussants
+CP0321_0322	Chaussures et autres articles chaussants; réparation et location d'articles chaussants
+CP0321	Chaussures et autres articles chaussants
+CP03211	Chaussures pour hommes
+CP03211A	Chaussures à lacets homme (1 paire)
+CP03211B	Chaussures de ville homme (1 paire)
+CP03212	Chaussures pour dames
+CP03212A	Escarpins classiques femme (1 paire)
+CP03212B	Bottes hautes femme (1 paire)
+CP03213	Chaussures pour bébés et enfants
+CP03213A	Chaussures de sport enfant (1 paire)
+CP0322	Réparation et location d'articles chaussants
+CP03220	Réparation et location d'articles chaussants
+CP03220A	Services de cordonnerie (1 service)
+CP04	Logement, eau, électricité, gaz et autres combustibles
+CP041	Loyers d'habitation réels
+CP0411_0412	Loyers réels payés par les locataires; autres loyers réels
+CP0411	Loyers réels payés par les locataires
+CP04110	Loyers réels payés par les locataires
+CP0412	Autres loyers réels
+CP04121	Loyers réels payés par les locataires pour des résidences secondaires
+CP04122	Location de garage et autres loyers des locataires
+CP042	Loyer imputé au logement
+CP0421	Loyer imputé par les propriétaires
+CP04210	Loyer imputé par les propriétaires
+CP0422	Autres loyers imputés
+CP04220	Autres loyers imputés
+CP043	Entretien et réparations courantes du logement
+CP0431	Matériaux pour l'entretien et les réparations du logement
+CP04310	Matériaux pour l'entretien et les réparations du logement
+CP04310A	Peinture à usage intérieur (10 l)
+CP04310B	Silicone (300 ml)
+CP04310C	Ciment (25 kg)
+CP0432	Services d'entretien et les réparations du logement
+CP04321	Services de plombiers
+CP04322	Szervices d'électriciens
+CP04323	Services de maintenance pour les systèmes de chauffage
+CP04324	Services de peintres
+CP04325	Services de charpentiers
+CP04329	Autres services pour l'entretien et la réparation du logement
+CP044	Adduction d'eau et autres services relatifs au logement
+CP0441	Adduction d'eau
+CP04410	Adduction d'eau
+CP0442	Enlèvement des ordures
+CP04420	Enlèvement des ordures
+CP0443	Services d'assainissement
+CP04430	Services d'assainissement
+CP0444	Autres services relatifs au logement n.d.a.
+CP04441	Charges de maintenance dans les immeubles collectifs
+CP04442	Serivices de sécurité
+CP04449	Autres services liés au logement
+CP045	Electricité, gaz et autres combustibles
+CP0451	Electricité
+CP04510	Electricité
+CP0452	Gaz
+CP04521	Gaz naturel et gaz de ville
+CP04522	Hydrocarbures liquéfiés(butanes, propanes, etc.)
+CP0453	Combustibles liquides
+CP04530	Combustibles liquides
+CP0454	Combustibles solides
+CP04541	Charbon
+CP04549	Autres combustibles solides
+CP0455	Energie thermique
+CP04550	Energie thermique
+CP05	Ameublement, équipement ménager et entretien courant de la maison
+CP051	Meubles, articles d'ameublement, tapis et autres revêtements de sol et réparations
+CP0511	Meubles, articles d'ameublement
+CP05111	Meubles de maison
+CP05111A	Cadre de lit double, bois pressé (1 pièce)
+CP05111B	Ensemble canapé (1 ensemble)
+CP05111C	Table de cuisine (1 pièce) 
+CP05111D	Chaise de cuisine (1 pièce) 
+CP05111E	Matelas à ressorts ensachés (1 pièce) 
+CP05111F	Armoire (1 pièce) 
+CP05111G	Fauteuil (1 pièce) 
+CP05111H	Table basse (1 pièce) 
+CP05111I	Bibliothèque (1 pièce) 
+CP05112	Meubles de jardin
+CP05113	Matériel d'éclairage
+CP05113A	Lampe de table (1 pièce) 
+CP05119	Autres meubles et articles d'ameublement
+CP0512	Tapis et autres revêtements de sol
+CP05121	Tapis et moquette
+CP05122	Autres revêtements de sol
+CP05123	Services de pose de moquettes et revêtements de sol
+CP0513	Réparation des meubles, articles d'ameublement et revêtements de sol
+CP05130	Réparation des meubles, articles d'ameublement et revêtements de sol
+CP052	Articles de ménage en textiles
+CP0520	Articles de ménage en textiles
+CP05201	Tissus et rideaux ameublement
+CP05201A	Tissu à rideau (1 m2) 
+CP05202	Linge de lit
+CP05202A	Couette (1 pièce) 
+CP05202B	Linge de lit (1 ensemble) 
+CP05202C	Couverture (1 pièce) 
+CP05203	Linge de table et linge de toilette
+CP05203A	Serviette de bain (1 pièce)
+CP05204	Réparation d'articles de ménage en textiles
+CP05209	Autres textiles de maison
+CP053	Appareils ménagers
+CP0531_0532	Gros appareils ménagers électriques ou non et petits appareils électroménagers
+CP0531	Gros appareils ménagers électriques ou non
+CP05311	Réfrigérateur, congélateurs et réfrigérateurs-congélateurs
+CP05311A	Réfrigérateur sous plan, avec congélateur (1 pièce)
+CP05311A1	Réfrigérateur sous plan, avec congélateur, efficacité énergétique A/A+ (1 pièce) 
+CP05311A2	Réfrigérateur sous plan, avec congélateur, efficacité énergétique A+/A++ (1 pièce) 
+CP05311B1	Réfrigérateur-congélateur, efficacité énergétique A (1 pièce) 
+CP05311B2	Réfrigérateur-congélateur, efficacité énergétique A+ (1 pièce) 
+CP05312	Lave-linge, sèche-linge et lave-vaiselle
+CP05312A1	Lave-linge, 4.5-5 kg (1 pièce)
+CP05312A2	Lave-linge, 6-7 kg, efficacité énergétique A/A+ (1 pièce) 
+CP05312A3	Lave-linge, 6-7 kg, efficacité énergétique A++/A+++ (1 pièce) 
+CP05313	Cuisinières
+CP05313A	Four à micro-ondes (1 pièce)
+CP05314	Appareils de chauffage et de climatisation
+CP05315	Matériel de nettoyage
+CP05315A1	Aspirateur, 1400-1600 W (1 pièce)
+CP05315A2	Aspirateur, 1600-2000 W (1 pièce)
+CP05315A3	Aspirateur, 1600-2200 W (1 pièce) 
+CP05315A4	Aspirateur, 1400 W (1 pièce) 
+CP05319	Autres gros appareils menagers
+CP0532	Petits appareils électroménagers
+CP05321	Appareils de transformation des aliments
+CP05322	Machines à café, machines à thé et appareils similaires
+CP05322A1	Bouilloire, 1.5l (1 pièce)
+CP05322A2	Bouilloire, 1.7l (1 pièce)
+CP05323	Fers à repasser
+CP05324	Grille-pain et grils
+CP05329	Autres petits appareils électroménagers
+CP0533	Réparation des appareils ménagers
+CP05330	Réparation des appareils ménagers
+CP054	Verrerie, vaisselle et ustensiles de ménage
+CP0540	Verrerie, vaisselle et ustensiles de ménage
+CP05401	Verrerie, cristallerie, céramique et porcelaine
+CP05401A	Verre à eau (1 pièce)
+CP05401B	Assiette plate (1 pièce)
+CP05401C	Tasse et soucoupe (1 ensemble)
+CP05402	Couverts, coutellerie et argenterie
+CP05403	Ustensils et articles de cuisine non électrique
+CP05403A	Casserole en acier inoxydable (1 ensemble)
+CP05404	Réparation de verrerie, vaisselle et autres ustensiles de ménage
+CP055	Outillage pour la maison et le jardin
+CP0551_0552	Gros outillage; petit outillage et accessoires divers
+CP0551	Gros outillage
+CP05511	Gros outillage et équipement motorisé
+CP05512	Réparation, leasing et location de gros outillage
+CP0552	Petit outillage et accessoires divers
+CP05521	Petit outillage non motorisé
+CP05522	Divers accessoires de petit outillage
+CP05522A	Pile (1 pièce)
+CP05522B	Ampoule électrique, classique (1 pièce)
+CP05522C	Ampoule électrique économique (1 pièce)
+CP05523	Réparation de petit outillage et divers accessoires non-motorisés
+CP056	Biens et services pour l'entretien courant de l'habitation
+CP0561	Articles de ménage non durables
+CP05611	Produits de nettoyage et d'entretien
+CP05611A	Tablettes pour lave-vaisselle (10 tablettes)
+CP05611B	Lessive pour lave-linge, concentrée (1 kg)
+CP05611C	Lessive pour lave-linge, non concentrée (1 kg)
+CP05611D	Nettoyant ménager multi-usage (1 l)
+CP05611E	Nettoyant WC (1 l)
+CP05611F	Produit liquide à nettoyer les vitres, toutes marques (1 l)
+CP05611G1	Lessive pour lave-linge, poudre, 70-90 g/lavage (1 kg) 
+CP05611G2	Lessive pour lave-linge, poudre, > 90 g/lavage (1 kg) 
+CP05612	Autres petits articles ménagers non durables
+CP05612A	Éponge à récurer (1 pièce)
+CP0562	Services domestiques et autres services pour l'habitation
+CP05621	Services domestiques fournis par du personnel rémunéré
+CP05622	Services de nettoyage
+CP05623	Location de mobilier et articles d'ameublement
+CP05629	Autres services domestiques et services ménagers
+CP06	Santé
+CP061	Produits, appareils et équipement médicaux
+CP0611	Produits pharmaceutiques
+CP06110	Produits pharmaceutiques
+CP06110A	Acide acétylsalicylique (10 comprimés) 
+CP06110B	Aciclovir (2 g) 
+CP06110C	Alprazolam (10 comprimés) 
+CP06110D	Atorvastatine (10 comprimés) 
+CP06110E	Cétirizine (10 comprimés) 
+CP06110F	Ciprofloxacine (10 comprimés) 
+CP06110G	Clopidogrel (10 comprimés) 
+CP06110H	Diclofénac (100 g) 
+CP06110I	Énalapril-Hydrochlorothiazide/HCTZ (10 comprimés) 
+CP06110J	Ésoméprazole (10 comprimés) 
+CP06110K	Latanoprost (10 ml) 
+CP06110L	Montélukast (10 comprimés) 
+CP06110M	Paracétamol (10 comprimés) 
+CP06110N	Risédronate (10 comprimés) 
+CP0612_0613	Autres produits médicaux, produits et appareils thérapeutiques
+CP0612	Autres produits médicaux
+CP06121	Tests de grossesse et dispositifs contraceptifs
+CP06121A	Test de grossesse (1 pièce) 
+CP06121B	Préservatifs (3 pièces) 
+CP06129	Autres produits médicaux n.d.a.
+CP06129A	Bandes plâtrées (10 bandes) 
+CP06129B	Bandage pour articulation (1 m) 
+CP06129C	Genouillère (1 pièce) 
+CP06129D	Thermomètre numérique (1 pièce) 
+CP0613	Produits et appareils thérapeutiques
+CP06131	Lunettes à verres correcteurs et lentilles de contact
+CP06132	Prothèse auditive
+CP06133	Réparation de appareils et équipements thérapeutiques
+CP06139	Autres appareils et équipement thérapeutiques
+CP062	Services de consultation externe
+CP0621_0623	Services médicaux et paramédicaux
+CP0621	Services médicaux
+CP06211	Médecine générale
+CP06211A	Généraliste (1 service) 
+CP06212	Médecine spécialisée
+CP06212A	Oculiste, médecin ophtalmologiste (1 service) 
+CP0622	Services dentaires
+CP06220	Services dentaires
+CP06220A	Dentiste, amalgame en plastique (1 service) 
+CP0623	Services paramédicaux
+CP06231	Services des laboratoires d'analyse médicale et des cabinets de radiologie
+CP06231A	Radiographie du thorax (1 service) 
+CP06232	Thermes, gymnastique correctrice, ambulance et la location de matériel thérapeutique
+CP06239	Autres services paramédicaux
+CP063	Services hospitaliers
+CP0630	Services hospitaliers
+CP06300	Services hospitaliers
+CP07	Transports
+CP071	Achats de véhicules
+CP0711	Automobiles neuves et d'occasion
+CP07111	Automobiles neuves
+CP07112	Automobiles d'occasion
+CP0712-0714	Motocycles, cycles et véhicules à traction animale
+CP0712	Motocycles
+CP07120	Motocycles
+CP0713	Cycles
+CP07130	Cycles
+CP0714	Véhicules à traction animale
+CP07140	Véhicules à traction animale
+CP072	Utilisation des véhicules personnels
+CP0721	Pièces détachées et accessoires pour véhicules personnels
+CP07211	Pneus
+CP07211A	Pneumatiques d¿été (4 pneus) 
+CP07211B	Pneumatiques d¿hiver (4 pneus) 
+CP07212	Accessoires pour véhicules personnels
+CP07212A	Batterie de voiture (1 pièce) 
+CP07213	Accessoires pour véhicules personnels
+CP0722	Carburants et lubrifiants
+CP07221	Diesel
+CP07222	Essence
+CP07223	Autres caburants pour véhicules personnels
+CP07224	Lubrifiants
+CP0723	Entretien et réparations
+CP07230	Entretien et réparations
+CP07230A	Remplacement de plaquettes de freins (1 heure) 
+CP07230B	Vidange d¿huile (1 service) 
+CP07230C	Lavage de voiture (1 service) 
+CP0724	Autres services relatifs aux véhicules personnels
+CP07241	Location de garages, places de stationnement et des équipements pour véhicules personnels
+CP07241A	Location de voitures (7 jours)
+CP07242	Péage et parcmètres
+CP07243	Leçons de conduite, tests, licences et contrôles techniques routiers
+CP073	Services de transport
+CP0731	Transport de voyageurs par chemin de fer
+CP07311	Transport de voyageurs par train
+CP07311A	Voyage en train, aller simple (1 ticket)
+CP07312	Transport de voyageurs par métro et tram
+CP0732	Transport de voyageurs par route
+CP07321	Transport de passagers par bus et autocars
+CP07321A	Transport en bus urbain, aller simple (1 ticket)
+CP07322	Transport de voyageurs par taxi et voiture de location avec chauffeur
+CP07322A	Taxi (1 trajet)
+CP0733	Transport de voyageurs par air
+CP07331	Vols intérieurs
+CP07332	Vols internationaux
+CP0734	Transport de voyageurs par mer et voies navigables intérieures
+CP07341	Transport de voyageurs par mer
+CP07342	Transport de voyageurs par voies navigables intérieures
+CP0735	Transport de voyageurs combiné
+CP07350	Transport de voyageurs combiné
+CP0736	Autres achats de services de transport
+CP07361	Transports funiculaire, téléphérique et télésiège
+CP07362	Services de déménagement et d'entreposage
+CP07369	Autres achats de services de transport n.d.a.
+CP08	Communications
+CP081	Services postaux
+CP0810	Services postaux
+CP08101	Services de manutention de lettre
+CP08109	Autres services postaux
+CP082_083	Equipements de téléphone et de télécopie et services
+CP082	Equipements de téléphone et de télécopie
+CP0820_0830	Equipements et services de téléphone et de télécopie
+CP0820	Equipements de téléphone et de télécopie
+CP08201	Equipements de téléphone fixe
+CP08202	Equipements de téléphone mobile
+CP08203	Autres équipements de téléphone et de télécopie
+CP08204	Réparation d'équipement de téléphone et de télécopie
+CP083	Services de téléphone et de télécopie
+CP0830	Services de téléphone et de télécopie
+CP08301	Services téléphoniques filaires
+CP08302	Services de téléphonie sans fil
+CP08303	Services d'accès à internet
+CP08304	Services de télécommunications groupés
+CP08305	Autres services de transmission de l'information
+CP09	Loisirs et culture
+SPRT	Biens et services sportifs
+CLT	Biens et services culturels
+CP091	Appareils et accessoires, y compris réparations
+CP0911	Appareils de réception, d'enregistrement et de reproduction du son et de l'image
+CP09111	Appareils de réception, d'enregistrement et de reproduction du son
+CP09112-09119	Matériel de réception, d'enregistrement et de reproduction du son, de la vision et de l'image
+CP09112	Appareils de réception, d'enregistrement et de reproduction du son et de l'image
+CP09112A1	Télévision, taille de l'écran 32'' (1 pièce) 
+CP09112A2	Télévision, taille de l'écran 42'' (1 pièce) 
+CP09112B	Lecteur DVD (1 pièce)
+CP09112C1	Enregistreur DVD avec disque dur, 160-250 GB (1 pièce)
+CP09112C2	Enregistreur DVD avec disque dur, 200-300 GB (1 pièce)
+CP09112D	Lecteur Blu-Ray (1 pièce) 
+CP09113	Appareils portables de vision et son
+CP09113A1	Lecteur MP3 portable, 4 GB (1 pièce)
+CP09113A2	Lecteur MP3 portable, 16 GB (1 pièce)
+CP09119	Autres appareils de réception, d'enregistrement et de reproduction du son et de l'image
+CP0912	Equipement photographique et cinématographique, instruments d'optique
+CP09121_09122	Appareils photo et accesoires photographique et équipement cinématographique 
+CP09121	Appareils photo 
+CP09121A	Appareil photo numérique compact, 12 Mpx (1 pièce)
+CP09121B	Caméscope, HDD (1 pièce)
+CP09122	Accesoires photographique et équipement cinématographique 
+CP09123	Instruments d'optique
+CP0913	Matériel de traitement de l'information
+CP09131	Ordinateurs personnels
+CP09131A1	Ordinateur portable, Disque Dur 320 GB, RAM 4GB (1 pièce)
+CP09131A2	Ordinateur portable, Disque Dur 640 GB, RAM 4GB (1 pièce)
+CP09131A3	Ordinateur portable, Disque Dur 750 GB, RAM 8GB (1 pièce) 
+CP09131A4	Ordinateur portable, Disque Dur 750 GB - 1 TB, RAM 8GB (1 pièce) 
+CP09131B	Écran Full HD (1 pièce) 
+CP09132	Accessoire pour appareil de traitement d'informations
+CP09133	Logiciel
+CP09134	Calculateurs et autres équipements de traitement de l'information
+CP0914	Supports d'enregistrement
+CP09141	Supports d'enregistrement préenregistrés
+CP09141A	CD de musique, pop (1 pièce)
+CP09141B	DVD vidéo (1 pièce)
+CP09142	Supports d'enregistrement vierges
+CP09142A1	CD vierge (CD-R) (1 pièce) 
+CP09142A2	CD vierge (CD-R) (10 pièces) 
+CP09142B	DVDs vierges (R), boîtiers (10 pièces)
+CP09149	Autres supports d'enregistrement
+CP0915	Réparation d'équipement audio-visuels, photographiques et de traitement de l'information
+CP09150	Réparation de matériel de traitement audio-visuels, photographiques et de traitement de l'information
+CP092	Autres biens durables importants pour les loisirs et la culture
+CP0921_0922	Biens durables pour les loisirs d'intérieur et d'extérieur, y compris les instruments de musique
+CP0921	Biens durables pour les loisirs d'extérieur
+CP09211	Camping-car, caravanes et remorques
+CP09212	Avions, avions ultra-légers, planeurs, deltaplanes et ballons à air chaud
+CP09213	Bateaux, moteurs hors-bord et gréement de bateaux
+CP09214	Chevaux, poneys et accessoires
+CP09215	Principaux biens pour les jeux et le sport
+CP0922	Instruments de musique et biens durables pour les loisirs d'intérieur
+CP09221_09429	Instruments de musique (incl. services de location et leasing)
+CP09221	Instruments de musique
+CP09222	Biens durables pour les loisirs d'intérieur
+CP0923	Réparation des autres biens durables importants du domaine des loisirs et de la culture
+CP09230	Réparation des autres biens durables importants du domaine des loisirs et de la culture
+CP093	Autres articles et équipement de loisirs, jardins et animaux d'agrément
+CP0931	Jeux, jouets et passe-temps
+CP09311	Jeux et loisirs
+CP09311A	Jeu de société, Monopoly (1 pièce)
+CP09311B	Jeu vidéo, PlayStation 3 (1 pièce)
+CP09312	Jouets et articles de fête
+CP0932	Equipements de sport, de camping et de loisirs en plein air
+CP09321	Equipements de sports
+CP09322	Equipement de camping et de loisirs en plein air
+CP09323	Réparation d'équipement de camping et de loisirs en plein air
+CP0933	Jardins, plantes et fleurs
+CP09331	Produits de jardin
+CP09331A	Terreau (10 l)
+CP09332	Plantes et fleurs
+CP0934_0935	Animaux de compagnie et produits liés, y compris les services vétérinaires et autres services pour les animaux d'agrément
+CP0934	Animaux d'agrément et produits liés
+CP09341	Achat d'animaux de compagnie
+CP09342	Produits pour animaux de compagnie
+CP09342A	Pâtée pour chien, viande (1 kg)
+CP09342B	Croquettes pour chien (1 kg)
+CP0935	Vétérinaires et autres services pour les animaux d'agrément
+CP09350	Vétérinaires et autres services pour les animaux de compagnie
+CP094	Services récréatifs et culturels
+CP0941	Services sportifs et récréatifs
+CP09411	Services sportifs et récréatifs - Fréquentation
+CP09412	Services sportifs et récréatifs - Participation
+CP0942	Services culturels
+CP09421	Cinéma, théâtre, salle de concert
+CP09421A	Place de cinéma (1 ticket)
+CP09422	Musées, bibliothèques, jardins zoologiques
+CP09423_09424	Redevances audiovisuelle, abonnements, location d'équipement et accessoires pour la culture 
+CP09423	Redevances audiovisuelle, abonnements
+CP09424	Location d'équipement et accessoires pour la culture 
+CP09425	Services de photographie
+CP09425A	Service d'impression de photos numériques (30 photos) 
+CP09429	Autres services culturels
+CP0943	Jeux de hasard
+CP09430	Jeux de hasard
+CP095	Presse, librairie et papeterie
+CP0951	Livres
+CP09511	Livres de fiction
+CP09511A	Roman, Top 5 (1 livre)
+CP09512	Manuels scolaires
+CP09513	Autres livres non fictionnels
+CP09514	Services d'impression et téléchargements d'E-books
+CP0952	Journaux et périodiques
+CP09521	Journaux
+CP09521A	Quotidien (1 pièce)
+CP09522	Revues et périodiques
+CP09522A	Revue hebdomadaire, people (1 exemplaire)
+CP0953_0954	Imprimés divers et articles de papeterie et de dessin
+CP0953	Imprimés divers
+CP09530	Imprimés divers
+CP0954	Articles de papeterie et de dessin
+CP09541	Produits de papier
+CP09541A	Papier, DIN A4 (500 feuilles)
+CP09541B	Crayon (1 pièce)
+CP09549	Autres articles de papeterie et de dessin
+CP096	Voyages à forfait
+CP0960	Voyages à forfait
+CP09601	Voyages à forfait dans le pays
+CP09602	Voyages à forfait internationaux
+CP10	Enseignement
+CP101-105	Enseignement maternel et primaire, enseignement secondaire, postsecondaire non supérieur, enseignement supérieur et enseignement ne correspondant à aucun niveau particulier 
+CP101	Enseignement maternel et primaire
+CP1010-1050	Enseignement maternel et primaire, enseignement secondaire, post-secondaire non supérieur, enseignement supérieur et enseignement ne correspondant à aucun niveau particulier 
+CP1010	Enseignement maternel et primaire
+CP10101	Enseignement maternel
+CP10102	Enseignement primaire
+CP102	Enseignement secondaire
+CP1020	Enseignement secondaire
+CP10200	Enseignement secondaire
+CP103	Enseignement post-secondaire qui n'est pas du supérieur
+CP1030	Enseignement post-secondaire qui n'est pas du supérieur
+CP10300	Enseignement post-secondaire qui n'est pas du supérieur
+CP104	Enseignement supérieur
+CP1040	Enseignement supérieur
+CP10400	Enseignement supérieur
+CP105	Enseignement non défini selon le degré
+CP1050	Enseignement non défini selon le degré
+CP10500	Enseignement non défini selon le degré
+CP11	Restaurants et hôtels
+CP111	Services de traiteur
+CP1111	Restaurants, cafés et établissements similaires
+CP11111	Restaurants, cafés et établissements de danse
+CP11111A	Menu du jour (1 menu) 
+CP11111B1	Vin rouge ordinaire, 0.12 l (1 verre) 
+CP11111B2	Vin rouge ordinaire, 0.10 l (1 verre) 
+CP11111C1	Bière blonde locale, 0.2-0.35 l (1 verre) 
+CP11111C2	Bière blonde locale, 0.5 l (1 verre) 
+CP11111D	Tasse de café (1 tasse) 
+CP11112	Restauration rapide et services de restauration à emporter
+CP1112	Cantines
+CP11120	Cantines
+CP112	Services d'hébergement
+CP1120	Services d'hébergement 
+CP11201	Hôtels, motels, auberges et hébergement similaire 
+CP11201A	Week-end à l'hôtel (1 service) 
+CP11202	Centres de vacances, campings, auberges de jeunesse et hébergement similaire 
+CP11203	Services d'hébergement d'autres établissements 
+CP12	Autres biens et services
+CP121	Soins personnels
+CP1211	Salons de coiffure et esthétique corporelle
+CP12111	Coiffures pour hommes et enfants 
+CP12111A	Coupe de cheveux homme, cheveux humides (1 service) 
+CP12112	Coiffures pour femmes 
+CP12112A	Coupe de cheveux dame (1 service) 
+CP12113	Soins corporels personnels 
+CP1212_1213	Appareils électriques pour les soins personnels et autres appareils, articles et produits pour les soins personnels 
+CP1212	Appareils, articles et produits pour les soins personnels 
+CP12121	Appareils, articles et produits pour les soins personnels 
+CP12121A	Rasoir électrique (1 pièce) 
+CP12121B	Brosse à dents électrique (1 ensemble) 
+CP12122	Réparation d'appareils electriques pour les soins personnels 
+CP1213	Autres appareils, appareils électriques pour les soins personnels 
+CP12131	Appareils non-electriques 
+CP12131A	Recharges pour rasoir de sécurité homme (5 recharges) 
+CP12132	Articles pour l'hygiène personnelle et bien-être, produits ésotériques et produits de beauté 
+CP12132A	Shampoing (400 ml) 
+CP12132B	Dentifrice (100 ml) 
+CP12132C	Savon de toilette liquide (200 ml) 
+CP12132D	Gel douche (300 ml) 
+CP12132E	Déodorant (50 ml) 
+CP12132F	Tampons (10 pièces) 
+CP12132G	Couches-culottes jetables (50 pièces) 
+CP12132H	Cotons-tiges (100 pièces) 
+CP12132I	Brosses à dents manuelle (1 pièce) 
+CP12132J	Papier toilettes (10 rouleaux) 
+CP122_127	Prostitution; autres services n.d.a. 
+CP122	Prostitution
+CP1220	Prostitution
+CP12200	Prostitution
+CP123	Effets personnels n.d.a.
+CP1231	Bijoux, horloges et montres 
+CP12311	Bijoux 
+CP12312	Horloges et montres 
+CP12313	Réparation de bijoux, horloges et montres 
+CP1232	Autres effets personnels
+CP12321	Articles de voyages 
+CP12322	Articles pour bébés 
+CP12323	Réparation d'effets personnels 
+CP12329	Autres effets personnels n.d.a. 
+CP124	Protection sociale
+CP1240	Protection sociale 
+CP12401	Services de garde d'enfants 
+CP12402	Maisons de retraite pour personnes âgées et foyers pour handicapés 
+CP12403	Services pour maintenir les personnes dans leurs maisons privées 
+CP12404	Assistance 
+CP125	Assurances
+CP1251	Assurances vie
+CP12510	Assurances vie 
+CP1252	Assurances liées au logement
+CP12520	Assurances liées au logement 
+CP1253	Assurances liées à la santé
+CP12531	Assurances publiques liées à la santé 
+CP12532	Assurances privées liées à la santé 
+CP1254	Assurances liées au transport
+CP12541	Assurance automobile 
+CP12542	Assurance voyage 
+CP1255	Autres assurances
+CP12550	Autres assurances 
+CP126	Services financiers n.d.a.
+CP1261	SIFIM 
+CP12610	SIFIM 
+CP1262	Autres services financiers n.d.a.
+CP12621	Frais par les banques et les bureaux de poste 
+CP12622	Honoraires et frais de service des courtiers, conseillers en investissement 
+CP127	Autres services n.d.a.
+CP1270	Autres services n.d.a. 
+CP12701	Frais administratifs 
+CP12702	Services juridiques et comptables 
+CP12703	Services funéraires 
+CP12704	Autres frais et services 
+GD	Biens (indice global excluant les services)
+FOOD	Aliments incluant l'alcool et le tabac
+FOOD_P	Aliments transformés incluant l'alcool et le tabac
+FOOD_P_X_ALC_TBC	Aliments transformés excluant l'alcool et le tabac
+FOOD_NP	Aliments non transformés
+FOOD_S	Aliments saisonniers
+IGD	Biens industriels
+IGD_NNRG	Biens industriels non-énergétiques
+IGD_NNRG_D	Biens industriels non-énergétiques, durables uniquement
+IGD_NNRG_SD	Biens industriels non-énergétiques, semi-durables uniquement
+IGD_NNRG_ND	Biens industriels non-énergétiques, non-durables uniquement
+NRG	Energie
+ELC_GAS	Electricité, gaz, combustibles solides et énergie thermique
+FUEL	Combustibles liquides et carburants et lubrifiants pour les véhicules personnels
+SERV	Services (indice global excluant les biens) 
+SERV_COM	Services relatifs à la communication
+SERV_HOUS	Services relatifs au logement
+SERV_MSC	Services - divers
+SERV_REC	Services relatifs aux loisirs, incluant les réparations et les soins personnels)
+SERV_REC_X_HOA	Services relatifs aux loisirs et soins personnels,  excluant les vacances à forfait et l'hébergement
+SERV_REC_HOA	Services relatifs aux vacances à forfait et hébergement
+SERV_TRA	Services relatifs aux transports
+NRG_FOOD_NP	Energie et aliments non transformés
+NRG_FOOD_S	Energie et aliments saisonniers
+EDUC_HLTH_SPR	Enseignement, santé et protection sociale
+FROOPP	Achats directs fréquents
+TOT_X_FOOD_S	Indice global excluant les aliments saisonniers
+TOT_X_ALC_TBC	Indice global excluant l'alcool et le tabac
+TOT_X_TBC	Indice global excluant le tabac
+TOT_X_NRG	Indice global excluant l'énergie
+TOT_X_NRG_FOOD	Indice global excluant l'énergie, les aliments, l'alcool et le tabac
+TOT_X_NRG_FOOD_NP	Indice global excluant l'énergie et les aliments non transformés
+TOT_X_NRG_FOOD_S	Indice global excluant l'énergie et les aliments saisonniers
+TOT_X_FUEL	Indice global excluant les combustibles liquides et lubrifiants pour les véhicules personnels
+TOT_X_HOUS	Indice global excluant le logement, l'eau, l'électricité, le gaz et autres combustibles
+TOT_X_EDUC_HLTH_SPR	Indice global excluant l'enseignement, la santé et la protection sociale
+TOT_X_FROOPP	Indice global excluant les achats directs fréquents
+AP	Prix administrés
+AP_NRG	Prix administrés, énergie
+AP_NNRG	Prix administrés, hors énergie
+APF	Prix administrés directs
+APM	Prix essentiellement administrés
+TOT_X_AP	Indice global excluant les prix administrés
+TOT_X_APF	Indice global excluant les prix administrés directs
+TOT_X_APM	Indice global excluant les prix essentiellement administrés
+EQ_SOUND	Appareils de réception, d'enregistrement et de reproduction du son (incluant les écouteurs)
+CI_TH_CO	Cinéma, théâtre, salle de concert (hors services de musiciens, clowns, artistes pour spectacles privés)
+PERF_PHOT	Services de musiciens, clowns, artistes pour spectacles privés et photographes 

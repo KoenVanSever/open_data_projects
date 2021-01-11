@@ -1,0 +1,16 @@
+NRG_SUP	Energie et approvisionnement
+NETC	Coûts du réseau
+NETC_TRANS	Coûts de transmission du réseau
+NETC_DIST	Coûts de distribution du réseau
+TAX_FEE_LEV_CHRG	Taxes, frais, prélèvements et charges
+TAX_LEV	Taxes et prélèvements
+TAX_LEV_X_VAT	Taxes et prélèvements hors TVA
+VAT	Taxes sur la valeur ajoutée (TVA)
+TAX_RNW	Taxes pour les énergies renouvelables
+TAX_CAP	Taxes relative au payements de capacité
+TAX_ENV	Taxes pour l¿environnement
+TAX_NUC	Taxes sur le nucléaire
+I_TAX_LEV	Toutes taxes et prélèvements compris
+X_TAX_LEV	Hors taxes et prélèvements
+X_VAT_TAX_LEV	Hors TVA et autres taxes et prélèvements récupérables
+OTH	Autres

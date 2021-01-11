@@ -1,0 +1,35 @@
+TOTAL	Total
+MCM_LT15	Moins de 15 microns
+MCM15-49	De 15 à 49 microns 
+MCM_LT50	Moins de 50 microns
+MCM_GE50	50 microns et plus
+M_LT6	Moins de 6 mètres
+M6-7	De 6 à 7 mètres
+M8-9	De 8 à 9 mètres
+M10-11	De 10 à 11 mètres
+M12-14	De 12 à 14 mètres
+M15-16	De 15 à 16 mètres
+M17	17 mètres
+M18-23	De 18 à 23 mètres
+M24-29	De 24 à 29 mètres
+M30-35	De 30 à 35 mètres
+M36-39	De 36 à 39 mètres
+M40-44	De 40 à 44 mètres
+M45-59	De 45 à 59 mètres
+M60-74	De 60 à 74 mètres
+M75-99	De 75 à 99 mètres
+M100-149	De 100 à 149 mètres
+M_GE150	150 mètres et plus
+KM_LT50	Moins de 50 km
+KM50-149	De 50 à 149 km
+KM150-299	De 150 à 299 km
+KM150-499	De 150 à 499 km
+KM_LT300	Moins de 300 km
+KM_GE300	300 km et plus
+KM300-499	De 300 à 499 km
+KM_GE500	500 km et plus
+KM500-999	De 500 à 999 km
+KM1000-1999	De 1 000 à 1 999 km
+KM2000-5999	De 2 000 à 5 999 km
+KM_GE6000	6 000 km et plus
+UNK	Inconnu

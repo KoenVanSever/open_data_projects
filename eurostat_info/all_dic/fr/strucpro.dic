@@ -1,0 +1,12 @@
+AR	Superficie (cultivée/récoltée/en production) (1000 ha)
+PR	Production récoltée (1000 t)
+PR_HU_EU	Production récoltée en humidité standard UE (1000 t)
+YI	Rendements (tonne/ha)
+YI_HU_EU	Rendements en humidité standard UE (tonne/ha)
+HOL	Nombre de détenteurs (1000)
+ANI	Nombre d'animaux (1000)
+HA	Superficie (1 000 ha)
+MC	Humidité
+MA	Superficie principale (1000 ha)
+HU	Humidité (%)
+HU_EU	Humidité standard UE (%)

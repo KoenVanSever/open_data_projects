@@ -1,0 +1,3 @@
+INTER	Communication intermittente entre le train et la voie
+CONT	Communication continuelle entre le train et la voie
+CONT_TI	Communication continuelle entre le train et la voie, avec Système européen de contrôle des trains à bord

@@ -1,0 +1,9 @@
+REG	Demandeurs d'emploi inscrits
+REG_UNE	Chômeurs inscrits
+REG_UNE_LT	Chômeurs inscrits de longue durée (>12 mois)
+REG_UNE_BEN	Chômeurs inscrits percevant des prestations/de l'aide
+REG_UNE_NBEN	Chômeurs inscrits  ne percevant pas de prestations/d'aide
+REG_OTH	Autres demandeurs d'emploi inscrits
+NREG_UNE_BEN	Chômeurs non-inscrits percevant des prestations/de l'aide
+NREG_UNE_NBEN	Chômeurs non-inscrits ne percevant pas de prestations/d'aide
+UNK	Inconnu

@@ -1,0 +1,148 @@
+TOTAL	Insgesamt
+IND_TOTAL	Alle Personen
+Y0_15	Personen, 15 Jahre oder jünger
+Y15_29	Personen, 15 bis 29 Jahre alt
+Y16_19	Personen, 16 bis 19 Jahre alt
+Y16_24	Personen, 16 bis 24 Jahre alt
+Y16_29	Personen, 16 bis 29 Jahre alt
+Y20_24	Personen, 20 bis 24 Jahre alt
+Y25_29	Personen, 25 bis 29 Jahre alt
+Y25_34	Personen, 25 bis 34 Jahre alt
+Y25_54	Personen, 25 bis 54 Jahre alt
+Y25_64	Personen, 25 bis 64 Jahre alt
+Y35_44	Personen, 35 bis 44 Jahre alt
+Y45_54	Personen, 45 bis 54 Jahre alt
+Y55_64	Personen, 55 bis 64 Jahre alt
+Y55_74	Personen, 55 bis 74 Jahre alt
+Y65_74	Personen, 65 bis 74 Jahre alt
+Y75_MAX	Personen, 75 Jahre oder älter
+Y16_24LO	Personen im Alter von 16 bis 24 Jahren mit niedriger formaler Bildung
+Y16_24ME	Personen im Alter von 16 bis 24 Jahren mit mittlerer formaler Bildung
+Y16_24HI	Personen im Alter von 16 bis 24 Jahren mit hoher formaler Bildung
+Y25_54LO	Personen im Alter von 25 bis 54 Jahren mit niedriger formaler Bildung
+Y25_54ME	Personen im Alter von 25 bis 54 mit mittlerer formaler Bildung
+Y25_54HI	Personen im Alter von 25 bis 54 Jahren mit hoher formaler Bildung
+Y25_64LO	Personen im Alter von 25 bis 64 Jahren mit niedriger formaler Bildung
+Y25_64ME	Personen im Alter von 25 bis 64 Jahren mit mittlerer formaler Bildung
+Y25_64HI	Personen im Alter von 25 bis 64 Jahren mit hoher formaler Bildung
+Y55_74LO	Personen im Alter von 55 bis 74 Jahren mit niedriger formaler Bildung
+Y55_74ME	Personen im Alter von 55 bis 74 Jahren mit mittlerer formaler Bildung
+Y55_74HI	Personen im Alter von 55 bis 74 Jahren mit hoher formaler Bildung
+Y25_64_SALSELFFAM	Personen im Alter von 25 bis 64, die Beschäftigte, Selbstständige oder Familienarbeiter sind
+Y25_64_UNE	Personen im Alter von 25 bis 64, die erwerbslos sind
+Y25_64_EMPL_UNE	Personen im Alter von 25 bis 64, die Erwerbspersonen (Erwerbstätige und Erwerbslose) sind
+Y25_64_RETIROTH	Personen im Alter von 25 bis 64, die Rentner oder andere Nichterwerbspersonen sind
+M_Y16_19	Männer, 16 bis 19 Jahre alt
+F_Y16_19	Frauen, 16 bis 19 Jahre alt
+M_Y16_24	Männer, 16 bis 24 Jahre alt
+F_Y16_24	Frauen, 16 bis 24 Jahre alt
+M_Y16_29	Männer, 16 bis 29 Jahre alt
+F_Y16_29	Frauen, 16 bis 29 Jahre alt
+M_Y16_74	Männer, 16 bis 74 Jahre alt
+F_Y16_74	Frauen, 16 bis 74 Jahre alt
+M_Y20_24	Männer, 20 bis 24 Jahre alt
+F_Y20_24	Frauen, 20 bis 24 Jahre alt
+M_Y25_29	Männer, 25 bis 29 Jahre alt
+F_Y25_29	Frauen, 25 bis 29 Jahre alt
+M_Y25_34	Männer, 25 bis 34 Jahre alt
+F_Y25_34	Frauen, 25 bis 34 Jahre alt
+M_Y25_54	Männer, 25 bis 54 Jahre alt
+F_Y25_54	Frauen, 25 bis 54 Jahre alt
+M_Y25_64	Männer, 25 bis 64 Jahre alt
+F_Y25_64	Frauen, 25 bis 64 Jahre alt
+M_Y35_44	Männer, 35 bis 44 Jahre alt
+F_Y35_44	Frauen, 35 bis 44 Jahre alt
+M_Y45_54	Männer, 45 bis 54 Jahre alt
+F_Y45_54	Frauen, 45 bis 54 Jahre alt
+M_Y55_64	Männer, 55 bis 64 Jahre alt
+F_Y55_64	Frauen, 55 bis 64 Jahre alt
+M_Y55_74	Männer, 55 bis 74 Jahre alt
+F_Y55_74	Frauen, 55 bis 74 Jahre alt
+M_Y65_74	Männer, 65 bis 74 Jahre alt
+F_Y65_74	Frauen, 65 bis 74 Jahre alt
+M_I0_2	Männer mit niedriger formaler Bildung
+F_I0_2	Frauen mit niedriger formaler Bildung
+M_I3_4	Männer mit mittlerer formaler Bildung
+F_I3_4	Frauen mit mittlerer formaler Bildung
+M_I5_8	Männer mit hoher formaler Bildung
+F_I5_8	Frauen mit hoher formaler Bildung
+I0_2	Personen ohne oder mit niedriger formaler Bildung
+I3_4	Personen mit mittlerer formaler Bildung
+I5_8	Personen mit hoher formaler Bildung
+CB_EU_FOR	Personen die in einem anderen EU-Land geboren sind
+CB_EXT_EU	Personen die ausserhalb eines EU-Landes geboren sind
+CB_FOR	Personen die im Ausland geboren sind
+CB_NAT	Personen die im Inland geboren sind
+CC_EU_FOR	Staatsangehörige eines anderen EU-Landes
+CC_EXT_EU	Staatsangehörige eines Landes ausserhalb der EU
+CC_FOR	Ausländer
+CC_NAT	Staatsangehörige
+EMPL_UNE	Erwerbspersonen (Erwerbstätige und Erwerbslose)
+FAM	Familie und Verwandte
+FAM_HLD_BLUE	Familienangehöriger des Inhabers einer Blauen Karte EU
+PRT_INT	Intimpartner
+FRD	Freunde
+HHI_Q1	Personen in Haushalten mit einem Einkommen im ersten Quartil
+HHI_Q2	Personen in Haushalten mit einem Einkommen im zweiten Quartil
+HHI_Q3	Personen in Haushalten mit einem Einkommen im dritten Quartil
+HHI_Q4	Personen in Haushalten mit einem Einkommen im vierten Quartil
+IND_DEG1	Personen, die in Städten leben
+IND_DEG2	Personen, die in kleineren Städten und Vororten leben
+IND_DEG3	Personen, die in ländlichen Gebieten leben
+IND_DEV_L	Personen, die in weniger entwickelten Regionen leben
+IND_DEV_M	Personen, die in stärker entwickelten Regionen leben
+IND_DEV_T	Personen, die in Übergangsregionen leben
+IND_O1	Personen, die in Ziel-1-Gebieten / 'Konvergenz' Gebieten leben
+IND_NO1	Personen, die in Nicht-Ziel-1-Gebieten / in 'Regionalen Wettbewerbsfähigkeit und Beschäftigung' Gebieten leben
+IND_BROAD	Personen, die in einem Haushalt mit Breitband-Zugang leben
+IND_BROADX	Personen, die in einem Haushalt mit Internet-Zugang aber ohne Breitband-Zugang leben
+ISCO_ICT	IKT-Fachkräfte
+ISCO_ICTX	Nicht-IKT-Fachkräfte
+ISCO0_5	Angestellte einschließlich Angehörige der Streitkräfte
+ISCO6_9	Arbeiter
+IREG	Personen, die das Internet regelmäßig nutzen (mindestens einmal pro Woche)
+IREGX	Personen, die das Internet nicht regelmäßig nutzen (seltener als einmal pro Woche)
+OTHER	Andere Personen ohne berufliche Tätigkeit
+RETIR	Rentenempfänger
+RETIR_OTHER	Rentner und andere Nichterwerbspersonen
+RF_LE1	Personen mit keinem oder einem Risikofaktor
+RF_GE1	Personen mit mindestens einem der 3 folgenden Merkmale: 55 bis 74 Jahre alt; niedrige Bildung; arbeitslos oder nicht erwerbstätig oder Rentner
+RF_GE2	Personen mit mindestens zwei der 3 folgenden Merkmale: 55 bis 74 Jahre alt; niedrige Bildung; arbeitslos oder nicht erwerbstätig oder Rentner
+SAL	Beschäftigte
+SAL_SELF_FAM	Beschäftigte, Selbstständige, Familienarbeiter
+SAL_PERM	Arbeitnehmer mit einer unbefristeten Arbeitsstelle
+SELF	Selbstständige
+SELF_FAM	Selbstständige, Familienarbeiter
+EMP_FT	Vollzeitbeschäftigte
+EMP_JOB1	Beschäftigte mit nur einer Stelle
+STUD	Studierende
+UNE	Erwerbslose
+HLDR	Inhaber der Blauen Karte EU
+HLD_BLUE	Inhaber einer Blauen Karte EU
+IND_DCH	Personen in Haushalten mit Kindern
+IND_NO_DCH	Personen in Haushalten ohne Kinder
+MD	Mobile Internetnutzer
+MDX	Personen, die mobiles Internet nicht nutzen
+Y16_29LO	Personen im Alter von 16 bis 29 Jahren mit niedriger formaler Bildung
+Y16_29ME	Personen im Alter von 16 bis 29 Jahren mit mittlerer formaler Bildung
+Y16_29HI	Personen im Alter von 16 bis 29 Jahren mit hoher formaler Bildung
+ARP	Einzelpersonen, die von Armut bedroht sind 
+NARP	Einzelpersonen, die nicht von Armut bedroht sind 
+IND_HH_NHH	Personen, die leben und nicht leben in Haushalten
+IND_HH	Personen, die in Haushalten leben
+IND_NHH	Personen, die nicht in Haushalten leben
+NONE	Keine Personne
+EMP_WKT_FT	Vollzeitbeschäftigte
+EMP_WKT_PT	Teilzeitbeschäftigte
+EMP_CON_PRM	Arbeitnehmer mit einer unbefristeten Arbeitsstelle oder einem unbefristeten Arbeitsvertrag
+EMP_CON_TMP	Arbeitnehmer mit einer befristeten Arbeitsstelle oder einem befristeten Arbeitsvertrag
+EMP_SECT_AFF	Beschäftigte in der Land- und Forstwirtschaft, der Fischerei
+EMP_SECT_MQM	Beschäftigte im Bergbau, der Gewinnung von Steinen und Erden, im verarbeitenden Gewerbe, der Herstellung von Waren
+EMP_SECT_CON	Beschäftigte im Baugewerbe
+EMP_SECT_TTAFS	Beschäftigte im Handel, Verkehr, der Lagerei sowie im Gastgewerbe
+EMP_SECT_IC	Beschäftigte im Sektor der Information und Kommunikation
+EMP_SECT_FIN	Beschäftigte in den Finanz- und Versicherungsdienstleistungen
+EMP_SECT_RE	Beschäftige im Grundstücks- und Wohnungswesen
+EMP_SECT_BS	Beschäftige in sonstigen wirtschaftlichen Dienstleistungen
+EMP_SECT_ADM	Beschäftige in der öffentlichen Verwaltung, Verteidigung, Erziehung und Unterricht, im Gesundheits- und Sozialwesen
+EMP_SECT_OTH	Beschäftige in anderen Dienstleistungsaktvitäten

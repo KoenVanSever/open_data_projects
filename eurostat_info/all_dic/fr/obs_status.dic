@@ -1,0 +1,36 @@
+b	rupture de série
+bc	rupture de série, confidentiel
+bd	rupture de série, définition différente (voir métadonnées)
+bde	rupture de série, estimé, définition différente (voir métadonnées)
+bdep	rupture de série, estimé, définition différente (voir métadonnées), provisoire
+bdf	rupture de série, prévision, définition différente (voir métadonnées)
+bdn	rupture de série, définition différente (voir métadonnées), non significatif
+bdp	rupture de série, définition différente (voir métadonnées), provisoire
+bdu	rupture de série, définition différente (voir métadonnées), peu fiable
+be	rupture de série, estimé
+bep	rupture de série, estimé, provisoire
+bf	rupture de série, prévision
+bn	rupture de série, non significatif
+bp	rupture de série, provisoire
+bu	rupture de série, peu fiable
+bz	rupture de série, non applicable
+c	confidentiel
+cp	confidentiel, provisoire
+d	définition différente (voir métadonnées)
+de	définition différente (voir métadonnées), estimé
+dep	définition différente (voir métadonnées), estimé, provisoire
+df	définition différente (voir métadonnées), prévision
+dn	définition différente (voir métadonnées), non significatif
+dp	définition différente (voir métadonnées), provisoire
+du	définition différente (voir métadonnées), peu fiable
+e	estimé
+ep	estimé, provisoire
+f	prévision
+i	voir métadonnées (bientôt supprimé)
+n	non significatif
+p	provisoire
+pu	provisoire, peu fiable
+r	révisé
+s	estimation Eurostat (cet attribut sera bientôt supprimé)
+u	peu fiable
+z	non applicable

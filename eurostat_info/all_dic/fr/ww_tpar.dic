@@ -1,0 +1,8 @@
+SLP	Production de boues d'épuration - total
+SLD	Elimination des boues d'épuration - total
+SLD_AGR	Elimination des boues d'épuration - usage agricole
+SLD_COMP	Elimination des boues d'épuration - compostage et autres applications
+SLD_LAND	Elimination des boues d'épuration - mise en décharge
+SLD_SEA	Elimination des boues d'épuration - rejet à la mer
+SLD_INCN	Elimination des boues d'épuration - incinération
+SLD_OTH	Elimination des boues d'épuration - autres

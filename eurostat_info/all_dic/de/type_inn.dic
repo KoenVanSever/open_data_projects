@@ -1,0 +1,25 @@
+TOTAL	Unternehmen insgesamt
+INNO	Innovative Unternehmen (einschließlich Unternehmen mit aufgegebenen/ausgesetzten oder laufenden Innovationstätigkeiten)
+INNO_PP	Nur produkt- und/oder prozessinnovative Unternehmen (einschließlich Unternehmen mit aufgegebenen/ausgesetzten oder laufenden Innovationstätigkeiten)
+INNO_NPP	Nur organisations- und/oder marketinginnovative Unternehmen
+INNO_PPANPP	Nur produkt- und/oder prozessinnovative Unternehmen UND organisations- und/oder marketinginnovative Unternehmen (einschließlich Unternehmen mit aufgegebenen/ausgesetzten oder laufenden Innovationstätigkeiten)
+INNOACT	Produkt- und/oder prozessinnovative Unternehmen, unabhängig von Organisations- oder Marketinginnovation (einschließlich Unternehmen mit aufgegebenen/ausgesetzten oder laufenden Innovationstätigkeiten)
+PAOP	Marktinnovatoren, Produkt und/oder Prozess
+INPDTONLY	Nur produktinnovative Unternehmen
+INPCSONLY	Nur prozessinnovative Unternehmen
+PANDP	Nur produkt- und prozessinnovative Unternehmen
+INONONAB	Nur Unternehmen mit aufgegebenen/ausgesetzten und laufenden Innovationstätigkeiten
+NON_INNO	Nicht-innovative Unternehmen
+INABA	Nur Unternehmen mit aufgegebenen/ausgesetzten Innovationstätigkeiten
+INONG	Nur Unternehmen mit laufenden Innovationstätigkeiten
+INABA_ONG	Nur Unternehmen mit aufgegebenen/ausgesetzten und laufenden Innovationstätigkeiten
+INPDT	Produktinnovative Unternehmen (unabhängig von anderen Innovationsaktivitäten)
+INPCS	Prozessinnovative Unternehmen (unabhängig von anderen Innovationsaktivitäten)
+INMKT	Bei der Vermarktung innovative Unternehmen (ohne Berücksichtigung sonstiger Innovationsarten)
+INNORGMK	Bei der Organisation und/oder Vermarktung innovative Unternehmen ohne Berücksichtigung von Produkt- oder Verfahrensinnovationen
+INORG	Bei der Organisation innovative Unternehmen (ohne Berücksichtigung sonstiger Innovationsarten)
+MKT_ONLY	Nur bei der Vermarktung innovative Unternehmen
+OANDM	Nur bei Organisation und Vermarktung innovative Unternehmen
+ORG_ONLY	Nur bei der Organisation innovative Unternehmen
+PROD_PCS	Unternehmen mit Produkt- und/oder Verfahrensinnovationen ausgenommen Unternehmen nur mit laufender und/oder eingestellter Tätigkeit
+INNOS	Unternehmen, die eine Innovation eingeführt haben (alle Arten)

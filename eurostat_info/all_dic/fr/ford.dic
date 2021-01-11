@@ -1,0 +1,52 @@
+TOTAL	Total
+FORD1-4	Sciences exactes et naturelles, Sciences de l'ingénieur et technologiques, Sciences médicales et sanitaires, Sciences agricoles
+FORD1	Sciences exactes et naturelles
+FORD101	Mathématiques
+FORD102	Informatique et science de l'information
+FORD103	Sciences physiques
+FORD104	Sciences chimiques
+FORD105	Sciences de la Terre et sciences connexes de l'environnement
+FORD106	Sciences biologiques
+FORD107	Autres sciences naturelles
+FORD2	Sciences de l'ingénieur et technologiques
+FORD201	Génie civil
+FORD202	Génie électrique, électronique, ingénierie informationnelle
+FORD203	Génie mécanique
+FORD204	Génie chimique
+FORD205	Génie des matériaux
+FORD206	Ingénierie médicale
+FORD207	Génie de l'environnement
+FORD208	Biotechnologie environnementale
+FORD209	Biotechnologie industrielle
+FORD210	Nanotechnologies
+FORD211	Autres domaines techniques et technologiques
+FORD3	Sciences médicales et sanitaires
+FORD301	Médecine fondamentale
+FORD302	Médecine clinique
+FORD303	Sciences sanitaires
+FORD304	Biotechnologie médicale
+FORD305	Autres sciences médicales
+FORD4	Sciences agricoles
+FORD401	Agriculture, sylviculture et pêche
+FORD402	Zootechnie et science laitière
+FORD403	Sciences vétérinaires
+FORD404	Biotechnologie agricole
+FORD405	Autres sciences agricoles
+FORD5_6	Sciences sociales et Sciences humaines
+FORD5	Sciences sociales
+FORD501	Psychologie et sciences cognitives
+FORD502	Économie et administration des entreprises
+FORD503	Éducation
+FORD504	Sociologie
+FORD505	Droit
+FORD506	Sciences politiques
+FORD507	Géographie sociale et économique
+FORD508	Médias et communication
+FORD509	Autres sciences sociales
+FORD6	Sciences humaines
+FORD601	Histoire et archéologie
+FORD602	Langues et littérature
+FORD603	Philosophie, morale et religion
+FORD604	Arts (arts, histoire de l'art, arts de la scène, musique)
+FORD605	Autres sciences humaines
+NSP	Non spécifié

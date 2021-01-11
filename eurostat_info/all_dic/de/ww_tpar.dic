@@ -1,0 +1,8 @@
+SLP	Gesamtes Klärschlammaufkommen
+SLD	Gesamte Klärschlammentsorgung
+SLD_AGR	Klärschlammentsorgung - landwirtschaftliche Verwertung
+SLD_COMP	Klärschlammentsorgung - Kompostierung und sonstige Verwertung
+SLD_LAND	Klärschlammentsorgung - Deponierung
+SLD_SEA	Klärschlammentsorgung - Entsorgung ins Meer
+SLD_INCN	Klärschlammentsorgung - Verbrennung
+SLD_OTH	Klärschlammentsorgung - sonstige

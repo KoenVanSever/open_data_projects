@@ -1,0 +1,90 @@
+TOTAL	Insgesamt
+HHC_10	Kinder (mit anderen Erwachsenen lebend)
+HHC_20	Alleinstehende Erwachsene - insgesamt
+HHC_21	Alleinstehende Erwachsene mit Kindern
+HHC_22	Alleinstehende Erwachsene ohne Kinder
+HHC_30	Paar - insgesamt
+HHC_31	Paar mit Kindern
+HHC_32	Paar ohne Kinder
+HIC_30	Als Paar lebende Erwachsene - insgesamt
+HIC_31	Als Paar lebende Erwachsene mit Kindern
+HIC_32	Als Paar lebende Erwachsene ohne Kinder
+HHC_40	Anderer Haushaltstyp - insgesamt
+HHC_41	Anderer Haushaltstyp mit Kindern
+HHC_42	Anderer Haushaltstyp ohne Kinder
+HIC_40	In einem anderen Haushaltstyp lebende Erwachsene - insgesamt
+HIC_41	In einem anderen Haushaltstyp lebende Erwachsene mit Kindern
+HIC_42	In einem anderen Haushaltstyp lebende Erwachsene ohne Kinder
+HHC_50	Gesamtzahl der Erwachsenen
+HHC_51	Erwachsene (insgesamt) mit Kindern
+HHC_52	Erwachsene (insgesamt) ohne Kinder
+HWC_50	Insgesamt (alle Haushalte)
+HWC_51	Haushalte mit abhängigen Kindern - Insgesamt
+HWC_52	Haushalte ohne abhängige Kinder - insgesamt
+FAM	Haushalt bestehend aus einer Kernfamilie
+FAM1	Haushalt bestehend aus einer einzigen Kernfamilie
+CPL_YCH	Haushalt bestehend aus einem Paar mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+CPL_NYCH	Haushalt bestehend aus einem Paar ohne im Haushalt lebenden Kindern unter 25 Jahre
+MAR	Haushalt bestehend aus einem verheirateten Paar
+MAR_NCH	Haushalt bestehend aus einem verheirateten Paar ohne im Haushalt lebende Kinder
+MARO_NCH	Haushalt bestehend aus einem verschiedengeschlechtlichen verheirateten Paar ohne im Haushalt lebende Kinder
+MARS_NCH	Haushalt bestehend aus einem gleichgeschlechtlichen verheirateten Paar ohne im Haushalt lebende Kinder
+MAR_YCH	Haushalt bestehend aus einem verheirateten Paar mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+MARO_YCH	Haushalt bestehend aus einem verschiedengeschlechtlichen verheirateten Paar mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+MARS_YCH	Haushalt bestehend aus einem gleichgeschlechtlichen verheirateten Paar mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+MAR_OCH	Haushalt bestehend aus einem verheirateten Paar mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+MARO_OCH	Haushalt bestehend aus einem verschiedengeschlechtlichen verheirateten Paar mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+MARS_OCH	Haushalt bestehend aus einem gleichgeschlechtlichen verheirateten Paar mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+REP	Haushalt bestehend aus einem Paar in einer eingetragenen Partnerschaft
+REP_NCH	Haushalt bestehend aus einem Paar in einer eingetragenen Partnerschaft ohne im Haushalt lebende Kinder
+REPO_NCH	Haushalt bestehend aus einem verschiedengeschlechtlichen Paar in eingetragener Partnerschaft ohne im Haushalt lebende Kinder
+REPS_NCH	Haushalt bestehend aus einem gleichgeschlechtlichen Paar in eingetragener Partnerschaft ohne im Haushalt lebende Kinder
+REP_YCH	Haushalt bestehend aus einem Paar in einer eingetragenen Partnerschaft mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+REPO_YCH	Haushalt bestehend aus einem verschiedengeschlechtlichen Paar in eingetragener Partnerschaft mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+REPS_YCH	Haushalt bestehend aus einem gleichgeschlechtlichen Paar in eingetragener Partnerschaft mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+REP_OCH	Haushalt bestehend aus einem Paar in einer eingetragenen Partnerschaft mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+REPO_OCH	Haushalt bestehend aus einem verschiedengeschlechtlichen Paar in eingetragener Partnerschaft mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+REPS_OCH	Haushalt bestehend aus einem gleichgeschlechtlichen Paar in eingetragener Partnerschaft mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+CSU	Haushalt bestehend aus einem Paar in einer eheähnlichen Gemeinschaft
+CSU_NCH	Haushalt bestehend aus einem Paar in einer eheähnlichen Gemeinschaft ohne im Haushalt lebende Kinder
+CSUO_NCH	Haushalt bestehend aus einem verschiedengeschlechtlichen Paar in einer eheähnlichen Gemeinschaft ohne im Haushalt lebende Kinder
+CSUS_NCH	Haushalt bestehend aus einem gleichgeschlechtlichen Paar in eheähnlicher Gemeinschaft ohne im Haushalt lebende Kinder
+CSU_YCH	Haushalt bestehend aus einem Paar in einer eheähnlichen Gemeinschaft mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+CSUO_YCH	Haushalt bestehend aus einem verschiedengeschlechtlichen Paar in einer eheähnlichen Gemeinschaft mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+CSUS_YCH	Haushalt bestehend aus einem gleichgeschlechtlichen Paar in eheähnlicher Gemeinschaft mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+CSU_OCH	Haushalt bestehend aus einem Paar in einer eheähnlichen Gemeinschaft mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+CSUO_OCH	Haushalt bestehend aus einem verschiedengeschlechtlichen Paar in einer eheähnlichen Gemeinschaft mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+CSUS_OCH	Haushalt bestehend aus einem gleichgeschlechtlichen Paar in eheähnlicher Gemeinschaft mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+PAR_YCH_P	Haushalt bestehend aus mindestens einem Elternteil mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre und andere Person
+PAR1_YCH	Haushalt bestehend aus einem alleinerziehenden Elternteil mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+M1	Haushalt bestehend aus einem alleinstehenden Mann
+M1_CH	Haushalt bestehend aus einem alleinerziehenden Vater, der mit mindestens einem Kind lebt
+M1_YCH	Haushalt bestehend aus einem alleinerziehenden Vater mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+M1_OCH	Haushalt bestehend aus einem alleinerziehenden Vater mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+F1	Haushalt bestehend aus einer alleinstehenden Frau
+F1_CH	Haushalt bestehend aus einer alleinerziehenden Mutter, die mit mindestens einem Kind lebt
+F1_YCH	Haushalt bestehend aus einer alleinerziehenden Mutter mit mindestens einem im Haushalt lebenden Kind unter 25 Jahre
+F1_OCH	Haushalt bestehend aus einer alleinerziehenden Mutter mit mindestens einem im Haushalt lebenden Kind, das 25 Jahre oder älter ist
+P1_CH	Haushalt bestehend aus alleinerziehender Mutter oder alleinerziehendem Vater mit mindestens einem im Haushalt lebenden Kind
+FAM_GE2	Haushalt bestehend aus zwei oder mehreren Kernfamilien
+NFAM	Haushalt, der nicht aus einer Kernfamilie besteht
+P1	Einpersonenhaushalt
+A1	Haushalt bestehend aus einem Erwachsenen
+A1_DCH	Haushalt bestehend aus einem Erwachsenen mit abhängigen Kindern
+A2	Haushalt bestehend aus zwei Erwachsenen
+A2_DCH	Haushalt bestehend aus zwei Erwachsenen mit abhängigen Kindern
+A2_DCH1	Haushalt bestehend aus zwei Erwachsenen mit einem abhängigen Kind
+A2_DCH2	Haushalt bestehend aus zwei Erwachsenen mit zwei abhängigen Kindern
+A2_DCH_GE3	Haushalt bestehend aus zwei Erwachsenen mit drei oder mehr abhängigen Kindern
+A_GE2_DCH	Haushalt bestehend aus zwei oder mehr Erwachsenen mit abhängigen Kindern
+A_GE2_NDCH	Haushalt bestehend aus zwei oder mehr Erwachsenen ohne abhängige Kinder
+A_GE3	Haushalt bestehend aus drei oder mehr Erwachsenen
+A_GE3_DCH	Haushalt bestehend aus drei oder mehr Erwachsenen mit abhängigen Kindern
+MULTI	Nicht aus einer Kernfamilie bestehender Mehrpersonenhaushalt
+DCH	Haushalt mit abhängigen Kindern
+NDCH	Haushalt ohne abhängige Kindern
+A1_GE65	Haushalt bestehend aus einem Erwachsenen 65 Jahre und mehr
+A2_GE1_GE65	Haushalt bestehend aus zwei Erwachsenen, einer mindestens 65 Jahre und mehr
+OTH	Sonstige
+NRP	Keine Antwort
+UNK	Unbekannt

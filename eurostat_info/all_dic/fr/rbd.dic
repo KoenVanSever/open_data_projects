@@ -1,0 +1,392 @@
+BE	Belgique
+BE_RHI_W	Rhin - DH (BE-Région wallonne)
+BE_SCH_B	Escaut/Schelde DH (BE-Région de Bruxelles-Capitale / Brussels Hoofdstedelijk Gewest)
+BE_SCH_W	Escaut - DH (BE-Région wallonne)
+BE_SCH_V	Escaut - DH (BE-Région flamande)
+BE_MAA_W	Meuse - DH (BE-Région wallonne)
+BE_MAA_V	Meuse - DH (BE-Région flamande)
+BE_SEI_W	Seine - DH (BE-Région wallonne)
+BG	Bulgarie
+BG_DAN_RBD	Danube - DH (BG)
+BG_BKS	Mer Noire - DH
+BG_AEE	Mer Égée orientale - DH (BG)
+BG_AEW	Mer Égée occidentale - DH (BG)
+CZ	Tchéquie
+CZ_DAN	Danube  - DH (CZ)
+CZ_DYJ	Dyje / Thaya
+CZ_DAN_OTH	Autres affluents de la Danube
+CZ_MOR	Morava / March (CZ)
+CZ_ELB	Labe / Elbe - DH (CZ)
+CZ_ELB_UM	Labe / Elbe supérieure et moyenne (CZ)
+CZ_MOL_U	Haute Vltava / Moldau
+CZ_BRK	Berounka
+CZ_MOL_L	Basse Vltava / Moldau
+CZ_OHR	Ohre et Labe / Elbe basse (CZ)
+CZ_ODR	Odra / Oder - DH (CZ)
+CZ_ODR_U	Odra / Oder supérieure
+CZ_LNO	Luzická Nisa et autres affluents de l'Odra / Oder
+DK	Danemark
+DK_JTL	Jutland et Funen - DH
+DK_ZEA	Zealand - DH
+DK_BOR	Bornholm - DH
+DK_VID	Vidaa-Krusaa - DH
+DE	Allemagne (jusqu'en 1990, ancien territoire de la RFA)
+DE_DAN	Danube - DH (DE)
+DE_RHI	Rhin - DH (DE)
+DE_RHI_C	Lac de Constance/Rhin alpin
+DE_RHI_H	Haut-Rhin
+DE_RHI_O	Rhin supérieur
+DE_NEC	Neckar
+DE_MAI	Main
+DE_MSL_SAR	Moselle-Sarre (DE)
+DE_RHI_M	Rhin moyen
+DE_RHI_N	Rhin inférieur
+DE_RHI_D	Delta du Rhin
+DE_EMS	Ems - DH (DE)
+DE_EMS_O	Ems supérieure, Ems-Nordradde, Hase
+DE_LED	Leda-Jümme, Ems inférieure, estuaire de l'Ems
+DE_WES_RBD	Weser - DH
+DE_WER	Werra
+DE_FUL	Fulda-Diemel
+DE_WES	Weser
+DE_ALR	Aller
+DE_LEI	Leine
+DE_TID	Tide-Weser
+DE_ELB	Elbe / Labe - DH (DE)
+DE_MUL	Mulde-Elbe-Schwarze Elster
+DE_SAA	Saale, Obere Moldau, Berounka, Eger et Elbe basse
+DE_ELB_M	Mittelelbe-Elde
+DE_HAV	Havel
+DE_ELB_T	Tide-Elbe
+DE_ODR	Oder / Odra - DH (DE)
+DE_MAA	Meuse - DH (DE)
+DE_EID	Eider - DH
+DE_SLE	Schlei-Trave - DH
+DE_WAR	Warnow-Peene - DH
+EE	Estonie
+EE_W	Estonie de l'Ouest - DH
+EE_LAA	Läänesaarte
+EE_MAT	Matsalu
+EE_PAR	Pärnu
+EE_HAR	Harju
+EE_E_RBD	Estonie de l'Est - DH
+EE_VIR	Viru
+EE_VOR	Vörtsjärve
+EE_PEI	Peipsi
+EE_GAU	Koiva/Gauja - DH (EE)
+IE	Irlande
+IE_E	Irlande de l'Est - DH
+IE_SHA	Shannon - DH
+IE_SE	Irlande Sud-Est - DH
+IE_SW	Irlande Sud-Ouest - DH
+IE_W	Irlande de l'Ouest - DH
+EL	Grèce
+EL_PEL_W	Péloponnèse de l'Ouest - DH
+EL_PEL_N	Péloponnèse du Nord - DH
+EL_PEL_E	Péloponnèse de l'Est - DH
+EL_STE_W	Grèce centrale de l'Ouest - DH
+EL_EPI	Epiré - DH
+EL_ATT	Attica - DH
+EL_STE_E	Grèce centrale de l'Est - DH
+EL_THE	Thessalie - DH
+EL_MAC_W	Macédoine de l'Ouest - DH
+EL_MAC_C	Macédoine centrale - DH
+EL_MAC_E	Macédoine de l'Est - DH
+EL_THR	Thrace - DH
+EL_CRE	Crète - DH
+EL_AEG	Îles égéennes - DH
+ES	Espagne
+ES_MIS	Miño-Sil - DH (ES)
+ES_GAL	Côte de Galice - DH
+ES_BAS	Bassins internes du Pays basque - DH
+ES_CAN	Cantabrie - DH
+ES_CAN_W	Cantabrie  de l'Ouest DH
+ES_CAN_E	Cantabrie  de l'Est DH
+ES_DUE	Duero - DH (ES)
+ES_TAG	Tagus - DH (ES)
+ES_GUD	Guadiana - DH (ES)
+ES_GUL	Guadalquivir - DH
+ES_ADL	Bassin méditerranéen en Andalousie - DH
+ES_GUA	Guadalete et Barbate - DH
+ES_TIN	Tinto, Odiel et Piedras - DH
+ES_SEG	Segura - DH
+ES_JUC	Júcar - DH
+ES_EBR	Ebro - DH
+ES_CAT	Catalogne - DH
+ES_BAI	Îles Baléares - DH
+ES_GRC	Gran Canaria - DH
+ES_FUE	Fuerteventura - DH
+ES_LAN	Lanzarote - DH
+ES_TNR	Ténérife - DH
+ES_LPA	La Palma - DH
+ES_LGM	La Gomera - DH
+ES_EHI	El Hierro - DH
+ES_CEU	Ceuta - DH
+ES_MEL	Melilla - DH
+FR	France
+FR_SCH	Escaut - DH (FR)
+FR_MAA_C	Meuse-Chiers - DH (FR)
+FR_SAM	Sambre - DH
+FR_RHI	Rhin - DH (FR)
+FR_MSL_SAR	Moselle-Sarre (FR)
+FR_RHI_I	Rhin supérieur et Ill
+FR_RHO_CM	Rhône et les côtiers méditerranéens - DH (FR)
+FR_CAZ	Côtiers de la Côte d'Azur
+FR_CLR	Côtiers du Languedoc Roussillon
+FR_DOU	Doubs
+FR_DUR	Durance
+FR_ARD	Ardèche-Gard
+FR_RHO_H	Haut-Rhône
+FR_ISR	Isère-Drôme
+FR_RHO_M	Rhône moyen
+FR_SAO	Saône
+FR_COR	Corse - DH
+FR_ADO_OTH	Adour, la Garonne, la Dordogne, la Charente et côtiers charentais et aquitains - DH
+FR_ADO	Adour
+FR_CHA	Charente
+FR_CAQ	Côtiers aquitains et charentais
+FR_DOR	Dordogne
+FR_GAR	Garonne
+FR_LOT	Lot
+FR_TAR	Tarn-Aveyron
+FR_LOI	La Loire, les côtiers vendéens et bretons - DH
+FR_ALL	Allier-Loire supérieure
+FR_LOI_A	Loire aval et côtiers vendéens
+FR_LOI_M	Loire moyenne
+FR_MAY	Mayenne-Sarthe-Loir
+FR_VIL	Vilaine et côtiers bretons
+FR_VIE	Vienne-Creuse
+FR_SEI_CN	La Seine et les côtiers normands - DH (FR)
+FR_CNO	Côtiers normands
+FR_MRN	Marne
+FR_OIS	Oise
+FR_SEI_A	Seine en amont de Paris (FR)
+FR_SEI_V	Seine en aval de Paris (FR)
+FR_GUY	Guyane - DH
+FR_REU	Réunion - DH
+FR_GDL	Guadeloupe - DH
+FR_MAR	Martinique - DH
+HR	Croatie
+HR_DAN	Danube - DH (HR)
+HR_DRA_SB	Drava et Danube - sous-bassin
+HR_SAV_SB	Sava - sous-bassin
+HR_ADR	Adriatique - DH  (HR)
+IT	Italie
+IT_ALP_E	Alpes de l'Est - DH
+IT_PO	Pô - DH (IT)
+IT_APP_N	Apennins du Nord - DH
+IT_SER	Serchio - DH
+IT_APP_M	Moyens Apennins - DH
+IT_APP_S	Apennins du Sud - DH
+IT_SAR	Sardaigne - DH
+IT_SIC	Sicile - DH
+CY	Chypre
+CY_RBD	Chypre - DH
+LV	Lettonie
+LV_DAU	Daugava - DH (LV)
+LV_GAU	Gauja/Koiva - DH (LV)
+LV_LIE	Lielupe - DH (LV)
+LV_VEN_RBD	Venta - DH (LV)
+LT	Lituanie
+LT_NEM	Niémen - DH (LT)
+LT_CUR	Lagune de Courlande
+LT_BAL	Les eaux côtières de la mer Baltique
+LT_NEM_OTH	Petits affluents de la rivière Niémen (y compris la rivière Niémen)
+LT_MER	Merkys
+LT_NER	Petits affluents de la rivière Neris (y compris la rivière Neris)
+LT_ZEI	Zeimena
+LT_SVE_SB	Sventoji - sous-bassin
+LT_NEV	Nevezis
+LT_DUB	Dubysa
+LT_SES	Sesupe
+LT_JUR	Jura
+LT_MIN	Minija
+LT_COA	Rivières côtières lituaniennes
+LT_PRI	Prieglius
+LT_VEN_RBD	Venta - DH (LT)
+LT_VEN	Venta
+LT_SVE	Sventoji
+LT_BAR	Bartuva
+LT_LIE	Lielupe - DH (LT)
+LT_LIE_OTH	Petits affluents de la rivière Lielupe
+LT_MUS	Musa
+LT_NEL	Nemunelis
+LT_DAU_RBD	Daugava - DH (LT)
+LT_DAU	Daugava bassin
+LU	Luxembourg
+LU_MSL	Moselle - DH (LU)
+LU_MAA	Meuse - DH (LU)
+LU_RHI	Rhin - DH (LU)
+HU	Hongrie
+HU_DAN_RBD	Danube - DH (HU)
+HU_BAT	Balaton
+HU_DRA	Dráva / Drau (HU)
+HU_DAN	Danube (HU)
+HU_TIS	Tisza / Tysa (HU)
+MT	Malte
+MT_RBD	Malte - DH
+NL	Pays-Bas
+NL_EMS	Ems - DH (NL)
+NL_MAA	Meuse - DH (NL)
+NL_RHI	Rhin - DH (NL)
+NL_SCH	Escaut - DH (NL)
+AT	Autriche
+AT_DAN	Danube - DH (AT)
+AT_DAN_U	Danube en amont de Jochenstein (AT)
+AT_DAN_D	Danube en aval de Jochenstein (AT)
+AT_DAN_SB	Danube - sous-bassin (AT)
+AT_MOR	March / Morava (AT)
+AT_LER	Leitha, Raab, Rabnitz
+AT_MUR	Mur
+AT_DRA	Drau / Dráva (AT)
+AT_RHI	Rhin - DH (AT)
+AT_RHI_SB	Rhin - sous-bassin (AT)
+AT_ELB	Elbe / Labe - DH (AT)
+AT_ELB_SB	Elbe - sous-bassin (AT)
+PL	Pologne
+PL_DAN	Danube - DH (PL)
+PL_VIS	Vistule/Wisla - DH (PL)
+PL_VIS_S	Petite Vistule
+PL_VIS_U	Haute Vistule
+PL_VIS_M	Moyenne Vistule sans Bug et Narew
+PL_BUG	Bug et Narew
+PL_VIS_L	Basse Vistule
+PL_SWI	Swieza - DH
+PL_JAR	Jarft - DH
+PL_ELB	Labe / Elbe - DH (PL)
+PL_ODR	Odra / Oder - DH (PL)
+PL_ODR_U	Oder supérieur
+PL_ODR_M	Oder moyen
+PL_WRT	Warta
+PL_ODR_L	Oder inférieur et côte Ouest
+PL_UCK	Ucker - DH
+PL_PRI	Pregolya / Prieglius - DH (PL)
+PL_NEM	Niémen - DH (PL)
+PL_DNI	Dniestr - DH (PL)
+PT	Portugal
+PT_MIH	Minho et Lima - DH (PT)
+PT_CAV	Cavado, Ave et Leca - DH
+PT_DRO	Douro - DH (PT)
+PT_VOU	Vouga, Mondego et Lis - DH
+PT_VOU_SB	Vouga, Mondego et Lis - sous-bassin
+PT_TAG	Tage et bassins de l'Ouest - DH (PT)
+PT_SAD	Sado et Mira - DH
+PT_GUD	Guadiana - DH (PT)
+PT_RIB_SB	Tejo et Ribeiras do Oeste - sous-bassin
+PT_ALG	Bassins de l'Algarve - DH
+PT_AZO	Açores - DH
+PT_MAD	Madère - DH
+RO	Roumanie
+RO_DAN_RBD	Danube - DH (RO)
+RO_BAN	Banat
+RO_SIR	Siret
+RO_PRU	Prut-Barlad
+RO_JIU	Jiu
+RO_OLT	Olt
+RO_ARV	Arges-Vedea
+RO_IAL	Ialomita-Buzau
+RO_DOB	Dobrogea
+RO_MRS	Mures
+RO_CRI	Crisuri
+RO_SOM	Somes-Tisa (RO)
+SI	Slovénie
+SI_DAN	Danube - DH (SI)
+SI_ADR_N	Adriatique du nord - DH
+SK	Slovaquie
+SK_DUN	Dunajec et Poprad (Vistule) - DH (SK)
+SK_DUN_SB	Dunajec et Poprad (Vistule) - sous-bassin
+SK_DAN_RBD	Danube - DH (SK)
+SK_BOD	Bodrog
+SK_MOR	Morava (SK)
+SK_DAN	Danube (SK)
+SK_VAH	Vah
+SK_HRO	Hron
+SK_IPE	Ipel
+SK_SLA	Slana
+SK_HOR	Hornád
+SK_BOV	Bodva
+FI	Finlande
+FI_VUO	Vuoksi - DH
+FI_KYM	Kymijoki-golfe de Finlande - DH
+FI_KOK	Kokemäenjoki-Archipel finlandais-Mer de Botnie - DH
+FI_OUL	Oulujoki-Iijoki - DH
+FI_KEM	Kemijoki - DH
+FI_TOR_RBD	Tornionjoki - DH
+FI_TEN	Teno, Näätämöjoki et Paatsjoki - DH (FI)
+FI_ALD	Åland - DH
+SE	Suède
+SE_BBY	Baie de Bothnie - DH (SE)
+SE_BBY_TO	Torne (Baie de Bothnie) - DH (SE)
+SE_BSE	Mer de Bothnie - DH (SE)
+SE_BAL_N	Mer baltique septentrionale  - DH
+SE_BAL_S	Mer baltique méridionale - DH
+SE_SKK	Skagerrak et Kattegat - DH (SE)
+SE_BSE_TD	Trondelagsfylkene (Mer de Botnie) - DH (SE)
+SE_BBY_NL	Nordland (Baie de Botnie) - DH (SE)
+SE_BBY_TR	Troms (Baie de Botnie) - DH (SE)
+SE_SGL	Glomma (Skagerrak et Kattegat) - DH (SE)
+UK	Royaume-Uni
+UK_SCO	Ecosse - DH
+UK_SCO_NE	Nord-est de l'Écosse
+UK_TAY	Tay
+UK_FOR	Forth
+UK_CLY	Clyde
+UK_ARG	Argyll
+UK_HIG_W	Highlands de l'Ouest
+UK_HIG_N	Highlands du Nord
+UK_ORK	Orkney et Shetland
+UK_SOL	Solway Tweed - DH
+UK_NTH	Northumbria - DH
+UK_HUM	Humber - DH
+UK_ANG	Anglia - DH
+UK_THA	Tamise - DH
+UK_SOE	Angleterre du Sud-Est - DH
+UK_SOW	Angleterre du Sud-Ouest - DH
+UK_SEV	Severn - DH
+UK_WAL_W	Ouest du Pays de Galles - DH
+UK_DEE	Dee - DH
+UK_NOW	Angleterre du Nord-Ouest  - DH
+UK_NBA	Neagh Bann - DH (Irlande du Nord)
+UK_NWN	Nord-Ouest de l'Irlande du Nord - DH
+UK_NOE	Nord-Est de l'Irlande du Nord - DH
+IS	Islande
+LI	Liechtenstein
+LI_RBD	Liechtenstein - DH
+NO	Norvège
+NO_NFI_SB	Norvège-Finlande - sous-bassin
+NO_GLO	Glomma, Møre and Romsdal - DH
+NO_TRD	Troendelag - DH (NO)
+NO_NRL	Nordland - DH (NO)
+NO_TRO	Troms - DH (NO)
+NO_FMK	Finnmark - DH
+NO_GLM	Glomma - DH (NO)
+NO_WBA	West Bay - DH
+NO_AGD	Agder - DH
+NO_ROL	Rogaland - DH
+NO_HDA	Hordaland - DH
+NO_SFJ	Sogn et Fjordane - DH
+NO_BBY	Baie de Bothnie - DH (NO)
+NO_TOR	Torne (Torniojoki) - DH (NO)
+NO_BSE	Mer de Botnie - DH (NO)
+NO_SKK	Skagerrak et Kattegat - DH (NO)
+NO_KEM	Kemijoki - DH (NO)
+NO_TOR_FI	Tornionjoki - DH (FI)
+CH	Suisse
+CH_RHI	Rhin - DH (CH)
+CH_RHO	Rhône - DH (CH)
+CH_PO	Po - DH (CH)
+CH_DAN	Danube - DH (CH)
+CH_ADI	Adige - DH
+ME	Monténégro
+MK	Macédoine du Nord
+AL	Albanie
+RS	Serbie
+RS_DAN	Danube (RS)
+RS_SAV	Save (RS)
+RS_MOR	Morava  (RS)
+TR	Turquie
+BA	Bosnie-et-Herzégovine
+XK	Kosovo (selon la résolution 1244/99 du Conseil de sécurité des Nations Unies)
+AD_RBD	Andorre - DH
+GI_RBD	Gibraltar - DH
+MC_RBD	Monaco - DH

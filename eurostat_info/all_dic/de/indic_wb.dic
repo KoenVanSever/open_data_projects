@@ -1,0 +1,14 @@
+FINSAT	Zufriedenheit finanzielle Situation
+ACCSAT	Zufriedenheit Wohnung
+JOBSAT	Zufriedenheit Arbeit
+COMSAT	Zufriedenheit Dauer Arbeitsweg
+TIMESAT	Zufriedenheit Zeitverwendung
+LIFESAT	Allgemeine Lebenszufriedenheit
+GREENSAT	Zufriedenheit Freizeit-und Grünflächen
+LIVENVSAT	Zufriedenheit Wohngegend
+RELSAT	Zufriedenheit persönliche Beziehungen
+MEANLIFE	Sinn des Lebens
+PLCTST	Vertrauen Polizei
+LEGTST	Vertrauen Rechtssystem
+PLTTST	Vertrauen politisches System
+OTHTST	Vertrauen in andere

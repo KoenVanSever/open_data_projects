@@ -1,0 +1,187 @@
+O_GDS	Production de biens sylvicoles
+O_NAI	Croissance nette annuelle du bois sur pied
+O_SL	Grumes de sciage et de placage
+OC_SL_TI	Bois d'oeuvre et d'industrie conifere
+OC_SL_LTI	Bois long de coniferes
+OC_SL_STA	Bois de trituration et bois empilé de conifères
+OC_SL_TIO	Bois d'oeuvre et d'industrie conifère: autres
+ON_SL_TI	Bois d'oeuvre et d'industrie de feuillus
+ON_SL_LTI	Bois long de feuillus
+ON_SL_STA	Bois de trituration et bois empilé de feuillus
+ON_SL_TIO	Bois d'oeuvre et d'industrie de feuillus: autres
+O_FUEL	Bois de chauffage
+O_PULP	Bois de trituration
+O_SMALL	Branches et souches
+O_OWNREV	Plantations pour compte propre en vue d'un revenu régulier
+O_OTH	Autres produits forestiers
+O_OCORK	Liège
+O_OPLAN	Plants de pépinière forestière
+O_OOTH	Autres produits
+O_SER	Production de services sylvicoles
+O_SREV	Plantations en vue d'obtenir un revenu régulier
+O_STREE	Autres services, plantations d'arbres en vue d'exploitation
+O_BP	Production sylvicole aux prix de base
+O_NFS	Activités secondaires non sylvicoles (non séparables)
+O_NFST	Produits de la transformation de produits sylvicoles
+O_NFSO	Autres activités secondaires non séparables (biens et services)
+O_TOT	Production totale de la sylviculture aux prix de base
+C_TOT	Consommation intermédiaire totale
+C_REM	Bois recolté
+C_PLAN	Plants
+C_NRG	Energie, lubrifiants
+C_NRGE	Energie, lubrifiants - électricité
+C_NRGG	Energie, lubrifiants - gaz
+C_NRGF	Energie, lubrifiants - autres combustibles et carburants
+C_NRGO	Energie, lubrifiants - énergie; lubrifiants: autres
+C_FERT	Engrais et amendements
+C_PPP	Produits de protection des cultures et pesticides
+C_MAT	Entretien du matériel
+C_BLD	Entretien de bâtiments
+C_SER	Services sylvicoles
+C_FISIM	Services d'intermédiation financière indirectement mesurés (SIFIM)
+C_OTH	Autres biens et services
+GVA	Valeur ajoutée brute aux prix de base
+FCC	Consommation de capital fixe
+F_TRE	Consommation de capital fixe en arbres
+F_EQBLD	Consommation de capital fixe en matériel et bâtiments
+F_EQ	Consommation de capital fixe: biens d'équipement
+F_BLD	Consommation de capital fixe: constructions
+F_OTH	Autre consommation de capital fixe
+NVA	Valeur ajoutée nette aux prix de base
+TAX_PDN	Autres impôts sur la production
+SUB_PDN	Autres subventions sur la production
+CE	Rémunération de salariés
+OS	Excédent net d'exploitation / revenus mixtes
+R_PA	Fermages
+INT_PA	Intérêts à payer
+INT_RE	Intérêts reçus
+EI	Revenu net d'entreprise
+GFCF	Formation brute de capital fixe (hors TVA déductible)
+G_NF	FBCF en produits non sylvicoles
+G_MAT	FBCF en matériel
+G_MAC	FBCF en machines et autres biens d'équipement
+G_TRA	FBCF en matériel de transport
+G_BLD	FBCF en bâtiments d'exploitation (non résidentiels)
+G_OFIX	FBCF en actifs fixes incorporels (i.e. logiciels)
+G_ONON	Addition à la valeur des actifs non financiers non produits
+G_OIMP	FBCF en amélioration majeure des terres
+G_OCOS	Coûts liés au transfert de propriété de terrains et de droits de production
+NFCF	Formation nette de capital fixe (hors TVA déductible)
+CI	Variations de stocks
+CI_PRO	Variations de stocks dont travaux en cours
+CT	Transferts en capital
+CT_INV	Aides à l'investissement
+CT_OTH	Autres transferts en capital
+P1_TOT	Production totale
+P2_TOT	Consommation intermédiaire
+B1G_GVA	Valeur ajoutée brute
+P51C_FCC	Consommation de capital fixe
+B1N_NVA	Valeur ajoutée nette
+D29_TAX_PDN	Autres impôts sur la production
+D39_SUB_PDN	Autres subventions sur la production
+D1_CE	Rémunération de salariés
+B2A3N_OS	Excédent net d'exploitation et revenus mixtes
+D4_PI_RE	Revenus de la propriété à recevoir
+D41_INT_RE	Intérêts à recevoir
+D42_CPIN_RE	Revenus distribués des sociétés
+D43_IV_RE	Bénéfices réinvestis d'investissements directs étrangers
+D44_IVO_RE	Autres revenus d'investissements
+D45_R_RE	Loyers à recevoir
+D4_PI_PA	Revenus de la propriété à payer
+D41_INT_PA	Intérêts à payer
+D45_R_PA	Loyers à payer
+B4N_EI	Revenu net d'entreprise
+P51G_GFCF	Formation brute de capital fixe
+G_TRE	FBCF en plantations en vue d'un revenu régulier
+G_EQBLD	FBCF en matériel et bâtiments
+G_OTH	Autre FBCF
+P51N_NFCF	Formation nette de capital fixe
+P52_CI	Variations de stocks
+AN1221_CI_PRO	Variation des stocks de travaux en cours
+CI_OTH	Autres variations de stocks
+D9_CT	Transferts en capital
+P1	Production de la sylviculture et des activités secondaires connexes
+P11	Production marchande
+P12	Production pour usage final propre
+P13	Autre production non marchande
+P1_S14	Production des ménages
+P1_GD_SERV	Production de biens et services spécifiques à la sylviculture
+P1_GD	Biens spécifiques à la sylviculture
+P1_TR_PL	Arbres, plants et semences d'arbres forestiers
+P1_PL	Plants et semences d'arbres forestiers
+P1_TR	Arbres forestiers
+P1_RW	Bois rond (bois brut)
+P1_RWFW	Bois de chauffage
+P1_RWFW_C	Bois de chauffage - conifères
+P1_RWFW_NC	Bois de chauffage - feuillus
+P1_RWIN	Bois rond industriel
+P1_RWIN_C	Bois rond industriel - conifères
+P1_RWIN_LT_C	Bois rond industriel - bois long, conifères
+P1_RWIN_ST_C	Bois rond industriel - bois de trituration et bois empilé, conifères
+P1_RWIN_O_C	Bois rond industriel - autres bois d'oeuvre, conifères
+P1_RWIN_NC	Bois rond industriel - feuillus
+P1_RWIN_LT_NC	Bois rond industriel - bois long, feuillus
+P1_RWIN_ST_NC	Bois rond industriel - bois de trituration et bois empilé, feuillus
+P1_RWIN_O_NC	Bois rond industriel - autres bois d'oeuvre, feuillus
+P1_RWIN_TNC	Bois rond industriel - tropicaux, feuillus
+P1_NW	Produits non ligneux
+P1_NW_CO	Produits non-ligneux - liège
+P1_NW_FN	Produits non-ligneux - plants de pépinière forestière
+P1_NW_O	Produits non-ligneux - autres produits
+P1_SERV	Production de services spécifiques à la sylviculture
+P1_PTR	Plantations d'arbres en vue d'obtenir un revenu régulier
+P1_SEC	Produits issus d'activités secondaires connexes dans l'UAE locale
+P1_SECTRF	Transformation des produits  issus d'activités secondaires connexes
+P1_OSEC	Autres activités secondaires non séparables (biens et services)
+P1_O	Autres produits
+P2	Consommation intermédiaire
+P2_GD	Consommation de biens
+P2_TR_PL	Arbres, plants et semences d'arbres forestiers
+P2_NRG	Energie, lubrifiants
+P2_NRG_E	Energie, lubrifiants - électricité
+P2_NRG_G	Energie, lubrifiants - gaz
+P2_NRG_OFP	Energie, lubrifiants - autres combustibles et carburants
+P2_NRG_O	Energie, lubrifiants - autres
+P2_FERT	Engrais et amendements
+P2_PPP	Produits de protection des cultures et pesticides
+P2_SERV	Consommation de services
+P2_FL	Consommation de services spécifiques à la sylviculture
+P2_MREQ	Entretien régulier et réparation du matériel
+P2_MBL	Entretien de bâtiments
+P2_FISIM	Services d'intermédiation financière indirectement mesurés (SIFIM)
+P2_O	Autres consommation de produits
+B1G	Valeur ajoutée brute
+P51C	Consommation de capital fixe
+P51C_EQ	Consommation de capital fixe - biens d'équipement
+P51C_BL	Consommation de capital fixe - constructions
+B1N	Valeur ajoutée nette
+D29	Autres impôts sur la production
+D39	Autres subventions sur la production
+FI	Revenu des facteurs
+D1	Rémunération des salariés
+B2A3N	Excédent net d'exploitation et revenus mixtes
+D4	Revenus de la propriété nets
+D4_RENT_PA	Fermages
+D4_INT_PA	Intérêts à payer
+D4_INT_RE	Intérêts perçus
+B4N	Revenu d'entreprise net
+P51G	Formation brute de capital fixe (hors TVA déductible)
+P51G_PTR	FBCF - plantations en vue d'un revenu régulier
+P51G_NF	FBCF - produits non sylvicoles
+P51G_EQBL	FBCF - matériel et bâtiments
+P51G_BL	FBCF - bâtiments servant à l'exploitation forestière (non résidentiels)
+P51G_MAT	FBCF - matériels
+P51G_MAC	FBCF - machines et autres matériels
+P51G_TRA	FBCF - matériel de transport
+P51G_FIX	FBCF - actifs fixes incorporels (e.g. logiciels informatiques)
+P51G_NFP	FBCF - addition à la valeur des actifs non financiers non produits
+P51G_IMP	FBCF - amélioration majeure des terres
+P51G_COS	FBCF - coûts liés au transfert de propriété de terrains et de droits de production
+P51G_O	Autre formation brute de capital fixe
+P51N	Formation nette de capital fixe (hors TVA déductible)
+P52	Variations de stocks
+P52_PRO	Variation des stocks de travaux en cours
+P52_O	Autres variations de stocks
+D9	Transferts en capital (net)
+D9_INV	Aides à l'investissement
+D9_O	Autres transferts en capital

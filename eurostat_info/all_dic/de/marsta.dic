@@ -1,0 +1,23 @@
+TOTAL	Insgesamt
+SIN	Alleinstehende Personen (nie eine gesetzlich geregelte Partnerschaft eingegangen)
+LUN	Personen in einer gesetzlich geregelten Partnerschaft (verheiratet oder in einer geregelten Partnerschaft)
+MAR	Verheiratete Personen
+MARO	Personen, die in einer verschiedengeschlechtlichen Ehe leben
+MARS	Personen, die in einer gleichgeschlechtlichen Ehe leben
+REP	Personen in einer geregelten Partnerschaft
+REPO	Personen, die in einer eingetragenen verschiedengeschlechtlichen Partnerschaft leben
+REPS	Personen, die in einer eingetragenen gleichgeschlechtlichen Partnerschaft leben
+CSU	Personen in einer eheähnlichen Gemeinschaft
+DTHLUN	Personen deren gesetzlich geregelte Partnerschaft durch den Tod des Partners beendet wurde
+WID	Verwitwete Personen
+DTHREP	Personen deren geregelte Partnerschaft durch den Tod des Partners beendet wurde
+DISLUN	Personen deren gesetzlich geregelte Partnerschaft rechtswirksam aufgelöst wurde
+DIV	Geschiedene Personen
+DISREP	Personen deren geregelte Partnerschaft rechtswirksam aufgelöst wurde
+SEP	Rechtswirksam getrennt lebende Personen
+NLUN	Personen weder verheiratet noch in einer geregelten Partnerschaft
+ENDLUN	Personen deren gesetzlich geregelte Partnerschaft beendet wurde
+NMAR	Nicht verheiratete Personen
+NLUN_NCSU	Personen weder in einer gesetzlich geregelten Partnerschaft noch in einer eheähnlichen Gemeinschaft
+UNK	Personen deren Familienstand unbekannt ist
+NRP	Keine Antwort

@@ -1,0 +1,206 @@
+TOTAL	Superficie totale
+LAND	Superficie terrestre
+DZT	Zones affectées par la désertification
+PRY_A00	Productivité des sols artificiels
+A00	Sol artificiel
+A10	Zone bâtie
+A11	Bâtiments de 1 à 3 étages
+A12	Bâtiments de plus de 3 étages
+A13	Serres
+A20	Zone artificielle non-bâtie
+A21	Élément de surface artificielle non-bâtie
+A22	Élément linéaire artificiel non-bâti
+A30	Autres zones artificielles
+B00	Sol cultivé
+B00_PI	Cultures photo-interprétées
+B10-50_PI	Cultures non-permanentes photo-interprétées
+B70-80_PI	Cultures permanentes photo-interprétées
+B10	Céréales
+B11	Blé tendre
+B12	Blé dur
+B13	Orge
+B14	Seigle
+B15	Avoine
+B16	Maïs
+B17	Riz
+B18	Triticale
+B19	Autres céréales
+B20	Légumes-racines et tubercules
+B21	Pommes de terre
+B22	Betterave à sucre
+B23	Autres légumes-racines et tubercules
+B30	Plantes industrielles non-permanentes
+B31	Tournesol
+B32	Colza et navette
+B33	Soja
+B34	Coton
+B35	Autres plantes à fibres et oléagineuses
+B36	Tabac
+B37	Autres plantes industrielles non-permanentes
+B40	Légumes secs, légumes frais et plantes ornementales
+B41	Légumes secs
+B42	Tomates
+B43	Autres légumes frais
+B44	Floriculture et plantes ornementales
+B45	Fraises
+B50	Plantes fourragères
+FOA_NFOA	Surfaces fourragères et surfaces non fourragères
+FOA	Surfaces fourragères
+NFOA	Surfaces non fourragères
+B51	Trèfle
+B52	Luzerne
+B53	Autres légumineuses et mélanges pour fourrage
+B54	Céréales mélangées pour fourrage
+B55	Prairies temporaires
+B70	Arbres fruitiers et baies
+B71	Pommiers
+B72	Poiriers
+B73	Cerisiers
+B74	Noyers
+B75	Autres arbres fruitiers et baies
+B76	Orangers
+B77	Autres agrumes
+B80	Autres plantes permanentes
+B81	Oliviers
+B82	Vignes
+B83	Pépinières
+B84	Plantes industrielles permanentes
+C00	Terre boisée
+TOT_FAO	Forêt et autres terres boisées (FAO)
+FOR_FAO	Forêt (FAO)
+OWL_FAO	Autres terres boisées (FAO)
+OWL_NFAO	Autres terres boisées (non FAO)
+C10	Forêts et bosquets de feuillus
+C20	Forêts et bosquets de conifères
+C21	Forêts et bosquets dominés par des épicéas
+C22	Forêts et bosquets dominés par des pins
+C23	Autres forêts et bosquets de conifères
+C30	Forêts et bosquets mixtes
+C31	Forêts et bosquets mixtes dominés par des épicéas
+C32	Forêts et bosquets mixtes dominés par des pins
+C33	Autres forêts et bosquets
+D00	Lande et friche
+D10	Lande arborée
+D20	Lande non-arborée
+E00	Prairie
+E10	Prairie avec arbres ou arbustes épars
+E20	Prairie sans arbres ni arbustes
+E30	Végétation spontanée
+F00	Sol nu
+F10	Roches et pierres
+F20	Sable
+F30	Lichens et mousses
+F40	Autres sols nus
+G00	Eaux
+G10	Eaux intérieures
+G11	Eaux intérieures (eaux douces)
+G12	Eaux intérieures (eaux salées)
+G20	Eaux intérieures courantes
+G21	Eaux intérieures courantes (eaux douces)
+G22	Eaux intérieures courantes (eaux salées)
+G30	Eaux de transition
+G40	Mer et océan
+G50	Glacier, neige permanente
+H00	Zone humide
+H10	Zone humide intérieure
+H11	Marais intérieur
+H12	Tourbière
+H20	Zone humide côtière
+H21	Marais salant
+H22	Salines et autres dépôts chimiques
+H23	Zone intertidale
+RAT_LAND	Rapport entre le taux d'occupation des sols et le taux de croissance de la population (nombre)
+LC	Total de l'occupation des sols
+LCA	Sol artificiel
+LCB	Sol cultivé
+LCC	Terres boisées
+LCD	Lande et friche
+LCE	Prairie
+LCF	Sol nu
+LCG	Eaux
+LCH	Zone humide
+LCA1	Zone bâtie
+LCA2	Zone artificielle non-bâtie
+LCA3	Autres zones artificielles
+LCB1	Céréales
+LCB2	Légumes-racines et tubercules
+LCB3	Plantes industrielles non-permanentes
+LCB4	Légumes secs, légumes frais et plantes ornementales
+LCB5	Plantes fourragères
+LCB7	Arbres fruitiers et baies
+LCB8	Autres plantes permanentes
+LCBX	Cultures photo-interprétées
+LCC10	Forêts et bosquets de feuillus
+LCC20	Forêts et bosquets de conifères
+LCC30	Forêts et bosquets mixtes
+LCC1	Forêt FAO
+LCC2	Autres terres boisées FAO
+LCC1_2	Forêt et autres terres boisées FAO
+LCC3	Autres terres boisées Non FAO
+LCD1	Lande arborée
+LCD2	Lande non-arborée
+LCE1	Prairie avec arbres ou arbustes épars
+LCE2	Prairie sans arbres ni arbustes
+LCE3	Végétation spontanée
+LCG1	Eaux intérieures
+LCG2	Eaux intérieures courantes
+LCG3	Eaux de transition
+LCG5	Glacier, neige permanente
+LCH1	Zone humide intérieure
+LCH2	Zone humide côtière
+LCA11	Bâtiments de 1 à 3 étages
+LCA12	Bâtiments de plus de 3 étages
+LCA13	Serres
+LCA21	Élément de surface artificielle non-bâtie
+LCA22	Élément linéaire artificiel non-bâti
+LCA30	Autres surfaces artificialisées
+LCB11	Blé tendre
+LCB12	Blé dur
+LCB13	Orge
+LCB14	Seigle
+LCB15	Avoine
+LCB16	Maïs
+LCB17	Riz
+LCB18	Triticale
+LCB19	Autres céréales
+LCB21	Pommes de terre
+LCB22	Betterave à sucre
+LCB23	Autres légumes-racines et tubercules
+LCB31	Tournesol
+LCB32	Colza et navette
+LCB33	Soja
+LCB34	Coton
+LCB35	Autres plantes à fibres et oléagineuses
+LCB36	Tabac
+LCB37	Autres plantes industrielles non-permanentes
+LCB41	Légumes secs
+LCB42	Tomates
+LCB43	Autres légumes frais
+LCB44	Floriculture et plantes ornementales
+LCB45	Fraises
+LCB51	Trèfle
+LCB52	Luzerne
+LCB53	Autres légumineuses et mélanges pour fourrage
+LCB54	Céréales mélangées pour fourrage
+LCB55	Prairies temporaires
+LCBX1	Cultures non-permanentes photo-interprétées
+LCB71	Pommiers
+LCB72	Poiriers
+LCB73	Cerisiers
+LCB74	Noyers
+LCB75	Autres arbres fruitiers et baies
+LCB76	Orangers
+LCB77	Autres agrumes
+LCB81	Oliviers
+LCB82	Vignes
+LCB83	Pépinières
+LCB84	Plantes industrielles permanentes
+LCBX2	Cultures permanentes photo-interprétées
+LCH11	Marais intérieur
+LCH12	Tourbière
+LCH21	Marais salant
+LCH22	Salines et autres dépôts chimiques
+LCH23	Zone intertidale
+B1GQ_LCA	Productivité des sols artificiels
+B1GM_LCA1	Productivité des zones artificielles bâties
+B1GM_LCA2	Productivité des zones artificielles non bâties

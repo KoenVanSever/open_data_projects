@@ -1,0 +1,224 @@
+C1040	Céréales pour la production de grains (riz et semence compris)
+C1050	Céréales (à lexception du riz)
+C1100	Blé (épeautre compris)
+C1120	Blé tendre et épeautre
+C1123	Blé tendre dhiver
+C1124	Blé tendre de printemps
+C1130	Blé dur
+C1133	Blé dur d'hiver
+C1134	Blé dur de printemps
+C1140	Seigle et méteil
+C1150	Seigle
+C1151	Seigle d'hiver
+C1152	Seigle de printemps
+C1155	Méteil
+C1160	Orge
+C1163	Orge d'hiver
+C1164	Orge de printemps
+C1170	Avoine et mélanges de céréales dété
+C1180	Avoine
+C1185	Mélanges de céréales dété
+C1201	Maïs-grain et corn-cob-mix
+C1200	Maïs-grain
+C1202	Corn-cob-mix
+C1211	Sorgho
+C1212	Triticale
+C1213	Triticale d'hiver
+C1219	Millet, sarrasin, alpiste (autres céréales)
+C1250	Riz
+C1251	Riz Indica
+C1252	Riz Japonica
+C1300	Légumes secs et cultures protéagineuses pour la production de grains (y compris les semences et les mélanges de légumes secs et de céréales)
+C1320	Pois protéagineux
+C1335	Fèves et féveroles
+C1343	Lupins doux
+C1345	Autres légumineuses sèches n.c.a.
+C1350	Plantes sarclées
+C1360	Pommes de terre (y compris les primeurs et les plants)
+C1362	Pommes de terre primeurs
+C1363	Autres pommes de terre
+C1370	Betterave sucrière (à lexception des semences)
+C1380	Autres plantes sarclées n.c.a.
+C1381	Betteraves fourragères
+C1400	Plantes industrielles
+C1410	Plantes oléagineuses
+C1415	Plantes oléagineuses principales
+C1420	Colza et navette
+C1430	Colza
+C1431	Colza dhiver
+C1432	Colza d'été
+C1440	Navette
+C1450	Graines de tournesol
+C1460	Graines de lin (lin oléagineux)
+C1470	Soja
+C1490	Graines de coton
+C1480	Autres plantes oléagineuses n.c.a.
+C1500	Plantes à fibres
+C1520	Lin textile
+C1530	Chanvre
+C1540	Fibres de coton
+C1510	Autres plantes à fibres n.c.a.
+C1550	Tabac
+C1560	Houblon
+C1570	Autres plantes industrielles
+C1571	Chicorée à café
+C1572	Chicorée pour inuline
+C1580	Plantes aromatiques, médicinales et à usages culinaires
+C1582	Cumin
+C1589	Autres plantes industrielles n.c.a.
+C2600	Fourrages - Total
+C2610	Plantes récoltées en vert
+C2611	Plantes annuelles récoltées en vert
+C2625	Maïs vert
+C2626	Céréales récoltées en vert
+C2612	Autres plantes annuelles récoltées en vert n.c.a.
+C2670	Plantes légumineuses
+C2671	Trèfles et mélanges
+C2672	Luzerne
+C2673	Autres légumineuses fourragères n.c.a.
+C2680	Prairies et pâturages temporaires
+C2681	Prairies temporaires
+C2682	Pâturages temporaires
+C0002	Praires permanentes
+C2710	Prairies permanentes
+C2720	Pâturages permanents
+C2721	Herbages
+C2722	Parcours, landes, alpages
+C1590	Cultures énergétiques n.c.a.
+C1600	Légumes, melons et fraises (à lexception des jardins familiaux)
+C1609	Légumes frais - Total
+C1610	Choux potagers
+C1620	Choux fleurs et brocolis
+C1631	Choux de Bruxelles
+C1635	Choux blancs
+C1650	Choux raves
+C1655	Autres choux n.c.a.
+C1660	Légumes à feuilles ou à tiges (à lexception des choux)
+C1670	Céleris (rave et branche)
+C1672	Céleris
+C1675	Poireaux
+C1680	Laitues
+C1681	Laitues cultivées sous serre ou sous autre abri accessible
+C1685	Chicorées endives (frisées et scaroles)
+C1690	Épinards
+C1700	Asperges
+C1710	Chicorées amères
+C1720	Artichauts
+C1725	Autres légumes à feuilles ou à tiges n.c.a.
+C1740	Légumes cultivés pour le fruit
+C1750	Tomates
+C1751	Tomates destinées à la consommation en frais
+C1752	Tomates destinées à la consommation en frais cultivées sous serre ou sous autre abri accessible
+C1761	Concombres
+C1762	Concombres cultivés sous serre ou sous autre abri accessible
+C1766	Cornichons
+C1780	Aubergines, courges, courgettes, citrouilles
+C1781	Aubergines
+C1786	Courges et citrouilles
+C1785	Courges, courgettes, citrouilles
+C1787	Courgettes
+C1790	Poivrons et piments
+C1791	Poivrons et piments cultivés sous serre ou sous autre abri accessible
+C1799	Autres légumes cultivés pour le fruit n.c.a.
+C1800	Légumes à racines, bulbes et tubercules
+C1810	Choux raves
+C1820	Navets potagers
+C1830	Carottes
+C1840	Ail
+C1851	Oignons
+C1855	Échalotes
+C1860	Betteraves potagères
+C1870	Salsifis et scorsonères
+C1872	Céleris raves
+C1877	Radis
+C1884	Autres légumes à racines, bulbes et tubercules n.c.a
+C1885	Légumes à cosses
+C1890	Petits pois
+C1901	Haricots verts
+C1905	Autres légumes à cosses n.c.a.
+C1920	Autres légumes frais n.c.a.
+C1771	Melons
+C1770	Melons et Fraises
+C1777	Pastèques
+C2260	Fraises
+C2261	Fraises cultivées sous serre ou sous autre abri accessible
+C1910	Champignons cultivés
+C2992	Légumes des jardins familiaux
+C1601	Légumes, melons et fraises (jardins familiaux compris)
+C2696	Engrais verts, jachères
+C2002	Fruits frais (bilans d'approvisionnement)
+C2007	Cultures permanentes
+C2008	Fruits de table (ne sont pas comprises les olives, raisins secs, raisins de cuve, produits de cueillette, fruits des jardins familiaux et pommes et poires autres que de table)
+C2040	Arbres fruitiers (sauf olives et agrumes)
+C2090	Pommes
+C2110	Pommes destinées à la consommation en frais
+C2112	Golden Delicious
+C2113	Autres pommes destinées à la consommation en frais
+C2095	Poires
+C2130	Poires destinés à la consommation en frais
+C2132	Poires d'été
+C2170	Fruits à noyau
+C2180	Pêches
+C2221	Nectarines
+C2190	Abricots
+C2200	Cerises
+C2201	Cerises acides
+C2210	Prunes
+C9000	Dattes
+C2229	Autres fruits à noyau
+C2270	Baies (à lexception des fraises)
+C2271	Groseilles et cassis
+C2272	Cassis
+C2275	Groseilles rouges
+C2278	Framboises
+C2281	Groseilles à maquereau
+C2290	Autres baies n.c.a.
+C2230	Fruits à coque
+C2231	Noix
+C2232	Noisettes
+C2233	Amandes
+C2236	Châtaignes
+C2240	Autres fruits à coque n.c.a.
+C2250	Autres fruits de plantes ligneuses
+C2251	Figues
+C2285	Kiwis
+C2253	Avocats
+C2254	Bananes
+C2252	Coings
+C2259	Autres fruits de plantes ligneuses n.c.a.
+C2300	Agrumes
+C2380	Pomélos et pamplemousses
+C2370	Citrons et citrons verts
+C2371	Citrons jaunes
+C2372	Citrons verts
+C2321	Oranges à pulpe blonde du groupe des Navel
+C2322	Oranges à pulpe blonde autres que Navel
+C2323	Oranges sanguines et semi-sanguines et autres oranges douces
+C2324	Autres oranges douces
+C2320	Oranges
+C2340	Petits agrumes
+C2350	Mandarines
+C2352	Satsumas
+C2360	Clémentines
+C2390	Autres agrumes n.c.a.
+C2410	Vigne
+C2420	Vigne servant à produire du raisin de table
+C2415	Raisins frais
+C2416	Vigne servant à produire du raisin sec
+C2417	Raisins de table (utilisation 'cuve')
+C2440	Vigne destinée à la production de vin
+C2441	Vigne destinée à la production de vin à appellation dorigine protégée
+C2442	Vigne destinée à la production de vin à indication géographique protégée
+C2443	Vigne destinée à la production d'autres vins
+C2445	Vigne servant à produire d'autres raisins n.c.a.
+C2447	Raisins de cuve (utilisation 'table')
+C2450	Oliviers
+C2460	Oliviers servant à produire des olives de table
+C2470	Oliviers servant à produire de lhuile dolive
+C2810	Pépinières
+C2960	Plantes à tresser : oseraies, bambous, jonc, rotin, peuplier du Canada
+C2480	Autres cultures permanentes n.c.a.
+C2993	Fruits des jardins familiaux
+C2009	Cultures permanentes (jardins familiaux inclus)
+C3718	Produits de cueillette
+C3719	Produits de cueillette

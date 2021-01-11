@@ -1,0 +1,717 @@
+DE1001V	Bevölkerung am 1. Januar, insgesamt
+DE1002V	Bevölkerung am 1. Januar, männlich
+DE1003V	Bevölkerung am 1. Januar, weiblich
+DE1040V	Bevölkerung am 1. Januar im Alter von 0 bis 4 Jahren, insgesamt
+DE1041V	Bevölkerung am 1. Januar im Alter von 0 bis 4 Jahren, männlich
+DE1042V	Bevölkerung am 1. Januar im Alter von 0 bis 4 Jahren, weiblich
+DE1074V	Bevölkerung am 1. Januar im Alter von 5 bis 9 Jahren, insgesamt
+DE1075V	Bevölkerung am 1. Januar im Alter von 5 bis 9 Jahren, männlich
+DE1076V	Bevölkerung am 1. Januar im Alter von 5 bis 9 Jahren, weiblich
+DE1077V	Bevölkerung am 1. Januar im Alter von 10 bis 14 Jahren, insgesamt
+DE1078V	Bevölkerung am 1. Januar im Alter von 10 bis 14 Jahren, männlich
+DE1079V	Bevölkerung am 1. Januar im Alter von 10 bis 14 Jahren, weiblich
+DE1046V	Bevölkerung am 1. Januar im Alter von 15 bis 19 Jahren, insgesamt
+DE1047V	Bevölkerung am 1. Januar im Alter von 15 bis 19 Jahren, männlich
+DE1048V	Bevölkerung am 1. Januar im Alter von 15 bis 19 Jahren, weiblich
+DE1049V	Bevölkerung am 1. Januar im Alter von 20 bis 24 Jahren, insgesamt
+DE1050V	Bevölkerung am 1. Januar im Alter von 20 bis 24 Jahren, männlich
+DE1051V	Bevölkerung am 1. Januar im Alter von 20 bis 24 Jahren, weiblich
+DE1101V	Bevölkerung am 1. Januar im Alter von 25 bis 29 Jahren, insgesamt
+DE1102V	Bevölkerung am 1. Januar im Alter von 25 bis 29 Jahren, männlich
+DE1103V	Bevölkerung am 1. Januar im Alter von 25 bis 29 Jahren, weiblich
+DE1058V	Bevölkerung am 1. Januar im Alter von 25 bis 34 Jahren, insgesamt
+DE1059V	Bevölkerung am 1. Januar im Alter von 25 bis 34 Jahren, männlich
+DE1060V	Bevölkerung am 1. Januar im Alter von 25 bis 34 Jahren, weiblich
+DE1104V	Bevölkerung am 1. Januar im Alter von 30 bis 34 Jahren, insgesamt
+DE1105V	Bevölkerung am 1. Januar im Alter von 30 bis 34 Jahren, männlich
+DE1106V	Bevölkerung am 1. Januar im Alter von 30 bis 34 Jahren, weiblich
+DE1107V	Bevölkerung am 1. Januar im Alter von 35 bis 39 Jahren, insgesamt
+DE1108V	Bevölkerung am 1. Januar im Alter von 35 bis 39 Jahren, männlich
+DE1109V	Bevölkerung am 1. Januar im Alter von 35 bis 39 Jahren, weiblich
+DE1061V	Bevölkerung am 1. Januar im Alter von 35 bis 44 Jahren, insgesamt
+DE1062V	Bevölkerung am 1. Januar im Alter von 35 bis 44 Jahren, männlich
+DE1063V	Bevölkerung am 1. Januar im Alter von 35 bis 44 Jahren, weiblich
+DE1110V	Bevölkerung am 1. Januar im Alter von 40 bis 44 Jahren, insgesamt
+DE1111V	Bevölkerung am 1. Januar im Alter von 40 bis 44 Jahren, männlich
+DE1112V	Bevölkerung am 1. Januar im Alter von 40 bis 44 Jahren, weiblich
+DE1113V	Bevölkerung am 1. Januar im Alter von 45 bis 49 Jahren, insgesamt
+DE1114V	Bevölkerung am 1. Januar im Alter von 45 bis 49 Jahren, männlich
+DE1115V	Bevölkerung am 1. Januar im Alter von 45 bis 49 Jahren, weiblich
+DE1064V	Bevölkerung am 1. Januar im Alter von 45 bis 54 Jahren, insgesamt
+DE1065V	Bevölkerung am 1. Januar im Alter von 45 bis 54 Jahren, männlich
+DE1066V	Bevölkerung am 1. Januar im Alter von 45 bis 54 Jahren, weiblich
+DE1116V	Bevölkerung am 1. Januar im Alter von 50 bis 54 Jahren, insgesamt
+DE1117V	Bevölkerung am 1. Januar im Alter von 50 bis 54 Jahren, männlich
+DE1118V	Bevölkerung am 1. Januar im Alter von 50 bis 54 Jahren, weiblich
+DE1119V	Bevölkerung am 1. Januar im Alter von 55 bis 59 Jahren, insgesamt
+DE1120V	Bevölkerung am 1. Januar im Alter von 55 bis 59 Jahren, männlich
+DE1121V	Bevölkerung am 1. Januar im Alter von 55 bis 59 Jahren, weiblich
+DE1025V	Bevölkerung am 1. Januar im Alter von 55 bis 64 Jahren, insgesamt
+DE1026V	Bevölkerung am 1. Januar im Alter von 55 bis 64 Jahren, männlich
+DE1027V	Bevölkerung am 1. Januar im Alter von 55 bis 64 Jahren, weiblich
+DE1122V	Bevölkerung am 1. Januar im Alter von 60 bis 64 Jahren, insgesamt
+DE1123V	Bevölkerung am 1. Januar im Alter von 60 bis 64 Jahren, männlich
+DE1124V	Bevölkerung am 1. Januar im Alter von 60 bis 64 Jahren, weiblich
+DE1125V	Bevölkerung am 1. Januar im Alter von 65 bis 69 Jahren, insgesamt
+DE1126V	Bevölkerung am 1. Januar im Alter von 65 bis 69 Jahren, männlich
+DE1127V	Bevölkerung am 1. Januar im Alter von 65 bis 69 Jahren, weiblich
+DE1028V	Bevölkerung am 1. Januar im Alter von 65 bis 74 Jahren, insgesamt
+DE1029V	Bevölkerung am 1. Januar im Alter von 65 bis 74 Jahren, männlich
+DE1030V	Bevölkerung am 1. Januar im Alter von 65 bis 74 Jahren, weiblich
+DE1128V	Bevölkerung am 1. Januar im Alter von 70 bis 74 Jahren, insgesamt
+DE1129V	Bevölkerung am 1. Januar im Alter von 70 bis 74 Jahren, männlich
+DE1130V	Bevölkerung am 1. Januar im Alter von 70 bis 74 Jahren, weiblich
+DE1131V	Bevölkerung am 1. Januar im Alter von 75 bis 79 Jahren, insgesamt
+DE1132V	Bevölkerung am 1. Januar im Alter von 75 bis 79 Jahren, männlich
+DE1133V	Bevölkerung am 1. Januar im Alter von 75 bis 79 Jahren, weiblich
+DE1055V	Bevölkerung am 1. Januar im Alter von 75 Jahren und älter, insgesamt
+DE1056V	Bevölkerung am 1. Januar im Alter von 75 Jahren und älter, männlich
+DE1057V	Bevölkerung am 1. Januar im Alter von 75 Jahren und älter, weiblich
+DE1134V	Bevölkerung am 1. Januar im Alter von 80 bis 84 Jahren, insgesamt
+DE1135V	Bevölkerung am 1. Januar im Alter von 80 bis 84 Jahren, männlich
+DE1136V	Bevölkerung am 1. Januar im Alter von 80 bis 84 Jahren, weiblich
+DE1137V	Bevölkerung am 1. Januar im Alter von 85 Jahren und älter, insgesamt
+DE1138V	Bevölkerung am 1. Januar im Alter von 85 Jahren und älter, männlich
+DE1139V	Bevölkerung am 1. Januar im Alter von 85 Jahren und älter, weiblich
+DE4001V	Bevölkerung mit dem selben Wohnsitz im Vorjahr
+DE4002V	Bevölkerung mit einem anderen Wohnsitz im Vorjahr in der selben Stadt/im selben funktionalen Stadtgebiet
+DE4003V	Bevölkerung mit Wohnsitz im Vorjahr außerhalb der selben/des selben funktionalen Stadtgebiets, im selben Land
+DE4004V	Bevölkerung mit Wohnsitz im Vorjahr in einem anderen EU-Land
+DE4005V	Bevölkerung mit Wohnsitz im Vorjahr außerhalb der EU
+DE1073V	Medianalter der Bevölkerung
+DE2001V	Eigene Staatsangehörige
+DE2002V	EU-Ausländer
+DE2003V	Nicht-EU-Ausländer
+DE2008V	Im Inland geboren
+DE2009V	Im Ausland geboren
+DE2010V	Im EU-Ausland geboren
+DE2011V	Im Nicht-EU-Ausland geboren
+DE2012V	Ausländer
+DE3001V	Private Haushalte (ausgenommen Anstaltshaushalte)
+DE3017V	In privaten Haushalten lebende Bevölkerung (ausgenommen Anstaltshaushalte)
+DE3002V	Einpersonenhaushalte
+DE3005V	Private Haushalte von Alleinerziehenden (mit Kindern unter 18 Jahren)
+DE3008V	Einpersonenhaushalte von Rentnern (über dem Rentenalter)
+DE3011V	Haushalte mit Kindern unter 18 Jahren
+SA1001V	Herkömmliche Wohnungen
+SA1004V	Bestand an Ein- und Zweifamilienhäusern
+SA1005V	Geschosswohnungsbestand
+SA1007V	Haushalte in Ein- und Zweifamilienhäusern
+SA1008V	Haushalte in Geschosswohnungen
+SA1011V	Eigentümerhaushalte
+SA1012V	Mieterhaushalte in Sozialwohnungen
+SA1013V	Mieterhaushalte in freifinanzierten Wohnungen
+SA1029V	Bewohner in Obdachlosenheimen
+SA1050V	Durchschnittlicher Kaufpreis für Ein- oder Zweifamilienhäuser - EUR
+SA1051V	Durchschnittlicher Kaufpreis für Geschosswohnungen - EUR
+SA1049V	Durchschnittliche Jahresmiete für Wohnraum pro m² - EUR
+SA1018V	Wohnungen mit Mängeln in der Grundausstattung
+SA1025V	Leerstehende herkömmliche Wohnungen
+SA1022V	Durchschnittliche Wohnfläche - m² pro Person
+SA2004V	Säuglingssterblichkeit
+SA2007V	Lebendgeborene
+SA2013V	Sterbefälle aufgrund von Krankheiten des Kreislauf- oder Atmungssystems bei Personen unter 65 Jahren
+SA2016V	Sterbefälle bei Personen unter 65 Jahren
+SA2017V	Sterbefälle bei Personen unter 65 Jahren, männlich
+SA2018V	Sterbefälle bei Personen unter 65 Jahren, weiblich
+SA2019V	Sterbefälle
+SA2020V	Sterbefälle, männlich
+SA2021V	Sterbefälle, weiblich
+SA3005V	Mord- und Totschlagsfälle
+EC1001V	Erwerbsbevölkerung, insgesamt
+EC1002V	Erwerbsbevölkerung, männlich
+EC1003V	Erwerbsbevölkerung, weiblich
+EC1174V	Erwerbsbevölkerung im Alter von 20 bis 64 Jahren, insgesamt
+EC1175V	Erwerbsbevölkerung im Alter von 20 bis 64 Jahren, männlich
+EC1176V	Erwerbsbevölkerung im Alter von 20 bis 64 Jahren, weiblich
+EC1145V	Erwerbsbevölkerung im Alter von 55 bis 64 Jahren, insgesamt
+EC1146V	Erwerbsbevölkerung im Alter von 55 bis 64 Jahren, männlich
+EC1147V	Erwerbsbevölkerung im Alter von 55 bis 64 Jahren, weiblich
+EC1010V	Erwerbslose, insgesamt
+EC1011V	Erwerbslose, männlich
+EC1012V	Erwerbslose, weiblich
+EC1177V	Erwerbslose im Alter von 20 bis 64 Jahren, insgesamt
+EC1178V	Erwerbslose im Alter von 20 bis 64 Jahren, männlich
+EC1179V	Erwerbslose im Alter von 20 bis 64 Jahren, weiblich
+EC1180V	Erwerbslose im Alter von 55 bis 64 Jahren, insgesamt
+EC1181V	Erwerbslose im Alter von 55 bis 64 Jahren, männlich
+EC1182V	Erwerbslose im Alter von 55 bis 64 Jahren, weiblich
+EC2021V	Alle Unternehmen
+EC2039V	Anzahl der örtlichen Einheiten - alle Wirtschaftszweige
+EC2020V	Erwerbstätige/Arbeitsplätze (bezogen auf den Arbeitsort), insgesamt
+EC2008V	Erwerbstätige (Arbeitsplätze) in Landwirtschaft und Fischerei (NACE Rev. 2, A)
+EC2009V	Erwerbstätige (Arbeitsplätze) in Bergbau, Verarbeitendem Gewerbe und Energieversorgung (NACE Rev. 2, B bis E)
+EC2022V	Erwerbstätige (Arbeitsplätze) im Bau (NACE Rev. 2, F)
+EC2032V	Erwerbstätige (Arbeitsplätze) im Handel, in Verkehr und in Beherbergungs- und Gaststätten (NACE Rev. 2, G bis I)
+EC2033V	Erwerbstätige (Arbeitsplätze) in Information und Kommunikation (NACE Rev. 2, J)
+EC2034V	Erwerbstätige (Arbeitsplätze) in der Erbringung von Finanz- und Versicherungsdienstleistungen (NACE Rev. 2, K)
+EC2035V	Erwerbstätige (Arbeitsplätze) im Grundstücks- und Wohnungswesen (NACE Rev. 2, L)
+EC2036V	Erwerbstätige (Arbeitsplätze) in der Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen sowie sonstigen wirtschaftlichen Dienstleistungen (NACE Rev. 2, M und N)
+EC2037V	Erwerbstätige (Arbeitsplätze) in öffentlicher Verwaltung und Verteidigung, in Erziehung und Unterricht und im Gesundheits- und Sozialwesen (NACE Rev. 2, O bis Q)
+EC2038V	Erwerbstätige (Arbeitsplätze) in Kunst, Unterhaltung und Erholung, in der Erbringung von sonstigen Dienstleistungen, in privaten Haushalten oder exterritorialen Organisationen und Körperschaften (NACE Rev. 2, R bis T)
+EC2030V	Bruttoinlandsprodukt der NUTS-3-Region in Mio. EUR
+EC2031V	Pro-Kopf-Bruttoinlandsprodukt der NUTS-3-Region in KKS
+EC3039V	Mittleres verfügbares Jahreseinkommen der privaten Haushalte (Median) - EUR
+EC3040V	Durchschnittliches verfügbares Jahreseinkommen der privaten Haushalte - EUR
+EC3064V	Anteil der in Haushalten mit sehr niedriger Erwerbsintensität lebende Personen - %
+EC3065V	Anteil der armutsgefährdete Personen nach Sozialtransfers - %
+EC3066V	Anteil der stark materiell benachteiligte Personen - %
+EC3067V	Anteil der von Armut oder sozialer Ausgrenzung bedrohte Personen - %
+TE1001V	Kinder im Alter von 0 bis 4 Jahren in Kindertagesstätten
+TE1039V	Anteil der frühzeitige Schul- und Ausbildungsabgänger, insgesamt - %
+TE1040V	Anteil der frühzeitige Schul- und Ausbildungsabgänger, männlich - %
+TE1041V	Anteil der frühzeitige Schul- und Ausbildungsabgänger, weiblich - %
+TE1026V	Studierende an Hochschuleinrichtungen (ISCED-Stufe 5-8, ab 2014), insgesamt
+TE1027V	Studierende an Hochschuleinrichtungen (ISCED-Stufe 5-8, ab 2014), männlich
+TE1028V	Studierende an Hochschuleinrichtungen (ISCED-Stufe 5-8, ab 2014), weiblich
+TE2025V	Personen (im Alter von 25 bis 64 Jahren) mit Abschluss auf ISCED-Stufe 0, 1 oder 2 als höchstem Bildungsabschluss
+TE2028V	Personen (im Alter von 25 bis 64 Jahren) mit Abschluss auf ISCED-Stufe 3 oder 4 als höchstem Bildungsabschluss
+TE2031V	Personen (im Alter von 25 bis 64 Jahren) mit Abschluss auf ISCED-Stufe 5, 6, 7 oder 8 als höchstem Bildungsabschluss, ab 2014
+EN1002V	Tägliche Sonnenscheindauer in Stunden
+EN1003V	Durchschnittstemperatur im wärmsten Monat - Grad
+EN1004V	Durchschnittstemperatur im kältesten Monat - Grad
+EN1005V	Niederschläge - Liter/m²
+EN2002V	Tage mit Konzentrationen von Ozon (O3) über 120 µg/m³
+EN2003V	Stunden mit Konzentrationen von Stickstoffdioxid (NO2) über 200 µg/m³
+EN2005V	Tage mit Partikelkonzentrationen (PM10) über 50 µg/m³
+EN2025V	Akkumulierte Ozonkonzentration über 70 µg/m³
+EN2026V	Jährliche Durchschnittskonzentration von NO2 (in µg/m³)
+EN2027V	Jährliche Durchschnittskonzentration von PM10 (in µg/m³)
+EN2030V	Tage mit Partikelkonzentrationen (PM2,5) über 50 µg/m³
+EN2033V	Gebietsansässige, die tagsüber einem Straßenverkehrslärmpegel von über 65 dB(A) ausgesetzt sind
+EN2035V	Gebietsansässige, die nachts einem Straßenverkehrslärmpegel von über 55 dB(A) ausgesetzt sind
+EN2032V	Gebietsansässige, die tagsüber einem Schienenverkehrslärmpegel (einschl. Straßenbahnen) von über 65 dB(A) ausgesetzt sind
+EN2036V	Gebietsansässige, die nachts einem Schienenverkehrslärmpegel (einschl. Straßenbahnen) von über 55 dB(A) ausgesetzt sind
+EN2028V	Gebietsansässige, die tagsüber einem Luftverkehrslärmpegel von über 65 dB(A) ausgesetzt sind
+EN2029V	Gebietsansässige, die nachts einem Luftverkehrslärmpegel von über 55 dB(A) ausgesetzt sind
+EN3003V	Wasserverbrauch, insgesamt - m³
+EN3012V	Anteil der Bevölkerung mit Trinkwasseranschluss - %
+EN3013V	Anteil der Bevölkerung mit Kanalanschluss - %
+EN3010V	Preis je m³ Wasser für private Haushalte - EUR
+EN3011V	Anteil der entsprechend den geltenden Standards behandelten kommunalen Abwasserbelastung (in EW)
+EN4008V	Erzeugte Siedlungsabfälle (Haushalts- und Gewerbeabfälle), insgesamt - 1000 t
+EN5015V	Wasser und Feuchtgebiete - km²
+EN5012V	Grünflächen - km²
+EN5016V	Landwirtschaftlich genutzte Fläche - km²
+EN5026V	Anderweitig genutzte Fläche - km²
+EN5001V	Öffentlich zugängliche Grünflächen - km²
+EN5109V	Verhältnis der administrativen Stadtgrenzen zur Reichweite des Stadtgebiets auf der Grundlage der Einwohnerzahl (qualitativer Indikator)
+EN5110V	Verhältnis der administrativen Stadtgrenzen zur Reichweite des Stadtgebiets auf der Grundlage der Fläche (qualitativer Indikator)
+EN5200V	Anteil (%): Flächen durchgängig städtischer Prägung
+EN5201V	Anteil (%): Flächen nicht-durchgängig städtischer Prägung
+EN5202V	Anteil (%): Industrie- und Gewerbeflächen
+EN5203V	Anteil (%): Verkehrsflächen
+EN5204V	Anteil (%): Sonstige künstlich angelegte Flächen
+EN5205V	Anteil (%): Städtische Grünflächen und Sport und Freizeitanlagen
+EN5206V	Anteil (%): Landwirtschaft
+EN5207V	Anteil (%): Wälder und naturnahe Flächen und Feuchtflächen
+TT1003V	Verkehrsmittel für den Arbeitsweg - Anteil Pkw - %
+TT1010V	Verkehrsmittel für den Arbeitsweg - Anteil öffentliche Verkehrsmittel (Eisenbahn, U-Bahn, Bus, Straßenbahn) - %
+TT1006V	Verkehrsmittel für den Arbeitsweg - Anteil Motorrad - %
+TT1007V	Verkehrsmittel für den Arbeitsweg - Anteil Fahrrad - %
+TT1008V	Verkehrsmittel für den Arbeitsweg - Anteil Fußgänger - %
+TT1012V	Verkehrsmittel für den Arbeitsweg - Anteil Pkw oder Motorrad - %
+TT1019V	Durchschnittliche Dauer des Arbeitswegs - Minuten
+TT1020V	Durchschnittliche Länge des mit dem privaten Pkw zurückgelegten Arbeitswegs - km
+TT1064V	Berufseinpendler ins Stadtgebiet
+TT1065V	Berufsauspendler aus dem Stadtgebiet
+TT1079V	Länge des Radwegenetzes (ausgewiesene Fahrradwege und -spuren) - km
+TT1080V	Preis einer kombinierten Monatskarte (alle öffentlichen Verkehrsmittel) für Fahrten ins Stadtzentrum von 5 bis 10 km - EUR
+TT1081V	Preis einer Taxifahrt aus einer Entfernung von 5 km in das Stadtzentrum (tagsüber) - EUR
+TT1057V	Zugelassene Privat-Pkw
+TT1060V	Bei Straßenverkehrsunfällen getötete Personen
+TT1071V	Erreichbarkeit im Luftverkehr (EU27_2007 = 100) - Index
+TT1072V	Erreichbarkeit im Schienenverkehr (EU27_2007 = 100) - Index
+TT1073V	Erreichbarkeit im Straßenverkehr (EU27_2007 = 100) - Index
+TT1074V	Erreichbarkeit im multimodalen Verkehr (EU27_2007 = 100) - Index
+CR1003V	Sitzplätze in Kinos (Kapazität insgesamt)
+CR1005V	Kinobesucher (im Jahr)
+CR1007V	Museumsbesucher (im Jahr)
+CR1008V	Theater
+CR1010V	Öffentliche Bibliotheken (alle Ausgabestellen)
+CR1015V	Öffentliche Schwimmbäder (Hallenbäder und Freibäder, ausgenommen Strandbäder)
+CR2001V	Gästeübernachtungen insgesamt (alle Arten von Beherbergungsbetrieben)
+CR2010V	Übernachtungen von Inländern in Touristenunterkünften
+CR2011V	Übernachtungen von Nichtinländern in Touristenunterkünften
+CR2009V	Gästebetten insgesamt (alle Arten von Beherbergungsbetrieben)
+CR2004V	Passagieraufkommen des nächstgelegenen Flughafens
+CR2005V	Passagieraufkommen des nächstgelegenen Flughafens - Ankünfte insgesamt
+CR2006V	Passagieraufkommen des nächstgelegenen Flughafens - Ankünfte im Inlandsverkehr
+CR2007V	Passagieraufkommen des nächstgelegenen Flughafens - Abflüge insgesamt
+CR2008V	Passagieraufkommen des nächstgelegenen Flughafens - Abflüge im Inlandsverkehr
+PS1012V	Der öffentliche Nahverkehr in der Stadt, z. B. von Bus, Straßenbahn und U-Bahn: Sehr zufrieden
+PS1013V	Der öffentliche Nahverkehr in der Stadt, z. B. von Bus, Straßenbahn und U-Bahn: Eher zufrieden
+PS1014V	Der öffentliche Nahverkehr in der Stadt, z. B. von Bus, Straßenbahn und U-Bahn: Eher unzufrieden
+PS1015V	Der öffentliche Nahverkehr in der Stadt, z. B. von Bus, Straßenbahn und U-Bahn: Überhaupt nicht zufrieden
+PS1016V	Der öffentliche Nahverkehr in der Stadt, z. B. von Bus, Straßenbahn und U-Bahn: Weiß nicht/keine Antwort
+PS1022V	Schulen in der Stadt: Sehr zufrieden
+PS1023V	Schulen in der Stadt: Eher zufrieden
+PS1024V	Schulen in der Stadt: Eher unzufrieden
+PS1025V	Schulen in der Stadt: Überhaupt nicht zufrieden
+PS1026V	Schulen in der Stadt: Weiß nicht/keine Antwort
+PS1501V	Schulen und andere Bildungseinrichtungen: äußerst zufrieden
+PS1502V	Schulen und andere Bildungseinrichtungen: eher zufrieden
+PS1503V	Schulen und andere Bildungseinrichtungen: eher unzufrieden
+PS1504V	Schulen und andere Bildungseinrichtungen: äußerst unzufrieden
+PS1505V	Schulen und andere Bildungseinrichtungen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS1032V	Medizinische Versorgungsdienstleistungen in Krankenhäusern in der Stadt: Sehr zufrieden
+PS1033V	Medizinische Versorgungsdienstleistungen in Krankenhäusern in der Stadt: Eher zufrieden
+PS1034V	Medizinische Versorgungsdienstleistungen in Krankenhäusern in der Stadt: Eher unzufrieden
+PS1035V	Medizinische Versorgungsdienstleistungen in Krankenhäusern in der Stadt: Überhaupt nicht zufrieden
+PS1036V	Medizinische Versorgungsdienstleistungen in Krankenhäusern in der Stadt: Weiß nicht/keine Antwort
+PS1042V	Medizinische Versorgungsdienstleistungen in Arztpraxen in der Stadt: Sehr zufrieden
+PS1043V	Medizinische Versorgungsdienstleistungen in Arztpraxen in der Stadt: Eher zufrieden
+PS1044V	Medizinische Versorgungsdienstleistungen in Arztpraxen in der Stadt: Eher unzufrieden
+PS1045V	Medizinische Versorgungsdienstleistungen in Arztpraxen in der Stadt: Überhaupt nicht zufrieden
+PS1046V	Medizinische Versorgungsdienstleistungen in Arztpraxen in der Stadt: Weiß nicht/keine Antwort
+PS1506V	Gesundheitsdienstleistungen, Ärzte und Krankenhäuser: äußerst zufrieden
+PS1507V	Gesundheitsdienstleistungen, Ärzte und Krankenhäuser: eher zufrieden
+PS1508V	Gesundheitsdienstleistungen, Ärzte und Krankenhäuser: eher unzufrieden
+PS1509V	Gesundheitsdienstleistungen, Ärzte und Krankenhäuser: äußerst unzufrieden
+PS1510V	Gesundheitsdienstleistungen, Ärzte und Krankenhäuser: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS1052V	Grünflächen wie öffentlichen Parkanlagen und Gärten: Sehr zufrieden
+PS1053V	Grünflächen wie öffentlichen Parkanlagen und Gärten: Eher zufrieden
+PS1054V	Grünflächen wie öffentlichen Parkanlagen und Gärten: Eher unzufrieden
+PS1055V	Grünflächen wie öffentlichen Parkanlagen und Gärten: Überhaupt nicht zufrieden
+PS1056V	Grünflächen wie öffentlichen Parkanlagen und Gärten: Weiß nicht/keine Antwort
+PS1062V	Sportanlagen wie Sportplätze und Sporthallen in der Stadt: Sehr zufrieden
+PS1063V	Sportanlagen wie Sportplätze und Sporthallen in der Stadt: Eher zufrieden
+PS1064V	Sportanlagen wie Sportplätze und Sporthallen in der Stadt: Eher unzufrieden
+PS1065V	Sportanlagen wie Sportplätze und Sporthallen in der Stadt: Überhaupt nicht zufrieden
+PS1066V	Sportanlagen wie Sportplätze und Sporthallen der Stadt: Weiß nicht/keine Antwort
+PS1072V	Kinos in der Stadt: Sehr zufrieden
+PS1073V	Kinos in der Stadt: Eher zufrieden
+PS1074V	Kinos in der Stadt: Eher unzufrieden
+PS1075V	Kinos in der Stadt: Überhaupt nicht zufrieden
+PS1076V	Kinos in der Stadt: Weiß nicht/keine Antwort
+PS1082V	Kultureinrichtungen wie Konzertsäle, Theater, Museen und Bibliotheken in der Stadt: Sehr zufrieden
+PS1083V	Kultureinrichtungen wie Konzertsäle, Theater, Museen und Bibliotheken in der Stadt: Eher zufrieden
+PS1084V	Kultureinrichtungen wie Konzertsäle, Theater, Museen und Bibliotheken in der Stadt: Eher unzufrieden
+PS1085V	Kultureinrichtungen wie Konzertsäle, Theater, Museen und Bibliotheken in der Stadt: Überhaupt nicht zufrieden
+PS1086V	Kultureinrichtungen wie Konzertsäle, Theater, Museen und Bibliotheken in der Stadt: Weiß nicht/keine Antwort
+PS1092V	Öffentliche Internetzugänge wie Internetcafés oder Bibliotheken in der Stadt: Sehr zufrieden
+PS1093V	Öffentliche Internetzugänge wie Internetcafés oder Bibliotheken in der Stadt: Eher zufrieden
+PS1094V	Öffentliche Internetzugänge wie Internetcafés oder Bibliotheken in der Stadt: Eher unzufrieden
+PS1095V	Öffentliche Internetzugänge wie Internetcafés oder Bibliotheken in der Stadt: Überhaupt nicht zufrieden
+PS1096V	Öffentliche Internetzugänge wie Internetcafés oder Bibliotheken in der Stadt: Weiß nicht/keine Antwort
+PS1102V	Internetzugang zu Hause in der Stadt: Sehr zufrieden
+PS1103V	Internetzugang zu Hause in der Stadt: Eher zufrieden
+PS1104V	Internetzugang zu Hause in der Stadt: Eher unzufrieden
+PS1105V	Internetzugang zu Hause in der Stadt: Überhaupt nicht zufrieden
+PS1106V	Internetzugang zu Hause in der Stadt: Weiß nicht/keine Antwort
+PS2012V	Es ist leicht, in der Stadt eine gute Arbeit zu finden: Stimme sehr zu
+PS2013V	Es ist leicht, in der Stadt eine gute Arbeit zu finden: Stimme eher zu
+PS2014V	Es ist leicht, in der Stadt eine gute Arbeit zu finden: Stimme eher nicht zu
+PS2015V	Es ist leicht, in der Stadt eine gute Arbeit zu finden: Stimme überhaupt nicht zu
+PS2016V	Es ist leicht, in der Stadt eine gute Arbeit zu finden: Weiß nicht/keine Antwort
+PS2022V	Ausländer, die in dieser Stadt wohnen, sind gut integriert: Stimme sehr zu
+PS2023V	Ausländer, die in dieser Stadt wohnen, sind gut integriert: Stimme eher zu
+PS2024V	Ausländer, die in dieser Stadt wohnen, sind gut integriert: Stimme eher nicht zu
+PS2025V	Ausländer, die in dieser Stadt wohnen, sind gut integriert: Stimme überhaupt nicht zu
+PS2026V	Ausländer, die in dieser Stadt wohnen, sind gut integriert: Weiß nicht/keine Antwort
+PS2032V	In dieser Stadt ist es einfach, eine gute Wohnung zu angemessenen Preisen zu finden: Stimme sehr zu
+PS2033V	In dieser Stadt ist es einfach, eine gute Wohnung zu angemessenen Preisen zu finden: Stimme eher zu
+PS2034V	In dieser Stadt ist es einfach, eine gute Wohnung zu angemessenen Preisen zu finden: Stimme eher nicht zu
+PS2035V	In dieser Stadt ist es einfach, eine gute Wohnung zu angemessenen Preisen zu finden: Stimme überhaupt nicht zu
+PS2036V	In dieser Stadt ist es einfach, eine gute Wohnung zu angemessenen Preisen zu finden: Weiß nicht/keine Antwort
+PS2042V	Die Verwaltungsdienste helfen den Bürgern effizient: Stimme sehr zu
+PS2043V	Die Verwaltungsdienste helfen den Bürgern effizient: Stimme eher zu
+PS2044V	Die Verwaltungsdienste helfen den Bürgern effizient: Stimme eher nicht zu
+PS2045V	Die Verwaltungsdienste helfen den Bürgern effizient: Stimme überhaupt nicht zu
+PS2046V	Die Verwaltungsdienste helfen den Bürgern effizient: Weiß nicht/keine Antwort
+PS2052V	Luftverschmutzung ist ein großes Problem: Stimme sehr zu
+PS2053V	Luftverschmutzung ist ein großes Problem: Stimme eher zu
+PS2054V	Luftverschmutzung ist ein großes Problem: Stimme eher nicht zu
+PS2055V	Luftverschmutzung ist ein großes Problem: Stimme überhaupt nicht zu
+PS2056V	Luftverschmutzung ist ein großes Problem: Weiß nicht/keine Antwort
+PS2062V	In dieser Stadt ist Lärm ein großes Problem: Stimme sehr zu
+PS2063V	In dieser Stadt ist Lärm ein großes Problem: Stimme eher zu
+PS2064V	In dieser Stadt ist Lärm ein großes Problem: Stimme eher nicht zu
+PS2065V	In dieser Stadt ist Lärm ein großes Problem: Stimme überhaupt nicht zu
+PS2066V	In dieser Stadt ist Lärm ein großes Problem: Weiß nicht/keine Antwort
+PS2072V	Diese Stadt ist sauber: Stimme sehr zu
+PS2073V	Diese Stadt ist sauber: Stimme eher zu
+PS2074V	Diese Stadt ist sauber: Stimme eher nicht zu
+PS2075V	Diese Stadt ist sauber: Stimme überhaupt nicht zu
+PS2076V	Diese Stadt ist sauber: Weiß nicht/keine Antwort
+PS2082V	Diese Stadt geht verantwortungsbewusst mit ihren Ressourcen um: Stimme sehr zu
+PS2083V	Diese Stadt geht verantwortungsbewusst mit ihren Ressourcen um: Stimme eher zu
+PS2084V	Diese Stadt geht verantwortungsbewusst mit ihren Ressourcen um: Stimme eher nicht zu
+PS2085V	Diese Stadt geht verantwortungsbewusst mit ihren Ressourcen um: Stimme überhaupt nicht zu
+PS2086V	Diese Stadt geht verantwortungsbewusst mit ihren Ressourcen um: Weiß nicht/keine Antwort
+PS2092V	Ich lebe gern in dieser Stadt: Stimme sehr zu
+PS2093V	Ich lebe gern in dieser Stadt: Stimme eher zu
+PS2094V	Ich lebe gern in dieser Stadt: Stimme eher nicht zu
+PS2095V	Ich lebe gern in dieser Stadt: Stimme überhaupt nicht zu
+PS2096V	Ich lebe gern in dieser Stadt: Weiß nicht/keine Antwort
+PS2102V	In den nächsten fünf Jahren wird es angenehmer sein, in dieser Stadt zu wohnen: Stimme sehr zu
+PS2103V	In den nächsten fünf Jahren wird es angenehmer sein, in dieser Stadt zu wohnen: Stimme eher zu
+PS2104V	In den nächsten fünf Jahren wird es angenehmer sein, in dieser Stadt zu wohnen: Stimme eher nicht zu
+PS2105V	In den nächsten fünf Jahren wird es angenehmer sein, in dieser Stadt zu wohnen: Stimme überhaupt nicht zu
+PS2106V	In den nächsten fünf Jahren wird es angenehmer sein, in dieser Stadt zu wohnen: Weiß nicht/keine Antwort
+PS3014V	Sie haben Schwierigkeiten, am ende des Monats Rechnungen zu bezahlen: Selten oder nie
+PS3024V	Ich fühle mich sicher in meiner Nachbarschaft: Selten oder nie
+PS3042V	Zufriedenheit mit der Gesundheitsversorgung (durch Ärzte und Krankenhäuser): Sehr zufrieden
+PS3043V	Zufriedenheit mit der Gesundheitsversorgung (durch Ärzte und Krankenhäuser): Eher zufrieden
+PS3044V	Zufriedenheit mit der Gesundheitsversorgung (durch Ärzte und Krankenhäuser): Eher unzufrieden
+PS3045V	Zufriedenheit mit der Gesundheitsversorgung (durch Ärzte und Krankenhäuser): Überhaupt nicht zufrieden
+PS3046V	Zufriedenheit mit der Gesundheitsversorgung (durch Ärzte und Krankenhäuser): Weiß nicht/keine Antwort
+PS3052V	Schönheit der Straßen und Gebäude in ihrer Nachbarschaft: Sehr zufrieden
+PS3053V	Schönheit der Straßen und Gebäude in ihrer Nachbarschaft: Eher zufrieden
+PS3054V	Schönheit der Straßen und Gebäude in ihrer Nachbarschaft: Eher unzufrieden
+PS3055V	Schönheit der Straßen und Gebäude in ihrer Nachbarschaft: Überhaupt nicht zufrieden
+PS3056V	Schönheit der Straßen und Gebäude in ihrer Nachbarschaft: Weiß nicht/keine Antwort
+PS3062V	Öffentliche Räume in in der Stadt wie Märkte, Plätze, Fußgängerzonen: Sehr zufrieden
+PS3063V	Öffentliche Räume in in der Stadt wie Märkte, Plätze, Fußgängerzonen: Eher zufrieden
+PS3064V	Öffentliche Räume in in der Stadt wie Märkte, Plätze, Fußgängerzonen: Eher unzufrieden
+PS3065V	Öffentliche Räume in in der Stadt wie Märkte, Plätze, Fußgängerzonen: Überhaupt nicht zufrieden
+PS3066V	Öffentliche Räume in in der Stadt wie Märkte, Plätze, Fußgängerzonen: Weiß nicht/keine Antwort
+PS3072V	Freizeitaktivitäten im Freien in dieser Stadt, wie Spazierengehen und Fahrradfahren: Sehr zufrieden
+PS3073V	Freizeitaktivitäten im Freien in dieser Stadt, wie Spazierengehen und Fahrradfahren: Eher zufrieden
+PS3074V	Freizeitaktivitäten im Freien in dieser Stadt, wie Spazierengehen und Fahrradfahren: Eher unzufrieden
+PS3075V	Freizeitaktivitäten im Freien in dieser Stadt, wie Spazierengehen und Fahrradfahren: Überhaupt nicht zufrieden
+PS3076V	Freizeitaktivitäten im Freien in dieser Stadt, wie Spazierengehen und Fahrradfahren: Weiß nicht/keine Antwort
+PS3082V	Die Anwesenheit von Ausländern ist gut für die Stadt: Stimme sehr zu
+PS3083V	Die Anwesenheit von Ausländern ist gut für die Stadt: Stimme eher zu
+PS3084V	Die Anwesenheit von Ausländern ist gut für die Stadt: Stimme eher nicht zu
+PS3085V	Die Anwesenheit von Ausländern ist gut für die Stadt: Stimme überhaupt nicht zu
+PS3086V	Die Anwesenheit von Ausländern ist gut für die Stadt: Weiß nicht/keine Antwort
+PS3092V	Im Allgemeinen kann man den Menschen in dieser Stadt trauen: Stimme sehr zu
+PS3093V	Im Allgemeinen kann man den Menschen in dieser Stadt trauen: Stimme eher zu
+PS3094V	Im Allgemeinen kann man den Menschen in dieser Stadt trauen: Stimme eher nicht zu
+PS3095V	Im Allgemeinen kann man den Menschen in dieser Stadt trauen: Stimme überhaupt nicht zu
+PS3096V	Im Allgemeinen kann man den Menschen in dieser Stadt trauen: Weiß nicht/keine Antwort
+PS3112V	Armut ist ein Problem: Stimme sehr zu
+PS3113V	Armut ist ein Problem: Stimme eher zu
+PS3114V	Armut ist ein Problem: Stimme eher nicht zu
+PS3115V	Armut ist ein Problem: Stimme überhaupt nicht zu
+PS3116V	Armut ist ein Problem: Weiß nicht/keine Antwort
+PS3122V	Die Stadt fühlt sich verpflichtet im Kampf gegen den Klimawandel: Stimme sehr zu
+PS3123V	Die Stadt fühlt sich verpflichtet im Kampf gegen den Klimawandel: Stimme eher zu
+PS3124V	Die Stadt fühlt sich verpflichtet im Kampf gegen den Klimawandel: Stimme eher nicht zu
+PS3125V	Die Stadt fühlt sich verpflichtet im Kampf gegen den Klimawandel: Stimme überhaupt nicht zu
+PS3126V	Die Stadt fühlt sich verpflichtet im Kampf gegen den Klimawandel: Weiß nicht/keine Antwort
+PS3132V	Die Stadt ist eine gesunde Stadt zum Leben: Stimme sehr zu
+PS3133V	Die Stadt ist eine gesunde Stadt zum Leben: Stimme eher zu
+PS3134V	Die Stadt ist eine gesunde Stadt zum Leben: Stimme eher nicht zu
+PS3135V	Die Stadt ist eine gesunde Stadt zum Leben: Stimme überhaupt nicht zu
+PS3136V	Die Stadt ist eine gesunde Stadt zum Leben: Weiß nicht/keine Antwort
+PS3142V	Sie haben Schwierigkeiten, am ende des Monats Rechnungen zu bezahlen: Immer
+PS3143V	Sie haben Schwierigkeiten, am ende des Monats Rechnungen zu bezahlen: Manchmal
+PS3144V	Sie haben Schwierigkeiten, am ende des Monats Rechnungen zu bezahlen: Selten
+PS3145V	Sie haben Schwierigkeiten, am ende des Monats Rechnungen zu bezahlen: Nie
+PS3146V	Sie haben Schwierigkeiten, am ende des Monats Rechnungen zu bezahlen: Weiß nicht/keine Antwort
+PS3501V	Würden Sie sagen, dass Sie in den letzten 12 Monaten Schwierigkeiten hatten, Ihre Rechnungen am Monatsende zu begleichen? Meistens
+PS3502V	Würden Sie sagen, dass Sie in den letzten 12 Monaten Schwierigkeiten hatten, Ihre Rechnungen am Monatsende zu begleichen? Gelegentlich
+PS3503V	Würden Sie sagen, dass Sie in den letzten 12 Monaten Schwierigkeiten hatten, Ihre Rechnungen am Monatsende zu begleichen? So gut wie nie/nie
+PS3504V	Würden Sie sagen, dass Sie in den letzten 12 Monaten Schwierigkeiten hatten, Ihre Rechnungen am Monatsende zu begleichen? Weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3151V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: Unter 10 Minuten
+PS3152V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: 10-20 Minuten
+PS3153V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: 20-30 Minuten
+PS3154V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: 30-45 Minuten
+PS3155V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: 45-60 Minuten
+PS3156V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: Über 60 Minuten
+PS3157V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: kein Pendler, Arbeit von zu Hause
+PS3158V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: Keine Arbeit oder Ausbildung
+PS3159V	Minuten pro Tag für die Fahrt zur Arbeit/Ausbildung: Weiß nicht/keine Antwort
+PS3161V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Öffentliche Verkehrsmittel
+PS3162V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Auto
+PS3163V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Fahrrad
+PS3164V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: zu Fuss
+PS3165V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Motorrad
+PS3166V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Sonstige
+PS3167V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Weiß nicht/keine Antwort
+PS3168V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Zug
+PS3169V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: Schiff oder Boot
+PS3170V	Hauptsächlich für die Fahrt zur Arbeitsstelle oder Ausbildungseinrichtung genutzte Verkehrsmittel: keiner
+PS3505V	Transportmittel, das Sie am häufigsten nutzen: Auto
+PS3506V	Transportmittel, das Sie am häufigsten nutzen: Motorrad
+PS3507V	Transportmittel, das Sie am häufigsten nutzen: Fahrrad
+PS3508V	Transportmittel, das Sie am häufigsten nutzen: Ich gehe zu Fuß
+PS3509V	Transportmittel, das Sie am häufigsten nutzen: Zug
+PS3510V	Transportmittel, das Sie am häufigsten nutzen: städtische Nahverkehrsmittel
+PS3511V	Transportmittel, das Sie am häufigsten nutzen: sonstige
+PS3512V	Transportmittel, das Sie am häufigsten nutzen: Ich pendle nicht
+PS3513V	Transportmittel, das Sie am häufigsten nutzen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3171V	Wie oft nutzen sie öffentliche Verkehrsmittel in der Stadt: Nie
+PS3172V	Wie oft nutzen sie öffentliche Verkehrsmittel in der Stadt: Weniger als einmal im Monat
+PS3173V	Wie oft nutzen sie öffentliche Verkehrsmittel in der Stadt: Mehr als ein Mal monatlich
+PS3174V	Wie oft nutzen sie öffentliche Verkehrsmittel in der Stadt: Mindestens einmal pro Woche (aber nicht täglich)
+PS3175V	Wie oft nutzen sie öffentliche Verkehrsmittel in der Stadt: Täglich
+PS3176V	Wie oft nutzen sie öffentliche Verkehrsmittel in der Stadt: Weiß nicht/keine Antwort
+PS3181V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Fahren nicht häufig genug
+PS3182V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Sind zu überlastet
+PS3183V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Fahrplan nicht zuverlässig
+PS3184V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Auf meiner Reise nicht geeignet
+PS3185V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: keineinfacher Zugang vom Wohnort oder zum Zielort
+PS3186V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Nicht sicher
+PS3187V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Ich mag keine öffentlichen Verkehrsmittel
+PS3188V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Zu teuer
+PS3189V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Andere
+PS3191V	Gründe, weshalb keine öffentlichen Verkehrsmittel genutzt werden: Weiß nicht/keine Antwort
+PS3211V	Die wichtigsten Probleme in ihrer Stadt: Sicherheit
+PS3212V	Die wichtigsten Probleme in ihrer Stadt: Luftverschmutzung
+PS3213V	Die wichtigsten Probleme in ihrer Stadt: Lärm
+PS3214V	Die wichtigsten Probleme in ihrer Stadt: Öffentliche Verkehrsmittel
+PS3215V	Die wichtigsten Probleme in ihrer Stadt: Gesundheitsdienste
+PS3216V	Die wichtigsten Probleme in ihrer Stadt: Soziale Dienstleistungen
+PS3217V	Die wichtigsten Probleme in ihrer Stadt: Allgemeine und berufliche Bildung
+PS3220V	Die wichtigsten Probleme in ihrer Stadt: Arbeitslosigkeit
+PS3221V	Die wichtigsten Probleme in ihrer Stadt: Schaffung von Arbeitsplätzen und Abbau der Arbeitslosigkeit
+PS3222V	Die wichtigsten Probleme in ihrer Stadt: Wohnungsbedingungen
+PS3223V	Die wichtigsten Probleme in ihrer Stadt: Straßeninfrastruktur
+PS3224V	Die wichtigsten Probleme in ihrer Stadt: Weiß nicht/keine Antwort
+PS3230V	Zufriedenheit mit dem Zustand der Straßen und Gebäude in der Umgebung: Sehr zufrieden
+PS3231V	Zufriedenheit mit dem Zustand der Straßen und Gebäude in der Umgebung: Eher zufrieden
+PS3232V	Zufriedenheit mit dem Zustand der Straßen und Gebäude in der Umgebung: Eher unzufrieden
+PS3233V	Zufriedenheit mit dem Zustand der Straßen und Gebäude in der Umgebung: Überhaupt nicht zufrieden
+PS3234V	Zufriedenheit mit dem Zustand der Straßen und Gebäude in der Umgebung: Weiß nicht/keine Antwort
+PS3250V	Verfügbarkeit von Einzelhandelsgeschäften in der Stadt: Sehr zufrieden
+PS3251V	Verfügbarkeit von Einzelhandelsgeschäften in der Stadt: Eher zufrieden
+PS3252V	Verfügbarkeit von Einzelhandelsgeschäften in der Stadt: Eher unzufrieden
+PS3253V	Verfügbarkeit von Einzelhandelsgeschäften in der Stadt: Überhaupt nicht zufrieden
+PS3254V	Verfügbarkeit von Einzelhandelsgeschäften in der Stadt: Weiß nicht/keine Antwort
+PS3260V	Die Luftqualität in der Stadt: Sehr zufrieden
+PS3261V	Die Luftqualität in der Stadt: Eher zufrieden
+PS3262V	Die Luftqualität in der Stadt: Eher unzufrieden
+PS3263V	Die Luftqualität in der Stadt: Überhaupt nicht zufrieden
+PS3264V	Die Luftqualität in der Stadt: Weiß nicht/keine Antwort
+PS3270V	Der Lärmpegel in der Stadt: Sehr zufrieden
+PS3271V	Der Lärmpegel in der Stadt: Eher zufrieden
+PS3272V	Der Lärmpegel in der Stadt: Eher unzufrieden
+PS3273V	Der Lärmpegel in der Stadt: Überhaupt nicht zufrieden
+PS3274V	Der Lärmpegel in der Stadt: Weiß nicht/keine Antwort
+PS3280V	Die Sauberkeit in der Stadt: Sehr zufrieden
+PS3281V	Die Sauberkeit in der Stadt: Eher zufrieden
+PS3282V	Die Sauberkeit in der Stadt: Eher unzufrieden
+PS3283V	Die Sauberkeit in der Stadt: Überhaupt nicht zufrieden
+PS3284V	Die Sauberkeit in der Stadt: Weiß nicht/keine Antwort
+PS3290V	Ich fühle mich sicher in der Stadt: Stimme sehr zu
+PS3291V	Ich fühle mich sicher in der Stadt: Stimme eher zu
+PS3292V	Ich fühle mich sicher in der Stadt: Stimme eher nicht zu
+PS3293V	Ich fühle mich sicher in der Stadt: Stimme überhaupt nicht zu
+PS3294V	Ich fühle mich sicher in der Stadt: Weiß nicht/keine Antwort
+PS3514V	Ich fühle mich sicher, nachts alleine durch meine Stadt zu laufen: stimme voll und ganz zu
+PS3515V	Ich fühle mich sicher, nachts alleine durch meine Stadt zu laufen: stimme einigermaßen zu
+PS3516V	Ich fühle mich sicher, nachts alleine durch meine Stadt zu laufen: stimme eher nicht zu
+PS3517V	Ich fühle mich sicher, nachts alleine durch meine Stadt zu laufen: stimme überhaupt nicht zu
+PS3518V	Ich fühle mich sicher, nachts alleine durch meine Stadt zu laufen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3300V	Ich fühle mich sicher in der Nachbarschaft: Stimme sehr zu
+PS3301V	Ich fühle mich sicher in der Nachbarschaft: Stimme eher zu
+PS3302V	Ich fühle mich sicher in der Nachbarschaft: Stimme eher nicht zu
+PS3303V	Ich fühle mich sicher in der Nachbarschaft: Stimme überhaupt nicht zu
+PS3304V	Ich fühle mich sicher in der Nachbarschaft: Weiß nicht/keine Antwort
+PS3519V	Ich fühle mich sicher, nachts alleine durch die Gegend zu laufen, in der ich wohne: stimme voll und ganz zu
+PS3520V	Ich fühle mich sicher, nachts alleine durch die Gegend zu laufen, in der ich wohne: stimme einigermaßen zu
+PS3521V	Ich fühle mich sicher, nachts alleine durch die Gegend zu laufen, in der ich wohne: stimme eher nicht zu
+PS3522V	Ich fühle mich sicher, nachts alleine durch die Gegend zu laufen, in der ich wohne: stimme überhaupt nicht zu
+PS3523V	Ich fühle mich sicher, nachts alleine durch die Gegend zu laufen, in der ich wohne: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3310V	Mann kann Menschen trauen in der Nachbarschaft: Stimme sehr zu
+PS3311V	Mann kann Menschen trauen in der Nachbarschaft: Stimme eher zu
+PS3312V	Mann kann Menschen trauen in der Nachbarschaft: Stimme eher nicht zu
+PS3313V	Mann kann Menschen trauen in der Nachbarschaft: Stimme überhaupt nicht zu
+PS3314V	Mann kann Menschen trauen in der Nachbarschaft: Weiß nicht/keine Antwort
+PS3320V	Man kann der öffentliche Verwaltung der Stadt trauen: Stimme sehr zu
+PS3321V	Man kann der öffentliche Verwaltung der Stadt trauen: Stimme eher zu
+PS3322V	Man kann der öffentliche Verwaltung der Stadt trauen: Stimme eher nicht zu
+PS3323V	Man kann der öffentliche Verwaltung der Stadt trauen: Stimme überhaupt nicht zu
+PS3324V	Man kann der öffentliche Verwaltung der Stadt trauen: Weiß nicht/keine Antwort
+PS3330V	Ihre persönliche Beschäftigungslage: Sehr zufrieden
+PS3331V	Ihre persönliche Beschäftigungslage: Eher zufrieden
+PS3332V	Ihre persönliche Beschäftigungslage: Weniger zufrieden
+PS3333V	Ihre persönliche Beschäftigungslage: Überhaupt nicht zufrieden
+PS3334V	Ihre persönliche Beschäftigungslage: Weiß nicht/keine Antwort
+PS3335V	Ihre persönliche berufliche Situation: nicht zutreffend
+PS3524V	Ich bin mit der Gegend, in der ich wohne: äußerst zufrieden
+PS3525V	Ich bin mit der Gegend, in der ich wohne: ziemlich zufrieden
+PS3526V	Ich bin mit der Gegend, in der ich wohne: eher nicht zufrieden
+PS3527V	Ich bin mit der Gegend, in der ich wohne: überhaupt nicht zufrieden
+PS3528V	Ich bin mit der Gegend, in der ich wohne: weiß nicht/keine Angaben
+PS3340V	Die finanzielle Lage Ihres Haushalts: Sehr zufrieden
+PS3341V	Die finanzielle Lage Ihres Haushalts: Eher zufrieden
+PS3342V	Die finanzielle Lage Ihres Haushalts: Weniger zufrieden
+PS3343V	Die finanzielle Lage Ihres Haushalts: Überhaupt nicht zufrieden
+PS3344V	Die finanzielle Lage Ihres Haushalts: Weiß nicht/keine Antwort
+PS3350V	Das Leben, das Sie führen: Sehr zufrieden
+PS3351V	Das Leben, das Sie führen: Eher zufrieden
+PS3352V	Das Leben, das Sie führen: Weniger zufrieden
+PS3353V	Das Leben, das Sie führen: Überhaupt nicht zufrieden
+PS3354V	Das Leben, das Sie führen: Weiß nicht/keine Antwort
+PS3360V	Sie sind mit dem Leben in dieser Stadt zufrieden: Stimme sehr zu
+PS3361V	Sie sind mit dem Leben in dieser Stadt zufrieden: Stimme eher zu
+PS3362V	Sie sind mit dem Leben in dieser Stadt zufrieden: Stimme eher nicht zu
+PS3363V	Sie sind mit dem Leben in dieser Stadt zufrieden: Stimme überhaupt nicht zu
+PS3364V	Sie sind mit dem Leben in dieser Stadt zufrieden: Weiß nicht/keine Antwort
+PS9112V	Der öffentliche Nahverkehr in der Stadt, z. B. von Bus, Straßenbahn und U-Bahn: Zufrieden
+PS9322V	Die Stadt fühlt sich verpflichtet im Kampf gegen den Klimawandel: Stimme zu
+PS9370V	Der Lärmpegel in der Stadt: Zufrieden
+PS9182V	Kultureinrichtungen wie Konzertsäle, Theater, Museen und Bibliotheken in der Stadt: Zufrieden
+PS9340V	Die finanzielle Lage Ihres Haushalts: Zufrieden
+PS9232V	In dieser Stadt ist es einfach, eine gute Wohnung zu angemessenen Preisen zu finden: Stimme zu
+PS9222V	Ausländer, die in dieser Stadt wohnen, sind gut integriert: Stimme zu
+PS9382V	Die Anwesenheit von Ausländern ist gut für die Stadt: Stimme zu
+PS9342V	Zufriedenheit mit der Gesundheitsversorgung (durch Ärzte und Krankenhäuser): Zufrieden
+PS9122V	Schulen in der Stadt: Zufrieden
+PS9392V	Im Allgemeinen kann man den Menschen in dieser Stadt trauen: Stimme zu
+PS3529V	Die Gegend, in der ich wohne, ist im Allgemeinen: eine gute Wohngegend
+PS3530V	Die Gegend, in der ich wohne, ist im Allgemeinen: keine gute Wohngegend
+PS3531V	Die Gegend, in der ich wohne, ist im Allgemeinen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3532V	Die Gegend, in der ich wohne, ist für ethnische Minderheiten: eine gute Wohngegend
+PS3533V	Die Gegend, in der ich wohne, ist für ethnische Minderheiten: keine gute Wohngegend
+PS3534V	Die Gegend, in der ich wohne, ist für ethnische Minderheiten: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3535V	Die Gegend, in der ich wohne, ist für homosexuelle Menschen: eine gute Wohngegend
+PS3536V	Die Gegend, in der ich wohne, ist für homosexuelle Menschen: keine gute Wohngegend
+PS3537V	Die Gegend, in der ich wohne, ist für homosexuelle Menschen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3538V	Die Gegend, in der ich wohne, ist für Migranten aus anderen Ländern: eine gute Wohngegend
+PS3539V	Die Gegend, in der ich wohne, ist für Migranten aus anderen Ländern: keine gute Wohngegend
+PS3540V	Die Gegend, in der ich wohne, ist für Migranten aus anderen Ländern: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3541V	Die Gegend, in der ich wohne, ist für junge Familien mit Kindern: eine gute Wohngegend
+PS3542V	Die Gegend, in der ich wohne, ist für junge Familien mit Kindern: keine gute Wohngegend
+PS3543V	Die Gegend, in der ich wohne, ist für junge Familien mit Kindern: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3544V	Die Gegend, in der ich wohne, ist für ältere Menschen: eine gute Wohngegend
+PS3545V	Die Gegend, in der ich wohne, ist für ältere Menschen: keine gute Wohngegend
+PS3546V	Die Gegend, in der ich wohne, ist für ältere Menschen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3547V	Die öffentlichen Verkehrsmittel sind erschwinglich: stimme voll und ganz zu
+PS3548V	Die öffentlichen Verkehrsmittel sind erschwinglich: stimme einigermaßen zu
+PS3549V	Die öffentlichen Verkehrsmittel sind erschwinglich: stimme eher nicht zu
+PS3550V	Die öffentlichen Verkehrsmittel sind erschwinglich: stimme überhaupt nicht zu
+PS3551V	Die öffentlichen Verkehrsmittel sind erschwinglich: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3552V	Die öffentlichen Verkehrsmittel sind sicher: stimme voll und ganz zu
+PS3553V	Die öffentlichen Verkehrsmittel sind sicher: stimme einigermaßen zu
+PS3554V	Die öffentlichen Verkehrsmittel sind sicher: stimme eher nicht zu
+PS3555V	Die öffentlichen Verkehrsmittel sind sicher: stimme überhaupt nicht zu
+PS3556V	Die öffentlichen Verkehrsmittel sind sicher: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3557V	Die öffentlichen Verkehrsmittel sind einfach zu erreichen: stimme voll und ganz zu
+PS3558V	Die öffentlichen Verkehrsmittel sind einfach zu erreichen: stimme einigermaßen zu
+PS3559V	Die öffentlichen Verkehrsmittel sind einfach zu erreichen: stimme eher nicht zu
+PS3560V	Die öffentlichen Verkehrsmittel sind einfach zu erreichen: stimme überhaupt nicht zu
+PS3561V	Die öffentlichen Verkehrsmittel sind einfach zu erreichen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3562V	Die öffentlichen Verkehrsmittel fahren häufig: stimme voll und ganz zu
+PS3563V	Die öffentlichen Verkehrsmittel fahren häufig: stimme einigermaßen zu
+PS3564V	Die öffentlichen Verkehrsmittel fahren häufig: stimme eher nicht zu
+PS3565V	Die öffentlichen Verkehrsmittel fahren häufig: stimme überhaupt nicht zu
+PS3566V	Die öffentlichen Verkehrsmittel fahren häufig: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3567V	Die öffentlichen Verkehrsmittel sind zuverlässig (pünktlich): stimme voll und ganz zu
+PS3568V	Die öffentlichen Verkehrsmittel sind zuverlässig (pünktlich): stimme einigermaßen zu
+PS3569V	Die öffentlichen Verkehrsmittel sind zuverlässig (pünktlich): stimme eher nicht zu
+PS3570V	Die öffentlichen Verkehrsmittel sind zuverlässig (pünktlich): stimme überhaupt nicht zu
+PS3571V	Die öffentlichen Verkehrsmittel sind zuverlässig (pünktlich): weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3572V	Ich habe Vertrauen in die örtliche Polizei: ja
+PS3573V	Ich habe Vertrauen in die örtliche Polizei: nein
+PS3574V	Ich habe Vertrauen in die örtliche Polizei: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3575V	In der Stadt, in der ich wohne, wurden in den letzten 12 Monaten Geld oder Eigentum von mir oder anderen Haushaltsmitgliedern gestohlen: ja
+PS3576V	In der Stadt, in der ich wohne, wurden in den letzten 12 Monaten Geld oder Eigentum von mir oder anderen Haushaltsmitgliedern gestohlen: nein
+PS3577V	In der Stadt, in der ich wohne, wurden in den letzten 12 Monaten Geld oder Eigentum von mir oder anderen Haushaltsmitgliedern gestohlen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3578V	Ich wurde in der Stadt, in der ich wohne, in den letzten 12 Monaten zum Opfer eines Angriffs oder Überfalls: ja
+PS3579V	Ich wurde in der Stadt, in der ich wohne, in den letzten 12 Monaten zum Opfer eines Angriffs oder Überfalls: nein
+PS3580V	Ich wurde in der Stadt, in der ich wohne, in den letzten 12 Monaten zum Opfer eines Angriffs oder Überfalls: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3581V	Für den Fall, dass Sie materielle Hilfe benötigen (z. B. Geld, ein Darlehen oder einen Gegenstand), könnten Sie diese von Verwandten, Freunden, Nachbarn oder anderen Bekannten erhalten? Ja
+PS3582V	Für den Fall, dass Sie materielle Hilfe benötigen (z. B. Geld, ein Darlehen oder einen Gegenstand), könnten Sie diese von Verwandten, Freunden, Nachbarn oder anderen Bekannten erhalten? Nein
+PS3583V	Für den Fall, dass Sie materielle Hilfe benötigen (z. B. Geld, ein Darlehen oder einen Gegenstand), könnten Sie diese von Verwandten, Freunden, Nachbarn oder anderen Bekannten erhalten? Weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3584V	Für den Fall, dass Sie anderweitig Hilfe benötigen (z. B. jemanden zum Reden, Hilfe dabei, etwas zu tun oder abzuholen), könnten Sie diese von Verwandten, Freunden, Nachbarn oder anderen Bekannten erhalten? Ja
+PS3585V	Für den Fall, dass Sie anderweitig Hilfe benötigen (z. B. jemanden zum Reden, Hilfe dabei, etwas zu tun oder abzuholen), könnten Sie diese von Verwandten, Freunden, Nachbarn oder anderen Bekannten erhalten? Nein
+PS3586V	Für den Fall, dass Sie anderweitig Hilfe benötigen (z. B. jemanden zum Reden, Hilfe dabei, etwas zu tun oder abzuholen), könnten Sie diese von Verwandten, Freunden, Nachbarn oder anderen Bekannten erhalten? Weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3587V	Ich bin mit der Bearbeitungszeit von Anfragen an meine örtliche öffentliche Verwaltung zufrieden: stimme voll und ganz zu
+PS3588V	Ich bin mit der Bearbeitungszeit von Anfragen an meine örtliche öffentliche Verwaltung zufrieden: stimme einigermaßen zu
+PS3589V	Ich bin mit der Bearbeitungszeit von Anfragen an meine örtliche öffentliche Verwaltung zufrieden: stimme eher nicht zu
+PS3590V	Ich bin mit der Bearbeitungszeit von Anfragen an meine örtliche öffentliche Verwaltung zufrieden: stimme voll und ganz zu
+PS3591V	Ich bin mit der Bearbeitungszeit von Anfragen an meine örtliche öffentliche Verwaltung zufrieden: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3592V	Die von meiner örtlichen öffentlichen Verwaltung angewandten Verfahren sind unkompliziert und leicht verständlich: stimme voll und ganz zu
+PS3593V	Die von meiner örtlichen öffentlichen Verwaltung angewandten Verfahren sind unkompliziert und leicht verständlich: stimme einigermaßen zu
+PS3594V	Die von meiner örtlichen öffentlichen Verwaltung angewandten Verfahren sind unkompliziert und leicht verständlich: stimme eher nicht zu
+PS3595V	Die von meiner örtlichen öffentlichen Verwaltung angewandten Verfahren sind unkompliziert und leicht verständlich: stimme überhaupt nicht zu
+PS3596V	Die von meiner örtlichen öffentlichen Verwaltung angewandten Verfahren sind unkompliziert und leicht verständlich: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3601V	Die Gebühren, die von meiner örtlichen öffentlichen Verwaltung erhoben werden, sind angemessen: stimme voll und ganz zu
+PS3602V	Die erhobenen Gebühren meiner örtlichen öffentlichen Verwaltung sind angemessen: stimme einigermaßen zu
+PS3603V	Die Gebühren, die von meiner örtlichen öffentlichen Verwaltung erhoben werden, sind angemessen: stimme eher nicht zu
+PS3604V	Die Gebühren, die von meiner örtlichen öffentlichen Verwaltung erhoben werden, sind angemessen: stimme überhaupt nicht zu
+PS3605V	Die Gebühren, die von meiner örtlichen öffentlichen Verwaltung erhoben werden, sind angemessen: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3606V	Informationen und Dienste, die meine örtliche öffentliche Verwaltung anbietet, können online einfach abgerufen werden: stimme voll und ganz zu
+PS3607V	Informationen und Dienste, die meine örtliche öffentliche Verwaltung anbietet, können online einfach abgerufen werden: stimme einigermaßen zu
+PS3608V	Informationen und Dienste, die meine örtliche öffentliche Verwaltung anbietet, können online einfach abgerufen werden: stimme eher nicht zu
+PS3609V	Informationen und Dienste, die meine örtliche öffentliche Verwaltung anbietet, können online einfach abgerufen werden: stimme überhaupt nicht zu
+PS3610V	Informationen und Dienste, die meine örtliche öffentliche Verwaltung anbietet, können online einfach abgerufen werden: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3611V	In meiner örtlichen öffentlichen Verwaltung gibt es Korruption: stimme voll und ganz zu
+PS3612V	In meiner örtlichen öffentlichen Verwaltung gibt es Korruption: stimme einigermaßen zu
+PS3613V	In meiner örtlichen öffentlichen Verwaltung gibt es Korruption: stimme eher nicht zu
+PS3614V	In meiner örtlichen öffentlichen Verwaltung gibt es Korruption: stimme überhaupt nicht zu
+PS3615V	In meiner örtlichen öffentlichen Verwaltung gibt es Korruption: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3616V	Im Vergleich zu vor fünf Jahren ist die Lebensqualität in Ihrer Stadt oder Gegend: gesunken
+PS3617V	Im Vergleich zu vor fünf Jahren ist die Lebensqualität in Ihrer Stadt oder Gegend: gleich geblieben
+PS3618V	Im Vergleich zu vor fünf Jahren ist die Lebensqualität in Ihrer Stadt oder Gegend: gestiegen
+PS3619V	Im Vergleich zu vor fünf Jahren ist die Lebensqualität in Ihrer Stadt oder Gegend: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS3620V	Ihr Gesundheitszustand ist: äußerst gut
+PS3621V	Ihr Gesundheitszustand ist: gut
+PS3622V	Ihr Gesundheitszustand ist: ok (weder gut noch schlecht)
+PS3623V	Ihr Gesundheitszustand ist: schlecht
+PS3624V	Ihr Gesundheitszustand ist: äußerst schlecht
+PS3625V	Ihr Gesundheitszustand ist: weiß nicht/keine Angaben/möchte keine Angaben machen
+PS9242V	Die Verwaltungsdienste helfen den Bürgern effizient: Stimme zu
+PS9292V	Ich lebe gern in dieser Stadt: Stimme zu
+PS9330V	Ihre persönliche Beschäftigungslage: Zufrieden
+DE1040I	Anteil der Bevölkerung im Alter von 0 bis 4 Jahren
+DE1084I	Anteil der Bevölkerung im Alter von 5 bis 9 Jahren
+DE1085I	Anteil der Bevölkerung im Alter von 10 bis 14 Jahren
+DE1046I	Anteil der Bevölkerung im Alter von 15 bis 19 Jahren
+DE1049I	Anteil der Bevölkerung im Alter von 20 bis 24 Jahren
+DE1073I	Anteil der Bevölkerung im Alter von 25 bis 34 Jahren
+DE1076I	Anteil der Bevölkerung im Alter von 35 bis 44 Jahren
+DE1064I	Anteil der Bevölkerung im Alter von 45 bis 54 Jahren
+DE1025I	Bevölkerungsanteil der 55 - unter 65 jährigen
+DE1028I	Anteil der Bevölkerung im Alter von 65 bis 74 Jahren
+DE1055I	Anteil der Bevölkerung im Alter von 75 Jahren und älter
+DE1003I	Anzahl von Frauen auf 100 Männer
+DE1057I	Frauen je 100 Männer - im Alter von 75 Jahren und älter
+DE1061I	Veränderungsrate der Bevölkerung in einem Jahr
+DE1058I	Gesamtquotient (Bevölkerung im Alter von 0 bis 19 Jahren und 65 und älter im Verhältnis zur Bevölkerung im Alter von 20 bis 64 Jahren)
+DE1059I	Jugendquotient (Bevölkerung im Alter von 0 bis 19 Jahren im Verhältnis zur Bevölkerung zwischen 20 und 64 Jahren)
+DE1060I	Altenquotient (Bevölkerung im Alter von 65 Jahren und älter im Verhältnis zur Bevölkerung im Alter von 20 bis 64 Jahren)
+DE2001I	Bevölkerungsanteil der Inländer
+DE2007I	Bevölkerungsanteil der Ausländer
+DE2008I	Bevölkerungsanteil der im Inland geborenen Personen
+DE2009I	Bevölkerungsanteil der im Ausland geborenen Personen
+DE2002I	Bevölkerungsanteil der EU-Ausländer
+DE2003I	Bevölkerungsanteil der Nicht-EU-Ausländer
+DE3004I	Durchschnittliche Personenzahl pro Haushalt
+DE3002I	Anteil der Einpersonenhaushalte
+DE3005I	Anteil der Haushalte von Alleinerziehenden
+DE3008I	Anteil der Einpersonenhaushalte von Rentnern
+DE3011I	Anteil der Haushalte mit Kindern unter 18 Jahren
+DE3016I	Anteil der Haushalte von Alleinerziehenden je 100 Haushalte
+SA1011I	Anteil der Eigentümerhaushalte
+SA1007I	Anteil der Haushalte in Ein- und Zweifamilienhäusern
+SA1008I	Anteil der Haushalte in Geschosswohnungen
+SA2029I	Bruttosterbeziffer (je 1000 gebietsansässige Personen)
+SA2016I	Sterberate der unter 65-Jährigen
+SA2017I	Sterberate der unter 65-Jährigen (Männer)
+SA2018I	Sterberate der unter 65-Jährigen (Frauen)
+SA2013I	Sterberate der unter 65-Jährigen aufgrund von Herzkrankheiten und Krankheiten des Atmungssystems
+SA2007I	Bruttogeburtenziffer (je 1000 gebietsansässige Personen)
+SA2004I	Säuglingssterblichkeitsrate (je 1000 Lebendgeborene)
+EC1020I	Erwerbslosenquote
+EC1011I	Erwerbslosenquote, Männer
+EC1012I	Erwerbslosenquote, Frauen
+EC1001I	Erwerbsquote
+EC1002I	Erwerbsquote, Männer
+EC1003I	Erwerbsquote, Frauen
+EC2008I	Anteil der Erwerbstätigen in Landwirtschaft und Fischerei
+EC2009I	Anteil der Erwerbstätigen in der Industrie (NACE Rev.1.1 C-E)
+EC2022I	Anteil der Erwerbstätigen im Baugewerbe (NACE Rev.1.1 F)
+TE1001I	Kinder im Alter von 0 bis 4 Jahren in (öffentlichen u. privaten) Kindertagesstätten je 1000 Kinder im Alter von 0 bis 4 Jahren
+TE1026I	Anteil der Studierenden im Hochschulbereich in der Gesamtbevölkerung (pro 1000 Personen)
+TE2028I	Anteil der Bevölkerung im erwerbsfähigen Alter mit Abschluss auf ISCED-Stufe 3 oder 4
+TE2031I	Anteil der Bevölkerung im Alter von 25 bis 64 Jahren mit Abschluss auf ISCED-Stufe 5-8, ab 2014
+EN2029I	Anteil der Gebietsansässigen, die bei Nacht einem Luftverkehrslärmpegel von über 55 dB(A) ausgesetzt sind
+EN2032I	Anteil der Gebietsansässigen, die am Tage einem Schienenverkehrslärmpegel von über 65 dB(A) ausgesetzt sind
+EN2036I	Anteil der Gebietsansässigen, die bei Nacht einem Schienenverkehrslärmpegel von über 55 dB(A) ausgesetzt sind
+EN2033I	Anteil der Gebietsansässigen, die am Tage einem Straßenverkehrslärmpegel von über 65 dB(A) ausgesetzt sind
+EN2035I	Anteil der Gebietsansässigen, die bei Nacht einem Straßenverkehrslärmpegel von über 55 dB(A) ausgesetzt sind
+TT1057I	Zugelassene Pkw je 1000 Einwohner
+TT1013I	Zugelassene Motorräder je 1000 Einwohner
+TT1060I	Bei Straßenverkehrsunfällen getötete Personen je 10 000 Einwohner
+CR1003I	Sitzplätze in Kinos je 1000 Einwohner
+CR2011I	Gästeübernachtungen insgesamt (alle Arten von Beherbergungsbetrieben) je Einwohner
+CR2010I	Verfügbare Betten je 1000 Einwohner
+SA1052V	Durchschnittlicher Kaufpreis für Ein- oder Zweifamilienhäuser pro m2 - EUR
+SA1053V	Durchschnittlicher Kaufpreis für Geschosswohnungen pro m2 - EUR
+SA2010V	Anzahl der jugendlichen Geburten (von Müttern im Alter von 10-14 Jahren; im Alter von 15-19 Jahren)

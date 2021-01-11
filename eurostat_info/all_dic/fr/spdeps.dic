@@ -1,0 +1,17 @@
+TOTALNOREROUTE	Total des dépenses
+SPBENEFNOREROUTE	Prestations de protection sociale
+SNONTARGETNOREROUTE	Prestations sans condition de ressources
+STARGETNOREROUTE	Prestations sous condition de ressources
+ADMIN	Dépenses de fonctionnement
+OTHER	Autres dépenses
+SICK	Maladie/Soins de santé
+DISA	Invalidité
+OLD	Vieillesse
+SURVIV	Survie
+FAM	Famille/Enfants
+UNEMPLOY	Chômage
+HOUSE	Logement
+EXCLU	Exclusion sociale n.a.c.
+SICKDISA	Maladie / Soins de santé et invalidité
+OLDSURVIV	Vieillesse et survie
+HOUSEEXCLU	Logement et Exclusion sociale n.c.a.

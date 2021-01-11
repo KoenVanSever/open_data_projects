@@ -1,0 +1,31 @@
+TOTAL	Insgesamt
+INN_GE1	Mindestens eine Innovationsaktivität
+INN_XRND_CONTR_OUT	Alle Innovationsaktivitäten außer von Dritten durchgeführte Forschung und Entwicklung (Vergabe von FuE-Aufträgen)
+INNXRND_CONTR_OUT	Alle Innovationsaktivitäten außer von Dritten durchgeführte Forschung und Entwicklung (Vergabe von FuE-Aufträgen)
+RND	Forschung und Entwicklung
+RNDINN	Forschung und Entwicklung oder andere Innovationsaktivitäten
+INN_XRND	Andere Innovationsaktivitäten außer Forschung und Entwicklung
+INNXRND	Andere Innovationsaktivitäten außer Forschung und Entwicklung
+RND_IH	Unternehmensintern durchgeführte Forschung und Entwicklung
+RND_IH_CONT	Unternehmensintern durchgeführte Forschung und Entwicklung - regelmäßig
+RND_IH_OCC	Unternehmensintern durchgeführte Forschung und Entwicklung - gelegentlich
+RND_IH_CONTR_OUT	Unternehmensintern oder von Dritten durchgeführte Forschung und Entwicklung
+RND_CONTR_OUT	Von Dritten durchgeführte Forschung und Entwicklung (Vergabe von FuE-Aufträgen)
+RND_CONTR_OUT_NIH	Von Dritten durchgeführte Forschung und Entwicklung, keine Unternehmensintern durchgeführte Forschung und Entwicklung
+ACQ_MEBTA	Anschaffung von Maschinen, Ausrüstung, Gebäuden und anderen materiellen Vermögensgegenständen
+ACQ_MEBS	Anschaffung von Maschinen, Ausrüstung, Gebäuden und Software
+ACQ_EKNOW_OTH	Anschaffung von Wissen von anderen Unternehmen oder Organisationen
+ACQ_TKNOW	Erwerb von technischem Wissen
+ACQ_FINRES	Erwerb von Finanzmitteln
+ACQ_PER	Erwerb von Personal
+ACQ_BACT	Erwerb von Geschäftsaktivitäten
+TRF_TKNOW	Transfer von technischem Wissen
+TRF_FINRES	Transfer von Finanzmitteln
+TRF_PER	Transfer von Personal
+TRF_BACT	Transfer von Geschäftsaktivitäten
+TNG_MKT_DESG_OTH	Unternehmen, die in Ausbildung, Markteinführung, Design oder anderen Innovationsaktivitäten tätig waren
+TNG	Ausbildung für Innovationsaktivitäten
+INN_MKT	Markteinführung von Innovationen
+DESG_SHP	Designaktivitäten zur Veränderung der Form, Erscheinung oder Nutzbarkeit von Gütern oder Dienstleistungen
+BACT_OTH	Andere Geschäftsaktivitäten
+OTH	Andere Innovationsaktivitäten

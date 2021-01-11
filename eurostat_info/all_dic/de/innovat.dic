@@ -1,0 +1,39 @@
+TOTAL	Insgesamt
+GD_SERV_PCS	Güter, Dienstleistungen oder Prozesse
+PRD	Produktinnovation
+PRD_GD	Güter
+PRD_SERV	Dienstleistungen
+BPCS	Geschäftsprozessinnovation
+PCS_GD_SERV	Neue oder verbesserte Methoden der Produktion von Gütern oder Erbringung von Dienstleistungen
+PCS	Prozessinnovation
+PCS_ACT	Unterstützende Aktivitäten für Prozesse
+PCS_LOG	Neue oder verbesserte Methoden der Logistik, Versendung oder Verbreitung
+LOG	Logistikinnovationen
+LOG_OTH	Andere Logistikinnovationen
+RDESG_SHPM	Neugestaltung des Versands (Verpackung, Gewicht und Dichte)
+OPROC_EXTREL	Neue Geschäftspraktiken zur Organisation von Abläufen oder externen Beziehungen
+OPROC	Neue Geschäftspraktiken zur Organisation von Abläufen
+OEXTREL	Neue Geschäftspraktiken zur Organisation von externen Beziehungen
+OWR_DEC_HRM	Neue Methoden zur Organisation von Arbeitsverantwortlichkeiten, Entscheidungsfindung oder Personalmanagement 
+OWR_DEC	Neue Methoden zur Organisation von Arbeitsverantwortlichkeiten, Entscheidungsfindung
+COMM	Neue oder verbesserte Methoden der Informationsverarbeitung oder Kommunikation
+ACCT	Neue Methoden der Rechnungsführung oder administrativer Abläufe
+SLS_SERV	Neue Marketingmethoden der Werbung, Verpackung, Preisfindung, Produktplatzierung oder After Sales Services 
+DESG_PK	Signifikante Veränderungen am ästhetischen Design oder der Verpackung
+PROMO	Neue Medien oder Techniken der Produktwerbung
+PLACMT	Neue Methoden der Produktplatzierung
+PRC_GD_SERV	Neue Methoden der Preisfindung für Güter oder Dienstleistungen
+IMS	System zum Inventarmanagment
+DSCM	Digitale Management der Beschaffungskette
+EPROC	E-Beschaffung
+UNAIDF_WSUPCH	Einheitliche und automatische Identifikation von Produkten innerhalb der gesamten Beschaffungskette
+LOG_RVS	Reversive Logistik
+NEWDLV_MDL	Neue Modelle der Versendung, einschließlich der Nutzung von Fahrzeugen mit alternativen Antrieb oder multi-modaler Logistik
+INN_WRL_GE1	Mindestens eine Innovation als Weltneuheit
+INN_NWRL	Keine Innovation als Weltneuheit
+INN_WRL_UNK	Keine Kenntnis über Innovation als Weltneuheit
+PRD_NEW	Neue oder wesentlich Verbesserte Produkte
+PRD_NEW_ENT	Neue oder wesentlich Verbesserte Produkte die für das Unternehmen neu waren
+PRD_NEW_ENT_ONL	Neue oder wesentlich Verbesserte Produkte die nur für das Unternehmen neu waren
+PRD_NEW_MKT	Neue oder wesentlich Verbesserte Produkte die Marktneuheiten waren
+SAME	Unveränderte oder nur unwesentlich veränderte Produkte (von Produktinnovatoren)

@@ -1,0 +1,11 @@
+MOGA_FAM	Familienmitglieder mit sonstigen Erwerbstätigkeiten als Haupttätigkeit
+MOGA_FAM_RH	Familienmitglieder mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+MOGA_FAM_NRH	Familienmitglieder mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+MOGA_NFAM_RH	Im landwirtschaftlichen Betrieb arbeitende familienfremde Arbeitskräfte mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Haupttätigkeit
+SOGA_FAM	Familienmitglieder mit sonstigen Erwerbstätigkeiten als Nebentätigkeit
+SOGA_FAM_RH	Familienmitglieder mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+SOGA_FAM_NRH	Familienmitglieder mit sonstigen (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+SOGA_NFAM_RH	Im landwirtschaftlichen Betrieb arbeitende familienfremde Arbeitskräfte mit sonstigen (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten als Nebentätigkeit
+NOGA_FAM	Familienmitglieder ohne sonstige Erwerbstätigkeiten
+NOGA_FAM_RH	Familienmitglieder ohne sonstige (mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten
+NOGA_FAM_NRH	Familienmitglieder ohne sonstige (nicht mit dem landwirtschaftlichen Betrieb verbundenen) Erwerbstätigkeiten

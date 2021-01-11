@@ -1,0 +1,52 @@
+TOTAL	Insgesamt
+FORD1-4	Naturwissenschaften, Ingenieurwissenschaften und Technologie, Medizinische und Gesundheitswissenschaften, Agrarwissenschaften
+FORD1	Naturwissenschaften
+FORD101	Mathematik
+FORD102	Informatik und Informationswissenschaften
+FORD103	Physik
+FORD104	Chemie
+FORD105	Geologie und zugehörige (Umwelt-)Wissenschaften
+FORD106	Biologie
+FORD107	Andere Naturwissenschaften
+FORD2	Ingenieurwissenschaften und Technologie
+FORD201	Bauingenieurwesen
+FORD202	Elektrotechnik, Elektronik, Informationstechnik
+FORD203	Maschinenbau
+FORD204	Chemische Verfahrenstechnik
+FORD205	Werkstofftechnik
+FORD206	Medizintechnik
+FORD207	Umwelttechnik
+FORD208	Umweltbiotechnologie
+FORD209	Industrielle Biotechnologie
+FORD210	Nanotechnologie
+FORD211	Andere Ingenieurfächer und Technologien
+FORD3	Medizinische und Gesundheitswissenschaften
+FORD301	Grundlagenmedizin
+FORD302	Klinische Medizin
+FORD303	Gesundheitswissenschaften
+FORD304	Medizinische Biotechnologie
+FORD305	Andere medizinische Wissenschaften
+FORD4	Agrarwissenschaften
+FORD401	Land- und Forstwirtschaft, Fischerei
+FORD402	Tierzuchtlehre sowie Milch- und Molkereiwissenschaft
+FORD403	Veterinärmedizin
+FORD404	Agrarbiotechnologie
+FORD405	Andere Agrarwissenschaften
+FORD5_6	Sozialwissenschaften und Geisteswissenschaften
+FORD5	Sozialwissenschaften
+FORD501	Psychologie und Kognitionswissenschaften
+FORD502	Volkswirtschafts- und Betriebswirtschaftslehre
+FORD503	Erziehung
+FORD504	Soziologie
+FORD505	Rechtswissenschaften
+FORD506	Politikwissenschaften
+FORD507	Sozial- und Wirtschaftsgeographie
+FORD508	Medien und Kommunikation
+FORD509	Andere Sozialwissenschaften
+FORD6	Geisteswissenschaften
+FORD601	Geschichte und Archäologie
+FORD602	Sprachen und Literatur
+FORD603	Philosophie, Ethik und Religion
+FORD604	Kunst (bildende Kunst, Kunstgeschichte, darstellende Kunst, Musik)
+FORD605	Andere Geisteswissenschaften
+NSP	Nicht angegeben

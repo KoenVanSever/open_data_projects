@@ -1,0 +1,55 @@
+GCV	Pouvoir calorifique supérieur
+GCV_AVG	Pouvoir calorifique supérieur - moyenne
+GCV_PRD	Pouvoir calorifique supérieur - production
+GCV_PRD_AG	Pouvoir calorifique supérieur - production - gaz associé
+GCV_PRD_NAG	Pouvoir calorifique supérieur - production - gaz non-associé
+GCV_PRD_CG	Pouvoir calorifique supérieur - production - gaz de mine
+GCV_TOS	Pouvoir calorifique supérieur - transfert d'autres sources
+GCV_TOS_OIL	Pouvoir calorifique supérieur - transfert d'autres sources - pétrole
+GCV_TOS_COAL	Pouvoir calorifique supérieur - transfert d'autres sources - charbon
+GCV_TOS_REN	Pouvoir calorifique supérieur - transfert d'autres sources - renouvelables
+GCV_IMP	Pouvoir calorifique supérieur - importations
+GCV_EXP	Pouvoir calorifique supérieur - exportations
+GCV_INTMARB	Pouvoir calorifique supérieur - soutages maritimes internationaux
+GCV_STK_CHG_MG	Pouvoir calorifique supérieur - variation de stock - selon définition de MOS GAS
+GCV_STK_CHG_NAT	Pouvoir calorifique supérieur - variation de stock - territoire national
+GCV_STK_OP_NAT	Pouvoir calorifique supérieur - stock initial - territoire national
+GCV_STK_CL_NAT	Pouvoir calorifique supérieur - stock final - territoire national
+GCV_STK_OP_ABR	Pouvoir calorifique supérieur - stock initial - détenu à l'étranger
+GCV_STK_CL_ABR	Pouvoir calorifique supérieur - stock final - détenu à l'étranger
+GCV_IC_CAL	Pouvoir calorifique supérieur - consommation intérieure - calculée
+GCV_IC_CAL_MG	Pouvoir calorifique supérieur - consommation intérieure - calculée selon définition de MOS GAS
+GCV_IC_OBS	Pouvoir calorifique supérieur - consommation intérieure - observée
+GCV_CO	Pouvoir calorifique supérieur - fours à coke
+GCV_BF	Pouvoir calorifique supérieur - hauts fourneaux
+GCV_MAP	Pouvoir calorifique supérieur - centrales ayant une activité principale
+GCV_IND	Pouvoir calorifique supérieur - industrie
+GCV_STATDIFF	Pouvoir calorifique supérieur - écarts statistiques
+GCV_DL	Pouvoir calorifique supérieur - pertes de distribution
+GCV_TI_EHG_MAP	Pouvoir calorifique supérieur - entrées en transformation - production d'électricité et de chaleur - producteurs dont c'est l'activité principale
+GCV_OTH	Pouvoir calorifique supérieur - autre
+NCV	Pouvoir calorifique inférieur
+NCV_AVG	Pouvoir calorifique inférieur - moyenne
+NCV_PRD	Pouvoir calorifique inférieur - production
+NCV_PRD_AG	Pouvoir calorifique inférieur - production - gaz associé
+NCV_PRD_NAG	Pouvoir calorifique inférieur - production - gaz non-associé
+NCV_PRD_CG	Pouvoir calorifique inférieur - production - gaz de mine
+NCV_TOS	Pouvoir calorifique inférieur - transfert d'autres sources
+NCV_TOS_OIL	Pouvoir calorifique inférieur - transfert d'autres sources - pétrole
+NCV_TOS_COAL	Pouvoir calorifique inférieur - transfert d'autres sources - charbon
+NCV_TOS_REN	Pouvoir calorifique inférieur - transfert d'autres sources - renouvelables
+NCV_IMP	Pouvoir calorifique inférieur - importations
+NCV_EXP	Pouvoir calorifique inférieur - exportations
+NCV_INTMARB	Pouvoir calorifique inférieur - soutages maritimes internationaux
+NCV_STK_CHG_NAT	Pouvoir calorifique inférieur - variation de stock - territoire national
+NCV_STK_OP_NAT	Pouvoir calorifique inférieur - stock initial - territoire national
+NCV_STK_CL_NAT	Pouvoir calorifique inférieur - stock final - territoire national
+NCV_STK_OP_ABR	Pouvoir calorifique inférieur - stock initial - détenu à l'étranger
+NCV_STK_CL_ABR	Pouvoir calorifique inférieur - stock final - détenu à l'étranger
+NCV_IC_CAL	Pouvoir calorifique inférieur - consommation intérieure - calculée
+NCV_IC_OBS	Pouvoir calorifique inférieur - consommation intérieure - observée
+NCV_CO	Pouvoir calorifique inférieur - fours à coke
+NCV_BF	Pouvoir calorifique inférieur - hauts fourneaux
+NCV_MAP	Pouvoir calorifique inférieur - centrales ayant une activité principale
+NCV_IND	Pouvoir calorifique inférieur - industrie
+NCV_OTH	Pouvoir calorifique inférieur - autre

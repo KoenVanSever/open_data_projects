@@ -1,0 +1,32 @@
+TOTAL	Total
+BASIC	Formation élémentaire
+PRACT	Expérience pratique exclusive
+FULL	Formation agricole complète
+CO_OF	Cours de FPC et/ou autres formes de FPC
+CO	Cours de FPC
+CO_INT	Cours de FPC - interne
+CO_EXT	Cours de FPC - externe
+CO_HSW	Cours obligatoires sur la santé et la sécurité au travail
+OF	Autres formes de FPC
+OF_GUID	"Autres formes de FPC - formation ""sur le tas"" encadrée"
+OF_JROT	Autres formes de FPC - rotation organisée sur les postes de travail, échanges ou détachements
+OF_CONF	Autres formes de FPC - formation dans le cadre de congrès, d'ateliers, de foires commerciales ou de conférences
+OF_LQC	Autres formes de FPC - cercles d'apprentissage ou de qualité
+OF_SDL	Autres formes de FPC - autoformation
+NO_CVT	Aucune FPC
+FE_NFE	Éducation et formation formelles et non-formelles
+FE	Éducation et formation formelles
+NFE	Éducation et formation non-formelles
+NFE_JB	Éducation et formation non-formelles - liées au travail
+NFE_JB_ES	Éducation et formation non-formelles - liées au travail et supportées par l'employeur
+NFE_JB_ES_SAL	Éducation et formation non-formelles - liées au travail et supportées par l'employeur (salariés seulement)
+NFE_JB_NES	Éducation et formation non-formelles - liées au travail et non supportées par l'employeur
+NFE_NJB	Éducation et formation non-formelles - non liées au travail
+NO_FE_NO_NFE	Aucune éducation ou formation formelles ou non-formelles
+NO_FE	Aucune éducation ou formation formelles
+NO_NFE	Aucune éducation ou formation non-formelles
+INF	Apprentissage informel
+INF_ONL	Uniquement apprentissage informel
+NO_LEARN	Pas d'activité d'apprentissage
+NAP	Non applicable
+NRP	Sans réponse

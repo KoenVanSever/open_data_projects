@@ -1,0 +1,16 @@
+TOTAL	Insgesamt
+KITC	Getrennte Küche in der Wohneinheit
+WTR	Fließendes Wasser in der Wohneinheit
+NWTR	Kein fließendes Wasser in der Wohneinheit
+WTR_UNK	Fließendes Wasser - unbekannt
+TOIL	Toilette mit Wasserspülung in der Wohneinheit
+NTOIL	Keine Toilette mit Wasserspülung in der Wohneinheit
+TOIL_UNK	Toilette - unbekannt
+BATH	Eingebaute Badewanne oder Dusche in der Wohneinheit
+NBATH	Keine eingebaute Badewanne oder Dusche in der Wohneinheit
+BATH_UNK	Bad, Dusche im Gebäude - unbekannt
+HEAT	Zentralheizung
+NHEAT	Keine Zentralheizung
+HEAT_UNK	Zentralheizung - unbekannt
+UNK	Unbekannt
+OTH	Sonstige

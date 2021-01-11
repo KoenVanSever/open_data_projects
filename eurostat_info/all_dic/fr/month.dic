@@ -1,0 +1,44 @@
+TOTAL	Total
+M01-03	De janvier à mars
+M01-05	De janvier à mai
+M01	Janvier
+M02-09	De février à septembre
+M02	Février
+M03-05	De mars à mai
+M03	Mars
+M04	Avril
+M05_M06	Mai-Juin
+M05	Mai
+M_LT06	31 mai et avant
+LT_MID06	15 juin et avant
+M06	Juin
+MID06-MID07	Du 15 juin au 15 juillet
+M07	Juillet
+MID07-MID08	Du 15 juillet au 15 août
+M08	Août
+M_GE08	1 août et après 
+GE_MID08	15 août et après 
+M09-11	De septembre à novembre
+M09-12	De septembre à décembre
+M09	Septembre
+M10-12	D'octobre à décembre
+M10-01	D'octobre à janvier
+M10-04	D'octobre à avril
+M10	Octobre
+M11-01	De novembre à janvier
+M11	Novembre
+M12-03	De décembre à mars
+M12	Décembre
+PYM01	Janvier de l'année civile précédente
+PYM02	Février de l'année civile précédente
+PYM03	Mars de l'année civile précédente
+PYM04	Avril de l'année civile précédente
+PYM05	Mai de l'année civile précédente
+PYM06	Juin de l'année civile précédente
+PYM07	Juillet de l'année civile précédente
+PYM08	Août de l'année civile précédente
+PYM09	Septembre de l'année civile précédente
+PYM10	Octobre de l'année civile précédente
+PYM11	Novembre de l'année civile précédente
+PYM12	Décembre de l'année civile précédente
+UNK	Inconnu

@@ -1,0 +1,38 @@
+TOTAL	Total
+PAS_FR	Passagers et fret
+PAS	Passagers embarqués et débarqués
+PAS_EMB	Passagers embarqués
+PAS_DEMB	Passagers débarqués
+PAS_BRD	Passagers à bord
+PAS_BRD_ARR	Passagers à bord (arrivées)
+PAS_BRD_DEP	Passagers à bord (départs)
+PAS_CRD	Passagers transportés
+PAS_CRD_ARR	Passagers transportés (arrivées)
+PAS_CRD_DEP	Passagers transportés (départs)
+PAS_TRS	Passagers en transit direct
+PAS_TRF	Passagers en transfert
+PAS_ONL	Passagers seulement
+ST_PAS	Sièges passagers offerts
+ST_PAS_ARR	Sièges passagers offerts (arrivées)
+ST_PAS_DEP	Sièges passagers offerts (départs)
+FR	Fret
+FR_LD_NLD	Fret chargé et déchargé
+FR_LD	Fret chargé
+FR_NLD	Fret déchargé
+FR_ONL	Fret seulement
+FRM_BRD	Fret et courrier à bord
+FRM_BRD_ARR	Fret et courrier à bord (arrivées)
+FRM_BRD_DEP	Fret et courrier à bord (départs)
+FRM_LD_NLD	Fret et courrier chargés et déchargés
+FRM_LD	Fret et courrier chargés
+FRM_NLD	Fret et courrier déchargés
+FRM_TRS	Fret et courrier en transit
+CAF	Vols commerciaux (passagers, fret et courrier)
+CAF_PAS	Vols commerciaux de passagers
+CAF_PAS_ARR	Vols commerciaux de passagers (arrivées)
+CAF_PAS_DEP	Vols commerciaux de passagers (départs)
+CAF_FRM	Vols commerciaux fret et courrier
+CAF_FRM_ARR	Vols commerciaux fret et courrier (arrivées)
+CAF_FRM_DEP	Vols commerciaux fret et courrier (départs)
+ACM	Mouvements d'avion (passagers, fret et courrier, opérations d'aviation générale commerciale et non-commerciale)
+CACM	Mouvements commerciaux d'avion  (passagers, fret et courrier, opérations d'aviation générale commerciale)

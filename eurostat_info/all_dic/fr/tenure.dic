@@ -1,0 +1,11 @@
+TOTAL	Total
+OWN	Propriétaire
+OWN_L	Propriétaire, hypothèque ou prêt en cours
+OWN_NL	Propriétaire, ni hypothèque, ni prêt en cours
+RENT	Locataire
+RENT_MKT	Locataire, loyer au prix du marché
+RENT_FR	Locataire, loyer à prix réduit ou gratuit
+CML	Terres communes
+SHR_OTH	Métayage et autres modes de faire valoir
+OTH	Autre
+UNK	Inconnu

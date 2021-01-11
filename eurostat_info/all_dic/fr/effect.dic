@@ -1,0 +1,38 @@
+TOTAL	Total
+STIM_INN	Stimulation de l'innovation 
+NMAJPB	Pas de problèmes majeurs créés 
+UNC	Création d'incertitude
+EXS_BUR	Génération d'une charge excessive
+LCSI_EU	Manque de cohérence dans l'UE
+INI	Initiation d'une ou plusieurs activités d'innovation
+NINI	Pas d'initiation d'une ou plusieurs activités d'innovation
+PCL	Entrave au démarrage d'une ou plusieurs activités
+NPCL	Pas d'entrave au démarrage d'une ou plusieurs activités
+STOP_ONGO	Arrêt d'une ou plusieurs activités d'innovation en cours
+NSTOP_ONGO	Pas d'arrêt d'une ou plusieurs activités d'innovation en cours
+D_END	Retard dans la réalisation d'une ou plusieurs activités d'innovation
+ND_END	Pas de retard dans la réalisation d'une ou plusieurs activités d'innovation
+INCR_COST	Hausse des coûts d'une ou plusieurs activités d'innovation
+NINCR_COST	Pas de hausse des coûts d'une ou plusieurs activités d'innovation
+SUCC	Succès
+NSUCC	Pas de succès
+INI_FAC	Initiation ou facilitation
+PHIC	Prévention, entrave ou augmentation des coûts
+NIMPC	Pas d'effet
+CHG_INCR_INC	Tous les changements permettant d'augmenter les revenus
+CHG_JOB	Changement d'emploi ou d'employeur
+LS_WRKHR	Diminution du temps de travail
+LS_DTSK	Tâches moins exigeantes au travail
+FAM_LEAV	Congé familial
+WRKINTR	Interruption de carrière
+NWRKINTR	Pas d'interruption de carrière
+RED_WRKTIME	Réduction du temps de travail
+NWRKINTR_NRED_WRKTIME	Pas d'interruption de carrière ni de réduction du temps de travail
+NVR_WRK_CHCARE	N'a jamais travaillé pour des raisons de garde d'enfants
+NVR_WRK_OTH	N'a jamais travaillé pour d'autres raisons
+NVR_CH	N'a jamais eu d'enfant
+NVR_CARE	N'a jamais eu de responsabilités familiales
+OTH	Autre
+NONE	Pas d'effets
+NAP	Non applicable
+NRP	Sans réponse

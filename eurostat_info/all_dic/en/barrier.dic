@@ -1,0 +1,146 @@
+TOTAL	Total
+LEG_ADM	Legal or administrative
+CBT_NRLV	Cross border trade not relevant
+C41	Cross border trade not relevant (products not exportable)
+E_COM_ABR	Establishing a commercial presence abroad
+C42	Establishing a commercial presence abroad
+MV_STAF_TEMP	Movement of staff on a temporary basis
+C43	Movement of personnel on a temporary basis
+TAX	Tax barriers
+C44	Taxation issues
+INS_GAR	Insurance, guarantee systems and other barriers
+C45	Insurance, guarantee systems, etc. issues
+LINTLSTD	Lack of international standards
+C46	Lack of international standards for services
+DIF_IDF_CLABR	Difficulty in identifying potential clients abroad
+C47	Difficulties in identifying potential clients abroad
+LANG_CLT	Language and culture
+C48	Language and cultural barriers
+TAR_TRD	Tariffs and other trade barriers
+TARIF	Trade tariffs
+UNC_INTLSTD	Uncertainty of international standards
+INT_STAN	Uncertainty of international standards
+CNC_SAL	Concerns of employees (including trade unions)
+EMPL	Concerns of employees (including trade unions)
+CNC_VLPAT_IPR	Concern of violation of patents and/or intellectual property rights
+PAT_INT	Concern of violation of patents and/or intellectual property rights
+CNF_SOCVAL	Conflicting with social values of your enterprise (e.g. corporate social responsibility issues)
+CONFL	Conflicting with social values of your enterprise (e.g. corporate social responsibility issues)
+DST_PRR	Distance to producers
+DISTAN	Problems with the distance to producers
+DST_CL	Distance to existing clients
+PROX	Proximity to existing clients needed
+DIF_IDF_PROVABR	Difficulty in identifying suitable providers abroad
+PROV	Difficulties in identifying potential/suitable providers abroad
+CNC_SRCOP_BEN	Concerns of the sourcing operation exceeding expected benefits
+OVERALL	Overall concerns of the sourcing operation exceeding expected benefits
+FIN	Financial barriers
+UNC_QUALPRD_ABR	Uncertainty of the quality of the products/services to be supplied abroad
+QPS	Uncertainty of the quality of the products/services to be supplied abroad
+LMNG_KH	Lack of management resources and know-how
+MAN	Lack of management resources and know-how (optional)
+MSSDOC_PRD	Missing documentation of own products and processes
+DOC	Missing documentation of own products and processes (optional)
+MOB	Mobility
+TRA	Transportation
+TRANSP	Barriers to transport
+ACS_BLD	Accessing buildings
+BUILD	Barriers to accessing buildings
+EDUC_TNG	Education and training
+EDUC	Barriers to education and training
+EMP	Employment
+U_INET	Using the internet
+INT	Barriers to using the Internet
+SOC	Social contact
+SPEAK	Barriers to social contact
+LEIS	Leisure
+LEISURE	Barriers to leisure
+P_ESS	Paying for essentials
+PAY	Barriers to paying for the essential things in life
+PERC_DCRIM	Perceived discrimination
+DISCRIM	Barriers of perceived discrimination
+PTP_LD1	Participating in 1 life domain
+LD1	Barriers to participation in 1 life domain
+PTP_LD2-3	Participating in 2 to 3 life domains
+LD2-3	Barriers to participation in 2-3 life domains
+PTP_LD_GE4	Participating in 4 or more life domains
+LD_GE4	Barriers to participation in 4 or more life domains
+LLANG	Lack of language skills
+LANG	Lack of language skills
+LREC_QLF	Lack of recognition of qualifications
+QUAL	Lack of recognition of qualifications
+CTZ_RPRM	Citizenship or residence permit
+PERM	Citizenship of residence permit
+ORI_REL_SOC	Origin, religion or social background
+ORELSOC	Origin, religion or social backgroung
+LQLFLAB_ABR	Lack of qualified labour abroad
+ACS_FIN_OTH	Access to finance or other financial barriers
+LFIN	Lack of finance
+LFIN_IN	Lack of internal finance
+LFIN_EXT	Lack of external finance (credit or private equity)
+LFUND_IN	Lack of funds within the enterprise or group
+HCOST	High costs
+HCOST_ACS_NEWMKT	High costs of access to new markets
+HCOST_MT_REGL	High costs of meeting regulations
+LQLFSAL_IN	Lack of qualified employees within enterprise
+LCOLLPTN	Lack of collaboration partners
+DIF_SUB	Difficulties in obtaining public grants or subsidies
+MKTDM_UNC	Uncertain market demand
+MKTDM_LW	Low market demand
+HCOMP	High competition
+PRCCOMP_STR	Strong price competition
+INN_COMP	Innovations introduced by competitors
+MKTCOMP_LTL	Little market competition
+STRCOMP_PRDQUAL	Strong competition on product quality
+LINFO_TEC	Lack of information on technology
+LINFO_MKT	Lack of information on markets
+LGIDEA	Lack of good ideas
+MKT_EENT	Markets dominated by established enterprises
+NND	No need
+PREINN	Previous innovations
+NDM	No demand
+ABD_CNC	Abandoned at the concept stage
+ABD_BG	Abandoned after it began
+D_SRL	Seriously delayed
+NCMPG	No compelling barrier
+BRR_TL	Too large barriers
+BUR_REGL	Burden due to legislation/regulation
+UNC_REGL	Uncertainty due to legislation/regulation
+LCSI_EU_REGL	Lack of consistency across the EU in legislation/regulation
+LACS_KNOW	Lack of access to external knowledge
+DIFFPRIOR_IN	Different priorities within the enterprise
+BRR_GE1	One or more barriers
+OUTSRC_LOG	Outsourced logistics to another enterprise
+REGL	Regulatory barriers
+TECH	Technical barriers
+WRKHR_LG	Long working hours
+DIF_WRKSCD	Unpredictable or difficult work schedules
+COM_LG	Long commute
+DMJOB	Demanding or exhausting job
+LSUPP_EMPL	Lack of support from employers and colleagues
+RF	Relations feasible only within enterprise group
+L	Location of enterprise
+SBS	Size or business scope of enterprise
+ASP	Availability of suitable partners
+LRB	Legal or regulatory barriers
+CCI	Concerns about losing core competence or independence
+RIMF	Risk to invest manpower and/or finances into wrong direction
+NSCC	Have tried but did not succeed
+NWRI	Need or willingness to remain independent
+OSOP	Other strategic or operational options preferred
+BEG	Too burdensome vis-à-vis the expected gains
+11	Barriers related to location
+12	Language barriers
+13	Cultural and trust barriers
+14	Economic barriers
+15	Legal and regulatory barriers
+16	Difficulties to identify suitable foreign service providers
+20	No barriers perceived
+30	The service is not relevant
+OTH	Other
+OTHER	Other barriers
+NO	No barrier
+NONE	None
+NAP	Not applicable
+NRP	No response
+UNK	Unknown

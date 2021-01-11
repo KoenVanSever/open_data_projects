@@ -1,0 +1,73 @@
+TOTAL	Insgesamt
+POP	Bevölkerung
+ACT_INAC	Erwerbs- und Nichterwerbspersonen
+ACT	Erwerbspersonen
+EMP_W	Erwerbstätige, zuvor gearbeitet
+EMP	Erwerbstätige
+EMP_FT	Vollzeitbeschäftigte
+EMP_PT	Teilzeitbeschäftigte
+LEAV	Vorübergehend beurlaubte Erwerbstätige
+SAL_SCTR	Arbeitnehmer und Subunternehmer
+SAL	Arbeitnehmer
+SAL_PERM	Arbeitnehmer mit einer unbefristeten Arbeitsstelle
+SAL_TEMP	Arbeitnehmer mit einer befristeten Arbeitsstelle
+MW_IS	Arbeiter in der Industrie und im Dienstleistungsbereich
+NMW_IS	Angestellte in der Industrie und im Dienstleistungsbereich
+NSAL	Erwerbstätige ausgenommen Arbeitnehmer
+SELF_COWN	Selbstständige und Miteigentümer
+SELF	Selbstständige
+SELF_S	Selbständige mit Arbeitnehmern (Arbeitgeber)
+SELF_NS	Selbständige, die keine Arbeitnehmer beschäftigen
+SELF_I_NS	Independent self-employed without employees (own-account workers)
+SELF_D_NS	Dependent self-employed without employees (own-account workers)
+SELF_NS_D_UNK	Self-employed without employees (own-account workers), dependency not known
+CFAM_COOP	Mithelfende Familienangehörige und Mitglieder von Erzeugergenossenschaften
+CFAM	Mithelfende Familienangehörige
+NCFAM	Erwerbstätige ausgenommen mithelfende Familienangehörige
+COOP	Mitglieder von Erzeugergenossenschaften
+EMP_OTH	Sonstige Erwerbstätige
+EMP_UNK	Erwerbstätige - unbekannt
+FLF_D	Landwirtschaftliche Arbeitskräfte, die direkt vom  landwirtschaftlichem Betrieb beschäftigt sind auf regelmäßiger oder nicht regelmäßiger Basis
+FLF_D_R	Landwirtschaftliche Arbeitskräfte, die direkt vom  landwirtschaftlichem Betrieb beschäftigt sind auf regelmäßiger Basis 
+FLF_D_RFAM	Familiäre landwirtschaftliche Arbeitskräfte, die direkt vom landwirtschaftlichem Betrieb beschäftigt sind 
+FLF_D_RFAM_HLD	Alleiniger Betriebsinhaber, der direkt vom landwirtschaftlichem Betrieb beschäftigt ist 
+FLF_D_RFAMXHLD	Familienmitglieder der alleinigen Betriebsinhaber, ausschließlich des Inhabers, die direkt vom landwirtschaftlichem Betrieb beschäftigt sind
+FLF_D_RFAM_SPOU	Ehepartner des alleinigen Betriebsinhabers, der direkt vom landwirtschaftlichem Betrieb beschäftigt ist
+FLF_D_RFAM_OTH	Andere Familienmitglieder des alleinigen Betriebsinhabers, die direkt vom landwirtschaftlichem Betrieb beschäftigt sind
+FLF_D_NFAM	Familienfremde landwirtschaftliche Arbeitskräfte, die direkt vom landwirtschaftlichem Betrieb beschäftigt sind
+FLF_D_RNFAM	Familienfremde landwirtschaftliche Arbeitskräfte, die direkt vom landwirtschaftlichem Betrieb beschäftigt sind auf regelmäßiger Basis
+FLF_D_NR	Landwirtschaftliche Arbeitskräfte, die direkt vom landwirtschaftlichem Betrieb beschäftigt sind auf nicht regelmäßiger Basis
+FLF_ND	Landwirtschaftliche Arbeitskräfte, die nicht direkt vom landwirtschaftlichen Betrieb beschäftigt sind
+FLF_GRP	Gruppenbetriebsinhaber
+FLF_MANXGRP	Leiter von landwirtschaftlichen Betrieben, ausschließlich Gruppenbetriebsinhaber
+NEMP	Nicht erwerbstätige Personen
+UNE	Erwerbslose
+UNE_W	Erwerbslose, zuvor gearbeitet
+UNE_NW	Erwerbslose, zuvor nie gearbeitet
+ACT_UNK	Erwerbsbevölkerung - unbekannt
+INAC	Nichterwerbspersonen
+LT_MWA	Personen, die noch nicht das Mindestarbeitsalter erreicht haben
+INAC_GE65	Nichterwerbspersonen - 65 Jahre und mehr
+EDUC	Studenten
+ARM	Personen, die ihren allgemeinen Wehrdienst oder ihren Zivildienst ableisten
+HOME_IO	Hausfrauen und -männer und sonstige Nichterwerbspersonen
+HOME	Hausfrauen und -männer
+DIS	Behinderte Personen
+INC	Rentner und Empfänger von Kapitalerträgen
+RET	Rentner
+INAC_OTH	Sonstige Nichterwerbspersonen
+INAC_UNK	Nichterwerbspersonen - unbekannt
+COWN	Miteigentümer
+CLIENT	Kunden
+SCTR	Subunternehmer
+NONE	Kein
+NCHG	Keine Änderung
+OTH	Sonstige
+NAP	Nicht anwendbar
+NRP	Ohne Antwort
+UNK	Unbekannt
+WANT	Personen, die arbeiten möchten (suchen Arbeit oder nicht)
+NWANT	Personen, die nicht arbeiten möchten
+PRACT	Praktizierend
+PACT	Fachlich aktiv
+LIC	Approbiert

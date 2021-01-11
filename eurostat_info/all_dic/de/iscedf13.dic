@@ -1,0 +1,229 @@
+TOTAL	Insgesamt
+F00	Allgemeine Progrmme und Qualifikationen
+F000	Allgemeine Progrmme und Qualifikationen nicht näher definiert
+F0000	Allgemeine Progrmme und Qualifikationen nicht näher definiert
+F001	Grundbildungsgänge und -qualifikationen
+F0011	Grundbildungsgänge und -qualifikationen
+F002	Alphabetisierung und Vermittlung von Rechenfertigkeiten
+F0021	Alphabetisierung und Vermittlung von Rechenfertigkeiten
+F003	Persönliche Fähigkeiten/Fertigkeiten und Persönlichkeitsenwicklung
+F0031	Persönliche Fähigkeiten/Fertigkeiten und Persönlichkeitsenwicklung
+F009	Allgemeine Progrmme und Qualifikationen anderweitig nicht genannt
+F0099	Allgemeine Progrmme und Qualifikationen anderweitig nicht genannt
+F01	Pädagogik
+F011	Pädagogik
+F0110	Pädagogik nicht näher definiert
+F0111	Erziehungswissenschaft
+F0112	Ausbildung von Lehrkräften für die Vorschule
+F0113_0114	Ausbildung von Lehrern ohne Fachstudium und mit Fachstudium
+F0113	Ausbildung von Lehrern ohne Fachstudium
+F0114	Ausbildung von Lehrern mit Fachstudium
+F0119	Ausbildung von Lehrern mit Fachstudium anderweitig nicht genannt
+F018	Interdisziplinäre Programme und Qualifikationen im Bereich  Pädagogik
+F0188	Interdisziplinäre Programme und Qualifikationen im Bereich  Pädagogik
+F02	Künste und Geisteswissenschaften
+F020	Künste und Geisteswissenschaften nicht näher definiert
+F0200	Künste und Geisteswissenschaften nicht näher definiert
+F021	Künste
+F0210	Künste nicht näher definiert
+F0211	Audiovisuelle Techniken und Medienproduktion
+F0212	Mode, Innen- und Industriedesign
+F0213	Bildende Kunst
+F0214	Kunsthandwerk
+F0215	Musik und darstellende Kunst
+F0219	Künste anderweitig nicht genannt
+F022_023	Geistenwissenschafen
+F022	Geistenwissenschafen (ausgenommen Sprachen)
+F0220	Geistenwissenschafen (ausgenommen Sprachen) nicht näher definiert
+F0221	Religion und Theologie
+F0222	Geschichte und Archäologie
+F0223	Philosophie und Ethik
+F0229	Geistenwissenschafen (ausgenommen Sprachen) anderweitig nicht genannt
+F023	Sprachen
+F0230	Sprachen nicht näher definiert
+F0231	Sprachenerwerb
+F0232	Literatur und Linguistik
+F0239	Sprachen anderweitig nicht genannt
+F028	Interdisziplinäre Programme und Qualifikationen im Bereich Künste und Geisteswissenschaften
+F0288	Interdisziplinäre Programme und Qualifikationen im Bereich Künste und Geisteswissenschaften
+F029	Künste und Geisteswissenschaften anderweitig nicht genannt
+F0299	Künste und Geisteswissenschaften anderweitig nicht genannt
+F03_04	Sozialwissenschaften, Journalismus, Informationswesen, Wirtschaft, Verwaltung und Recht
+F03	Sozialwissenschaften, Journalismus und Informationswesen
+F030	Sozialwissenschaften, Journalismus und Informationswesen nicht näher definiert
+F0300	Sozialwissenschaften, Journalismus und Informationswesen nicht näher definiert
+F031	Sozial- und Verhaltenswissenschaften
+F0310	Sozial- und Verhaltenswissenschaften nicht näher definiert
+F0311	Wirtschaftswissenschaft
+F0312	Politikwissenschaften und Staatsbürgerkunde
+F0313	Psychologie
+F0314	Soziologie und Kulturwissenschaften
+F0319	Sozial- und Verhaltenswissenschaften anderweitig nicht genannt
+F032	Journalismus und Informationswesen
+F0320	Journalismus und Informationswesen nicht näher definiert
+F0321	Journalismus und Berichterstattung
+F0322	Bibliothek, Informationswesen und Archiv
+F0329	Journalismus und Informationswesen anderweitig nicht genannt
+F038	Interdisziplinäre Programme und Qualifikationen im Bereich Sozialwissenschaften, Journalismus und Informationswesen
+F0388	Interdisziplinäre Programme und Qualifikationen im Bereich Sozialwissenschaften, Journalismus und Informationswesen
+F039	Sozialwissenschaften, Journalismus und Informationswesen anderweitig nicht genannt
+F0399	Sozialwissenschaften, Journalismus und Informationswesen anderweitig nicht genannt
+F04	Wirtschaft, Verwaltung und Recht
+F040	Wirtschaft, Verwaltung und Recht nicht näher definiert
+F0400	Wirtschaft, Verwaltung und Recht nicht näher definiert
+F041	Wirtschaft und Verwaltung
+F0410	Wirtschaft und Verwaltung nicht näher definiert
+F0411	Steuer- und Rechnungswesen
+F0412	Kredit- und Versicherungswesen
+F0413	Management und Verwaltung
+F0414	Marketing und Werbung
+F0415	Sekretariats- und Büroarbeit
+F0416	Handel
+F0417	Arbeitsfähigkeiten
+F0419	Wirtschaft und Verwaltung anderweitig nicht genannt
+F042	Recht
+F0421	Recht
+F048	Interdisziplinäre Programme und Qualifikationen im Bereich Wirtschaft, Verwaltung und Recht
+F0488	Interdisziplinäre Programme und Qualifikationen im Bereich Wirtschaft, Verwaltung und Recht
+F049	Wirtschaft, Verwaltung und Recht anderweitig nicht genannt
+F0499	Wirtschaft, Verwaltung und Recht anderweitig nicht genannt
+F05	Naturwissenschaften, Mathematik und Statistik
+F050	Naturwissenschaften, Mathematik und Statistik nicht näher definiert
+F0500	Naturwissenschaften, Mathematik und Statistik nicht näher definiert
+F051	Biologie und verwandte Wissenschaften
+F0510	Biologie und verwandte Wissenschaften nicht näher definiert
+F0511_0512	Biologie und Biochemie
+F0511	Biologie
+F0512	Biochemie
+F0519	Biologie und verwandte Wissenschaften anderweitig nicht genannt
+F052	Umwelt
+F0520	Umwelt nicht näher definiert
+F0521	Umweltforschung
+F0522	Natürliche Lebensräume und Wildtierschutz
+F0529	Umwelt anderweitig nicht genannt
+F053	Exakte Naturwissenschaften
+F0530	Exakte Naturwissenschaften nicht näher definiert
+F0531	Chemie
+F0532	Geowissenschaften
+F0533	Physik
+F0539	Exakte Naturwissenschaften anderweitig nicht genannt
+F054	Mathematik und Statistik
+F0540	Mathematik und Statistik nicht näher definiert
+F0541	Mathematik
+F0542	Statistik
+F058	Interdisziplinäre Programme und Qualifikationen im Bereich Naturwissenschaften, Mathematik und Statistik
+F0588	Interdisziplinäre Programme und Qualifikationen im Bereich Naturwissenschaften, Mathematik und Statistik
+F059	Naturwissenschaften, Mathematik und Statistik anderweitig nicht genannt
+F0599	Naturwissenschaften, Mathematik und Statistik anderweitig nicht genannt
+F06	Informations- und Kommunikationstechnologien
+F061	Informations- und Kommunikationstechnologien
+F0610	Informations- und Kommunikationstechnologien nicht näher definiert
+F0611	Computerbedienung
+F0612_0613	Design und Verwaltung von Datenbanken und Netzwerken, Entwicklung und Analyse von Computerprogrammen und -anwendungen
+F0612	Design und Verwaltung von Datenbanken und Netzwerken
+F0613	Entwicklung und Analyse von Computerprogrammen und -anwendungen
+F0619	Informations- und Kommunikationstechnologien anderweitig nicht genannt
+F068	Interdisziplinäre Programme und Qualifikationen im Bereich Informations- und Kommunikationstechnologien
+F0688	Interdisziplinäre Programme und Qualifikationen im Bereich Informations- und Kommunikationstechnologien
+F07	Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe
+F070	Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe nicht näher definiert
+F0700	Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe nicht näher definiert
+F071	Ingenieurwesen und technische Berufe
+F0710	Ingenieurwesen und technische Berufe nicht näher definiert
+F0711	Chemie und Verfahrenstechnik
+F0712	Umweltschutztechnologien
+F0713	Elektrizität und Energie
+F0714	Elektronik und Automation
+F0715	Maschinenbau und Metallverarbeitung
+F0716	Kraftfahrzeuge, Schiffe und Flugzeuge
+F0719	Ingenieurwesen und technische Berufe anderweitig nicht genannt
+F072	Herstellung und Verarbeitung
+F0720	Herstellung und Verarbeitung nicht näher definiert
+F0721	Ernährungsgewerbe
+F0722	Werkstoffe (Glas, Papier, Kunststoff und Holz)
+F0723	Textilien (Kleidung, Schuhwerk und Leder)
+F0724	Bergbau und Gewinnung von Steinen und Erden
+F0729	Herstellung und Verarbeitung anderweitig nicht genannt
+F073	Architektur und Baugewerbe
+F0730	Architektur und Baugewerbe nicht näher definiert
+F0731	Architektur und Städteplanung
+F0732	Baugewerbe, Hoch- und Tiefbau
+F078	Interdisziplinäre Programme und Qualifikationen im Bereich Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe
+F0788	Interdisziplinäre Programme und Qualifikationen im Bereich Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe
+F079	Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe anderweitig nicht genannt
+F0799	Ingenieurwesen, verarbeitendes Gewerbe und Baugewerbe anderweitig nicht genannt
+F08	Agrarwissenschaft, Forstwirtschaft, Fischerei und Tiermedizin
+F080	Agrarwissenschaft, Forstwirtschaft, Fischerei und Tiermedizin nicht näher definiert
+F0800	Agrarwissenschaft, Forstwirtschaft, Fischerei und Tiermedizin nicht näher definiert
+F081-083_088	Landwirtschaft, Forstwirtschaft und Fischereiwirtschaft
+F081	Agrarwissenschaft
+F0810	Agrarwissenschaft nicht näher definiert
+F0811	Pflanzenbau und Tierzucht
+F0812	Gartenbau
+F0819	Agrarwissenschaft anderweitig nicht genannt
+F082	Forstwirtschaft
+F0821	Forstwirtschaft
+F083	Fischerei
+F0831	Fischerei
+F084	Tiermedizin
+F0841	Tiermedizin
+F088	Interdisziplinäre Programme und Qualifikationen im Bereich Agrarwissenschaft, Forstwirtschaft, Fischerei und Tiermedizin
+F0888	Interdisziplinäre Programme und Qualifikationen im Bereich Agrarwissenschaft, Forstwirtschaft, Fischerei und Tiermedizin
+F089	Agrarwissenschaft, Forstwirtschaft, Fischerei und Tiermedizin anderweitig nicht genannt
+F0899	Agrarwissenschaft, Forstwirtschaft, Fischerei und Tiermedizin anderweitig nicht genannt
+F09	Gesundheit und soziale Dienste
+F090	Gesundheit und soziale Dienste nicht näher definiert
+F0900	Gesundheit und soziale Dienste nicht näher definiert
+F091	Gesundheit
+F0910	Gesundheit nicht näher definiert
+F0911	Zahnmedizin
+F0912_0915_0917	Medizin, Therapie und Rehabilitation 
+F0912	Medizin
+F0913_0921	Krankenpflege, Ausbildung von Hebammen und Pflege von PersonenAlten- und Behindertenpflege
+F0913	Krankenpflege und Ausbildung von Hebammen
+F0914	Medizinische Diagnostik und Behandlungstechnik
+F0915	Therapie und Rehabilitation
+F0916	Pharmazie
+F0917	Traditionnelle und alternative Medizin und Therapie
+F0919	Gesundheit anderweitig nicht genannt
+F092	Soziale Dienste
+F0920	Soziale Dienste nicht näher definiert
+F0921	Alten- und Behindertenpflege
+F0922	Kinder- und Jugendarbeit
+F0923	Sozialarbeit und Beratung
+F0929	Soziale Dienste,  anderweitig nicht genannt
+F098	Interdisziplinäre Programme und Qualifikationen im Bereich Gesundheit und soziale Dienste
+F0988	Interdisziplinäre Programme und Qualifikationen im Bereich Gesundheit und soziale Dienste
+F099	Gesundheit und soziale Dienste anderweitig nicht genannt
+F0999	Gesundheit und soziale Dienste anderweitig nicht genannt
+F10	Dienstleistungen
+F100	Dienstleistungen nicht näher definiert
+F1000	Dienstleistungen nicht näher definiert
+F101	Persönliche Dienstleistungen
+F1010	Persönliche Dienstleistungen nicht näher definiert
+F1011	Hauswirtschaftliche Dienste
+F1012	Friseurgewerbe ind Schönheitspflege
+F1013	Gastgewerbe und Catering
+F1014	Sport
+F1015	Reisebüros, Fremdenverkehrsgewerbe und Freizeitindustrie
+F1019	Persönliche Dienstleistungen anderweitig nicht genannt
+F102	Hygiene und Gesundheitsdienste am Arbeitsplatz
+F1020	Hygiene und Gesundheitsdienste am Arbeitsplatz nicht näher definiert
+F1021	Kommunale Entsorgungsdienstleistungen
+F1022	Gesundheit und Sicherheit am Arbeitsplatz
+F1029	Hygiene und Gesundheitsdienste am Arbeitsplatz anderweitig nicht genannt
+F103	Sicherheitsdienstleistungen
+F1030	Sicherheitsdienstleistungen nicht näher definiert
+F1031	Militär und Verteidigung
+F1032	Schutz von Eigentum und Personen
+F1039	Sicherheitsdienstleistungen anderweitig nicht genannt
+F104	Verkehrsdienstleistungen
+F1041	Verkehrsdienstleistungen
+F108	Interdisziplinäre Programme und Qualifikationen im Bereich Dienstleistungen
+F1088	Interdisziplinäre Programme und Qualifikationen im Bereich Dienstleistungen
+F109	Dienstleistungen anderweitig nicht genannt
+F1099	Dienstleistungen anderweitig nicht genannt
+OTH	Sonstige
+NSP	Nicht angegeben
+NRP	Keine Antwort
+UNK	Unbekannt

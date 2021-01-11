@@ -1,0 +1,15 @@
+TOTAL	Total
+FRW	Eau douce (surface et souterraine)
+FSW	Eau douce de surface
+FGW	Eau douce souterraine
+NFW	Sources d'eau de mer et eau saumâtre
+DSW	Eaux désalinisées
+RUW	Eaux réutilisées
+NRGW	Eau douce souterraine non renouvelable
+IMP	Importations d'eau
+EXP	Exportations d'eau
+WAU	Eau disponible pour la consommation
+PRECIP	Précipitation
+RFW_RES	Ressources renouvelables en eau douce
+REW	Eaux restituées (avant ou sans utilisation)
+WW	Eaux usées

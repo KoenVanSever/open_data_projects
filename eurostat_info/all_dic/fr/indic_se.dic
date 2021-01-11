@@ -1,0 +1,89 @@
+ERN	Salaire brut
+E_F_M_PC	Salaire brut des femmes en pourcentage de celui des hommes
+OPAY	Rémunération des heures supplémentaires
+OP_E_PC	Rémunération des heures supplémentaires en proportion du salaire
+MEAN_B_SALC_EUR	Bonus annuel moyen par salarié concerné en euros
+MEAN_B_SALC_PPS	Bonus annuel moyen par salarié concerné en SPA
+MEAN_H	Nombre moyen annuel de jours de congés
+SPAY	Prime pour travail posté 
+SP_E_PC	Prime pour travail posté en pourcentage du salaire
+BNS	Primes annuelles
+B_E_PC	Primes annuelles en pourcentage du salaire annuel
+HPAID	Heures rémunérées
+OHP	Heures supplémentaires rémunérées
+OH_H_PC	Heures supplémentaires en pourcentage des heures rémunérées
+MMW_MEAN_ME_PP	Salaire minimum mensuel en proportion du salaire mensuel brut moyen
+MMW_MED_ME_PP	Salaire minimum mensuel en proportion du salaire mensuel brut médian
+HOL	Jours de congé annuels
+SAL	Salariés
+LOC_UNIT	Unités locales
+MEAN_E_EUR	Salaire moyen en euros
+MEAN_E_PPS	Salaire moyen en SPA
+MED_E_EUR	Salaire médian en euros
+MED_E_PPS	Salaire médian en SPA
+D1_E_EUR	Premier décile du salaire en euros
+D1_E_PPS	Premier décile du salaire en SPA
+D9_E_EUR	Neuvième décile du salaire en euros
+D9_E_PPS	Neuvième décile du salaire en SPA
+MEAN_OP_SAL_EUR	Rémunération moyenne des heures supplémentaires par salarié en euros
+MEAN_OP_SAL_PPS	Rémunération moyenne des heures supplémentaires par salarié en SPA
+MEAN_OP_SALC_EUR	Rémunération moyenne des heures supplémentaires par salarié concerné en euros
+MEAN_OP_SALC_PPS	Rémunération moyenne des heures supplémentaires par salarié concerné en SPA
+MEAN_SP_SAL_EUR	Prime moyenne pour travail posté par salarié en euros
+MEAN_SP_SAL_PPS	Prime moyenne pour travail posté  par salarié en SPA
+MEAN_SP_SALC_EUR	Prime moyenne pour travail posté par salarié concerné en euros
+MEAN_SP_SALC_PPS	Prime moyenne pour travail posté par salarié concerné en SPA
+MEAN_HP	Nombre moyen d'heures rémunérées
+MEAN_OHP_SAL	Nombre moyen d'heures supplémentaires rémunérées par salarié
+MEAN_OHP_SALC	Nombre moyen d'heures supplémentaires rémunérées par salarié concerné
+MEAN_B_SAL_EUR	Bonus annuels moyens par salarié en euros
+MEAN_B_SAL_PPS	Bonus annuels moyens par salarié en SPA
+HE	Salaire horaire
+HE_FPCM	Salaire horaire des femmes en % de celui des hommes
+HOVT	Rémunération horaire pour heures supplémentaires
+HEAOVT	Salaire horaire plus rémunération pour heures supplémentaires
+HEO_FPCM	Salaire horaire plus rémunération pour heures supplémentaires des femmes en % de celui des hommes
+HOVTPC	Rémunération horaire pour heures supplémentaires en % du salaire horaire
+ME	Salaire mensuel
+MOVT	Rémunération mensuelle pour heures supplémentaires
+MS	Paiement pour travail en équipe
+MOVTPC	Rémunération mensuelle pour heures supplémentaire en % du salaire mensuel
+MSPC	Paiement mensuel pour travail en équipe en % du salaire mensuel
+AE	Salaire annuel
+AB	Primes annuelles
+ABPC	Primes annuelles en % du salaire annuel
+MHP	Nombre mensuel d'heures rémunérées
+MHPAOVT	Nombre mensuel d'heures supplémentaires rémunérées
+MHPOVTPC	Heures supplémentaires en % du nombre mensuel d'heures rémunérées
+MW_MEAGE	Salaire minimum mensuel en proportion de la valeur moyenne des gains moyens mensuels
+MW_MEDGE	Salaire minimum mensuel en proportion de la médiane des gains moyens mensuels
+AH	Nombre annuel de jours de congé
+SAL_NR	Nombre de salariés
+LOU_NR	Nombre d'unités locales
+ERN_MN_EUR	Salaire moyen en euros
+ERN_MN_PPS	Salaire moyen en SPA
+ERN_MD_EUR	Salaire médian en euros
+ERN_MD_PPS	Salaire médian en SPA
+ERN_D1_EUR	Premier décile du salaire en euros
+ERN_D1_PPS	Premier décile du salaire en SPA
+ERN_D9_EUR	Neuvième décile du salaire en euros
+ERN_D9_PPS	Neuvième décile du salaire en SPA
+ERN_D10_EUR	Dixième décile du salaire en euros
+ERN_D10_PPS	Dixième décile du salaire en SPA
+LWE_PC	Proportion des employés à bas salaires
+OVS_MN_EUR	Rémunération mensuelle moyenne pour heures supplémentaires par salarié en euros
+OVS_MN_PPS	Rémunération mensuelle moyenne pour heures supplémentaires par salarié en SPA
+OVC_MN_EUR	Rémunération mensuelle moyenne pour heures supplémentaires par salarié concerné en euros
+OVC_MN_PPS	Rémunération mensuelle moyenne pour heures supplémentaires par salarié concerné en SPA
+SHS_MN_EUR	Paiement mensuel moyen pour travail à horaires décalés par salarié en euros
+SHS_MN_PPS	Paiement mensuel moyen pour travail à horaires décalés par salarié en SPA
+SHC_MN_EUR	Paiement mensuel moyen pour travail à horaires décalés par salarié concerné en euros
+SHC_MN_PPS	Paiement mensuel moyen pour travail à horaires décalés par salarié concerné en SPA
+HP_MN_HR	Moyenne mensuelle des heures payées
+OVHPS_MN_HR	Moyenne mensuelle des heures supplémentaires payées  par salarié
+OVHPC_MN_HR	Moyenne mensuelle des heures supplémentaires payées  par salarié concerné
+BS_MN_EUR	Bonus annuel moyen par salarié en euros
+BS_MN_PPS	Bonus annuel moyen par salarié en PPS
+BC_MN_EUR	Bonus annuel moyen par salarié concerné en euros
+BC_MN_PPS	Bonus annuel moyen par salarié concerné en PPS
+HDAY_MN	Nombre moyen annuel de jours de congé

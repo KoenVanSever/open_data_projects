@@ -1,0 +1,313 @@
+INP	Input total
+INP_S1	Consommation intermédiaire
+SED	Semences et plants
+SED_IN	Semences et plants achetés à d'autres exploitations agricoles
+SED_OUT	Semences et plants achetés en dehors de la branche agricole
+ARP	Animaux d'élevage et de rente
+NRG_LUB	Produits énergétiques et lubrifiants
+NRG	Produits énergétiques
+NRG_E	Electricité
+NRG_G	Gaz
+NRG_F	Combustibles et carburants
+NRG_FH	Combustibles de chauffage
+NRG_FH_G	Fuel-oil fluide
+NRG_R	Fuel-oil résiduel
+NRG_FM	Carburants
+NRG_FM_S	Essence moteur
+NRG_FM_D	Gazole
+LUB	Lubrifiants
+NRG_LUB_OTH	Autres produits énergétiques et lubrifiants
+FER	Engrais et amendements
+FER_IN	Engrais achetés à d'autres exploitations agricoles
+FER_OUT	Engrais achetés en dehors de la branche agricole
+FER_S	Engrais simples
+FER_S_N	Engrais azotés
+FER_S_N_SA	Sulphate d'ammonium
+FER_S_N_AN1	Nitrate d'ammonium (20.5% N)
+FER_S_N_AN2	Nitrate d'ammonium (21% N)
+FER_S_N_AN3S	Nitrate d'ammonium (26% N) (en sacs)
+FER_S_N_AN3B	Nitrate d'ammonium (26% N) (en vrac)
+FER_S_N_AN4	Nitrate d'ammonium (33% N)
+FER_S_N_AN4S	Nitrate d'ammonium (33% N) (en sacs)
+FER_S_N_AN4B	Nitrate d'ammonium (33% N) (en vrac)
+FER_S_N_AA	Ammoniac anhydre
+FER_S_N_NH	Urée
+FER_S_N_UAN	Solution urée - nitrate d'ammonium (UNA)
+FER_S_N_OTH	Autres engrais azotés
+FER_S_P	Engrais phosphatés
+FER_S_P_PR	Roche phosphatée
+FER_S_P_AP	Phosphate d'ammonium
+FER_S_P_SP	Superphosphate (18% P2O5)
+FER_S_P_TSP	Triple superphosphate (46% P2O5)
+FER_S_K	Engrais potassiques
+FER_S_K_MOP	Chlorure de potassium
+FER_S_K_SOP	Sulphate de potassium
+FER_C	Engrais composés
+FER_C_NP	Engrais NP
+FER_C_NP1	Engrais NP 1 - 1 - 0
+FER_C_NP2	Phosphate de diammonium (DAP)
+FER_C_NP3	Phosphate de monoammonium (MAP)
+FER_C_NP_OTH	Autres engrais NP
+FER_C_PK	Engrais PK
+FER_C_PK1	Engrais PK 0 - 1 - 1
+FER_C_PK2	Engrais PK 0 - 20 - 20
+FER_C_PK3	Nitrate de potassium
+FER_C_PK4	Engrais PK 0 - 20 - 25
+FER_C_NPK	Engrais NPK
+FER_C_NPK1	Engrais NPK 1 - 0.5 - 0.5
+FER_C_NPK2	Engrais NPK 20 - 10 - 10
+FER_C_NPK3S	Engrais NPK 1 - 1 - 1 (en sacs)
+FER_C_NPK4S	Engrais NPK 17 - 17 - 17 (en sacs)
+FER_C_NPK3B	Engrais NPK 1 - 1 - 1 (en vrac)
+FER_C_NPK4B	Engrais NPK 17 - 17 - 17 (en vrac)
+FER_C_NPK5C	Engrais NPK complexe 15 - 15 - 15
+FER_C_NPK5M	Engrais NPK mélangé 15 - 15 - 15
+FER_C_NPK6	Engrais NPK 26 - 2 - 3
+FER_C_NPK7	Engrais NPK 20 - 4 - 8
+FER_C_NPK8	Engrais NPK 18 - 5 - 10
+FER_C_NPK9	Engrais NPK 23 - 5 - 10
+FER_C_NPK10	Engrais NPK 18 - 3 - 12
+FER_C_NPK11	Engrais NPK 12 - 6 - 17
+FER_C_NPK12	Engrais NPK 14 - 9 - 10
+FER_C_NPK13	Engrais NPK 1 - 1 - 2
+FER_C_NPK14	Engrais NPK 9 - 9 - 18
+FER_C_NPK15	Engrais NPK 1 - 2 - 2
+FER_C_NPK16	Engrais NPK 10 - 20 - 20
+FER_OTH	Autres engrais et amendements
+PES	Produits phytopharmaceutiques
+PES_F	Fongicides et bactéricides
+F01	Fongicides inorganiques
+F01_01	Composés cupriques
+F01_02	Soufre inorganique
+F01_99	Autres fongicides inorganiques
+F02	Fongicides dérivés de carbamates ou de dithiocarbamates
+F02_01	Fongicides de type carbanilates
+F02_02	Fongicides de type carbamates
+F02_03	Fongicides de type dithiocarbamates
+F02_99	Autres fongicides dérivés de carbamates ou de dithiocarbamates
+F03	Fongicides dérivés de benzimidazoles
+F03_01	Fongicides de type benzimidazoles
+F03_99	Autres fongicides dérivés de benzimidazoles
+F04	Fongicides dérivés dimidazoles et de triazoles
+F04_01	Fongicides de type conazoles
+F04_02	Fongicides de type imidazoles
+F04_99	Autres fongicides dérivés dimidazoles et de triazoles
+F05	Fongicides dérivés de morpholines
+F05_01	Fongicides de type morpholines
+F05_99	Autres fongicides dérivés de morpholines
+F06	Fongicides biologiques
+F06_01	Fongicides biologiques
+F06_99	Autres fongicides biologiques
+F99	Autres fongicides
+F99_01	Fongicides azotés aliphatiques
+F99_02	Fongicides de type amides
+F99_03	Fongicides de type anilides
+F99_05	Fongicides aromatiques
+F99_06	Fongicides de type dicarboximides
+F99_07	Fongicides de type dinitroanilines
+F99_08	Fongicides de type dinitrophénols
+F99_09	Fongicides organophosphorés
+F99_10	Fongicides de type oxazoles
+F99_11	Fongicides de type phénylpyrroles
+F99_12	Fongicides de type phtalimides
+F99_13	Fongicides de type pyrimidines
+F99_14	Fongicides de type quinoléines
+F99_15	Fongicides de type quinone
+F99_16	Fongicides de type strobilurines
+F99_17	Fongicides uréiques
+F99_99	Fongicides non classés
+PES_I	Insecticides et acaricides
+I01	Insecticides dérivés de pyréthrinoïdes
+I01_01	Insecticides de type pyréthrinoïdes
+I01_99	Autres insecticides dérivés de pyréthrinoïdes
+I02	Insecticides dérivés dhydrocarbures chlorés
+I02_99	Autres insecticides dérivés dhydrocarbures chlorés
+I03	Insecticides dérivés de carbamates et doximes-carbamates
+I03_01	Insecticides de type oximes-carbamates
+I03_02	Insecticides de type carbamates
+I03_99	Autres insecticides dérivés de carbamate et doximes-carbamates
+I04	Insecticides dérivés dorganophosphates
+I04_01	Insecticides organophosphorés
+I04_99	Autres insecticides dérivés dorganophosphates
+I05	Insecticides dérivés de produits biologiques et botaniques
+I05_01	Insecticides biologiques
+I05_99	Autres insecticides dérivés de produits biologiques et botaniques
+I99	Autres insecticides
+I99_01	Insecticides obtenus par fermentation
+I99_03	Insecticides de type benzoyl-urées
+I99_04	Insecticides de type carbazates
+I99_05	Insecticides de type diazylhydrazines
+I99_06	Régulateurs de croissance des insectes
+I99_07	Phéromones dinsectes
+I99_08	Insecticides de type nitroguanidines
+I99_09	Insecticides organostanniques
+I99_10	Insecticides de type oxadiazines
+I99_11	Insecticides de type phényléthers
+I99_12	Insecticides de type (phényl-)pyrazoles
+I99_13	Insecticides de type pyridines
+I99_14	Insecticides de type pyridylméthylamines
+I99_15	Insecticides de type sulfones
+I99_16	Insecticides de type tétrazines
+I99_17	Insecticides de type acide tétronique
+I99_99	Insecticides  acaricides non classés
+PES_H	Herbicides, défanants et agents antimousse
+H01	Herbicides dérivés de phénoxyphytohormones
+H01_01	Herbicides à radical phénoxy
+H01_99	Autres herbicides dérivés de phénoxyphytohormones
+H02	Herbicides dérivés de triazines et de triazinones
+H02_02	Herbicides de type triazines
+H02_03	Herbicides de type triazinones
+H02_99	Autres herbicides dérivés de triazines et de triazinones
+H03	Herbicides dérivés damides et danilides
+H03_01	Herbicides de type amides
+H03_02	Herbicides de type anilides
+H03_03	Herbicides de type chloroacétanilides
+H03_99	Autres herbicides dérivés damides et danilides
+H04	Herbicides dérivés de carbamates et de biscarbamates
+H04_01	Herbicides de type biscarbamates
+H04_02	Herbicides de type carbamates
+H04_99	Autres herbicides dérivés de carbamates et de biscarbamates
+H05	Herbicides dérivés de dinitroanilines
+H05_01	Herbicides de type dinitroanilines
+H05_99	Autres herbicides dérivés de dinitroanilines
+H06	Herbicides dérivés durées, duraciles ou de sulphonylurées
+H06_01	Herbicides de type sulphonylurées
+H06_02	Herbicides de type uraciles
+H06_03	Herbicides uréiques
+H06_99	Autres herbicides dérivés durées, duraciles ou de sulphonylurées
+H99	Autres herbicides
+H99_01	Herbicides de type aryloxyphénoxy-propionates
+H99_02	Herbicides de type benzofurannes
+H99_03	Herbicides de type acides benzoïques
+H99_04	Herbicides de type bipyridyles
+H99_05	Herbicides de type cyclohexanediones
+H99_06	Herbicides de type diazines
+H99_07	Herbicides de type dicarboxymides
+H99_08	Herbicides de type diphényléthers
+H99_09	Herbicides de type imidazolinones
+H99_10	Herbicides inorganiques
+H99_11	Herbicides de type isoxazoles
+H99_13	Herbicides de type nitriles
+H99_14	Herbicides organophosphorés
+H99_15	Herbicides de type phénylpyrazoles
+H99_16	Herbicides de type pyridazinones
+H99_17	Herbicides de type pyridinecarboxamides
+H99_18	Herbicides de type acides pyridinecarboxyliques
+H99_19	Herbicides de type acides pyridyloxyacétiques
+H99_20	Herbicides de type quinoléines
+H99_21	Herbicides de type thiadiazines
+H99_22	Herbicides de type thiocarbamates
+H99_23	Herbicides de type triazoles
+H99_24	Herbicides de type triazolinones
+H99_25	Herbicides de type triazolones
+H99_26	Herbicides de type tricétones
+H99_99	Herbicides non classés
+PES_M	Molluscicides
+M01	Molluscicides
+M01_01	Molluscicides
+PES_PGR	Régulateurs de croissance des végétaux
+PGR01	Régulateurs physiologiques de croissance des végétaux
+PGR01_01	Régulateurs physiologiques de croissance des végétaux
+PGR01_99	Autres régulateurs de croissance des végétaux
+PGR02	Inhibiteurs de germination
+PGR02_02	Inhibiteurs de germination
+PGR02_99	Autres inhibiteurs de germination
+PGR03	Autres régulateurs de croissance des végétaux
+PGR03_99	Autres régulateurs de croissance des végétaux
+PES_ZR	Autres produits phytopharmaceutiques
+ZR01	Huiles minérales
+ZR02	Huiles végétales
+ZR02_01	Huiles végétales
+ZR03	Produits de stérilisation du sol (y compris les nématicides)
+ZR03_01	Bromure de méthyle
+ZR03_99	Autres stérilisants du sol
+ZR04	Rodenticides
+ZR04_01	Rodenticides
+ZR99	Autres produits phytopharmaceutiques
+ZR99_01	Désinfectants
+ZR99_99	Autres produits phytopharmaceutiques
+FDS	Aliments pour animaux
+FDS_IN	Aliments pour animaux achetés à d'autres unités agricoles
+FDS_OUT	Aliments pour animaux achetés hors de la branche agricole
+FDS_OWN	Aliments pour animaux produits et consommés au sein de l'exploitation
+FDS_S	Aliments pour animaux simples
+FDS_S_CM	Aliments pour animaux: céréales et sous-produits de meunerie
+FDS_S_CM_FW	Aliments pour animaux: blé fourrager
+FDS_S_CM_BAR	Aliments pour animaux: orge
+FDS_S_CM_OAT	Aliments pour animaux: avoine
+FDS_S_CM_MAI	Aliments pour animaux: maïs
+FDS_S_CM_WB	Aliments pour animaux: son de blé
+FDS_S_CM_GB	Aliments pour animaux: orge moulue
+FDS_S_CM_GM	Aliments pour animaux:maïs moulu
+FDS_S_OC	Aliments pour animaux: tourteaux d'oléagineux
+FDS_S_OC_L	Aliments pour animaux: tourteaux de graines de lin (expeller)
+FDS_S_OC_TSM	Aliments pour animaux: tourteaux d'extraction de soja cuit
+FDS_S_ANI	Aliments pour animaux d'origine animale
+FDS_S_ANI_A	Aliments pour animaux: farine animale
+FDS_S_ANI_F	Aliments pour animaux: farine de poisson
+FDS_S_OTH	Autres aliments pour animaux simples
+FDS_S_OTH_FDB	Aliments pour animaux: féveroles
+FDS_S_OTH_FDP	Aliments pour animaux: pois protéagineux
+FDS_S_OTH_FOP	Aliments pour animaux: pois fourragers
+FDS_S_OTH_DSB	Aliments pour animaux: pulpe séchée de betterave sucrière
+FDS_S_OTH_MH	Aliments pour animaux: foin de prairie
+FDS_S_OTH_DL	Aliments pour animaux: luzerne déshydratée
+FDS_S_OTH_CS	Aliments pour animaux: paille de céréales
+FDS_C	Aliments pour animaux composés
+FDS_C_CAL	Aliments composés pour veaux
+FDS_C_CAL_1	Aliments complémentaires pour veaux d'élevage
+FDS_C_CAL_2MS	Lait de remplacement pour veaux d'engraissement (en sacs)
+FDS_C_CAL_2MB	Lait de remplacement pour veaux d'engraissement (en vrac)
+FDS_C_CATXCAL	Aliments composés pour bovins (veaux non compris)
+FDS_C_CAT_1	Aliment complémentaire pour vaches laitières (au pâturage)
+FDS_C_CAT_2S	Aliment complémentaire pour vaches laitières (nourries à l'étable) (en sacs)
+FDS_C_CAT_2B	Aliment complémentaire pour vaches laitières (nourries à l'étable) (en vrac)
+FDS_C_CAT_P2S	Aliment complémentaire riche en protéines pour vaches laitières (nourries à  l'étable) (en sacs)
+FDS_C_CAT_P2B	Aliment complémentaire riche en protéines pour vaches laitières (nourries à  l'étable) (en vrac)
+FDS_C_CAT_3S	Aliment complémentaire pour bovins d'engraissement (en sacs)
+FDS_C_CAT_3B	Aliment complémentaire pour bovins d'engraissement (en vrac)
+FDS_C_CAT_P3S	Aliment complémentaire riche en protéines pour bovins d'engraissement (en sacs)
+FDS_C_CAT_P3B	Aliment complémentaire riche en protéines pour bovins d'engraissement (en vrac)
+FDS_C_PIG	Aliments composés pour porcins
+FDS_C_PIG_1S	Aliment complet pour porcins d'élevage (en sacs)
+FDS_C_PIG_1B	Aliment complet pour porcins d'élevage (en vrac)
+FDS_C_PIG_2S	Aliment complet pour truies (en sacs)
+FDS_C_PIG_2B	Aliment complet pour truies (en vrac)
+FDS_C_PIG_3S	Aliment complet pour porcs d'engraissement (en sacs)
+FDS_C_PIG_3B	Aliment complet pour porcs d'engraissement (en vrac)
+FDS_C_PLT	Aliments composés pour volailles
+FDS_C_PLT_1S	Aliment pour poussins des premiers jours (en sacs)
+FDS_C_PLT_1B	Aliment pour poussins des premiers jours (en vrac)
+FDS_C_PLT_2S	Aliment complet pour poulettes d'élevage (en sacs)
+FDS_C_PLT_2B	Aliment complet pour poulettes d'élevage (en vrac)
+FDS_C_PLT_3S	Aliment complet pour poules pondeuses en batterie (en sacs)
+FDS_C_PLT_3B	Aliment complet pour poules pondeuses en batterie (en vrac)
+FDS_C_PLT_4S	Aliment complet pour poulet de chair (en sacs)
+FDS_C_PLT_4B	Aliment complet pour poulet de chair (en vrac)
+FDS_C_OTH	Autres aliments pour animaux composés
+MTL	Matériel et petit outillage
+MNT	Entretien et réparation d'installations
+MNT_BLD	Entretien des bâtiments
+VET	Services vétérinaires
+AGR	Services agricoles
+AGR_FISIM	Services d'intermédiation financière indirectement mesurés (SIFIM)
+GEN	Frais généraux
+INP_S1_OTH	Autre consommation intermédiaire
+INP_S2	Biens et services d'investissement
+MAC	Machines et autres équipements
+MAC_2WHL	Motoculteurs et autres matériels à 2 roues
+MAC_CLT	Machines et matériels pour la culture
+MAC_HVT	Machines et matériels pour la récolte
+MAC_INS	Machines et installations de la ferme
+MAC_INS_CRP	Machines et installations pour la production des cultures
+MAC_INS_ANI	Machines et installations pour la production animale
+MAC_INS_OTH	Autres machines et installations
+MAC_TSP	Equipements de transport
+MAC_TSP_TRT	Tracteurs
+MAC_TSP_OTH	Autres véhicules
+BLD	Bâtiments et constructions
+BLD_FRM	Bâtiments agricoles
+BLD_IMP	Ouvrages de génie civil et amélioration des terres
+BLD_OTH	Autres bâtiments et constructions
+INP_S2_OTH	Autres biens et services d'investissement
+INP_OTH	Autres investissements

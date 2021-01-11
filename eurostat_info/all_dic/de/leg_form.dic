@@ -1,0 +1,27 @@
+TOTAL	Insgesamt
+PER_PHY	Natürliche Person
+PER_NTL	Natürliche Person
+PER_LEG_HLD_GRP	Juristische Person oder Gruppenbetrieb
+PER_LEG	Juristische Person
+PER_LEG_EG	Juristische Person, die zu einer Unternehmensgruppe gehört
+PER_LEG_NEG	Juristische Person, die zu einer Unternehmensgruppe nicht gehört
+ENT_SOLE	Einzelunternehmen
+ENT_PA	Partnerschaft, Genossenschaften, Verbände, usw. 
+ENT_COOP	Genossenschaft
+ENT_MUT	Versicherungsvereine auf Gegenseitigkeit
+ENT_LL	Gesellschaft mit beschränkter Haftung
+ENT_LL_NP	Gesellschaft mit beschränkter Haftung nicht börsennotiert
+ENT_LL_P	Gesellschaft mit beschränkter Haftung börsennotiert
+ENT_PLAW	Öffentlich-rechtliches Unternehmen
+ENT_BR_NEEA	Zweigniederlassungen des Unternehmens des nicht europäischen Wirtschaftsraums (EWR)
+HLD_GRP	Gruppenbetrieb
+FARM_HLD	Landwirtschaftlicher Betrieb vom Betriebsinhaber verwaltet
+FARM_SPOU	Landwirtschaftlicher Betrieb von dem Ehepartner des Betriebsinhabers verwaltet
+FARM_FAM	Landwirtschaftlicher Betrieb von anderen Familienmitgliedern (nicht Ehepartner) des Betriebsinhabers verwaltet 
+FARM_NFAM	Betriebsleiter ist kein Familienmitglied des Betriebsinhabers
+FARM_HLD_SPOUFAM	Landwirtschaftlicher Betrieb vom Betriebsinhaber und seinem Ehepartner oder einem Familienmitglied zusammen verwaltet
+FARM_HLD_SPOU	Landwirtschaftlicher Betrieb vom Betriebsinhaber und von seinem Ehepartner zusammen verwaltet
+FARM_HLD_FAM	Landwirtschaftlicher Betrieb vom Betriebsinhaber und von einem Familienmitglied (nicht Ehepartner) zusammen verwaltet
+UNIT_CML	Gemeinschaftslandeinheit
+OTH	Sonstige
+UNK	Unbekannt

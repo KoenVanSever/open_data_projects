@@ -1,0 +1,102 @@
+TOTAL	Insgesamt
+AP_PE	Apfel- und Birnbäume
+AP	Apfelbäume
+APD	Tafelapfelbäume
+APD_BKP	Boskoop Gruppe
+APD_BRB	Braeburn Gruppe
+APD_COO	Cox Orange Gruppe
+APD_CRP	Cripps Pink Gruppe
+APD_ELR	Elstar Gruppe
+APD_FUJ	Fuji Gruppe
+APD_GAL	Gala Gruppe
+APD_GOD	Golden Delicious Gruppe
+APD_GRS	Granny Smith Gruppe
+APD_IDR	Idared Gruppe
+APD_JON	Jonagold/Jonagored Gruppe
+APD_MOD	Morgenduft Gruppe
+APD_RED	Red Delicious Gruppe
+APD_RBC	Reinette Gruppe
+APD_SHP	Shampion Gruppe
+APD_LOB	Lobo Gruppe
+APD_PIN	Pinova Gruppe
+APD_OTH	Sonstige Tafeläpfel a.n.g.
+API	Bäume mit Äpfeln für die industrielle Verarbeitung
+PE	Birnbaüme
+PED	Tafelbirnbäume
+PED_CFR	Conference Gruppe
+PED_WIL	Williams Gruppe
+PED_ABT	Abate Gruppe
+PED_ROC	Rocha Gruppe
+PED_COE	Coscia-Ercolini Gruppe
+PED_GYT	Guyot Gruppe
+PED_BLQ	Blanquilla Gruppe
+PED_DCN	Decana Gruppe
+PED_KAS	Kaiser Gruppe
+PED_OTH	Sonstige Tafelbirnen a.n.g.
+PEI	Bäume mit Birnen für die industrielle Verarbeitung
+PC_APC	Pfirsich-, Nektarinen- und Aprikosenbäume
+PC	Pfirsich- und Nektarinenbäume
+PCD	Tafelpfirsich- und -nektarinenbäume
+PCD_PEA	Pfirsiche zum Direktverzehr
+PCD_PEAY	Gelbfleischige Pfirsiche
+PCD_PEAY_VE	Sehr frühe gelbfleischige Pfirsiche
+PCD_PEAY_E	Frühe gelbfleischige Pfirsiche
+PCD_PEAY_M	Mittelfrühe gelbfleischige Pfirsiche
+PCD_PEAY_L	Späte gelbfleischige Pfirsiche
+PCD_PEAW	Weißfleischige Pfirsiche
+PCD_PEAW_VE	Sehr frühe weissfleischige Pfirsiche
+PCD_PEAW_E	Frühe weissfleischige Pfirsiche
+PCD_PEAW_M	Mittelfrühe weissfleischige Pfirsiche
+PCD_PEAW_L	Späte weissfleischige Pfirsiche
+PCD_PEAD	Weinbergspfirsiche
+PCD_NEC	Nektarinen zum Direktverzehr
+PCD_NECY	Gelbfleischige Nektarinen
+PCD_NECY_VE	Sehr frühe gelbfleischige Nektarinen 
+PCD_NECY_E	Frühe gelbfleischige Nektarinen
+PCD_NECY_M	Mittelfrühe gelbfleischige Nektarinen
+PCD_NECY_L	Späte gelbfleischige Nektarinen
+PCD_NECW	Weißfleischige Nektarinen
+PCD_NECW_VE	Sehr frühe weissfleischige Nektarinen
+PCD_NECW_E	Frühe weissfleischige Nektarinen
+PCD_NECW_M	Mittelfrühe weissfleischige Nektarinen
+PCD_NECW_L	Späte weissfleischige Nekatrinen
+PCI	Bäume mit Pfirsichen und Nektarinen zur Verarbeitung (einschließlich Gruppe der Pavie)
+APC	Aprikosen-/Marillenbäume
+APC_VE	Sehr frühe Aprikosen/Marillen (Ernte bis 31. Mai)
+APC_E	Frühe Aprikosen/Marillen (Ernte zwischen dem 1. und dem 30. Juni)
+APC_M	Mittelfrühe Aprikosen/Marillen (Ernte zwischen dem 1. und dem 31. Juli)
+APC_L	Späte Aprikosen/Marillen (Ernte nach dem 1. August)
+ORA_SCF_LEM	Orangen-, kleine Zitrusfrucht- und Zitronenbäume
+ORA	Apfelsinen-/Orangenbäume
+ORA_NVL	Navel Orangen
+ORA_NVL_E	Frühe Navel Orangen
+ORA_NVL_M	Mittelfrühe Navel Orangen
+ORA_NVL_L	Späte Navel Orangen
+ORA_BLC	Blancas Orangen
+ORA_BLC_E	Frühe Blancas Orangen
+ORA_BLC_L	Späte Blancas Orangen
+ORA_SGU	Blutorangen
+ORA_OTH	Sonstige Orangen a.n.g.
+SCF	Bäume mit kleinen Zitrusfrüchten
+SCF_STM	Satsumas
+SCF_STM_VE	Besonders frühe Satsumas
+SCF_STM_OTH	Sonstige Satsumas
+SCF_CLM	Clementinen
+SCF_CLM_E	Frühe Clementinen
+SCF_CLM_M	Mittelfrühe Clementinen
+SCF_CLM_L	Späte Clementinen
+SCF_OTH	Sonstige kleine Zitrusfrüchte, einschließlich Hybriden
+LEM	Zitronenbäume
+LEM_WI	Winter-Zitronensorten
+LEM_SU	Sommer-Zitronensorten
+OLI	Olivenbäume
+OLIT	Tafeloliven
+OLIO	Oliven zur Ölherstellung
+ODP	Oliven mit doppeltem Verwendungszweck
+GRV	Tafeltrauben
+GRV_W	Weiße Tafeltrauben
+GRV_WSDL	Kernlose weisse Tafeltrauben
+GRV_WNML	Normale weisse Tafeltrauben
+GRV_R	Rote Tafeltrauben
+GRV_RSDL	Kernlose rote Tafeltrauben
+GRV_RNML	Normale rote Tafeltrauben

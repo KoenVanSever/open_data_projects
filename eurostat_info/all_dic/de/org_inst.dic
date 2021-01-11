@@ -1,0 +1,98 @@
+INST_NAT	Nationale Institutionen
+PARL_NAT	Nationales Parlament
+GOV_NAT	Nationale Regierung
+ORG_INTL	Internationale Organisationen
+EUI	Organe und Einrichtungen der Europäischen Union
+EUI_X_EAI	EU-Organe ohne Organe des Euroraums (Aggregat ändert sich je nach Anwendungsbereich)
+EUI_X_ECB	EU-Organe ohne EZB
+PARL	Europäische Parlament
+COUNCIL	Europäischer Rat
+CONS	Rat der Europäischen Union
+COMM	Europäische Kommission
+EU_NSI	Eurostat
+CURIA	Gerichtshof
+ECA	Europaïscher Rechnungshof
+EESC	Europäischer Wirtschafts- und Sozialausschuss
+COR	Europäischer Ausschuss der Regionen
+EIB	Europäische Investitionsbank
+EIF	Europäischer Investitionsfonds
+ECB	Europäische Zentralbank (EZB)
+ESM	Europäischer Stabilitätsmechanismus
+EDF	Europäischer Entwicklungsfonds
+EU_BDG	Alle aus dem EU Budget finanzierten EU-Organe
+EUB_MNR	Andere kleine aus dem EU Budget finanzierten EU-Organe
+EUB_OTH	Andere aus dem EU Budget finanzierten EU-Organe
+EUI_NBDG	EU-Organe, die nicht aus dem EU-Budget finanzierten werden
+ECSC	Europäische Gemeinschaft für Kohle und Stahl (EGKS)
+EMI	Europäisches Währungsinstitut
+EMCF	Europäischer Fonds für währungspolitische Zusammenarbeit
+EURATOM	Europäische Atomgemeinschaft
+UNO	Organisation der Vereinten Nationen
+UNICEF	Kinderhilfswerk der Vereinten Nationen (UNICEF)
+UNHCR	Amt des Hohen Flüchtlingskommissars der Vereinten Nationen (UNHCR)
+UNRWA	Hilfswerk der Vereinten Nationen für Palästinaflüchtlinge im Nahen Osten (UNRWA)
+ILO	Internationales Arbeitsamt (IAA)
+FAO	Ernaehrungs-und Landwirtschafts-Organisation der Vereinten Nationen (ELOVN)
+UNESCO	Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur (UNESCO)
+WHO	Weltgesundheitsorganisation (WHO)
+IBRD	Internationale Bank für Wiederaufbau und Entwicklung
+IDA	Internationale Entwicklungsorganisation
+IFC	Internationale Finanz-Corporation (IFC)
+MIGA	Multilaterale Investitions-Garantie-Agentur (MIGA)
+IMF	Internationaler Währungsfonds
+ITU	Internationale Fernmelde-Union (IFU)
+IFAD	Internationaler Agrarentwicklungsfonds (IFAD)
+WTO	Welthandelsorganisation
+IAEA	Internationale Atomenergie-Organisation (IAEO)
+UNO_OTH	Organisation der Vereinten Nationen ohne IWF, WHO, IBWE, IEO
+ORG_OTH	Sonstige internationale Organisationen
+ACP	Gruppe der Staaten in Afrika, im Karibischen Raum und im Pazifischen Ozean, Unterzeichnerstaaten des PA
+ACP_AFR	Afrikanische AKP-Staaten
+ACP_CRB	AKP-Staaten der Karibik
+ACP_PAC	AKP-Staaten des Pazifiks
+AFDB	Afrikanische Entwicklungsbank
+ALA	Partnerländer in Asien und Lateinamerika
+APEC	Asiatisch-Pazifische Wirtschaftliche Zusammenarbeit
+ASDB	Asiatische Entwicklungsbank
+ASEAN	Wirtschaftsgemeinschaft südostasiatischer Länder
+BIS	Bank für Internationalen Zahlungsausgleich
+BRIC	BRIC-Staaten
+BRICS	BRICS-Staaten
+CAN	Andengemeinschaft
+CARICOM	Karibische Gemeinschaft
+CEMAC	Zentralafrikanische Wirtschafts- und Währungsgemeinschaft
+COMESA	Gemeinsamer Markt für das Südliche und Östliche Afrika
+DAC	Ausschuss für Entwicklungshilfe (DAC)
+EASA	Europäische Agentur für Flugsicherheit (EASA)
+NEASA	Nicht-EASA Mitgliedstaaten
+EBRD	Europäische Bank für Wiederaufbau und Entwicklung
+ECCAS	Wirtschaftsgemeinschaft zentralafrikanischer Staaten (CEEAC)
+ECOWAS	Westafrikanische Wirtschaftsgemeinschaft
+EHEA	Europäischer Hochschulraum (Bologna-Prozess)
+ESA	Europäische Weltraumorganisation
+EURMED	Mittelmeerländer in der Partnerschaft Europa-Mittelmeer
+FEMIP	Investitionsfazilität und Partnerschaft Europa-Mittelmeer
+FZ	Franc-Zone
+G20	Gruppe der Zwanzig
+IDB	Interamerikanische Entwicklungsbank
+IF	Investitionsfazilität
+MACR	Maschrek
+MAGR	Maghreb
+MED	Länder aus dem Mittelmeerraum
+MED_X_HR	Länder aus dem Mittelmeerraum ohne Kroatien
+MERCOSUR	Gemeinsamer Markt des Südens
+NAFTA	Nordamerikanische Freihandelszone
+ODA	Länder und Gebiete, die öffentliche Entwicklungshilfe bekommen
+OECD	Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)
+NOECD	Nicht-OECD-Länder
+OPEC	Erdölexportierende Länder (OPEC)
+PALOP	Afrikanische Länder mit portugiesischer Amtsprache
+SADC	Südafrikanische Entwicklungsgemeinschaft
+UEMOA	Westafrikanische Wirtschafts- und Währungsunion
+ORG_NEUR	Nicht-europäische internationale Organisationen
+OTH	Sonstige
+NAL	Nicht zugeordnet
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+NSP	Nicht angegeben
+UNK	Unbekannt

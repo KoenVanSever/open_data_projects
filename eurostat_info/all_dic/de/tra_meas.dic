@@ -1,0 +1,38 @@
+TOTAL	Insgesamt
+PAS_FR	Personenbeförderung und Güterverkehr
+PAS	Eingeschiffte und ausgeschiffte Fahrgäste
+PAS_EMB	Eingeschiffter Fahrgast
+PAS_DEMB	Ausgeschiffter Fahrgast
+PAS_BRD	Fluggäste an Bord
+PAS_BRD_ARR	Fluggäste an Bord (Ankunft)
+PAS_BRD_DEP	Fluggäste an Bord (Abflug)
+PAS_CRD	Beförderte Fluggäste
+PAS_CRD_ARR	Beförderte Fluggäste (Ankunft)
+PAS_CRD_DEP	Beförderte Fluggäste (Abflug)
+PAS_TRS	Fluggäste im ungebrochenen Durchgangsverkehr
+PAS_TRF	Umsteigende Fluggäste
+PAS_ONL	Nur Personenbeförderung
+ST_PAS	Verfügbare Fluggast-Sitzplätze
+ST_PAS_ARR	Verfügbare Fluggast-Sitzplätze (Ankunft)
+ST_PAS_DEP	Verfügbare Fluggast-Sitzplätze (Abflug)
+FR	Fracht
+FR_LD_NLD	Geladene und entladene Fracht
+FR_LD	Geladene Fracht
+FR_NLD	Entladene Fracht
+FR_ONL	Nur Güterverkehr
+FRM_BRD	Fracht und Post an Bord
+FRM_BRD_ARR	Fracht und Post an Bord (Ankunft)
+FRM_BRD_DEP	Fracht und Post an Bord (Abflug)
+FRM_LD_NLD	Fracht- und Posteinladung/-ausladung
+FRM_LD	Eingeladene Fracht und Post
+FRM_NLD	Ausgeladene Fracht und Post
+FRM_TRS	Fracht und Post im Durchgangsverkehr
+CAF	Gewerbliche Flüge (Fluggäste, Fracht und Post)
+CAF_PAS	Gewerbliche Passagierflüge
+CAF_PAS_ARR	Gewerbliche Passagierflüge (Ankunft)
+CAF_PAS_DEP	Gewerbliche Passagierflüge (Abflug)
+CAF_FRM	Gewerbliche Fracht- und Postflüge
+CAF_FRM_ARR	Gewerbliche Fracht- und Postflüge (Ankunft)
+CAF_FRM_DEP	Gewerbliche Fracht- und Postflüge (Abflug)
+ACM	Luftfahrzeugbewegungen (Fluggäste, Fracht und Post, gewerbliche und nicht-gewerbliche allgemeine Luftfahrt)
+CACM	Gewerbliche Luftfahrzeugbewegungen (Fluggäste, Fracht und Post, gewerbliche allgemeine Luftfahrt)

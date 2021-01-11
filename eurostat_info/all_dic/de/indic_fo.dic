@@ -1,0 +1,15 @@
+AREA_X_WT	Fläche ohne Binnengewässer
+FOWL	Waldfläche und sonstiger Baumbestand
+FOR	Waldfläche
+FAWS	Wirtschaftswald
+FNAWS	Nicht genutzte Waldfläche
+OWL	Sonstiger Baumbestand
+OWL_AWS	Sonstiger nutzungfähiger Baumbestand
+OLWTC_AWS	Sonstige nutzungsfähige Fläche mit Bäumen
+GS_FOWL	Lebender Vorrat im Wald und sonstigen Baumbestand
+GS_FOR	Lebender Vorrat im Wald
+GS_OWL	Lebender Vorrat im sonstigen Baumbestand
+GS_FAWS	Lebender Vorrat im Wirtschaftswald
+NAI_FAWS	Jährlicher Nettozuwachs im Wirtschaftswald
+FEL_FAWS	Einschlag im Wirtschaftswald
+FEL_NAI	Anteil des Einschlag am Nettozuwachs 

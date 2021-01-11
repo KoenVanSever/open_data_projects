@@ -1,0 +1,51 @@
+CAP_HEAT	Capacité thermique installée
+CAP_HEAT_ABVTH	Capacité thermique installée au-dessus du seuil minimum du facteur de performance saisonnier
+SPERF_FACT	Facteur de performance saisonnier
+TIME_USE	Temps d'utilisation
+CAP_NET_ELC	Puissance électrique maximale nette
+SOL_COL_SURF	Surface des capteurs solaires
+CAP_PRD	Capacité de production
+CAP_GST	Capacité de stockage du gaz
+PO_GST	Stockage du gaz - débit maximal
+PL	Charge maximale
+PCAP	Capacité maximale
+LNGIT_RG	Terminaux d'importation de GNL - capacité de regazéification
+LNGIT_VP	Terminaux d'importation de GNL - vaporisateurs
+LNGIT_TRN	Terminaux d'importation de GNL - trains
+LNGIT_ST	Terminaux d'importation de GNL - capacité de stockage
+LNGIT_TNK	Terminaux d'importation de GNL - citernes
+LNGIT_PO	Terminaux d'importation de GNL - débit maximal
+LNGET_LIQ	Terminaux d'exportation de GNL - capacité de liquéfaction
+LNGET_TRN	Terminaux d'exportation de GNL - trains
+LNGET_ST	Terminaux d'exportation de GNL - capacité de stockage
+LNGET_TNK	Terminaux d'exportation de GNL - citernes
+LNGET_PO	Terminaux d'exportation de GNL - débit maximal
+CAP_GNW	Réseau de gaz - capacité maximale
+CAP_GNW_R	Réseau de gaz - capacité maximale de flux inversés
+RCAP_AD	Capacité de raffinage - distillation atmosphérique
+RCAP_AD_NOP_NAR	Capacité de raffinage - distillation atmosphérique - pas en activité et pas en réparation
+RCAP_VD	Capacité de raffinage - distillation sous vide
+RCAP_TC	Capacité de raffinage - craquage thermique
+RCAP_TC_VB	Capacité de raffinage - craquage thermique - viscoréduction
+RCAP_TC_CO	Capacité de raffinage - craquage thermique - cokéfaction
+RCAP_CC	Capacité de raffinage - craquage catalytique
+RCAP_CC_FCC	Capacité de raffinage - craquage catalytique - craquage catalytique fluide
+RCAP_CC_HC	Capacité de raffinage - craquage catalytique - hydrocraquage
+RCAP_DS	Capacité de raffinage - désulfuration
+RCAP_DS_NG_LD	Capacité de raffinage - désulfuration - naphta, essence et autres distillats légers
+RCAP_DS_MIDD	Capacité de raffinage - désulfuration - distillats moyens
+RCAP_DS_HD	Capacité de raffinage - désulfuration - distillats lourds
+RCAP_RFOR	Capacité de raffinage - reformage
+RCAP_API	Capacité de raffinage - alkylation, polymérisation, isomérisation
+RCAP_ETH	Capacité de raffinage - éthérification
+RCAP_UPU_OTH	Capacité de raffinage - autres unités de valorisation
+RCAP_H	Capacité de raffinage - hydrogène
+CAP_EN	Capacité d'enrichissement (tSWU)
+PRDCAP_FF	Capacité de production d'éléments combustibles neufs (tHM)
+PRDCAP_MOXF	Capacité de production des usines de fabrication de combustibles MOX (tHM)
+PRD_FF	Production d'éléments combustibles neufs (tHM)
+PRD_MOXF	Production d'éléments combustibles MOX (tHM)
+PRD_NUCH	Production de chaleur nucléaire (ktoe)
+BAA_IRRADF	Moyenne annuelle de la combustion d'éléments combustibles irradiés définitivement déchargés (GWd/tHM)
+PRD_UP	Production d'uranium et de plutonium dans les usines de retraitement (tHM)
+CAP_UP	Capacité (uranium et plutonium) des usines de retraitement (tHM)

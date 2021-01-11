@@ -1,0 +1,15 @@
+TOTAL	Total
+CREA	Création d'emplois
+CREA_HS	Création d'emplois - hautement qualifiés
+CREA_OTH	Création d'emplois - autre
+CREA_NAP	Création d'emplois - non applicable
+CREA_UNK	Création d'emplois - inconnu
+MOV_HS	Délocalisation à l'étranger d'emplois - hautement qualifiés
+MOV_OTH	Délocalisation à l'étranger d'emplois - autre
+LOSS	Perte d'emplois
+LOSS_HS	Perte d'emplois - hautement qualifiés
+LOSS_NAP	Perte d'emplois - non applicable
+LOSS_UNK	Perte d'emplois - inconnu
+MOB	Mobilité professionnelle
+NMOB	Pas de mobilité professionnelle
+UNK	Inconnu

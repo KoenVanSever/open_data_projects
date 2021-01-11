@@ -1,0 +1,3 @@
+INTER	Intermittent communication between train and trackside
+CONT	Continuous communication between train and trackside
+CONT_TI	Continuous communication between train and trackside, with train integrity provided on-board

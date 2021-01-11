@@ -1,0 +1,35 @@
+TOTAL	Alle Arten der Kooperation
+PRV	Privatunternehmen
+PRV_IN	Unternehmen innerhalb der Unternehmensgruppe
+PRV_OUT	Privatunternehmen außerhalb der Unternehmensgruppe
+PRV_OUT_CN_PRV_RI	Berater, kommerzielle Labore, privatrechtliche Forschungsinstitute
+PRV_RI	Privatrechtliche Forschungsinstitute
+PRV_OUT_CN	Berater oder kommerzielle Labore
+PRV_OUT_SUPPL	Lieferanten von Ausrüstung, Material, Komponenten oder Software
+CLCU	Klienten oder Kunden
+PRV_OUT_CLCU	Klienten oder Kunden aus der Privatwirtschaft
+PRV_OUT_COMP	Wettbewerber oder Unternehmen aus dem eigenen Wirtschaftszweig
+PRV_OUT_OTH	Andere Privatunternehmen außerhalb der Unternehmensgruppe
+UNIV_GOV_RI	Universitäten oder Fachhochschulen, öffentlicher Sektor, öffentliche oder privatrechtliche Forschungsinstitute
+UNIV	Universitäten oder Fachhochschulen 
+PUB	Öffentliche Organisationen
+PUB_GOV_RI	Öffentlicher Sektor oder öffentliche Forschungsinstitute
+GOV_RI	Öffentlicher Sektor, öffentliche oder privatrechtliche Forschungsinstitute
+PUB_CLCU	Klienten oder Kunden aus dem öffentlicher Sektor
+IND_HH	Einzelne Haushalte
+NPO	Verbände, Vereine, Interessenvertretungen 
+NAT	Partner aus dem Inland
+FOR	Ausländischen Partner
+EU_EFTA	Partner aus der EU oder EFTA
+NEU_NEFTA	Partner außerhalb der EU oder EFTA
+EU_EFTA_CC_FOR	Partner aus der EU, EFTA oder EU Beitrittskandidaten (außer Inland)
+EU_EFTA_CC_NAT	Partner aus der EU, EFTA oder EU Beitrittskandidaten (einschließlich Inland)
+EU_ONL	Nur Partner aus der EU
+CN_IN	China oder Indien
+US_OTH	Vereinigte Staaten oder andere Länder
+US	Vereinigte Staaten
+COOP_RND	Zur Forschung und Entwicklung
+COOP_INN_XRND	Zu anderen Innovationsaktivitäten (ausschließlich Forschung und Entwicklung)
+COOP_INNXRND	Zu anderen Innovationsaktivitäten (ausschließlich Forschung und Entwicklung)
+COOP_OTH	Zu anderen Unternehmensaktivitäten
+OTH	Sonstige

@@ -1,0 +1,15 @@
+TOTAL	Insgesamt
+CREA	Schaffung von Arbeitsplätzen
+CREA_HS	Schaffung von Arbeitsplätzen - hochqualifizierte
+CREA_OTH	Schaffung von Arbeitsplätzen - sonstige
+CREA_NAP	Schaffung von Arbeitsplätzen - nicht zutreffend
+CREA_UNK	Schaffung von Arbeitsplätzen - unbekannt
+MOV_HS	Verlagerung von Arbeitsplätzen ins Ausland - hochqualifizierte
+MOV_OTH	Verlagerung von Arbeitsplätzen ins Ausland - sonstige
+LOSS	Verlust von Arbeitsplätzen
+LOSS_HS	Verlust von Arbeitsplätzen - hochqualifizierte
+LOSS_NAP	Verlust von Arbeitsplätzen - nicht zutreffend
+LOSS_UNK	Verlust von Arbeitsplätzen - unbekannt
+MOB	Berufliche Mobilität
+NMOB	Keine berufliche Mobilität
+UNK	Unbekannt

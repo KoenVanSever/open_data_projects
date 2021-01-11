@@ -1,0 +1,25 @@
+TOTAL	Entreprises, total
+INNO	Entreprises innovantes (incl. entreprises ayant des activités d'innovation abandonnées/suspendues ou en-cours)
+INNO_PP	Entreprises innovantes en termes de produit et/ou de procédé  uniquement (incl. entreprises ayant des activités d'innovation abandonnées/suspendues ou en-cours)
+INNO_NPP	Entreprises innovantes en termes d'organisation et/ou de marketing uniquement
+INNO_PPANPP	Entreprises innovantes en termes de produit et/ou de procédé ET en termes d'organisation et/ou de marketing uniquement (incl. entreprises ayant des activités d'innovation abandonnées/suspendues ou en-cours)
+INNOACT	Entreprises innovantes en termes de produit et/ou de procédé (avec ou sans innovation en termes d'organisation ou de marketing) (incl. entreprises ayant des activités d'innovation abandonnées/suspendues ou en-cours)
+PAOP	Entreprises innovantes, produit et/ou procédé
+INPDTONLY	Entreprises innovantes en termes de produit uniquement
+INPCSONLY	Entreprises innovantes en termes de procédé uniquement
+PANDP	Entreprises innovantes en termes de produit et de procédé uniquement
+INONONAB	Entreprises ayant des activités d'innovation abandonnées/suspendues et en-cours uniquement
+NON_INNO	Entreprises non-innovantes
+INABA	Entreprises ayant des activités d'innovation abandonnées/suspendues uniquement
+INONG	Entreprises ayant des activités d'innovation en-cours uniquement
+INABA_ONG	Entreprises ayant des activités d'innovation abandonnées/suspendues et en-cours uniquement
+INPDT	Entreprises innovantes en termes de produit (avec ou sans autres types d'innovation)
+INPCS	Entreprises innovantes en termes de procédé (avec ou sans autres types d'innovation)
+INMKT	Entreprises innovantes en termes de marketing (avec ou sans autres types d'innovation)
+INNORGMK	Entreprises innovantes en termes d'organisation et/ou de marketing (avec ou sans innovation en termes de produits ou de procédés)
+INORG	Entreprises innovantes en termes d'organisation (avec ou sans autres types d'innovation)
+MKT_ONLY	Entreprises innovantes en termes de marketing uniquement (avec ou sans innovation en termes de produits ou de procédés)
+OANDM	Entreprises innovantes en termes de d'organisation et de marketing uniquement (avec ou sans innovation en termes de produits ou de procédés)
+ORG_ONLY	Entreprises innovantes en termes d'organisation uniquement (avec ou sans innovation en termes de produits ou de procédés)
+PROD_PCS	Entreprises innovantes en termes de produit et/ou de procédé à l'exception de celles qui ont seulement des activités en cours et/ou abandonnées
+INNOS	Entreprises ayant introduit une innovation (tous types confondus)

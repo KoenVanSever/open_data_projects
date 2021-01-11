@@ -1,0 +1,15 @@
+TOTAL	Total connecté au traitement des eaux usées
+WWT_GE2	Traitement des eaux usées urbaines, individuelles (autonomes) et autres - avec au moins un traitement secondaire
+URB_CS	Systèmes de collecte des eaux usées urbaines
+URB_OTH	Stations d'épuration des eaux usées urbaines et autres - total
+URB_OTH_T1	Stations d'épuration des eaux usées urbaines et autres - avec traitement primaire uniquement
+URB_OTH_T2	Stations d'épuration des eaux usées urbaines et autres - avec traitement secondaire
+URB_OTH_T3	Stations d'épuration des eaux usées urbaines et autres - avec traitement tertiaire
+URB_OTH_GE2	Stations d'épuration des eaux usées urbaines et autres - avec au moins un traitement secondaire
+URB_OTH_NSP	Stations d'épuration des eaux usées urbaines et autres - traitement non spécifié
+URB_OTH_NC	Pourcentage de la population résidente non connectée au système de traitement des eaux usées urbaines ou autres
+URB	Stations d'épuration des eaux usées urbaines - total
+IND	Traitement des eaux usées individuelles (autonomes) - total
+IND_T_GE2	Traitement des eaux usées individuelles (autonomes) - avec au moins un traitement secondaire
+IND_TANK	Pourcentage de la population résidente nationale dont les eaux usées sont transportées à partir des réservoirs de stockage indépendants vers les stations d'épuration au moyen de camions
+OTH	Autres systèmes de traitement des eaux usées - total

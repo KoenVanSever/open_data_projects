@@ -1,0 +1,11 @@
+TOTAL	Insgesamt
+OWN	Eigentümer
+OWN_L	Eigentümer, mit Hypothek oder Darlehen
+OWN_NL	Eigentümer, ohne Hypothek oder Darlehen
+RENT	Mieter
+RENT_MKT	Mieter, Marktpreismiete
+RENT_FR	Mieter, ermässigte Miete oder unentgeltlich
+CML	Gemeinschaftsland
+SHR_OTH	Teilpacht oder sonstige Besitzformen
+OTH	Sonstiges
+UNK	Unbekannt

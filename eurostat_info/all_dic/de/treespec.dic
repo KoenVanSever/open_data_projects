@@ -1,0 +1,15 @@
+TOTAL	Insgesamt - alle Holzarten
+CONIF	Nadelholz
+C_FIR	Nadelholz: Tanne/Fichte (Abies alba, Picea abies)
+C_PIN	Nadelholz: Kiefer (Pinus sylvestris)
+C_NSP	Nadelholz: ohne Angabe
+NCONIF	Laubholz
+NC_OAK	Laubholz: Eiche (Quercus spp.)
+NC_BEE	Laubholz: Buche (Fagus spp.)
+NC_BIR	Laubholz: Birke (Betula spp.)
+NC_MAP	Laubholz: Ahorn (Acer spp.)
+NC_CHE	Laubholz: Kirsche (Prunus spp.)
+NC_ASH	Laubholz: Esche (Fraxinus spp.)
+NC_POP	Laubholz: Pappel (Populus spp.)
+NC_EUC	Laubholz: Eukalyptus (Eucalyptus spp.)
+NC_TRO	Laubholz: Tropenholz

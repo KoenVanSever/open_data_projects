@@ -1,0 +1,41 @@
+PC_TOT_IMP	Part des importations par partenaire dans les importations totales (%)
+PC_TOT_EXP	Part des exportations par partenaire dans les exportations totales (%)
+RT_EXP_IMP	Ratio Exportations/Importations
+IVOL_IMP	Indice de volume des importations (2015=100)
+IVOL_EXP	Indice de volume des exportations (2015=100)
+RT_IVOL	Rapport Volume (Exportations/Importations)
+PC_IMP_EU	Part des importations provenant de l'UE dans les importations totales (%)
+PC_EXP_EU	Part des exportations vers l'UE dans les exportations totales (%)
+PC_IMP_WRL	Part des importations nationales dans les importations mondiales (%)
+PC_EXP_WRL	Part des exportations nationales dans les exportations mondiales (%)
+TRD_VAL	Valeur de commerce en millions d'ECU/EURO
+TRD_VAL_RT12	Taux de croissance M/M-12 de la valeur de commerce
+TRD_VAL_SCA	Valeur de commerce désaisonnalisée et corrigée des effets de calendrier en millions d'ECU/EURO
+TRD_VAL_SCA_RT1	Taux de croissance M/M-1 de la valeur de commerce désaisonnalisée et corrigée deseffets de calendrier
+IVU	Indice de valeur unitaire (2015=100)
+IVU_EXP	Indice de valeur unitaire des exportations (2015=100)
+IVU_IMP	Indice de valeur unitaire des importations (2015=100)
+RT_IVU	Termes de l'échange (Exportations/Importations)
+IVU_RT1	Taux de croissance M/M-1 des indices de valeur unitaire
+IVU_RT12	Taux de croissance M/M-12 des indices de valeur unitaire
+IVOLU	Indice de volume unitaire (2015=100)
+IVOL_NSA	Indices de volume - données non-ajustées (2015=100)
+IVOL_NSA_RT12	Taux de croissance M/M-12 des indices de volume - données non-ajustées
+IVOL_SCA	Indices de volume désaisonnalisés et corrigés des effets de calendrier (2015=100)
+IVOL_SCA_RT1	Taux de croissance M/M-1 des indices de volume désaisonnalisés et corrigés des effets de calendrier
+CONT_IMP_EU	Part des importations par État membre (%)
+CONT_EXP_EU	Part des exportations par État membre (%)
+MIO_BAL_VAL	Balance commerciale en millions d'ECU/EURO
+MIO_EXP_VAL	Exportations en millions d'ECU/EURO
+MIO_IMP_VAL	Importations en millions d'ECU/EURO
+PC_IMP_PROD	Part des importations par produit (%)
+PC_EXP_PROD	Part des exportations par produit (%)
+PC_IMP_PART	Part des importations par partenaire (%)
+PC_EXP_PART	Part des exportations par partenaire (%)
+ENT_NR	Nombre d'entreprise
+AVG_IMP_VAL	Valeur moyenne des importations
+AVG_EXP_VAL	Valeur moyenne des exportations
+IMP_VAL	Valeur des importations
+EXP_VAL	Valeur des exportations
+PC_IMP_SZCL	Part des importations par classe de taille (%)
+PC_EXP_SZCL	Part des exportations par classe de taille (%)

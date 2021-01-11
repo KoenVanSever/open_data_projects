@@ -1,0 +1,56 @@
+TOTAL	Total
+OP	Tous les opérateurs
+PRD	Producteurs
+PRR	Producteurs
+PRR_MAIN	Producteurs dont c'est l'activité principale
+PRR_AUTO	Autoproducteurs
+PRD_AGRI	Producteurs agricoles
+PRR_AGRI	Producteurs agricoles
+PRD_AGRI_PRC	Producteurs agricoles qui sont également transformateurs 
+PRR_AGRI_PRC	Producteurs agricoles qui sont également transformateurs
+PRD_AGRI_IMP	Producteurs agricoles qui sont également importateurs
+PRR_AGRI_IMP	Producteurs agricoles qui sont également importateurs
+PRD_AGRI_HM	Producteurs agricoles d'oeufs selon la méthodologie harmonisée
+PRR_AGRI_HM	Producteurs agricoles d'oeufs selon la méthodologie harmonisée
+PRD_AGRI_HEN350-5000_HM	Producteurs agricoles d'oeufs avec 350 à 5 000 poules pondeuses selon la méthodologie harmonisée
+PRR_AGRI_HEN350-5000_HM	Producteurs agricoles d'oeufs avec 350 à 5 000 poules pondeuses selon la méthodologie harmonisée
+PRD_AGRI_HEN_GT5000_HM	Producteurs agricoles d'oeufs avec plus de 5 000 poules pondeuses selon la méthodologie harmonisée
+PRR_AGRI_HEN_GT5000_HM	Producteurs agricoles d'oeufs avec plus de 5 000 poules pondeuses selon la méthodologie harmonisée
+PRD_AGRI_NHM	Producteurs agricoles d'oeufs hors méthodologie harmonisée
+PRR_AGRI_NHM	Producteurs agricoles d'oeufs hors méthodologie harmonisée
+PRD_AGRI_OTH	Producteurs agricoles - autres (n.c.a.)
+PRR_AGRI_OTH	Producteurs agricoles - autres (n.c.a.)
+PRD_AQUA	Producteurs aquacoles
+PRR_AQUA	Producteurs aquacoles
+PRD_AQUA_PL	Producteurs aquacoles de plantes aquatiques
+PRR_AQUA_PL	Producteurs aquacoles de plantes aquatiques
+PRD_ONL	Producteurs uniquement
+PRR_ONL	Producteurs uniquement
+PRD_PRC	Producteurs ainsi que transformateurs
+PRR_PRC	Producteurs ainsi que transformateurs
+PRD_IMP	Producteurs ainsi que importateurs
+PRR_IMP	Producteurs ainsi que importateurs
+PRD_PRC_IMP	Producteurs ainsi que transformateurs et importateurs
+PRR_PRC_IMP	Producteurs ainsi que transformateurs et importateurs
+PRC	Transformateurs
+PRC_IMP	Transformateurs qui sont également importateurs
+PRC_OTH	Transformateurs - autres (n.c.a.)
+PRC_ONL	Transformateurs uniquement
+IMP	Importateurs
+IMP_ONL	Importateurs uniquement
+IMP_NAL	Importateurs non alloué
+EXP	Exportateurs
+EXP_ONL	Seulement exportateurs 
+EXP_NAL	Exportateurs non alloué
+OWT	Uniquement exportateurs ou importateurs
+TWT	A la fois exportateurs et importateurs 
+PCK_EGG_PRD_AGRI	Emballeurs recevant des oeufs des producteurs agricoles
+PCK_EGG_PRR_AGRI	Emballeurs recevant des oeufs des producteurs agricoles
+OTH_EGG_PRD_AGRI	Autres opérateurs recevant des oeufs des producteurs agricoles
+OTH_EGG_PRR_AGRI	Autres opérateurs recevant des oeufs des producteurs agricoles
+OTH	Autres opérateurs
+OTH_TRD	Autres opérateurs - commerçants
+OTH_TRD_WHLS	Autres opérateurs - commerçants - grossistes
+OTH_TRD_RTL	Autres opérateurs - commerçants - détaillants
+OTH_NEC	Autres opérateurs n.s.a.
+NAL	Non alloué

@@ -1,0 +1,17 @@
+TOTAL	Insgesamt
+CHG_INCR_INC	Alle Änderungen zwecks Einkommenserhöhung
+CHG_JOB	Wechsel des Arbeitsplatzes oder Arbeitgebers
+LS_DTSK	Weniger anspruchsvolle berufliche Aufgaben
+FAM_LEAV	Urlaub aus familiären Gründen
+WRKINTR	Unterbrechung der Erwerbstätigkeit
+NWRKINTR	Keine Unterbrechung der Erwerbstätigkeit
+RED_WRKTIME	Arbeitszeitverringerung
+NWRKINTR_NRED_WRKTIME	Weder Unterbrechung der Erwerbstätigkeit noch Arbeitszeitverringerung
+NVR_WRK_CHCARE	Hat wegen Kinderbetreuung nie gearbeitet
+NVR_WRK_OTH	Hat aus anderen Gründen nie gearbeitet
+NVR_CH	Hatte nie Kinder
+NVR_CARE	Hatte nie Betreuungspflichten
+OTH	Sonstige
+NONE	Keine Auswirkungen
+NAP	Nicht anwendbar
+NRP	Keine Antwort

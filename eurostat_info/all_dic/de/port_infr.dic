@@ -1,0 +1,4 @@
+PORT_TOT	Anzahl der Häfen insgesamt
+PORT_PR	Anzahl der wichtigsten Häfen
+LGT_QUAY	Länge insgesamt der Docks der wichtigsten Häfen
+LGT_QUAY_CONT	Länge insgesamt der Docks der wichtigsten Häfen, die nur für Containerschiffe sind

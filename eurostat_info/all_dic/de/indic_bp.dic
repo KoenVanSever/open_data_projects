@@ -1,0 +1,23 @@
+NGDP	Saldo der Bilanz zu jeweiligen Preisen (in % des BIP)
+NMLD	Saldo der Bilanz (in Mrd ECU/EUR)
+COVR	Deckungsquote (in %)
+CA1	Einnahmen nach Wirtschaftsräumen (Einnahmen in % der weltweiten Einnahmen)
+DA1	Ausgaben nach Wirtschaftsräumen (Ausgaben in % der weltweiten Ausgaben)
+CMLD	Ausfuhr (in Mrd ECU/EUR)
+DMLD	Einfuhr (in Mrd ECU/EUR)
+STOCKS	Direktinvestition-Bestände - Millionen ECU/EUR
+FLOWS	Ströme - Millionen ECU/EUR
+INCOME	Erträge aus Direktinvestitionen - Millionen ECU/EUR
+FGDP	BIP (Ströme in % des BIP)
+SGDP	BIP (Bestände in % des BIP)
+IPOS	Renditen von Auslandsdirektinvestitionen (ADI Einkommen/ADI Bestände)
+PCPOS	Bestände an Auslandsdirektinvestitionen der EU: Anteile der Partnerländer in % an den gesamten extra-EU Auslandsdirektinvestitionen
+TI100	Marktintegration - Handelsintegration beim Warenhandel
+TI200	Marktintegration - Handelsintegration bei Dienstleistungen
+TIFDI	Marktintegration - Intensität der Direktinvestitionen - Durchschnittlicher Wert der ausländischen Direktinvestitionsströme im Inland und der inländischen Direktinvestitionsströme im Ausland geteilt durch BIP, multipliziert mit 100
+TUR	Umsatz - Millionen ECU/EUR
+EMP	Anzahl der beschäftigten Arbeitnehmer
+ENT	Anzahl der Unternehmungen
+PEC	Personalaufwendungen  - Millionen ECU/EUR
+GIT	Bruttoinvestition in Sachanlagen - Millionen ECU/EUR
+VAC	Bruttowertschöpfung zu Faktorkosten - Millionen ECU/EUR

@@ -1,0 +1,22 @@
+PUB	Fachschulen
+UNIV	Universitäten und Fachhochschulen
+PUTR	Öffentlichkeit Ausbildungsinstitutionen ( finanziert oder geführt durch die Regierung; z.B Erwachsenenbildungszentren)
+SPEC	Öffentliche Bildungsanbieter (z.B. Volkshochschulen)
+PRALL	Private Anbieter
+PRIV	Private Firmen dessen grundlegende Tätigkeit kein Training ist
+EQUIP	Hersteller/Lieferanten
+PAR	Muttergesellschaften/Beteiligungsgesellschaften
+UNION	Gewerkschaften und ihre Bildungseinrichtungen
+CHOC	Organisationen der Wirtschaft incl. der berufsständischen Kammern (IHK, HwK, Innungen)- und ihre Bildungseinrichtungen
+OTH	Sonstige Anbieter
+NRESP	Kein Antwort
+FEDINST	Institution für Formal Bildung
+NFEINST	Institutionen fü Nicht-formaler Aus-/Weiterbildung
+COMINST	Geschäftlich Institution wo Bildung und Weiterbildung sind nicht die wichtigste Aktivitäten (zum Beispiel Zulieferindustrie)
+EMPL	Arbeitgeber
+CHACOM	Industrie- et Handelskammertag
+TRDINST	Gewerkschaftsverband
+NONPROF	Gemeinnütziger Verien (zum Beispiel kulturellen Gesellschaften, politisch Partei)
+INDIV	Personen (zum Beispiel Studenten die Nachhilfe geben)
+NONCOM	Nicht Geschäftlich Institutionen wo Bildung und Weiterbildung sind nicht die wichtigste Aktivitäten (zum Beispiel Bibliotheken, Museen, ein Ministerium)
+OTHER	Andere

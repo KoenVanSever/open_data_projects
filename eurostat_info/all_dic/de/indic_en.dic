@@ -1,0 +1,1164 @@
+100100	Primärerzeugung
+100200	Andere Quellen
+100300	Einfuhren
+100400	Bestandsveränderungen
+100500	Gesamtausfuhren
+100800	Bunker
+100900	Bruttoinlandsverbrauch
+101000	Umwandlungseinsatz
+101002	Einsatz in Kernkraftwerken
+101003	Einsatz in Brikettfabriken
+101004	Einsatz in Kokereien
+101006	Einsatz in Hochöfen
+101007	Einsatz in Gaswerken
+101008	Einsatz in Raffinerien
+101009	Einsatz in Fernheizkraftwerken
+101021	Einsatz in öffentlichen Wärmekraftwerken
+101022	Einsatz in Wärmekraftwerken der Eigenerzeuger
+101100	Umwandlungsausstoss
+101102	Ausstoss von Kernkraftwerken
+101103	Ausstoss von Brikettfabriken
+101104	Ausstoss von Kokereien
+101106	Ausstoss von Hochöfen
+101107	Ausstoss von Gaswerken
+101108	Ausstoss von Raffinerien
+101109	Ausstoss von Fernheizkraftwerken
+101121	Ausstoss von öffentlichen Wärmekraftwerken
+101122	Ausstoss von Wärmekraftwerken der Eigenerzeuger
+101200	Austausch, Übertragung, Rückläufe
+101210	Austausch zwischen Erzeugnissen
+101220	Übertragung von Erzeugnissen
+101230	Rückläufe der Petrochemie
+101300	Verbrauch des Produktionsbereichs Energie
+101400	Netzverluste
+101500	Für den Endverbrauch zur Verfügung stehende Energie
+101600	Nichtenergetischer Endverbrauch
+101601	Nichtenergetischer Endverbrauch in der chemischen Industrie
+101602	Nichtenergetischer Endverbrauch in anderen Industrien
+101700	Energetischer Endverbrauch
+101800	Energetischer Endverbrauch der Industrie
+101805	Energetischer Endverbrauch der Stahlindustrie
+101810	Energetischer Endverbrauch der NE-Metallindustrie
+101815	Energetischer Endverbrauch der chemischen Industrie
+101825	Energetischer Endverbrauch der Erzgewinnungsindustrie (mit Ausnahme der Brenn-und Kraftstoffgewinnung)
+101830	Energetischer Endverbrauch der Nahrungs- und Genussmittelindustrie
+101835	Energetischer Endverbrauch der Textil-, Lederwaren- und Bekleidungsindustrie
+101840	Energetischer Endverbrauch der Papier- und Druckindustrie
+101845	Energetischer Endverbrauch im Maschinenbau und anderen metallverarbeitenden Industrien
+101850	Energetischer Endverbrauch anderer Industriezweige
+101899	Energetischer Endverbrauch - Ausgleichsposten
+101900	Energetischer Endverbrauch im Verkehrssektor
+101910	Energetischer Endverbrauch des Bahnverkehrs
+101920	Energetischer Endverbrauch des Strassenverkehrs
+101930	Energetischer Endverbrauch des Luftverkehrs
+101940	Energetischer Endverbrauch der Binnenschiffahrt
+102000	Energetischer Endverbrauch der Privathaushalte/Dienstleistungen
+102010	Energetischer Endverbrauch der Privathaushalte
+102030	Energetischer Endverbrauch der Landwirtschaft
+102040	Energetischer Endverbrauch anderer Sektoren
+102200	Statistische Differenz
+119500	Marktanteil des größten Erzeugers im Strommarkt - als Prozentsatz des Gesamtmarktes
+119600	Energieintensität der Wirtschaft - Bruttoinlandsverbrauch an Energie geteilt durch BIP (verkettete Volumen - Referenzjahr 2005) - kgRÖE (kg Rohöleinheit) pro 1000 Euro
+119650	Energieintensität der Wirtschaft - Bruttoinlandsverbrauch an Energie geteilt durch BIP (verkettete Volumen - Referenzjahr 2010) - kgRÖE (kg Rohöleinheit) pro 1000 Euro
+119700	Anteil an erneuerbaren Energiequellen - Beitrag der erneuerbaren Energiequellen zum gesamten Stromverbrauch (%)
+119800	Anteil der erneuerbaren Energie am Bruttoendenergieverbrauch
+119810	Anteil der erneuerbaren Energie am Verkehrssektor
+119820	Anteil der erneuerbaren Energie am Elektrizitätssektor
+119830	Anteil der erneuerbaren Energie an der Wärme- und Kälteerzeugung
+ADD	Aktuelle Heizgradtage
+MDD25	Durchschnitt der Heizgradtage 1980 - 2004
+RDD25	Relative Heizgradtage
+MSHH	Haushalte mittlerer Größe
+MSIND	Nichthaushaltskunde mittlerer Größe
+10_128101D	Bestände / Anfang / (a) Alle anderen Bestände auf dem Hoheitsgebiet des Staates (b+c+d+e+f+g+h+i)
+10_128201D	Bestände / Ende / (a) Alle anderen Bestände auf dem Hoheitsgebiet des Staates (b+c+d+e+f+g+h+i)
+10_128102	Bestände / Anfang / (b) Im Rahmen von Regierungsvereinbarungen für andere Staaten gelagerte Bestände
+10_128202	Bestände / Ende / (b) Im Rahmen von Regierungsvereinbarungen für andere Staaten gelagerte Bestände
+10_128104	Bestände / Anfang / (c) Bestände mit bekannter ausländischer Bestimmung
+10_128204	Bestände / Ende / (c) Bestände mit bekannter ausländischer Bestimmung
+10_128108	Bestände / Anfang / (d) Bestände unter Zollverschluss, die nicht unter (b) oder (c) erfasst sind
+10_128208	Bestände / Ende / (d) Bestände unter Zollverschluss, die nicht unter (b) oder (c) erfasst sind
+10_128109	Bestände / Anfang / (e) Von Großverbrauchern aufgrund gesetzlicher Verpflichtungen gehaltene Bestände
+10_128209	Bestände / Ende / (e) Von Großverbrauchern aufgrund gesetzlicher Verpflichtungen gehaltene Bestände
+10_128110	Bestände / Anfang / (f) Bestände an Bord einlaufender Hochseeschiffe im Hafen oder auf Reede
+10_128210	Bestände / Ende / (f) Bestände an Bord einlaufender Hochseeschiffe im Hafen oder auf Reede
+10_128111	Bestände / Anfang / (g) Von staatlichen Stellen auf dem Hoheitsgebiet des Staates gelagerte Bestände
+10_128211	Bestände / Ende / (g) Von staatlichen Stellen auf dem Hoheitsgebiet des Staates gelagerte Bestände
+10_128112	Bestände / Anfang / (h) Auf dem Hoheitsgebiet des Staates befindliche Bestände von Lagerunternehmen
+10_128212	Bestände / Ende / (h) Auf dem Hoheitsgebiet des Staates befindliche Bestände von Lagerunternehmen
+10_128113	Bestände / Anfang / (i) Alle anderen auf dem Hoheitsgebiet des Staates lagernden Bestände
+10_128213	Bestände / Ende / (i) Alle anderen auf dem Hoheitsgebiet des Staates lagernden Bestände
+10_128105	Bestände / Anfang / (j) Im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände (o+p+q)
+10_128205	Bestände / Ende / (j) Im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände (o+p+q)
+10_128107	Bestände / Anfang / (k) Im Ausland lagernde Bestände, die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+10_128207	Bestände / Ende / (k) Im Ausland lagernde Bestände, die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+10_128114D	Bestände / Anfang / (l) Gesamtbestände
+10_128214D	Bestände / Ende / (l) Gesamtbestände (a-b-c+j+k)
+10_128115	Bestände / Anfang / (m) Sonstige Bestände unter Zollverschluss
+10_128215	Bestände / Ende / (m) Sonstige Bestände unter Zollverschluss
+10_128116	Bestände / Anfang / (n) Pipelineinhalt
+10_128216	Bestände / Ende / (n) Pipelineinhalt
+10_128117	Bestände / Anfang / (o) Im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände staatlicher Stellen
+10_128217	Bestände / Ende / (o) Im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände staatlicher Stellen
+10_128118	Bestände / Anfang / (p) Im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände von Lagerunternehmen
+10_128218	Bestände / Ende / (p) Im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände von Lagerunternehmen
+10_128119	Bestände / Anfang / (q) Sonstige im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände
+10_128219	Bestände / Ende / (q) Sonstige im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände
+10_1281EU01D	Bestände / Anfang / (EU-a) Sicherheitsbestände (gesamt), die auf dem Hoheitsgebiet des Staates gelagert werden
+10_1282EU01D	Bestände / Ende / (EU-a) Sicherheitsbestände (gesamt), die auf dem Hoheitsgebiet des Staates gelagert werden
+10_1281EU02	Bestände / Anfang / (EU-b) Im Rahmen von Regierungsvereinbarungen für andere EU-Mitgliedstaaten gelagerte Bestände
+10_1282EU02	Bestände / Ende / (EU-b) Im Rahmen von Regierungsvereinbarungen für andere EU-Mitgliedstaaten gelagerte Bestände
+10_1281EU04	Bestände / Anfang / (EU-c) Bestände mit bekannter Bestimmung in der EU
+10_1282EU04	Bestände / Ende / (EU-c) Bestände mit bekannter Bestimmung in der EU
+10_1281EU11	Bestände / Anfang / (EU-g) Bestände staatlicher Stellen auf dem Hoheitsgebiet des Staates
+10_1282EU11	Bestände / Ende / (EU-g) Bestände staatlicher Stellen auf dem Hoheitsgebiet des Staates
+10_1281EU12	Bestände / Anfang / (EU-h) Bestände der Zentralen Bevorratungseinrichtung (ZBE) auf dem Hoheitsgebiet des Staates
+10_1282EU12	Bestände / Ende / (EU-h) Bestände der Zentralen Bevorratungseinrichtung (ZBE) auf dem Hoheitsgebiet des Staates
+10_1281EU09	Bestände / Anfang / (EU-ie) Von Unternehmen auf dem Hoheitsgebiet des Staates gehaltene Bestände
+10_1282EU09	Bestände / Ende / (EU-ie) Von Unternehmen auf dem Hoheitsgebiet des Staates gehaltene Bestände
+10_1281EU05	Bestände / Anfang / (EU-j) Im Rahmen von Regierungsvereinbarungen in anderen EU-Mitgliedstaaten gelagerte Bestände
+10_1282EU05	Bestände / Ende / (EU-j) Im Rahmen von Regierungsvereinbarungen in anderen EU-Mitgliedstaaten gelagerte Bestände
+10_1281EU07	Bestände / Anfang / (EU-k) Im EU-Ausland lagernde Bestände, die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+10_1282EU07	Bestände / Ende / (EU-k) Im EU-Ausland lagernde Bestände, die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+10_1281EU14D	Bestände / Anfang / (EU-l) Gemäß Richtlinie 2009/119/EG gelagerte Sicherheitsbestände
+10_1282EU14D	Bestände / Ende / (EU-l) Gemäß Richtlinie 2009/119/EG gelagerte Sicherheitsbestände
+10_101108	Summe der monatlichen Zahlen / Bruttoraffinerieausstoß
+10_101307	Summe der monatlichen Zahlen / Raffineriebrennstoff
+10_100300	Summe der monatlichen Zahlen / Einfuhren (Bilanz)
+10_100500	Summe der monatlichen Zahlen / Ausfuhren (Bilanz)
+10_101008	Summe der monatlichen Zahlen / Raffinerieeingang (berechnet)
+10_100800	Summe der monatlichen Zahlen / Grenzüberschreitender Seeverkehr (Bunker)
+10_105200	Summe der monatlichen Zahlen / Bruttoinlandslieferungen (erfasst)
+10_109013	Summe der monatlichen Zahlen / Rückläufe an die Raffinerien
+10_128101JAN	Anfangsbestände im Januar / Gesamtbestände auf dem Hoheitsgebiet des Staates
+10_128201DEC	Endbestände im Dezember / Gesamtbestände auf dem Hoheitsgebiet des Staates
+10_1281EU21	Bestände / Anfang / (EU) Von Unternehmen auf dem Hoheitsgebiet des Staates gemäß Richtlinie 2009/119/EG gehaltene kommerzielle Vorräte
+10_1282EU21	Bestände / Ende / (EU) Von Unternehmen auf dem Hoheitsgebiet des Staates gemäß Richtlinie 2009/119/EG gehaltene kommerzielle Vorräte
+10_3382020070	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Albanien
+10_3382020800	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Australien
+10_3382020038	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Österreich
+10_3382020012	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Belgien
+10_3382020093	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Bosnien und Herzegowina
+10_3382020068	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Bulgarien
+10_3382020404	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Kanada
+10_3382020510	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Chile
+10_3382020092	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Kroatien
+10_3382020600	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Zypern
+10_3382020061	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Tschechische Republik
+10_3382020008	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Dänemark
+10_3382020053	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Estland
+10_3382020032	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Finnland
+10_3382020001	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Frankreich
+10_3382020076	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Georgien
+10_3382020004	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Deutschland
+10_3382020009	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Griechenland
+10_3382020064	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Ungarn
+10_3382020024	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Island
+10_3382020007	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Irland
+10_3382020205	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Israel
+10_3382020005	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Italien
+10_3382020732	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Japan
+10_3382020728	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Korea
+10_3382020095	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+10_3382020055	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Lettland
+10_3382020054	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Litauen
+10_3382020022	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Luxemburg
+10_3382020096	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Nordmazedonien
+10_3382020085	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Malta
+10_3382020412	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Mexiko
+10_3382020074	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Moldau
+10_3382020097	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Montenegro
+10_3382020003	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Niederlande
+10_3382020801	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Neuseeland
+10_3382020028	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Norwegen
+10_3382020060	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Polen
+10_3382020040	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Portugal
+10_3382020066	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Rumänien
+10_3382020057	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Russische Förderation
+10_3382020050	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Serbien
+10_3382020063	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Slowakische Republik
+10_3382020091	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Slowenien
+10_3382020042	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Spanien
+10_3382020030	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Schweden
+10_3382020036	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Schweiz
+10_3382020052	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Türkei
+10_3382020058	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Ukraine
+10_3382020006	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Vereinigtes Königreich
+10_3382020400	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Vereinigte Staaten
+10_3382020999	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Sonstige
+10_3382021000D	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Gesamt
+10_3382021010D	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung - Gesamt EU-Mitgliedstaaten
+10_3382030070	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Albanien
+10_3382030800	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Australien
+10_3382030038	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Österreich
+10_3382030012	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Belgien
+10_3382030093	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Bosnien und Herzegowina
+10_3382030068	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Bulgarien
+10_3382030404	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Kanada
+10_3382030510	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Chile
+10_3382030092	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Kroatien
+10_3382030600	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Zypern
+10_3382030061	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Tschechische Republik
+10_3382030008	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Dänemark
+10_3382030053	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Estland
+10_3382030032	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Finnland
+10_3382030001	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Frankreich
+10_3382030076	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Georgien
+10_3382030004	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Deutschland
+10_3382030009	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Griechenland
+10_3382030064	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Ungarn
+10_3382030024	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Island
+10_3382030007	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Irland
+10_3382030205	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Israel
+10_3382030005	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Italien
+10_3382030732	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Japan
+10_3382030728	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Korea
+10_3382030095	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+10_3382030055	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Lettland
+10_3382030054	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Litauen
+10_3382030022	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Luxemburg
+10_3382030096	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Nordmazedonien
+10_3382030085	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Malta
+10_3382030412	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Mexiko
+10_3382030074	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Moldau
+10_3382030097	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Montenegro
+10_3382030003	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Niederlande
+10_3382030801	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Neuseeland
+10_3382030028	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Norwegen
+10_3382030060	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Polen
+10_3382030040	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Portugal
+10_3382030066	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Rumänien
+10_3382030057	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Russische Föderation
+10_3382030050	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Serbien
+10_3382030063	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Slowakische Republik
+10_3382030091	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Slowenien
+10_3382030042	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Spanien
+10_3382030030	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Schweden
+10_3382030036	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Schweiz
+10_3382030052	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Türkei
+10_3382030058	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Ukraine
+10_3382030006	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Vereinigtes Königreich
+10_3382030400	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Vereinigte Staaten
+10_3382030999	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Sonstige
+10_3382031000D	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Gesamt
+10_3382031010D	Für andere Staaten gelagerte Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Gesamt EU-Mitgliedstaaten
+10_3382040070	Bestände / Ende / mit bekannter ausländischer Bestimmung - Albanien
+10_3382040800	Bestände / Ende / mit bekannter ausländischer Bestimmung - Australien
+10_3382040038	Bestände / Ende / mit bekannter ausländischer Bestimmung - Österreich
+10_3382040012	Bestände / Ende / mit bekannter ausländischer Bestimmung - Belgien
+10_3382040093	Bestände / Ende / mit bekannter ausländischer Bestimmung - Bosnien und Herzegowina
+10_3382040068	Bestände / Ende / mit bekannter ausländischer Bestimmung - Bulgarien
+10_3382040404	Bestände / Ende / mit bekannter ausländischer Bestimmung - Kanada
+10_3382040510	Bestände / Ende / mit bekannter ausländischer Bestimmung - Chile
+10_3382040092	Bestände / Ende / mit bekannter ausländischer Bestimmung - Kroatien
+10_3382040600	Bestände / Ende / mit bekannter ausländischer Bestimmung - Zypern
+10_3382040061	Bestände / Ende / mit bekannter ausländischer Bestimmung - Tschechische Republik
+10_3382040008	Bestände / Ende / mit bekannter ausländischer Bestimmung - Dänemark
+10_3382040053	Bestände / Ende / mit bekannter ausländischer Bestimmung - Estland
+10_3382040032	Bestände / Ende / mit bekannter ausländischer Bestimmung - Finnland
+10_3382040001	Bestände / Ende / mit bekannter ausländischer Bestimmung - Frankreich
+10_3382040076	Bestände / Ende / mit bekannter ausländischer Bestimmung - Georgien
+10_3382040004	Bestände / Ende / mit bekannter ausländischer Bestimmung - Deutschland
+10_3382040009	Bestände / Ende / mit bekannter ausländischer Bestimmung - Griechenland
+10_3382040064	Bestände / Ende / mit bekannter ausländischer Bestimmung - Ungarn
+10_3382040024	Bestände / Ende / mit bekannter ausländischer Bestimmung - Island
+10_3382040007	Bestände / Ende / mit bekannter ausländischer Bestimmung - Irland
+10_3382040205	Bestände / Ende / mit bekannter ausländischer Bestimmung - Israel
+10_3382040005	Bestände / Ende / mit bekannter ausländischer Bestimmung - Italien
+10_3382040732	Bestände / Ende / mit bekannter ausländischer Bestimmung - Japan
+10_3382040728	Bestände / Ende / mit bekannter ausländischer Bestimmung - Korea
+10_3382040095	Bestände / Ende / mit bekannter ausländischer Bestimmung - Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+10_3382040055	Bestände / Ende / mit bekannter ausländischer Bestimmung - Lettland
+10_3382040054	Bestände / Ende / mit bekannter ausländischer Bestimmung - Litauen
+10_3382040022	Bestände / Ende / mit bekannter ausländischer Bestimmung - Luxemburg
+10_3382040096	Bestände / Ende / mit bekannter ausländischer Bestimmung - Nordmazedonien
+10_3382040085	Bestände / Ende / mit bekannter ausländischer Bestimmung - Malta
+10_3382040412	Bestände / Ende / mit bekannter ausländischer Bestimmung - Mexiko
+10_3382040074	Bestände / Ende / mit bekannter ausländischer Bestimmung - Moldau
+10_3382040097	Bestände / Ende / mit bekannter ausländischer Bestimmung - Montenegro
+10_3382040003	Bestände / Ende / mit bekannter ausländischer Bestimmung - Niederlande
+10_3382040801	Bestände / Ende / mit bekannter ausländischer Bestimmung - Neuseeland
+10_3382040028	Bestände / Ende / mit bekannter ausländischer Bestimmung - Norwegen
+10_3382040060	Bestände / Ende / mit bekannter ausländischer Bestimmung - Polen
+10_3382040040	Bestände / Ende / mit bekannter ausländischer Bestimmung - Portugal
+10_3382040066	Bestände / Ende / mit bekannter ausländischer Bestimmung - Rumänien
+10_3382040057	Bestände / Ende / mit bekannter ausländischer Bestimmung - Russische Föderation
+10_3382040050	Bestände / Ende / mit bekannter ausländischer Bestimmung - Serbien
+10_3382040063	Bestände / Ende / mit bekannter ausländischer Bestimmung - Slowakische Republik
+10_3382040091	Bestände / Ende / mit bekannter ausländischer Bestimmung - Slowenien
+10_3382040042	Bestände / Ende / mit bekannter ausländischer Bestimmung - Spanien
+10_3382040030	Bestände / Ende / mit bekannter ausländischer Bestimmung - Schweden
+10_3382040036	Bestände / Ende / mit bekannter ausländischer Bestimmung - Schweiz
+10_3382040052	Bestände / Ende / mit bekannter ausländischer Bestimmung - Türkei
+10_3382040058	Bestände / Ende / mit bekannter ausländischer Bestimmung - Ukraine
+10_3382040006	Bestände / Ende / mit bekannter ausländischer Bestimmung - Vereinigtes Königreich
+10_3382040400	Bestände / Ende / mit bekannter ausländischer Bestimmung - Vereinigte Staaten
+10_3382040999	Bestände / Ende / mit bekannter ausländischer Bestimmung - Sonstige
+10_3382041000D	Bestände / Ende / mit bekannter ausländischer Bestimmung - Gesamt
+10_3382041010D	Bestände / Ende / mit bekannter ausländischer Bestimmung - Gesamt EU-Mitgliedstaaten
+10_3482050070	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Albanien
+10_3482050800	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Australien
+10_3482050038	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Österreich
+10_3482050012	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Belgien
+10_3482050093	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Bosnien und Herzegowina
+10_3482050068	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Bulgarien
+10_3482050404	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Kanada
+10_3482050510	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Chile
+10_3482050092	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Kroatien
+10_3482050600	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Zypern
+10_3482050061	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Tschechische Republik
+10_3482050008	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Dänemark
+10_3482050053	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Estland
+10_3482050032	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Finnland
+10_3482050001	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Frankreich
+10_3482050076	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Georgien
+10_3482050004	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Deutschland
+10_3482050009	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Griechenland
+10_3482050064	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Ungarn
+10_3482050024	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Island
+10_3482050007	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Irland
+10_3482050205	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Israel
+10_3482050005	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Italien
+10_3482050732	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Japan
+10_3482050728	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Korea
+10_3482050095	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+10_3482050055	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Lettland
+10_3482050054	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Litauen
+10_3482050022	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Luxemburg
+10_3482050096	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Nordmazedonien
+10_3482050085	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Malta
+10_3482050412	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Mexiko
+10_3482050074	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Moldau
+10_3482050097	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Montenegro
+10_3482050003	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Niederlande
+10_3482050801	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Neuseeland
+10_3482050028	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Norwegen
+10_3482050060	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Polen
+10_3482050040	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Portugal
+10_3482050066	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Rumänien
+10_3482050057	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Russische Föderation
+10_3482050050	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Serbien
+10_3482050063	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Slowakische Republik
+10_3482050091	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Slowenien
+10_3482050042	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Spanien
+10_3482050030	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Schweden
+10_3482050036	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Schweiz
+10_3482050052	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Türkei
+10_3482050058	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Ukraine
+10_3482050006	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Vereinigtes Königreich
+10_3482050400	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Vereinigte Staaten
+10_3482050999	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Sonstige
+10_3482051000D	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Gesamt
+10_3482051010D	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung - Gesamt EU-Mitgliedstaaten
+10_3482060070	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Albanien
+10_3482060800	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Australien
+10_3482060038	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Österreich
+10_3482060012	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Belgien
+10_3482060093	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Bosnien und Herzegowina
+10_3482060068	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Bulgarien
+10_3482060404	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Kanada
+10_3482060510	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Chile
+10_3482060092	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Kroatien
+10_3482060600	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Zypern
+10_3482060061	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Tschechische Republik
+10_3482060008	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Dänemark
+10_3482060053	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Estland
+10_3482060032	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Finnland
+10_3482060001	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Frankreich
+10_3482060076	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Georgien
+10_3482060004	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Deutschland
+10_3482060009	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Griechenland
+10_3482060064	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Ungarn
+10_3482060024	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Island
+10_3482060007	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Irland
+10_3482060205	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Israel
+10_3482060005	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Italien
+10_3482060732	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Japan
+10_3482060728	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Korea
+10_3482060095	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+10_3482060055	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Lettland
+10_3482060054	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Litauen
+10_3482060022	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Luxemburg
+10_3482060096	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Nordmazedonien
+10_3482060085	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Malta
+10_3482060412	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Mexiko
+10_3482060074	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Moldau
+10_3482060097	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Montenegro
+10_3482060003	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Niederlande
+10_3482060801	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Neuseeland
+10_3482060028	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Norwegen
+10_3482060060	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Polen
+10_3482060040	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Portugal
+10_3482060066	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Rumänien
+10_3482060057	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Russische Föderation
+10_3482060050	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Serbien
+10_3482060063	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Slowakische Republik
+10_3482060091	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Slowenien
+10_3482060042	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Spanien
+10_3482060030	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Schweden
+10_3482060036	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Schweiz
+10_3482060052	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Türkei
+10_3482060058	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Ukraine
+10_3482060006	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Vereinigtes Königreich
+10_3482060400	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Vereinigte Staaten
+10_3482060999	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen - Sonstige
+10_3482061000D	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen- Gesamt
+10_3482061010D	Im Ausland lagernde Bestände / Ende / Regierungsvereinbarung / davon Delegationen- Gesamt EU-Mitgliedstaaten
+10_3482EU0070	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Albanien
+10_3482EU0800	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Australien
+10_3482EU0038	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Österreich
+10_3482EU0012	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Belgien
+10_3482EU00093	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Bosnien und Herzegowina
+10_3482EU0068	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Bulgarien
+10_3482EU0404	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Kanada
+10_3482EU0510	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Chile
+10_3482EU0092	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Kroatien
+10_3482EU0600	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Zypern
+10_3482EU0061	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Tschechische Republik
+10_3482EU0008	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Dänemark
+10_3482EU0053	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Estland
+10_3482EU0032	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Finnland
+10_3482EU0001	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Frankreich
+10_3482EU0076	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Georgien
+10_3482EU0004	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Deutschland
+10_3482EU0009	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Griechenland
+10_3482EU0064	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Ungarn
+10_3482EU0024	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Island
+10_3482EU0007	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Irland
+10_3482EU0205	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Israel
+10_3482EU0005	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Italien
+10_3482EU0732	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Japan
+10_3482EU0728	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Korea
+10_3482EU0095	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+10_3482EU0055	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Lettland
+10_3482EU0054	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Österreich
+10_3482EU0022	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Luxemburg
+10_3482EU0096	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Nordmazedonien
+10_3482EU0085	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Malta
+10_3482EU0412	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Mexiko
+10_3482EU0074	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Moldau
+10_3482EU0097	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Montenegro
+10_3482EU0003	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Niederlande
+10_3482EU0801	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Neuseeland
+10_3482EU0028	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Norwegen
+10_3482EU0060	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Polen
+10_3482EU0040	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Portugal
+10_3482EU0066	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Rumänien
+10_3482EU0057	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Russische Föderation
+10_3482EU0050	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Serbien
+10_3482EU0063	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Slowakische Republik
+10_3482EU0091	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Slowenien
+10_3482EU0042	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Spanien
+10_3482EU0030	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Schweden
+10_3482EU0036	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Schweiz
+10_3482EU0052	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Türkei
+10_3482EU0058	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Ukraine
+10_3482EU0006	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Vereinigtes Königreich
+10_3482EU0400	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Vereinigte Staaten
+10_3482EU0999	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Sonstige
+10_3482EU1000D	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Gesamt
+10_3482EU1010D	Im Ausland lagernde Bestände / Ende / davon im Auftrag der Regierung / ZBS-Delegation - Gesamt EU-Mitgliedstaaten
+10_3482070070	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Albanien
+10_3482070800	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Australien
+10_3482070038	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Österreich
+10_3482070012	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Belgien
+10_3482070093	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Bosnien und Herzegowina
+10_3482070068	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Bulgarien
+10_3482070404	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Kanada
+10_3482070510	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Chile
+10_3482070092	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Kroatien
+10_3482070600	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Zypern
+10_3482070061	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Tschechische Republik
+10_3482070008	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Dänemark
+10_3482070053	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Estland
+10_3482070032	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Finnland
+10_3482070001	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Frankreich
+10_3482070076	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Georgien
+10_3482070004	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Deutschland
+10_3482070009	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Griechenland
+10_3482070064	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Ungarn
+10_3482070024	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Island
+10_3482070007	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Irland
+10_3482070205	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Israel
+10_3482070005	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Italien
+10_3482070732	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Japan
+10_3482070728	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Korea
+10_3482070095	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+10_3482070055	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Lettland
+10_3482070054	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Litauen
+10_3482070022	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Luxemburg
+10_3482070096	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Nordmazedonien
+10_3482070085	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Malta
+10_3482070412	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Mexiko
+10_3482070074	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Moldau
+10_3482070097	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Montenegro
+10_3482070003	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Niederlande
+10_3482070801	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Neuseeland
+10_3482070028	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Norwegen
+10_3482070060	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Polen
+10_3482070040	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Portugal
+10_3482070066	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Rumänien
+10_3482070057	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Russische Föderation
+10_3482070050	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Serbien
+10_3482070063	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Slowakische Republik
+10_3482070091	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Slowenien
+10_3482070042	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Spanien
+10_3482070030	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Schweden
+10_3482070036	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Schweiz
+10_3482070052	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Türkei
+10_3482070058	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Ukraine
+10_3482070006	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Vereinigtes Königreich
+10_3482070400	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Vereinigte Staaten
+10_3482070999	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Sonstige
+10_3482071000D	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Gesamt
+10_3482071010D	Im Ausland lagernde Bestände / Ende / endgültig für die Einfuhr in Ihr Land vorgesehen - Gesamt EU-Mitgliedstaaten
+10_METHOD	Methode des Mitgliedstaats für die Lagerung von Sicherheitsbeständen
+10_DAYS	Vom Mitgliedstaat gemäß EU-Richtlinie gehaltene Sicherheitsbestände (in Tagesäquivalenten)
+10_OBLIGATC	Nettoeinfuhren oder Inlandsverbrauch gemäß Richtlinie (berechnet), täglich
+10_OBMETHC	Methode zur Berechnung der Verpflichtung (berechnet)
+10_1281EU99C	Mindestvorräte gemäß Richtlinie (berechnet)
+ENCAP	Anreicherungskapazität (tSWU)
+PRODCAPFF	Kapazität zur Herstellung neuer Brennelemente (tHM)
+PRODCMOXF	Produktionskapazität von MOX-Brennelementefabriken (tHM)
+PRODFF	Herstellung neuer Brennelemente (tHM)
+PRODMOXF	Herstellung von MOX-Brennelementen (tHM)
+PRODNH	Erzeugung von nuklearer Wärme (ktoe)
+IRRADF	Jährlicher mittlerer Abbrand an endgültig entnommenen bestrahlten Brennelementen (GWd/tHM)
+PRODUPU	Erzeugung von Uran und Plutonium in Wiederaufarbeitungsanlagen (tHM)
+CAPUPU	Kapazität von Wiederaufarbeitungsanlagen (Uran und Plutonium) (tHM)
+12_1176011	Nettoleistung der Wärmekraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176012	Nettoleistung der Wärmekraftwerke von Eigenerzeuger
+12_1176031	Nettoleistung der Kernkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176032	Nettoleistung der Kernkraftwerke von Eigenerzeuger
+12_1176051	Nettoleistung der Wasserkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176052	Nettoleistung der Wasserkraftwerke von Eigenerzeuger
+12_1176071	Nettoleistung der Pumpspeicherkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176072	Nettoleistung der Pumpspeicherkraftwerke von Eigenerzeuger
+12_1176081	Nettoleistung der geothermischen Kraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176082	Nettoleistung der geothermischen Kraftwerke von Eigenerzeuger
+12_1176083	Nettoleistung der geothermischen Kraftwerke
+12_1176091	Nettoleistung der Windkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176092	Nettoleistung der Windkraftwerke von Eigenerzeuger
+12_1176101	Nettoleistung von hauptsächlich als Energieerzeuger tätigen Unternehmen - sonstiges
+12_1176102	Nettoleistung von Eigenerzeugern- sonstiges
+12_1176111	Nettoleistung der Dampfturbinenkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176112	Nettoleistung der Dampfturbinenkraftwerke von Eigenerzeuger
+12_1176121	Nettoleistung der Gasturbinenkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176122	Nettoleistung der Gasturbinenkraftwerke von Eigenerzeuger
+12_1176131	Nettoleistung der Kraftwerke mit kombiniertem Kreislauf von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176132	Nettoleistung der Kraftwerke mit kombiniertem Kreislauf von Eigenerzeuger
+12_1176141	Nettoleistung der Kraftwerke mit Verbrennungsmotoren von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176142	Nettoleistung der Kraftwerke mit Verbrennungsmotoren von Eigenerzeuger
+12_117615	Nettoleistung von Wasserkraftwerken (Leistung < 1 MW)
+12_117616	Nettoleistung von Wasserkraftwerken (Leistung >= 1 MW und <= 10 MW)
+12_117617	Nettoleistung von Wasserkraftwerken (Leistung > 10 MW)
+12_1176231	Nettoleistung von Sonnenenergiesystemen von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176232	Nettoleistung von Sonnenenergiesystemen von Eigenerzeuger
+12_1176233	Nettoleistung der photovoltaischen Systeme
+12_1176243	Nettoleistung von thermischen Sonnenenergiesystemen
+12_1176253	Nettoleistung von Hausmüllkraftwerken
+12_1176263	Nettoleistung von Holz- und Holzabfallkraftwerken
+12_1176283	Nettoleistung von Industriemüllkraftwerken (nicht erneuerbare)
+12_1176301	Nettoleistung von hauptsächlich als Energieerzeuger tätigen Unternehmen - Gezeiten-/Wellen-/Meeresenergie
+12_1176302	Nettoleistung von Eigenerzeugern- Gezeiten-/Wellen-/Meeresenergie
+12_1176303	Nettoleistung - Gezeiten-/Wellen-/Meeresenergie
+12_1176313	Nettoleistung - Deponiegas
+12_1176323	Nettoleistung - Klärschlammgas
+12_1176333	Nettoleistung - Sonstige biogase
+12_1176343	Nettoleistung - Flüssige Biobrennstoffe
+12_1176401	Nettoleistung von Sonstigen Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen
+12_1176402	Nettoleistung von Sonstigen Anlagen von Eigenerzeuger
+12_119300	Sonnenkollektorfläche
+12_119400	Biobrennstoffe Produktionskapazität
+14_1070341	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Wasserkraft -1 MW
+14_1070342	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Wasserkraft 1-10 MW
+14_1070343	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Wasserkraft 10+ MW
+14_1070351	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Wasserkraft -1 MW
+14_1070352	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Wasserkraft 1-10 MW
+14_1070353	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Wasserkraft 10+ MW
+14_1070421	Bruttoelektrizitätserzeugung von hauptsächlich als Energieerzeuger tätigen Unternehmen - photovoltaischer Systeme
+14_1070422	Bruttoelektrizitätserzeugung von hauptsächlich als Energieerzeuger tätigen Unternehmen - thermischer Sonnenenergie
+14_1070431	Bruttoelektrizitätserzeugung von Eigenerzeugern - photovoltaischer Systeme
+14_1070432	Bruttoelektrizitätserzeugung von Eigenerzeugern - thermischer Sonnenenergie
+15_107030	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+15_107031	Bruttoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+15_107032	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Kernkraftwerke
+15_107033	Bruttoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - Kernkraftwerke
+15_107034	Bruttoelektrizitätserzeugung der Wasserkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+15_107035	Bruttoelektrizitätserzeugung der Wasserkraftwerke von Eigenerzeuger
+15_107036	Bruttoerzeugung der Pumpspeicherkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+15_107037	Bruttoerzeugung der Pumpspeicherkraftwerke von Eigenerzeugern
+15_107038	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+15_107039	Bruttoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+15_107040	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - geothermische Energie
+15_107041	Bruttoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - geothermische Energie
+15_107043	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Sonnenenergie
+15_107044	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Gezeiten-/Wellen-/Meeresenergie
+15_107045	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Gezeiten-/Wellen-/Meeresenergie
+15_107046	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Windkraftwerke
+15_107047	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Windkraftwerke
+15_107048	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+15_107049	Bruttoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+15_107050	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - flüssige Brennstoffe
+15_107051	Bruttoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - flüssige Brennstoffe
+15_107052	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+15_107053	Bruttoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+15_107054	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - andere Quellen
+15_107055	Bruttoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - andere Quellen
+15_107056	Bruttoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - andere Quellen
+15_107057	Bruttoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - andere Quellen
+15_107060	Bruttowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+15_107061	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+15_107062	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Kernkraftwerke
+15_107063	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Kernkraftwerke
+15_107064	Bruttowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+15_107065	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+15_107066	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - geothermische Energie
+15_107067	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - geothermische Energie
+15_107068	Bruttowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonnenenergie
+15_107069	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonnenenergie
+15_107070	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Sonnenenergie
+15_107071	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Sonnenenergie
+15_107072	Bruttowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+15_107073	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+15_107074	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - flüssige Brennstoffe
+15_107075	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - flüssige Brennstoffe
+15_107076	Bruttowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Wärmepumpen
+15_107077	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Wärmepumpen
+15_107078	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Wärmepumpen
+15_107079	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Wärmepumpen
+15_107080	Bruttowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Elektrokessel
+15_107081	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Elektrokessel
+15_107082	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Elektrokessel
+15_107083	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Elektrokessel
+15_107084	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+15_107085	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+15_107086	Bruttowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Quellen
+15_107087	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Quellen
+15_107088	Bruttowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Andere Quellen
+15_107089	Bruttowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Andere Quellen
+16_107130	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+16_107131	Nettoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+16_107132	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Kernkraftwerke
+16_107133	Nettoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - Kernkraftwerke
+16_107134	Nettoelektrizitätserzeugung der Wasserkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+16_107135	Nettoelektrizitätserzeugung der Wasserkraftwerke von Eigenerzeuger
+16_107136	Nettoerzeugung der Pumpspeicherkraftwerke von hauptsächlich als Energieerzeuger tätigen Unternehmen
+16_107137	Nettoerzeugung der Pumpspeicherkraftwerke von Eigenerzeugern
+16_107138	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+16_107139	Nettoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+16_107140	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - geothermische Energie
+16_107141	Nettoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - geothermische Energie
+16_107142	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonnenenergie
+16_107143	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Sonnenenergie
+16_107144	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Gezeiten-/Wellen-/Meeresenergie
+16_107145	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Gezeiten-/Wellen-/Meeresenergie
+16_107146	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Windkraftwerke
+16_107147	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Windkraftwerke
+16_107148	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+16_107149	Nettoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+16_107150	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - flüssige Brennstoffe
+16_107151	Nettoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - flüssige Brennstoffe
+16_107152	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+16_107153	Nettoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+16_107154	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - andere Quellen
+16_107155	Nettoelektrizitätserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - andere Quellen
+16_107156	Nettoelektrizitätserzeugung in Stromerzeugungsanlagen von Eigenerzeugern - andere Quellen
+16_107157	Nettoelektrizitätserzeugung in KWK-Anlagen von Eigenerzeugern - andere Quellen
+16_107160	Nettowärmeserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+16_107161	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kernkraftwerke
+16_107162	Nettowärmeserzeugung in KWK-Anlagen von Eigenerzeugern - Kernkraftwerke
+16_107163	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Kernkraftwerke
+16_107164	Nettowärmeserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+16_107165	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - geothermische Energie
+16_107166	Nettowärmeserzeugung in KWK-Anlagen von Eigenerzeugern - geothermische Energie
+16_107167	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - geothermische Energie
+16_107168	Nettowärmeserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonnenenergie
+16_107169	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonnenenergie
+16_107170	Nettowärmeserzeugung in KWK-Anlagen von Eigenerzeugern - Sonnenenergie
+16_107171	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Sonnenenergie
+16_107172	Nettowärmeserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+16_107173	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - flüssige Brennstoffe
+16_107174	Nettowärmeserzeugung in KWK-Anlagen von Eigenerzeugern - flüssige Brennstoffe
+16_107175	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - flüssige Brennstoffe
+16_107176	Nettowärmeserzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Wärmepumpe
+16_107177	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Wärmepumpe
+16_107178	Nettowärmeserzeugung in KWK-Anlagen von Eigenerzeugern - Wärmepumpe
+16_107179	Nettowärmeserzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Wärmepumpe
+16_107180	Nettowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Elektrokessel
+16_107181	Nettowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Elektrokessel
+16_107182	Nettowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Elektrokessel
+16_107183	Nettowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Elektrokessel
+16_107184	Nettowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+16_107185	Nettowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Wärme aus chemischen Prozessen
+16_107186	Nettowärmeerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Quellen
+16_107187	Nettowärmeerzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Quellen
+16_107188	Nettowärmeerzeugung in KWK-Anlagen von Eigenerzeugern - Andere Quellen
+16_107189	Nettowärmeerzeugung in Wärmeerzeugungsanlagen von Eigenerzeugern - Andere Quellen
+17_107000	Bruttoelektrizitätserzeugung insgesamt
+17_107100	Nettoelektrizitätserzeugung insgesamt
+22_108501	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Anthrazit
+22_108502	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Anthrazit
+22_108503	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Anthrazit
+22_108504	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Anthrazit
+22_108506	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Anthrazit
+22_108507	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Anthrazit
+22_108508	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Anthrazit
+22_108509	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Anthrazit
+22_108511	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokskohle
+22_108512	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokskohle
+22_108513	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Kokskohle
+22_108514	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Kokskohle
+22_108516	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokskohle
+22_108517	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokskohle
+22_108518	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Kokskohle
+22_108519	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Kokskohle
+22_108521	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bituminöse Kohle
+22_108522	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bituminöse Kohle
+22_108523	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Bituminöse Kohle
+22_108524	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Bituminöse Kohle
+22_108526	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bituminöse Kohle
+22_108527	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bituminöse Kohle
+22_108528	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Bituminöse Kohle
+22_108529	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Bituminöse Kohle
+22_108531	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Subbituminöse Kohle
+22_108532	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Subbituminöse Kohle
+22_108533	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Subbituminöse Kohle
+22_108534	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Subbituminöse Kohle
+22_108536	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Subbituminöse Kohle
+22_108537	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Subbituminöse Kohle
+22_108538	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Subbituminöse Kohle
+22_108539	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Subbituminöse Kohle
+22_108541	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohle
+22_108542	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohle
+22_108543	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Braunkohle
+22_108544	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Braunkohle
+22_108546	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohle
+22_108547	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohle
+22_108548	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Braunkohle
+22_108549	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Braunkohle
+22_108551	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Torf
+22_108552	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Torf
+22_108553	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Torf
+22_108554	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Torf
+22_108556	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Torf
+22_108557	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Torf
+22_108558	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Torf
+22_108559	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Torf
+22_108561	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Steinkohlenbriketts
+22_108562	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Steinkohlenbriketts
+22_108563	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Steinkohlenbriketts
+22_108564	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Steinkohlenbriketts
+22_108566	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Steinkohlenbriketts
+22_108567	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Steinkohlenbriketts
+22_108568	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Steinkohlenbriketts
+22_108569	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Steinkohlenbriketts
+22_108571	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereikoks
+22_108572	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereikoks
+22_108573	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Kokereikoks
+22_108574	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Kokereikoks
+22_108576	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereikoks
+22_108577	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereikoks
+22_108578	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Kokereikoks
+22_108579	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Kokereikoks
+22_108581	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Gaskoks
+22_108582	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Gaskoks
+22_108583	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Gaskoks
+22_108584	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Gaskoks
+22_108586	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Gaskoks
+22_108587	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Gaskoks
+22_108588	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Gaskoks
+22_108589	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Gaskoks
+22_108591	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Benzol
+22_108592	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Benzol
+22_108593	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Benzol
+22_108594	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Benzol
+22_108596	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Benzol
+22_108597	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Benzol
+22_108598	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Benzol
+22_108599	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Benzol
+22_108601	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohlebriketts
+22_108602	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohlebriketts
+22_108603	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Braunkohlebriketts
+22_108604	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Braunkohlebriketts
+22_108606	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohlebriketts
+22_108607	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Braunkohlebriketts
+22_108608	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Braunkohlebriketts
+22_108609	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Braunkohlebriketts
+22_108611	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ortsgas
+22_108612	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ortsgas
+22_108613	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Ortsgas
+22_108614	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Ortsgas
+22_108616	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ortsgas
+22_108617	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ortsgas
+22_108618	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Ortsgas
+22_108619	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Ortsgas
+22_108621	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereigas
+22_108622	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereigas
+22_108623	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Kokereigas
+22_108624	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Kokereigas
+22_108626	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereigas
+22_108627	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Kokereigas
+22_108628	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Kokereigas
+22_108629	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Kokereigas
+22_108631	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hochofengas
+22_108632	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hochofengas
+22_108633	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Hochofengas
+22_108634	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Hochofengas
+22_108636	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hochofengas
+22_108637	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hochofengas
+22_108638	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Hochofengas
+22_108639	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Hochofengas
+22_108641	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstiges Konvertergas
+22_108642	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen -Sonstiges Konvertergas
+22_108643	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Sonstiges Konvertergas
+22_108644	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Sonstiges Konvertergas
+22_108646	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstiges Konvertergas
+22_108647	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstiges Konvertergas
+22_108648	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Sonstiges Konvertergas
+22_108649	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Sonstiges Konvertergas
+22_108651	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ölschiefer und bituminöse Sande
+22_108652	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ölschiefer und bituminöse Sande
+22_108653	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Ölschiefer und bituminöse Sande
+22_108654	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Ölschiefer und bituminöse Sande
+22_108656	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ölschiefer und bituminöse Sande
+22_108657	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Ölschiefer und bituminöse Sande
+22_108658	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger- Ölschiefer und bituminöse Sande
+22_108659	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Ölschiefer und bituminöse Sande
+22_108661	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen -Torferzeugnisse
+22_108662	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen -Torferzeugnisse
+22_108663	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Torferzeugnisse
+22_108664	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Torferzeugnisse
+22_108666	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Torferzeugnisse
+22_108667	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Torferzeugnisse
+22_108668	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Torferzeugnisse
+22_108669	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Torferzeugnisse
+22_108701	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Rohöl
+22_108702	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Rohöl
+22_108703	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Rohöl
+22_108704	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Rohöl
+22_108706	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Rohöl
+22_108707	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Rohöl
+22_108708	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Rohöl
+22_108709	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Rohöl
+22_108711	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Erdgaskondensate
+22_108712	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Erdgaskondensate
+22_108713	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Erdgaskondensate
+22_108714	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Erdgaskondensate
+22_108716	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Erdgaskondensate
+22_108717	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Erdgaskondensate
+22_108718	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Erdgaskondensate
+22_108719	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Erdgaskondensate
+22_108721	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Raffineriegas (nicht verflüssigt)
+22_108722	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Raffineriegas (nicht verflüssigt)
+22_108723	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Raffineriegas (nicht verflüssigt)
+22_108724	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Raffineriegas (nicht verflüssigt)
+22_108726	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Raffineriegas (nicht verflüssigt)
+22_108727	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Raffineriegas (nicht verflüssigt)
+22_108728	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Raffineriegas (nicht verflüssigt)
+22_108729	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Raffineriegas (nicht verflüssigt)
+22_108731	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - LPG
+22_108732	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - LPG
+22_108733	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - LPG
+22_108734	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - LPG
+22_108736	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - LPG
+22_108737	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - LPG
+22_108738	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - LPG
+22_108739	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - LPG
+22_108741	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naphtha
+22_108742	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naphtha
+22_108743	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Naphtha
+22_108744	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Naphtha
+22_108746	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naphtha
+22_108747	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naphtha
+22_108748	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Naphtha
+22_108749	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Naphtha
+22_108751	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Flugturbinenkraftstoff auf Petroleumbasis
+22_108752	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Flugturbinenkraftstoff auf Petroleumbasis
+22_108753	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Flugturbinenkraftstoff auf Petroleumbasis
+22_108754	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Flugturbinenkraftstoff auf Petroleumbasis
+22_108756	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Flugturbinenkraftstoff auf Petroleumbasis
+22_108757	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Flugturbinenkraftstoff auf Petroleumbasis
+22_108758	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Flugturbinenkraftstoff auf Petroleumbasis
+22_108759	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Flugturbinenkraftstoff auf Petroleumbasis
+22_108761	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstiges Kerosin
+22_108762	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstiges Kerosin
+22_108763	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Sonstiges Kerosin
+22_108764	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Sonstiges Kerosin
+22_108766	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstiges Kerosin
+22_108767	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstiges Kerosin
+22_108768	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Sonstiges Kerosin
+22_108769	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Sonstiges Kerosin
+22_108771	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Dieselöl/Gasöl
+22_108772	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Dieselöl/Gasöl
+22_108773	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Dieselöl/Gasöl
+22_108774	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Dieselöl/Gasöl
+22_108776	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Dieselöl/Gasöl
+22_108777	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Dieselöl/Gasöl
+22_108778	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Dieselöl/Gasöl
+22_108779	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Dieselöl/Gasöl
+22_108781	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Heizöle
+22_108782	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Heizöle
+22_108783	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Heizöle
+22_108784	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Heizöle
+22_108786	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Heizöle
+22_108787	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Heizöle
+22_108788	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Heizöle
+22_108789	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Heizöle
+22_108791	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bitumen
+22_108792	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bitumen
+22_108793	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Bitumen
+22_108794	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Bitumen
+22_108796	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bitumen
+22_108797	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Bitumen
+22_108798	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Bitumen
+22_108799	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Bitumen
+22_108801	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Petrolkoks
+22_108802	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Petrolkoks
+22_108803	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Petrolkoks
+22_108804	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Petrolkoks
+22_108806	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Petrolkoks
+22_108807	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Petrolkoks
+22_108808	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Petrolkoks
+22_108809	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Petrolkoks
+22_108811	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Mineralölerzeugnisse
+22_108812	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Mineralölerzeugnisse
+22_108813	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Andere Mineralölerzeugnisse
+22_108814	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Andere Mineralölerzeugnisse
+22_108816	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Mineralölerzeugnisse
+22_108817	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Andere Mineralölerzeugnisse
+22_108818	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Andere Mineralölerzeugnisse
+22_108819	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Andere Mineralölerzeugnisse
+22_108891	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naturgas
+22_108892	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naturgas
+22_108893	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Naturgas
+22_108894	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Naturgas
+22_108896	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naturgas
+22_108897	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Naturgas
+22_108898	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Naturgas
+22_108899	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Naturgas
+22_108901	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Industrieabfälle
+22_108902	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Industrieabfälle
+22_108903	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Industrieabfälle
+22_108904	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Industrieabfälle
+22_108906	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Industrieabfälle
+22_108907	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Industrieabfälle
+22_108908	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Industrieabfälle
+22_108909	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Industrieabfälle
+22_108911	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (erneuerbare)
+22_108912	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (erneuerbare)
+22_108913	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Hausmüll (erneuerbare)
+22_108914	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Hausmüll (erneuerbare)
+22_108916	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (erneuerbare)
+22_108917	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (erneuerbare)
+22_108918	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Hausmüll (erneuerbare)
+22_108919	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Hausmüll (erneuerbare)
+22_108921	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (nicht erneuerbare)
+22_108922	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (nicht erneuerbare)
+22_108923	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Hausmüll (nicht erneuerbare)
+22_108924	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Hausmüll (nicht erneuerbare)
+22_108926	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (nicht erneuerbare)
+22_108927	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Hausmüll (nicht erneuerbare)
+22_108928	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Hausmüll (nicht erneuerbare)
+22_108929	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Hausmüll (nicht erneuerbare)
+22_108931	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Feste Biobrennstoffe (außer Holzkohle)
+22_108932	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Feste Biobrennstoffe (außer Holzkohle)
+22_108933	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Feste Biobrennstoffe (außer Holzkohle)
+22_108934	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Feste Biobrennstoffe (außer Holzkohle)
+22_108936	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Feste Biobrennstoffe (außer Holzkohle)
+22_108937	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Feste Biobrennstoffe (außer Holzkohle)
+22_108938	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Feste Biobrennstoffe (außer Holzkohle)
+22_108939	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Feste Biobrennstoffe (außer Holzkohle)
+22_108941	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Biogase
+22_108942	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Biogase
+22_108943	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Biogase
+22_108944	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Biogase
+22_108946	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Biogase
+22_108947	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen -Biogase
+22_108948	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Biogase
+22_108949	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Biogase
+22_108951	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Biodiesel
+22_108952	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Biodiesel
+22_108953	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Biodiesel
+22_108954	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Biodiesel
+22_108956	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Biodiesel
+22_108957	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Biodiesel
+22_108958	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger- Biodiesel
+22_108959	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Biodiesel
+22_108961	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige Biogase
+22_108962	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige Biogase
+22_108963	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Sonstige Biogase
+22_108964	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Sonstige Biogase
+22_108966	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige Biogase
+22_108967	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige Biogase
+22_108968	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Sonstige Biogase
+22_108969	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Sonstige Biogase
+22_108971	Bruttostromerzeugung in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige flüssige Biobrennstoffe
+22_108972	Bruttostromerzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige flüssige Biobrennstoffe
+22_108973	Bruttostromerzeugung in Elektrizitätswerken der Eigenerzeuger - Sonstige flüssige Biobrennstoffe
+22_108974	Bruttostromerzeugung in KWK-Anlagen der Eigenerzeuger - Sonstige flüssige Biobrennstoffe
+22_108976	Bruttowärme-erzeugung in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige flüssige Biobrennstoffe
+22_108977	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen - Sonstige flüssige Biobrennstoffe
+22_108978	Bruttowärme-erzeugung in KWK-Anlagen der Eigenerzeuger - Sonstige flüssige Biobrennstoffe
+22_108979	Bruttowärme-erzeugung in Wärmeerzeugungsanlagen der Eigenerzeuger - Sonstige flüssige Biobrennstoffe
+B_100100	Primärerzeugung
+B_100110	Rohstoffeingänge
+B_100111	Direktverbrauch (Rohöl und Erdgaskondensate)
+B_100112	Direktverbrauch
+B_100113	Rohstoffeingänge (Rohöl & Erdgaskondensate)
+B_100200	Andere Quellen
+B_100210	Recyclingprodukte
+B_100300	Einfuhren
+B_100500	Gesamtausfuhren
+B_100400	Bestandsveränderungen
+B_100800	Bunker
+B_100900	Bruttoinlandsverbrauch
+B_100910	Primärenergieverbrauch
+B_101000	Umwandlungseinsatz
+B_101002	Einsatz in Kernkraftwerken
+B_101004	Einsatz in Kokereien
+B_101006	Einsatz in Hochöfen
+B_101007	Einsatz in Gaswerken
+B_101008	Einsatz in Raffinerien
+B_101010	Einsatz in Steinkohlenbrikettfabriken
+B_101011	Einsatz in Braunkohle-/Torfbrikettfabriken
+B_101012	Einsatz in Kohleverflüssigungsanlagen
+B_101013	Verbrauch zur Herstellung von Mischgas
+B_101015	Einsatz in Holzkohlefabriken
+B_101016	Einsatz in Umwandlung von Gas in Flüssigerzeugnisse
+B_101017	Verbrauch für Stromerzeugung
+B_101020	Einsatz - Nicht anderweitig genannt - Umwandlung
+B_101001	Einsatz in herkömmlichen Wärmekraftwerken
+B_101021	Einsatz in Wärmekraftwerken von hauptsächlich als Energieerzeuger tätigen Unternehmen
+B_101031	Einsatz in Elektrizitätswerken von hauptsächlich als Energieerzeuger tätigen Unternehmen
+B_101032	Einsatz in KWK-Anlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen
+B_101022	Einsatz in Wärmekraftwerken der Eigenerzeuger
+B_101034	Einsatz in Elektrizitätswerken der Eigenerzeuger
+B_101035	Einsatz in KWK-Anlagen der Eigenerzeuger
+B_101009	Einsatz in Fernheizkraftwerken
+B_101038	Einsatz in Wärmeerzeugungsanlagen von hauptsächlich als Energieerzeuger tätigen Unternehmen
+B_101039	Einsatz in Wärmeerzeugungsanlagen der Eigenerzeuger
+B_101100	Umwandlungsausstoss
+B_101101	Ausstoss von herkömmlichen Wärmekraftwerken
+B_101109	Ausstoss von Fernheizkraftwerken
+B_101121	Ausstoss von Wärmekraftwerken von hauptsächlich als Energieerzeuger tätigen Unternehmen
+B_101122	Ausstoss von Wärmekraftwerken der Eigenerzeuger
+B_101102	Ausstoss von Kernkraftwerken
+B_101104	Ausstoss von Kokereien
+B_101106	Ausstoss von Hochofen
+B_101107	Ausstoss von Gaswerken
+B_101108	Ausstoss von Reffinerien
+B_101110	Ausstoss von Steinkohlenbrikettfabriken
+B_101111	Ausstoss von Braunkohle-/Torfbrikettfabriken
+B_101115	Ausstoss von Holzkohlefabriken
+B_101200	Austausch, Übertragung, Rückläufe
+B_101210	Austausch zwischen Erzeugnissen
+B_101220	Übertragung von Erzeugnissen
+B_101230	Rückläufe der Petrochemie
+17_107301	Bruttoerzeugung von Pumpspeicherwerken
+17_107302	Verbrauch von Pumpspeicherwerken
+B_101300	Verbrauch im Energiesektor insgesamt
+B_101301	Verbrauch des Elektrizitätserzeugungssektors
+B_101302	Bilanz der Pumpspeicherkraftwerke
+B_101305	Verbrauch in der Erdöl- und Gasgewinnung
+B_101307	Verbrauch in Raffinerien
+B_101308	Verbrauch in Atomindustrie
+B_101310	Verbrauch in Kohlebergwerke
+B_101311	Verbrauch in Steinkohlenbrikettfabriken
+B_101312	Verbrauch in Kokereien
+B_101313	Verbrauch in Braunkohle-/Torfbrikettfabriken
+B_101314	Verbrauch in Gaswerke/Vergasungsanlagen
+B_101315	Verbrauch in Hochöfen
+B_101316	Verbrauch in Kohleverflüssigungsanlagen
+B_101317	Verbrauch in Verflüssigung (LNG) oder Vergasung
+B_101318	Verbrauch in Vergasungsanlagen (Biogas)
+B_101319	Verbrauch in Umwandlung von Gas in Flüssigerzeugnisse
+B_101320	Verbrauch in nicht anderweitig genannt - Energie
+B_101321	Verbrauch in Holzkohlefabriken
+B_101322	Verbrauch von Wärmepumpen
+B_101323	Verbrauch von Elektrokesseln
+B_101400	Netzverluste
+B_101500	Für den Endverbrauch zur Verfügung stehende Energie
+B_101550	Energieabhängigkeit
+B_101600	Nichtenergetischer Endverbrauch
+B_101603	Nichtenergetischer Endverbrauch : Umwandlungssektor
+B_101604	Nichtenergetischer Endverbrauch : Energiesektor
+B_101605	Nichtenergetischer Endverbrauch : Industrie
+B_101606	Nichtenergetischer Endverbrauch : Verkehrssektor
+B_101607	Nichtenergetischer Endverbrauch : Sonstige Sektoren
+B_101608	Nichtenergetischer Endverbrauch : Industrie, Umwndlungssektor und energie
+B_101700	Energetischer Endverbrauch
+B_101800	Energetischer Endverbrauch der Industrie
+B_101805	Energetischer Endverbrauch der Stahlindustrie
+B_101810	Energetischer Endverbrauch der NE-Metallindustrie
+B_101815	Energetischer Endverbrauch der chemischen Industrie
+B_101820	Energetischer Endverbrauch der Nichtmetallische Mineralstoffe verarbeitenden Industrie
+B_101825	Energetischer Endverbrauch der Erzgewinnungsindustrie (mit Ausnahme der Brenn-und Kraftstoffgewinnung)
+B_101830	Energetischer Endverbrauch der Nahrungs- und Genussmittelindustrie
+B_101835	Energetischer Endverbrauch der Textil-, Lederwaren- und Bekleidungsindustrie
+B_101840	Energetischer Endverbrauch der Papier- und Druckindustrie
+B_101846	Energetischer Endverbrauch im Fahrzeugbau
+B_101847	Energetischer Endverbrauch im Maschinenbau und anderen metallverarbeitenden Industrien
+B_101851	Energetischer Endverbrauch in Herstellung von Holz sowie Holz-, Kork- und Flechtwaren
+B_101852	Energetischer Endverbrauch im Baugewerbe
+B_101853	Energetischer Endverbrauch anderer Industriezweige
+B_101900	Energetischer Endverbrauch im Verkehrssektor
+B_101910	Energetischer Endverbrauch des Bahnverkehrs
+B_101920	Energetischer Endverbrauch des Strassenverkehrs
+B_101931	Energetischer Endverbrauch des Grenzüberschreitender Luftverkehrs
+B_101932	Energetischer Endverbrauch des Innerstaatlicher Luftverkehrs
+B_101940	Energetischer Endverbrauch der Binnenschiffahrt
+B_101945	Energetischer Endverbrauch : Transport in Pipelines
+B_101950	Energetischer Endverbrauch : Verkehrssektor - nicht anderweitig genannt
+B_102000	Energetischer Endverbrauch : Sonstige Sektoren
+B_102010	Energetischer Endverbrauch : Haushalte
+B_102020	Energetischer Endverbrauch : Fischerei und Fischzucht
+B_102030	Energetischer Endverbrauch : Land- und Forstwirtschaft
+B_102035	Energetischer Endverbrauch : Gewerbliche und öffentliche Dienstleistungen
+B_102040	Energetischer Endverbrauch : Sonstige Sektoren - nicht anderweitig genannt
+B_102200	Statistische Differenz
+10_105003	Brennstoffbestände der Wärmekraftwerke der öffentlichen Versorgung
+10_106101	Gesamtanfangsbestände auf dem Hoheitsgebiet des Staates
+10_128101	Bestände / Anfang / Alle auf dem Hoheitsgebiet des Staates lagernden Bestände
+10_106102	Gesamtendbestände auf dem Hoheitsgebiet des Staates
+10_128201	Bestände / Ende / Alle auf dem Hoheitsgebiet des Staates lagernden Bestände
+B_107200	Verfügbar für den inländischen Markt
+B_109013	Rückläufe aus der petrochemischen Industrie an die Raffinerien
+10_196102	Endbestände
+B_105122	Lieferungen von Kraftfahrzeug-LPG
+B_105105	Lieferungen an Kokereien
+B_105106	Lieferungen an die Eisen- und Stahlindustrie
+B_105102	Lieferungen an Stromerzeugungsanlagen hauptsächlich als Energieerzeuger tätiger Unternehmen
+B_105110	Lieferungen an Sonstige (Dienstleistungssektor, Haushalte usw.)
+B_105112	Lieferungen an Brikettfabriken
+B_105120	Lieferungen an die Industrie insgesamt
+B_105123	Lieferungen für die Energieerzeugung
+B_195500	Nachfrage
+B_109010	Bruttolieferungen an die petrochemische Industrie
+15_107000	Bruttoelektrizitätserzeugung insgesamt
+15_107001	Bruttoelektrizitätserzeugung Wasserkraftwerke
+15_107002	Bruttoelektrizitätserzeugung geothermische Kraftwerke
+15_107003	Bruttoelektrizitätserzeugung Kernkraftwerke
+15_107004	Bruttoelektrizitätserzeugung herkömmliche Wärmekraftwerke
+15_107005	Bruttoelektrizitätserzeugung Windkraftanlagen
+15_107301	Bruttoelektrizitätserzeugung Wasserkraftwerke (davon: Anteil Pumpspeicherwerke)
+16_107100B	Nettoelektrizitätserzeugung insgesamt
+16_107101	Nettoelektrizitätserzeugung Wasserkraftwerke
+16_107102	Nettoelektrizitätserzeugung geothermische Kraftwerke
+16_107103	Nettoelektrizitätserzeugung Kernkraftwerke
+16_107104	Nettoelektrizitätserzeugung herkömmliche Wärmekraftwerke
+16_107105	Nettoelektrizitätserzeugung Windkraftanlagen
+B_190100	Primärproduktion
+B_190300	Einfuhren
+B_190500	Ausfuhren
+B_190600	Nettoeinfuhren
+B_190900	Angebot
+B_197000	Gesamtbruttoerzeugung
+B_105200	Bruttoinlandslieferungen (ermittelt)
+B_101401	Buchungsvermerk:       Raffinerieverluste
+B_105121	Buchungsvermerk:7:                    Lieferungen an die internationale Luftfahrt
+B_191008	Raffinerieeingang
+B_191108	Raffinerieausstoß
+B_190400	Bestandsveränderungen
+B_101103	Umwandlungsausstoß - Briketts / BKB-Anlagen
+B_105000	Bruttoinlandslieferungen (errechnet)

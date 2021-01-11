@@ -1,0 +1,670 @@
+CRP	Pflanzliche Erzeugung/Erzeugnisse
+AA_WA_FA9	Landwirtschaftsfläche, Waldgebiet und sonstige Fläche auf der Farm
+FA	Fläche der Landwirtschaftlicher Betriebe
+FAXSAA	Fläche der Landwirtschaftlicher Betriebe ohne fläche für Spezielle Landwirtschaftliche Erzeugung
+AA	Landwirtschaftsfläche
+UAA	Landwirtschaftlich genutzte Fläche
+UAAIB	Bewässerbaren landwirtschaftlich genutzte Fläche
+UAAIT	Bewässerte landwirtschaftlich genutzte Fläche
+UAATIB	Bewässerbaren landwirtschaftlich genutzte Fläche - im Freiland
+UAAT	Landwirtschaftlich genutzte Fläche - im Freiland
+UAAS	Landwirtschaftlich genutzte Fläche - unter Glas oder hohen begehbaren Schutzabdeckungen
+UAAXK0000	Landwirtschaftlich genutzte Fläche ohne Haus- und Nutzgärten
+UAAXK0000_ORG	Zu ökologischer/biologischer Landwirtschaft konvertierte oder unter Konversion befindliche landwirtschaftlich genutzte Fläche des landwirtschaftlichen Betriebes (ohne Haus- und Nutzgärten)
+ARA_J0000	Ackerland oder Dauergrünland
+ARA	Ackerland
+ARAIB	Bewässerbares Ackerland
+ARAXIB	Nicht bewässerbares Ackerland
+FCONV_UCONV	Gesau ökologischer/biologischer Landwirtschaft konvertiert oder unter Konversion 
+C0000	Getreide zur Körnergewinnung (einschließlich Saatguterzeugung)
+C0000T	Getreide zur Körnergewinnung (einschließlich Saatguterzeugung) - im Freiland
+C1000	Getreide (ohne Reis) zur Körnergewinnung (einschließlich Saatguterzeugung)
+C1000X1100	Getreide (ohne Weizen)
+C1000X1500	Getreide (ohne Reis, Körnermais und Corn-Cob-Mix) zur Körnergewinnung (einschließlich Saatguterzeugung)
+C1100	Weizen und Dinkel
+C1110	Weichweizen und Dinkel
+C1110T	Weichweizen und Dinkel - im Freiland
+C1111	Winterweichweizen und Dinkel
+C1112	Sommerweichweizen und Dinkel
+C1120	Hartweizen
+C1120T	Hartweizen - im Freiland
+C1121	Winterhartweizen
+C1122	Sommerhartweizen
+C1200	Roggen und Wintermenggetreide
+C1200T	Roggen und Wintermenggetreide - im Freiland
+C1210	Roggen
+C1211	Winterroggen
+C1212	Sommerroggen
+C1220	Wintermenggetreide
+C1300	Gerste
+C1300T	Gerste - im Freiland
+C1300F	Futtergerste
+C1310	Wintergerste
+C1320	Sommergerste
+C1320M	Braugerste
+C1400	Hafer und Sommermenggetreide
+C1400T	Hafer und Sommermenggetreide - im Freiland
+C1410	Hafer
+C1420	Sommermenggetreide
+C1500	Körnermais und Corn-Cob-Mix
+C1500T	Körnermais und Corn-Cob-Mix - im Freiland
+C1510	Körnermais
+C1520	Corn-Cob-Mix
+C1600_1700_1900	Sonstiges Getreide (einschließlich Triticale und Sorgum)
+C1600	Triticale
+C1600T	Triticale - im Freiland
+C1610	Wintertriticale
+C1700	Sorgum
+C1700T	Sorgum - im Freiland
+C1900	Sonstiges Getreide a.n.g. (Buchweizen, Hirse, Kanariensaat, usw.)
+C1900T	Sonstiges Getreide a.n.g. (Buchweizen, Hirse, Kanariensaat, usw.) - im Freiland
+C1910	Buchweizen
+C2000	Reis
+C2000T	Reis - im Freiland
+C2000X2000B	Reis (ohne Bruchreis) (Äquivalent: geschliffener Reis)
+C2100	Reis Indica
+C2200	Reis Japonica
+C2000B	Bruchreis
+C2000Y	Paddy-Reis
+C2001Y	Paddy, Langreis
+C2002Y	Paddy, Rundreis
+C2003Y	Paddy, Mittelreis
+C2000U	Geschälter Reis
+C2001U	Geschälter Reis, lang
+C2002U	Geschälter Reis, rund
+C2003U	Geschälter Reis, mittel
+C2000L	Geschliffener Reis
+C2001L	Geschliffener Reis, lang
+C2002L	Geschliffener Reis, rund
+C2003L	Geschliffener Reis, mittel
+P0000	Hülsenfrüchte und Eiweißpflanzen zur Körnergewinnung (einschließlich Saatgut und Gemenge mit Getreide)
+P1000	Felderbsen, Ackerbohnen und Süßlupinen
+P1000T	Felderbsen, Ackerbohnen und Süßlupinen - im Freiland
+P1100	Felderbsen
+P1200	Puff- und Ackerbohnen
+P1210	Puffbohnen
+P1220	Ackerbohnen
+P1300	Süßlupinen
+P9000	Sonstige trocken geerntete Hülsenfrüchte und Eiweißpflanzen a.n.g.
+P9100	Linsen
+P9200	Kichererbsen
+P9300	Gartenbohnen
+R0000	Hackfrüchte
+R0000T	Hackfrüchte - im Freiland
+R0000S	Hackfrüchte - unter Glas oder hohen begehbaren Schutzabdeckungen
+R1000	Kartoffeln/Erdäpfel (einschließlich Pflanzkartoffeln/-erdäpfel)
+R1000T	Kartoffeln/Erdäpfel (einschließlich Pflanzkartoffeln/-erdäpfel) - im Freiland
+R1000S	Kartoffeln/Erdäpfel (einschließlich Pflanzkartoffeln/-erdäpfel) - unter Glas oder hohen begehbaren Schutzabdeckungen
+R1100	Kartoffeln/Erdäpfel zum Direktverzehr
+R1110	Haupterntekartoffeln/-erdäpfel
+R1120	Frühkartoffeln/-erdäpfel
+R1900	Andere Kartoffeln/Erdäpfel
+R1910	Verarbeitungskartoffeln / Industriekartoffeln/-erdäpfel
+R1911	Stärkekartoffeln/-erdäpfel
+R1919	Sonstige Verarbeitungskartoffeln / Industriekartoffeln/-erdäpfel
+R1920	Pflanzkartoffeln/-erdäpfel
+R1930	Futterkartoffeln/-erdäpfel
+R1990	Sonstige Kartoffeln/Erdäpfel a.n.g.
+R2000	Zuckerrüben (ohne Saatgut)
+R2000SQ	Zuckerrüben: Standardqualität
+R9000	Sonstige Hackfrüchte a.n.g.
+R9100	Futterhackfrüchte (einschließlich Futterrüben)
+I0000AM	Handelsgewächse (LGR und Preise)
+I0000	Handelsgewächse
+I0000T	Handelsgewächse - im Freiland
+I0000S	Handelsgewächse - unter Glas oder hohen begehbaren Schutzabdeckungen
+I1000	Ölsaaten und Ölfrüchte
+I1100	Ölsaaten
+I1110-1130	Raps, Rübsen, Sonnenblumen und Sojabohnen zur Körnergewinnung
+I1110	Raps und Rübsen zur Körnergewinnung
+I1110T	Raps und Rübsen zur Körnergewinnung - im Freiland
+I1111	Winterraps und -rübsen zur Körnergewinnung
+I1112	Sommerraps und -rübsen zur Körnergewinnung
+I1120	Sonnenblumen zur Körnergewinnung
+I1120T	Sonnenblumen zur Körnergewinnung - im Freiland
+I1130	Sojabohnen
+I1130T	Sojabohnen - im Freiland
+I1140-1190	Sonstige Ölfrüchte zur Körnergewinnung
+I1140	Öllein (Leinsamen) zur Körnergewinnung
+I1140T	Öllein (Leinsamen) zur Körnergewinnung - im Freiland
+I1150_2300	Baumwolle zur Körner- und Fasergewinnung
+I1150_2300T	Baumwolle zur Körner- und Fasergewinnung - im Freiland
+I1150	Baumwolle zur Körnergewinnung
+I1190	Sonstige Ölfrüchte zur Körnergewinnung a.n.g.
+I1190T	Sonstige Ölsaaten und -früchte - im Freiland
+I1900	Sonstige Ölsaaten und -früchte
+I1910	Ungeschälte Erdnüsse
+I1920AM	Mohn (samen)
+I2000	Pflanzen zur Fasergewinnung
+I2100_2200_2900	Flachs, Hanf und sonstige Pflanzen zur Fasergewinnung a.n.g.
+I2100	Flachs
+I2100T	Flachs - im Freiland
+I2200	Hanf
+I2200T	Hanf - im Freiland
+I2300	Baumwolle
+I1190_2900	Sonstige Ölsaaten und Textilpflanzen
+I2900	Sonstige Pflanzen zur Fasergewinnung a.n.g.
+I2900T	Sonstige Pflanzen zur Fasergewinnung a.n.g. - im Freiland
+I3000	Tabak
+I3000T	Tabak - im Freiland
+I3100	Rohtabak
+I3100V1	Rohtabak: wichtigste Sorte
+I3100V2	Rohtabak: zweitwichtigste Sorte
+I3110	Rohtabak: flue cured
+I3120	Rohtabak: light air cured
+I3130	Rohtabak: dark air cured
+I3140	Rohtabak: fire cured
+I3150	Rohtabak: sun cured
+I4000	Hopfen
+I4000T	Hopfen - im Freiland
+I4000V1	Hopfen: wichtigste Sorte
+I5000_9000	Sonstige Handelsgewächse einschließlich Heil-, Duft- und Gewürzpflanzen
+I5000	Heil-, Duft- und Gewürzpflanzen
+I5000T	Heil-, Duft- und Gewürzpflanzen - im Freiland
+I5000S	Heil-, Duft- und Gewürzpflanzen - unter Glas oder hohen begehbaren Schutzabdeckungen
+I6000_9000	Sonstige Handelsgewächse einschließlich Energiepflanzen a.n.g.
+I6000	Energiepflanzen a.n.g.
+I6000T	Energiepflanzen a.n.g. - im Freiland
+I9000	Sonstige Handelsgewächse a.n.g.
+I9000T	Sonstige Handelsgewächse a.n.g. - im Freiland
+I9000AM	Sonstige Handelsgewächse (LGR und Preise)
+I9900AM	Sonstige Handelsgewächse (LGR und Preise) a.n.g.
+G0000_J0000	Süßgräser, Leguminosen und Ölfrüchte zur Grünernte (einschließlich Weiden)
+G0000_J1000_2000	Pflanzen zur Grünernte, Dauerweiden, Wiesen und ertragsarmes Dauergrünland
+G0000	Pflanzen zur Grünernte vom Ackerland
+G0000X1000	Pflanzen zur Grünernte vom Ackerland (ohne Feldgras/Grasanbau auf dem Ackerland)
+G1000	Feldgras/Grasanbau auf dem Ackerland
+G1000T	Feldgras/Grasanbau auf dem Ackerland - im Freiland
+G1100	Ackerwiesen
+G1200	Ackerweiden
+G2000	Leguminosen zur Ganzpflanzenernte
+G2000T	Leguminosen zur Ganzpflanzenernte - im Freiland
+G2100	Luzerne
+G2900	Sonstige Leguminosen zur Ganzpflanzenernte a.n.g.
+G2910	Klee und Kleemischkulturen
+G3000	Grünmais/Silomais
+G3000T	Grünmais/Silomais - im Freiland
+G9000	Andere Pflanzen zur Grünernte vom Ackerland
+G9000T	Andere Pflanzen zur Grünernte vom Ackerland - im Freiland
+G9100	Getreide zur Ganzpflanzenernte (ohne Grünmais/Silomais)
+G9900	Sonstige Pflanzen zur Grünernte vom Ackerland a.n.g. (anderweitig nicht genannt)
+VSK	Frischgemüse (einschließlich Melonen) und Erdbeeren (auch aus Haus- und Nutzgärten)
+V0000AM_PLF	Frischgemüse (einschließlich Melonen) und Gartenbauerzeugnisse
+VSNPECRS	Gemüse, Erdbeeren, Dauerkulturen, Blumen und Zierpflanzen unter Glas oder hohen begehbaren Schutzabdeckungen
+V0000_S0000	Frischgemüse (einschließlich Melonen) und Erdbeeren
+V0000_S0000T	Frischgemüse (einschließlich Melonen) und Erdbeeren - im Freiland
+V0000_S0000TO	Frischgemüse (einschließlich Melonen) und Erdbeeren im Wechsel mit landwirtschaftlichen Kulturen (Ackerbau)
+V0000_S0000TK	Frischgemüse (einschließlich Melonen) und Erdbeeren im Wechsel mit Gartenbaukulturen (Gartenbau)
+V0000_S0000S	Frischgemüse (einschließlich Melonen) und Erdbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+V0000X3500	Frischgemüse ohne Melonen
+V0000AM	Frischgemüse einschließlich Melonen (LGR und Preise)
+V0000	Frischgemüse (einschließlich Melonen)
+V1000	Speisekohl
+V1100	Blumenkohl / Karfiol und Brokkoli
+V1110	Blumenkohl / Karfiol
+V1110Q1	Blumenkohl / Karfiol: Qualität I
+V1120	Brokkoli
+V1200_1900	Rosenkohl / Kohlsprossen und sonstige Speisekohlarten a.n.g
+V1200	Rosenkohl / Kohlsprossen
+V1200Q1	Rosenkohl / Kohlsprossen: Qualität I
+V1300	Kopfkohl(arten)
+V1310	Weißkohl (Weisskraut)
+V1310Q1	Weisskohl (Weisskraut): Qualität I
+V1320	Rotkohl (Rotkraut)
+V1320Q1	Rotkohl (Rotkraut): Qualität I
+V1330	Wirsing(kohl)
+V1330Q1	Wirsing(kohl): Qualität I
+V1900	Sonstige Speisekohlarten a.n.g
+V1910	Kohlrabi
+V1920	Chinakohl
+V2000	Blatt- und Stängelgemüse (ohne Kohlarten)
+V2100	Porree/Lauch
+V2100T	Porree/Lauch - im Freiland
+V2200	Stauden-/Stangensellerie
+V2300	Salate
+V2300T	Salate - im Freiland
+V2300TQ1	Salate - im Freiland: Qualität I
+V2300S	Salate - unter Glas oder hohen begehbaren Schutzabdeckungen
+V2300SQ1	Laitues - sous serre ou abris hauts accessibles: qualité I
+V2310	Eis(berg)salat / Bummerlsalat
+V2400	Endiviensalat
+V2500	Spinat
+V2600	Spargel
+V2600Q1	Spargel: Qualität I
+V2700	Chicorée
+V2710	Chicorée zum Direktverzehr
+V2720	Chicorée/Zichorien zur Verarbeitung (Inulin, Kaffee)
+V2800	Artischocken
+V2900	Sonstiges Blatt- und Stängelgemüse a.n.g.
+V3000	Fruchtgemüse (einschließlich Melonen)
+V3100	Tomaten/Paradeiser
+V3110	Tomaten/Paradeiser zum Direktverzehr
+V3120	Tomaten/Paradeiser zur Verarbeitung
+V3100T	Tomaten/Paradeiser - im Freiland
+V3101TQ1	Tomaten/Paradeiser - im Freiland: rund; Qualität I
+V3102TQ1	Tomaten/Paradeiser - im Freiland: oval; Qualität I
+V3100S	Tomaten/Paradeiser - unter Glas oder hohen begehbaren Schutzabdeckungen
+V3100SQ1	Tomaten/Paradeiser - unter Glas oder hohen begehbaren Schutzabdeckungen: Qualität I
+V3200	Salatgurken
+V3200T	Salatgurken - im Freiland
+V3200TQ1	Salatgurken - im Freiland: Qualität I
+V3200S	Salatgurken - unter Glas oder hohen begehbaren Schutzabdeckungen
+V3200SQ1	Salatgurken - unter Glas oder hohen begehbaren Schutzabdeckungen: Qualität I
+V3300	Einlegegurken
+V3300T	Einlegegurken - im Freiland
+V3400	Auberginen (Melanzani), Zucchinis und Speisekürbisse
+V3410	Auberginen/Melanzani
+V3420	Zucchinis
+V3430	Speisekürbisse
+V3500	Melonen
+V3510	Zuckermelonen
+V3520	Wassermelonen
+V3600	Gemüse- und Pfefferpaprika / Peperoni
+V3600S	Gemüse- und Pfefferpaprika / Peperoni - unter Glas oder hohen begehbaren Schutzabdeckungen
+V3610	Rote Gemüse- und Pfefferpaprika / Peperoni
+V3900	Sonstige Fruchtgemüsearten a.n.g.
+V4000	Wurzel- und Knollengemüse
+V4100	Möhren/Karotten
+V4100Q1	Möhren/Karotten: Quality I
+V4200	Zwiebeln und Schalotten
+V4210	Zwiebeln
+V4220	Schalotten
+V4300	Rote Bete/Rote Rüben
+V4400	Knollensellerie
+V4500	Radieschen
+V4600	Knoblauch
+V4900	Sonstige Wurzel- und Knollengemüse a.n.g.
+V4910	Speiserüben
+V4920	Fenchel
+V4930	Schwarz- und Haferwurzeln
+V5000AM	Frische Hülsenfrüchte (LGR und Preise)
+V5000	Frische Hülsenfrüchte
+V5100	Frische Speiseerbsen
+V5100Q1	Frische Speiseerbsen: Qualität I
+V5200	Frische Speisebohnen
+V5210	Grüne Bohnen
+V5210Q1	Grüne Bohnen: Qualität I
+V5220	Feuerbohnen (Käferbohnen)
+V5900	Sonstige frische Hülsenfrüchte a.n.g.
+V9000	Sonstiges Frischgemüse a.n.g.
+V9000AM	Sonstiges Frischgemüse (LGR und Preise)
+V9900AM	Sonstiges Frischgemüse a.n.g. (LGR und Preise)
+S0000	Erdbeeren
+S0000T	Erdbeeren - im Freiland
+S0000S	Erdbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+ARA9	Sonstige Kulturen auf dem Ackerland
+ARA9T	Sonstige Kulturen auf dem Ackerland - im Freiland
+ARA9S	Sonstige Kulturen auf dem Ackerland - unter Glas oder hohen begehbaren Schutzabdeckungen
+PLF	Pflanzgut und Blumen
+NUP	Baumschulerzeugnisse und Pflanzgut
+N0000_L0000	Blumen, Zierpflanzen und Baumschulerzeugnisse
+N0000_X0000	Blumen, Zierpflanzen und Weihnachtsbäume
+N0000	Blumen und Zierpflanzen (ohne Baumschulen)
+N0000T	Blumen und Zierpflanzen (ohne Baumschulen) - im Freiland
+N0000S	Blumen und Zierpflanzen (ohne Baumschulen) - unter Glas oder hohen begehbaren Schutzabdeckungen
+N1001P	Azaleen: im Topf
+N1002P	Cyclamen: im Topf
+N1003P	Poinsettien: im Topf
+N1004P	Pelargonien: im Topf
+N1005P	Ficus: im Topf
+N1006P	Kalanchoe: im Topf
+N1007P	Saint Paulia: im Topf
+N1008P	Begonien: im Topf
+N1009	Rosen
+N1010	Baccara-Rosen
+N1011	Nelken
+N1012	Chrysanthemen
+N1012P	Chrysanthemen: im Topf
+N1013	Gladiolen
+N1014	Tulipen
+N1015	Freesien
+N1016	Lilie
+N1017	Dianthus
+N1018	Gerbera
+N1019	Cymbidium
+PLT	Anpflanzungen
+E0000_ARA9	Saat-, Pflanzgut und andere Kulturen auf dem Ackerland
+E0000	Saat- und Pflanzgut
+E0000T	Saat- und Pflanzgut - im Freiland
+E0000S	Saat- und Pflanzgut - unter Glas oder hohen begehbaren Schutzabdeckungen
+E1000	Saatgut
+E1000T	Saatgut - im Freiland
+E1000S	Saatgut - unter Glas oder hohen begehbaren Schutzabdeckungen
+E2000	Pflanzgut
+E2000T	Pflanzgut - im Freiland
+E2000S	Pflanzgut - unter Glas oder hohen begehbaren Schutzabdeckungen
+E2100	Blumenzwiebeln
+ARA99	Sonstige Kulturen auf dem Ackerland a.n.g.
+ARA99T	Sonstige Kulturen auf dem Ackerland a.n.g.
+Q0000	Brache / Stillgelegte Flächen
+Q0000T	Brache / Stillgelegte Flächen - im Freiland
+Q0000XS	Brache/Stillgelegte Flächen ohne Beihilfe-/Prämienanspruch
+Q0000ES	Brache/Stillgelegte Flächen mit Beihilfe-/Prämienanspruch
+FOP	Futterpflanzen
+FOP9	Andere Futterpflanzen
+FOP91	Heu
+FOP92	Stroh
+FOP93	Silage
+FOP99	Sonstige Futterpflanzen a.n.g.
+J0000	Dauergrünland
+J0000T	Dauergrünland - im Freiland
+J1000	Dauerweiden und -wiesen
+J1000T	Dauerweiden und -wiesen - im Freiland
+J1100	Dauerweiden
+J1200	Dauerwiesen
+J2000	Ertragsarmes Dauergrünland
+J2000T	Ertragsarmes Dauergrünland - im Freiland
+J3000	Aus der Erzeugung genommenes Dauergrünland
+J3000ES	Aus der Erzeugung genommenes Dauergrünland, beihilfefähig
+J3000TE	Aus der Erzeugung genommenes Dauergrünland, beihilfefähig - im Freiland
+PECR_K0000	Dauerkulturen einschließlich Haus- und Nutzgärten
+PECR	Dauerkulturen
+PECRS	Dauerkulturen unter unter Glas oder hohen begehbaren Schutzabdeckungen
+H0000_K2000	Dauerkulturen zur menschlichen Ernährung einschließlich aus Haus- und Nutzgärten
+H0000	Dauerkulturen zur menschlichen Ernährung
+H0000T	Dauerkulturen zur menschlichen Ernährung - im Freiland
+H0000S	Dauerkulturen zur menschlichen Ernährung - unter Glas oder hohen begehbaren Schutzabdeckungen
+FRUAM	Obst, Zitrusfrüchte, Beeren (einschließlich Erdbeeren), Schalenobst, Trauben, Oliven und Trockenobst (LGR und Preise)
+F0000AM	Frischobst (LGR und Preise)
+F0000	Obst, Strauchbeeren und Schalenobst (ohne Zitrusfrüchte und Trauben)
+F0000X3000	Obst und Schalenobst (ohne Zitrusfrüchte und Trauben)
+F1000_3000	Obst und Strauchbeeren der gemäßigten Klimazonen
+F1000_2000	Obstarten der gemäßigten, subtropischen und tropischen Klimazonen
+F1000	Obstarten der gemäßigten Klimazonen
+F1100	Kernobst
+F1110_1120	Äpfel und Birnen
+F1110	Äpfel
+F1111	Tafeläpfel / Äpfel zum Direkverzehr
+F1111_01	Boskoop Gruppe
+F1111_02	Braeburn Gruppe
+F1111_03	Cox's orange Gruppe
+F1111_031	Cox's orange pippin Äpfel
+F1111_04	Cripps Pink Gruppe
+F1111_05	Elstar Gruppe
+F1111_051	Elstar Äpfel
+F1111_06	Fuji Gruppe
+F1111_07	Gala Gruppe
+F1111_08	Golden Delicious Gruppe
+F1111_081	Golden Delicious Äpfel
+F1111_09	Granny Smith Gruppe
+F1111_10	Idared Gruppe
+F1111_11	Jonagold/Jonagored Gruppe
+F1111_111	Jonagold Äpfel
+F1111_112	Jonathan Äpfel
+F1111_12	Lobo Gruppe
+F1111_13	Morgenduft Gruppe
+F1111_14	Pinova Gruppe
+F1111_15	Red Delicious Gruppe
+F1111_16	Reinette Gruppe
+F1111_17	Shampion Gruppe
+F1111_90	Andere Tafeläpfel / Äpfel zum Direktverzehr
+F1111_901	Egrement russet Äpfel
+F1111_902	Spartan Äpfel
+F1111_909	Sonstige Tafeläpfel / Äpfel zum Direktverzehr a.n.g.
+F1112	Äpfel zur Verarbeitung
+F1112_01	Kochäpfel
+F1112_011	Bramley's seedling Kochäpfel
+F1112_02	Cidre - Äpfel
+F1120	Birnen
+F1121	Tafelbirnen / Birnen zum Direktverzehr
+F1121_01	Abate Gruppe
+F1121_02	Blanquilla Gruppe
+F1121_03	Conference Gruppe
+F1121_04	Coscia-Ercolini Gruppe
+F1121_05	Decana Gruppe
+F1121_051	Doyenne du comice Birnen
+F1121_06	Guyot Gruppe
+F1121_07	Kaiser Gruppe
+F1121_08	Rocha Gruppe
+F1121_09	William Gruppe
+F1121_091	Williams Birnen
+F1121_90	Sonstige Tafelbirnen / Birnen zum Direktverzehr a.n.g.
+F1122	Birnen zur Verarbeitung
+F1190	Sonstiges Kernobst a.n.g.
+F1191	Quitten
+F1200	Steinobst
+F1200T	Steinobst - im Freiland
+F1200S	Steinobst - unter Glas oder hohen begehbaren Schutzabdeckungen
+F1210-1230	Pfirsiche, Nektarinen und Aprikosen
+F1210_1220	Pfirsiche und Nektarinen
+F1211_1221	Pfirsiche und Nektarinen zum Direktverzehr
+F1212_1222	Pfirsiche und Nektarinen zur Verarbeitung
+F1210	Pfirsiche
+F1211	Pfirsiche zum Direktverzehr
+F1211_01	Gelbfleischige Pfirsiche
+F1211_01VE	Sehr frühe gelbfleischige Pfirsiche
+F1211_01ER	Frühe gelbfleischige Pfirsiche
+F1211_01ME	Mittelfrühe gelbfleischige Pfirsiche
+F1211_01LA	Späte gelbfleischige Pfirsiche
+F1211_02	Weißfleischige Pfirsiche
+F1211_02VE	Sehr frühe weissfleischige Pfirsiche
+F1211_02ER	Frühe weissfleischige Pfirsiche
+F1211_02ME	Mittelfrühe weissfleischige Pfirsiche
+F1211_02LA	Späte weissfleischige Pfirsiche
+F1211_03	Weinbergspfirsiche
+F1212	Pfirsiche zur Verarbeitung
+F1220	Nektarinen
+F1221	Nektarinen zum Direktverzehr
+F1221_01	Gelbfleischige Nektarinen
+F1221_01VE	Sehr frühe gelbfleischige Nektarinen
+F1221_01ER	Frühe gelbfleischige Nektarinen
+F1221_01ME	Mittelfrühe gelbfleischige Nektarinen
+F1221_01LA	Späte gelbfleischige Nektarinen
+F1221_02	Weißfleischige Nektarinen
+F1221_02VE	Sehr frühe weissfleischige Nektarinen
+F1221_02ER	Frühe weissfleischige Nektarinen
+F1221_02ME	Mittelfrühe weissfleischige Nektarinen
+F1221_02LA	Späte weissfleischige Nekatrinen
+F1222	Nektarinen zur Verarbeitung
+F1230	Aprikosen/Marillen
+F1230VE	Sehr frühe Aprikosen/Marillen
+F1230ER	Frühe Aprikosen/Marillen
+F1230ME	Mittelfrühe Aprikosen/Marillen
+F1230LA	Späte Aprikosen/Marillen
+F1240	Kirschen
+F1241	Sauerkirschen
+F1242	Süßkirschen
+F1250	Pflaumen
+F1251	Zwetschgen
+F1252	Renekloden
+F1253	Mirabellen
+F1259	Pflaumen zum Trocknen und sonstige Pflaumen
+F1290	Sonstiges Steinobst a.n.g.
+F2000	Obstarten der subtropischen und tropischen Klimazonen
+F2000T	Obstarten der subtropischen und tropischen Klimazonen - im Freiland
+F2000S	Obstarten der subtropischen und tropischen Klimazonen - unter Glas oder hohen begehbaren Schutzabdeckungen
+F2100	Feigen
+F2200	Kiwis
+F2300	Avokados
+F2400	Bananen
+F2900	Sonstige Obstarten der subtropischen und tropischen Klimazonen a.n.g.
+F2910	Datteln
+F3000	Strauchbeeren
+F3000T	Strauchbeeren - im Freiland
+F3000S	Strauchbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+F3100	Johannisbeeren
+F3100T	Johannisbeeren - im Freiland
+F3100S	Johannisbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+F3110	Schwarze Johannisbeeren
+F3110T	Schwarze Johannisbeeren - im Freiland
+F3110S	Schwarze Johannisbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+F3120	Rote Johannisbeeren
+F3120T	Rote Johannisbeeren - im Freiland
+F3120S	Rote Johannisbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+F3200	Himbeeren
+F3200T	Himbeeren - im Freiland
+F3200S	Himbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+F3300	Blaubeeren
+F3300T	Blaubeeren - im Freiland
+F3300S	Blaubeeren - unter Glas oder hohen begehbaren Schutzabdeckungen
+F3900	Sonstige Strauchbeeren a.n.g.
+F3900T	Sonstige Strauchbeeren a.n.g. - im Freiland
+F3900S	Sonstige Strauchbeeren a.n.g. - unter Glas oder hohen begehbaren Schutzabdeckungen
+F3910	Stachelbeeren
+F4000_5000AM	Schalenobst und Trockenobst
+F4000	Schalenobst
+F4000T	Schalenobst - im Freiland
+F4100	Walnüsse
+F4200	Haselnüsse
+F4300	Mandeln
+F4400	Esskastanien/Maronen
+F4900	Sonstiges Schalenobst a.n.g.
+F4910	Pistazien
+F5000AM_9000AM	Frisch- und Trockenobst (LGR und Preise)
+F5000AM	Trockenobst (LGR und Preise)
+F5100AM	Getrocknete Feigen (LGR und Preise)
+F5900AM	Sonstiges Trockenobst a.n.g. (LGR und Preise)
+F9000AM	Anderes Frischobst, Schalenobst und Trockenobst (LGR und Preise)
+F9900AM	Sonstiges Frischobst, Schalenobst und Trockenobst a.n.g. (LGR und Preise)
+T0000	Zitrusfrüchte
+T1000_2000_3100	Orangen, kleine Zitrusfrüchte und Zitronen
+T1000	Orangen
+T1100	Navelorangen
+T1100ER	Frühe Navelorangen
+T1100ME	Mittelfrühe Navelorangen
+T1100LA	Späte Navelorangen
+T1110	Washington Navelorangen
+T1200	Blondorangen (blancas)
+T1200ER	Frühe Blondorangen
+T1200LA	Späte Blondorangen
+T1210	Valencia Orangen
+T1300	Blutorangen (sanguines)
+T1310	Moro Orangen
+T1320	Sanguinello Orangen
+T1330	Tarocco Orangen
+T1900	Sonstige Orangen a.n.g.
+T2000	Kleine Zitrusfrüchte
+T2100	Satsumas
+T2100VE	Besonders frühe Satsumas
+T2190	Sonstige Satsumas
+T2200	Clementinen
+T2200ER	Frühe Clementinen
+T2200ME	Mittelfrühe Clementinen
+T2200LA	Späte Clementinen
+T2900	Sonstige kleine Zitrusfrüchte (einschließlich Hybriden) a.n.g.
+T2910	Mandarinen
+T2920	Tangerinen
+T3000	Zitronen und Limetten
+T3000AM	Zitronen (LGR und Preise)
+T3100	Zitronen
+T3110	Winter-Zitronensorten
+T3110_01	Invernali Zitronen
+T3110_02	Mesero Zitronen
+T3120	Sommer-Zitronensorten
+T3120_01	Verdelli Zitronen
+T3120_02	Verna Zitronen
+T3200	Limetten
+T4000	Pampelmusen und Grapefruit
+T9000	Sonstige Zitrusfrüchte a.n.g.
+T9000AM	Sonstige Zitrusfrüchte a.n.g. (LGR und Preise)
+W0000	Trauben, Traubenmost und Wein
+W1000	Trauben
+W1000T	Trauben - im Freiland
+W1000S	Trauben - unter Glas oder hohen begehbaren Schutzabdeckungen
+W1100	Keltertrauben
+W1110_1120	Keltertrauben für Weine mit geografischer Kennzeichnung (g.U./g.g.A.)
+W1110	Keltertrauben für Weine mit geschützter Ursprungsbezeichnung (g.U.)
+W1120	Keltertrauben für Weine mit geschützter geografischer Angabe (g.g.A.)
+W1190	Keltertrauben für andere Weine a.n.g. (ohne g.U./g.g.A.)
+W1190T	Keltertrauben für andere Weine a.n.g. (ohne g.U./g.g.A.) - im Freiland
+WDP	Trauben mit doppeltem Verwendungszweck
+W1200	Tafeltrauben
+W1200T	Tafeltrauben - im Freiland
+W1210	Weiße Tafeltrauben
+W1211	Kernlose weiße Tafeltrauben
+W1212	Normale weiße Tafeltrauben
+W1220	Rote Tafeltrauben
+W1221	Kernlose rote Tafeltrauben
+W1222	Normale rote Tafeltrauben
+W1300	Trauben für Rosinen
+W1300T	Trauben für Rosinen - im Freiland
+W1310	(Schwarze) Korinthen
+W1320	Sultaninen
+W1900	Trauben für sonstige Zwecke a.n.g.
+W1900AM	Sonstige frische Trauben (LGR und Preise)
+W2000	Traubenmost
+W2100	Traubenmost zur Weinherstellung
+W2200	Nicht zur Weinherstellung bestimmter Traubenmost
+W2210	Konzentrierter Traubenmost
+W2220	Traubensaft
+W3000	Weine
+W3000R	Rot- und Roséweine
+W3000W	Weißweine
+W3100	Weine mit geographischer Angabe (g.U./g.g.A.)
+W3100R	Rot- und Roséweine mit g.U./g.g.A.
+W3100W	Weißweine mit g.U./g.g.A.
+W3110	Weine mit geschützter Ursprungsbezeichnung (g.U.)
+W3110R	Rot- und Roséweine mit g.U.
+W3110W	Weißweine mit g.U.
+W3120	Weine mit geschützter geografischer Angabe (g.g.A.)
+W3120R	Rot- und Roséweine mit g.g.A.
+W3120W	Weißweine mit g.g.A.
+W3200	Weine ohne geographische Angabe (g.U. /g.g.A.)
+W3200R	Rot- und Roséweine ohne g.U. /g.g.A.
+W3200W	Weißweine ohne g.U. /g.g.A.
+W3120_3210_3221	Tafelweine
+W3120_3210_3221R	Rote und rosé Tafelweine
+W3120_3210_3221W	Weiße Tafelweine
+W3210_3221	Tafelweine ohne geographische Angabe (g.U./g.g.A.)
+W3210_3221R	Rote und rosé Tafelweine ohne g.U./g.g.A.
+W3210_3221W	Weiße Tafelweine ohne g.U./g.g.A.
+W3210	Rebsortenweine
+W3210R	Rote und rosé Rebsortenweine
+W3210W	Weiße Rebsortenweine
+W3220	Andere Weine
+W3220R	Andere Rot- und Roséweine
+W3220W	Andere Weißweine
+W3221	Andere Weine für den Direktverzehr ohne geographische Angabe (g.U./g.g.A.) oder Rebsortenkennzeichnung
+W3221R	Andere Rot- und Roséweine für den Direktverzehr ohne g.U./g.g.A. oder Rebsortenkennzeichnung
+W3221W	Andere Weißweine für den Direktverzehr ohne g.U./g.g.A. oder Rebsortenkennzeichnung
+W3222	Andere Weine zur Verarbeitung a.n.g.
+W3222R	Andere Rot-und Roséweine zur Verarbeitung a.n.g.
+W3222W	Andere Weißweine zur Verarbeitung a.n.g.
+O0000	Oliven und Olivenöl
+O1000	Oliven
+O1100	Tafeloliven
+O1900	Sonstige Oliven
+O1910	Oliven zur Ölherstellung
+O1990	Sonstige Oliven a.n.g.
+ODP	Oliven mit doppeltem Verwendungszweck
+O2000	Olivenöl
+O2100	Natives Olivenöl Extra
+O2200	Natives Olivenöl
+O2210	Natives Olivenöl: superfine
+O2220	Natives Olivenöl: fine
+O2230	Gewöhnliches natives Olivenöl (semifine/corrente)
+O2300	Raffiniertes Olivenöl
+O2400	Lampant Olivenöl
+H9000	Sonstige Dauerkulturen zur menschlichen Ernährung a.n.g.
+H9100	Johannisbrot
+L0000	Baumschulen
+L0000T	Baumschulen - im Freiland
+L0000S	Baumschulen - unter Glas oder hohen begehbaren Schutzabdeckungen
+PECR9_H9000	Sonstige Dauerkulturen einschließlich sonstige Dauerkulturen zur menschlichen Ernährung
+PECR9_H9000T	Sonstige Dauerkulturen einschließlich sonstige Dauerkulturen zur menschlichen Ernährung - im Freiland
+PECR9_H9000S	Sonstige Dauerkulturen einschließlich sonstige Dauerkulturen zur menschlichen Ernährung - unter Glas oder hohen begehbaren Schutzabdeckungen
+PECR9	Sonstige Dauerkulturen
+PECR9T	Sonstige Dauerkulturen - im Freiland
+PECR9S	Sonstige Dauerkulturen - unter Glas oder hohen begehbaren Schutzabdeckungen
+X0000	Weihnachtsbaumkulturen
+Z0000	Sonstige Dauerkulturen a.n.g. (z.B. Korbweidenanlagen)
+Z1000	Vegetatives Material, vorwiegend zum Flechten
+K0000	Haus- und Nutzgärten
+K0000T	Haus- und Nutzgärten - im Freiland
+K1000	Gemüse aus Haus- und Nutzgärten
+K2000	Obst aus Haus- und Nutzgärten
+SAA	Fläche für Spezielle Landwirtschaftliche Erzeugung
+U0000	Speisepilze
+U1000	Zuchtpilze
+U1100	Champignons
+U1900	Sonstige Speise-/Zuchtpilze a.n.g.
+U2000	Wildwachsende Speisepilze
+SAA9	Sonstige Fläche für Spezielle Landwirtschaftliche Erzeugung
+NUAA	Nicht genutzte landwirtschaftliche Fläche
+WA	Waldgebiet
+SRCAA	Kurzumtriebsplantagegebiet
+FA9	Sonstige Fläche auf der Farm 
+CRP9	Andere pflanzliche Erzeugnisse
+CRP9ORG	Andere Ökologischer/biologischer pflanzliche Erzeugnisse
+CRP99	Sonstige pflanzliche Erzeugnisse a.n.g.
+NONE	Kein

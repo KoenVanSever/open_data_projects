@@ -1,0 +1,22 @@
+TOTAL	Insgesamt
+PROV	Geleistete Unterstützung 
+PROV_R	Primär für Verwandte geleistete Unterstützung
+PROV_NR	Primär für Nicht-Verwandte geleistete Unterstützung
+NPROV	Keine geleistete Unterstützung
+AS1010	Genutzte Unterstützung
+AS1015	Benötigte Unterstützung
+AS1020	Persönliche Unterstützung
+AS1030	Spezielle Ausstattung bzw. Anpassungen des Arbeitsplatzes
+AS1040	Spezielle Arbeitsregelungen
+AS1090	Keine genutzte Unterstützung
+AS1095	Keine benötigte Unterstützung
+HELPF	Unterstützung erhalten und als hilfreich betrachtet
+NHELPF	Unterstützung erhalten, aber nicht als hilfreich betrachtet
+HELPF_UNK	Unterstützung erhalten, aber Grad der Nützlichkeit unbekannt
+NND	Kein Bedarf an Unterstützung
+ENO	Erhält genug Unterstützung
+LACK	Mangel an Unterstützung
+NONE	Keine Unterstützung
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+UNK	Unbekannt

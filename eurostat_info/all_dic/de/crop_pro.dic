@@ -1,0 +1,224 @@
+C1040	Getreide zur Körnergewinnung (einschließlich Reis und Saatgut)
+C1050	Getreide (ohne Reis)
+C1100	Weizen (einschließlich Spelz)
+C1120	Weichweizen und Spelz
+C1123	Winterweizen (ohne Durum)
+C1124	Sommerweizen (ohne Durum)
+C1130	Hartweizen
+C1133	Winterhartweizen
+C1134	Sommerhartweizen
+C1140	Roggen und Wintermenggetreide
+C1150	Roggen
+C1151	Winterroggen
+C1152	Sommerroggen
+C1155	Wintermenggetreide
+C1160	Gerste
+C1163	Wintergerste
+C1164	Sommergerste
+C1170	Hafer und Sommermenggetreide
+C1180	Hafer
+C1185	Sommermenggetreide
+C1201	Körnermais und Corn-Cob-Mix
+C1200	Körnermais
+C1202	Corn-Cob-Mix
+C1211	Sorghum
+C1212	Triticale
+C1213	Wintertriticale
+C1219	Hirse, Buchweizen, Kanariensaat (anderes Getreide)
+C1250	Reis
+C1251	Reis Indica
+C1252	Reis Japonica
+C1300	Hülsenfrüchte und Eiweißpflanzen zur Körnergewinnung (einschließlich Saatgut und Gemenge von Getreide mit Hülsenfrüchten)
+C1320	Ackererbsen
+C1335	Puff- und Ackerbohnen
+C1343	Süßlupinen
+C1345	Andere Hülsenfrüchte a.n.g.
+C1350	Hackfrüchte
+C1360	Kartoffeln/Erdäpfel (einschließlich Früh- und Pflanzkartoffeln/ -erdäpfel)
+C1362	Frühkartoffeln/-erdäpfel
+C1363	Andere Kartoffeln/Erdäpfel
+C1370	Zuckerrüben (ohne Saatgut)
+C1380	Andere Hackfrüchte a.n.g.
+C1381	Futterrüben
+C1400	Handelsgewächse
+C1410	Ölsaaten
+C1415	Wichtige Ölfrüchte
+C1420	Raps und Rübsen
+C1430	Raps
+C1431	Winterraps
+C1432	Sommerraps
+C1440	Rübsen
+C1450	Sonnenblumenkerne
+C1460	Leinsamen (Öllein)
+C1470	Soja
+C1490	Baumwollsamen
+C1480	Andere Ölfrüchte a.n.g.
+C1500	Faserpflanzen
+C1520	Faserflax
+C1530	Hanf
+C1540	Baumwollfasern
+C1510	Andere Faserpflanzen a.n.g.
+C1550	Tabak
+C1560	Hopfen
+C1570	Andere Handelsgewächse
+C1571	Zichorien für Kaffee
+C1572	Zichorien für Inulin
+C1580	Duft-, Heil- und Gewürzpflanzen
+C1582	Kümmel
+C1589	Andere Handelsgewächse a.n.g.
+C2600	Futter - Insgesamt
+C2610	Pflanzen zur Grünernte
+C2611	Einjährige Pflanzen zur Grünernte
+C2625	Silomais/Grünmais
+C2626	Getreide zur Grünernte
+C2612	Andere Pflanzen zur Grünernte a.n.g.
+C2670	Leguminosen
+C2671	Klee und Gemenge
+C2672	Luzerne
+C2673	Andere Leguminosen a.n.g.
+C2680	Feldgras/Grasanbau auf dem Ackerland
+C2681	Ackerwiesen
+C2682	Ackerweiden
+C0002	Dauergrünland
+C2710	Dauerwiesen
+C2720	Dauerweiden
+C2721	Weiden mit Almen
+C2722	Hutungen, Streuwiesen
+C1590	Energiepflanzen a.n.g.
+C1600	Gemüse, Melonen und Erdbeeren (ohne Hausgärten)
+C1609	Frischgemüse - Insgesamt
+C1610	Speisekohl
+C1620	Blumenkohl/Karfiol und Broccoli
+C1631	Rosenkohl
+C1635	Weißkohl
+C1650	Kohlrabi
+C1655	Andere Speisekohlarten a.n.g.
+C1660	Blatt- und Stängelgemüse (ohne Speisekohl)
+C1670	Sellerieknollen und -Stengel
+C1672	Stauden-/Stangensellerie
+C1675	Porree/Lauch
+C1680	Kopfsalat
+C1681	Kopfsalat unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+C1685	Endiviensalat
+C1690	Spinat
+C1700	Spargel
+C1710	Chicorée
+C1720	Artischocken
+C1725	Anderes Blatt- und Stängelgemüse a.n.g.
+C1740	Fruchtgemüse
+C1750	Tomaten/Paradeiser
+C1751	Tomaten/Paradeiser zum Direktverzehr
+C1752	Tomaten/Paradeiser zum Direktverzehr unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+C1761	Schälgurken
+C1762	Schälgurken unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+C1766	Einlegegurken
+C1780	Auberginen, Speisekürbisse, Zucchini
+C1781	Auberginen/Melanzani
+C1786	Speisekürbisse
+C1785	Kürbisse
+C1787	Zucchini
+C1790	Gemüse- und Pfefferpaprika
+C1791	Gemüse- und Pfefferpaprika unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+C1799	Andere Fruchtgemüsearten a.n.g.
+C1800	Wurzel- und Knollengemüse
+C1810	Kohlrabi
+C1820	Speiserüben
+C1830	Karotten und Speisemöhren
+C1840	Knoblauch
+C1851	Zwiebeln
+C1855	Schalotten
+C1860	Rote Beete/Rote Rüben
+C1870	Schwarz- und Haferwurzeln
+C1872	Knollensellerie
+C1877	Radieschen
+C1884	Andere Wurzel- und Knollengemüse a.n.g.
+C1885	Hülsenfrüchte
+C1890	Speiseerbsen
+C1901	Grüne Bohnen/Fisolen
+C1905	Andere Hülsenfrüchte a.n.g.
+C1920	Anderes Frischgemüse a.n.g.
+C1771	Melonen
+C1770	Melonen und Erdbeeren
+C1777	Wassermelonen
+C2260	Erdbeeren
+C2261	Erdbeeren unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+C1910	Zuchtpilze
+C2992	Gemüse aus Hausgärten
+C1601	Gemüse, Melonen und Erdbeeren (einschließlich Hausgärten)
+C2696	Gründüngung und Brache
+C2002	Frischobst (Versorgungsbilanzen)
+C2007	Dauerkulturen
+C2008	Tafelobst (nicht enthalten sind: Oliven, Rosinen, Tafeltrauben zum keltern, Keltertrauben, wildwachsende Erzeugnisse, Obst aus Hausgärten und andere Äpfel und Birnen als Tafeläpfel und -birnen)
+C2040	Obstbäume (ausgenommen Oliven und Zitrusfrüchte)
+C2090	Äpfel
+C2110	Äpfel zum Direktverzehr
+C2112	Golden Delicious
+C2113	Andere Äpfel zum Direktverzehr
+C2095	Birnen
+C2130	Birnen zum Direktverzehr
+C2132	Sommerbirnen
+C2170	Steinobst
+C2180	Pfirsiche
+C2221	Nektarinen
+C2190	Aprikosen/Marillen
+C2200	Kirschen
+C2201	Sauerkirschen/Weichseln
+C2210	Pflaumen
+C9000	Datteln
+C2229	Anderes Steinobst a.n.g.
+C2270	Beerenobst (ohne Erdbeeren)
+C2271	Johannisbeeren
+C2272	Schwarze Johannisbeeren
+C2275	Rote Johannisbeeren
+C2278	Himbeeren
+C2281	Stachelbeeren
+C2290	Andere Beeren a.n.g.
+C2230	Nüsse
+C2231	Walnüsse
+C2232	Haselnüsse
+C2233	Mandeln
+C2236	Esskastanien/Maronen
+C2240	Andere Nüsse a.n.g.
+C2250	Anderes Baumobst
+C2251	Feigen
+C2285	Kiwis
+C2253	Avocados
+C2254	Bananen
+C2252	Quitten
+C2259	Anderes Baumobst a.n.g.
+C2300	Zitrusfrüchte
+C2380	Pampelmusen und Grapefruit
+C2370	Zitronen und saure Limonen
+C2371	Gelbe Zitronen
+C2372	Saure Limette
+C2321	Apfelsinen mit gelbem Fruchtfleisch aus der Navelgruppe
+C2322	Apfelsinen mit gelbem Fruchtfleisch aus anderen Gruppen
+C2323	Blut- und Semiblutapfelsinen und andere süsse Apfelsinen
+C2324	Andere süsse Apfelsinen
+C2320	Orangen
+C2340	Kleine Zitrusfrüchte
+C2350	Mandarinen
+C2352	Satsumas
+C2360	Clementinen
+C2390	Andere Zitrusfrüchte a.n.g.
+C2410	Rebflächen
+C2420	Rebflächen für Tafeltrauben
+C2415	Frische Trauben
+C2416	Rebflächen für Rosinen
+C2417	Tafeltrauben (zum Keltern)
+C2440	Rebflächen für Wein
+C2441	Rebflächen für Wein mit geschützter Ursprungsbezeichnung
+C2442	Rebflächen für Wein mit geschützter geografischer Angabe
+C2443	Rebflächen für anderen Wein
+C2445	Rebflächen für andere Traubenproduktion a.n.g.
+C2447	Tafeltrauben
+C2450	Olivenbäume
+C2460	Olivenbäume für Tafeloliven
+C2470	Olivenbäume für Olivenöl
+C2810	Baumschulen
+C2960	Flechtgewächse : Korbweiden, Bambus, Binse, Stuhlrohr, Kanadapappel
+C2480	Andere Dauerkulturen a.n.g.
+C2993	Obst aus Hausgärten
+C2009	Dauerkulturen (einschließlich Hausgärten)
+C3718	Wildwachsende Erzeugnisse
+C3719	Wildwachsende Erzeugnisse

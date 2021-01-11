@@ -1,0 +1,576 @@
+ACCIDENT	Unfall
+ACCOMMOD	Art von Unterkünften
+ACL00	Klassifikation der Aktivitäten für Zeitverwendungen
+ACTIVITY	Typ der Tätigkeit
+ADMINISTR	Indikator der Administrierungsintensität
+AFFORD	Erschwinglichkeit
+AGE	Altersklasse
+AGECHILD	Alter des Kindes
+AGEDEF	Definition des Alters
+AGPRDMET	Landwirtschaftliche Produktionsmethoden 
+AGRAREA	Landwirtschaftliche Fläche
+AGRIPROD	Landwirtschaftliche Produkte
+AGR_INP	Landwirtschaftliche Betriebsmittel
+AIRCRAFT	Luftfahrzeuge
+AIRC_CAT	Flugzeugkategorie
+AIRLINE	Luftfahrtunternehmen
+AIRPOL	Luftschadstoffe und Treibhausgasemissionen
+AIRP_PR	Flughafenpaare (Strecken)
+AIRSECT	Quellsektoren für Luftemissionen
+AMENITY	Ausstattung
+ANIMALS	Gesamt Lebende Tiere
+ANNEX	Anhang
+APPLICANT	Typ des Antragstellers
+AQUAENV	Aquatische Umwelt
+AQUAMETH	Aquakulturmethode
+ARABLE	Ackerlandfläche
+AREA	Fläche
+AREAPROT	Geschützte Fläche oder Schutzfläche
+ARREARS	Zahlungsrückstände
+ASSESS	Bewertung
+ASSET10	Assets (ESVG 2010)
+ASSIST	Unterstützung
+ASYL_APP	Art des Antrags
+BARK	Mit Rinde / entrindet
+BARRIER	Hindernisse
+BCLAS_BEC	Grundklassen von Waren im System der Volkswirtschaftlichen Gesamtrechnungen (SNA) in Bezug auf die grossen Wirtschaftskategorien (BEC)
+BMI	Index der Körpermasse
+BODYPART	Betroffener Körperteil
+BONDS	Anleihen 
+BOP_ITEM	ZB_Position
+BORDER	Grenze
+BSNPART	Geschäftspartner
+BSN_STRAT	Unternehmensstrategie
+BUILDING	Gebäudetyp
+BUS_FUNC	Unternehmensfunktion
+BUS_PART	Geschäftspartner
+CALCMETH	Berechnungsmethode
+CALVAL	Heizwerte
+CARERESP	Betreuungspflicht
+CARESTAT	Pflegestatus
+CARGO	Ladungsart
+CARRIAGE	Verkehrsart
+CATEGORY	Kategorie
+CBTRADE	Grenzüberschreitende Dienstleistungen
+CEPAREMA	Klassifikation der Umweltschutzaktivitäten (CEPA) und Klassifikation der Ressourcenmanagementaktivitäten (CReMA)
+CHANGE	Veränderung
+CHCARE	Kinderbetreuungsdienstleistungen
+CITIES	Geopolitische Meldeeinheit
+CITIZEN	Land der Staatsangehörigkeit
+CLC18	Nomenklatur der Landbedeckung und Landnutzung (Corine Land Cover 2018)
+CLSPEC	Kundenspezialisierung
+CLTYPE	Kunden/Händler
+COEF	Koeffizienten des Modells für die Euro-Zinsstrukturkurve
+COFOG99	Klassifikation der Aufgabenbereiche des Staates (COFOG 1999)
+COICOP	Klassifikation der Verwendungszwecke des Individualverbrauchs (COICOP)
+COMMUNIC	Kommunikationsart
+COMMUTE	Pendeln
+COMSPEC	Vogelarten
+CONS	Abstraktions und Gebrauchssektor oder Behandlungsart
+CONSIGN	Art der Sendung
+CONSOM	Verbrauch
+CONTRIB	Beitragszahler
+COOP_PTN	Kooperationspartner
+COPAT	Patentierungen und gemeinsame Patentierungen
+COST	Kosten
+CO_NCO	Konsolidiert/Nichtkonsolidiert
+CPA02	Statistische Güterklassifikation in Verbindung mit den Wirtschaftszweigen in der europäischen Wirtschaftsgemeinschaft, 2002
+CPA08	Statistische Güterklassifikation in Verbindung mit den Wirtschaftszweigen in der Europäischen Wirtschaftsgemeinschaft, 2008
+CPA2_1	Statistische Güterklassifikation in Verbindung mit den Wirtschaftszweigen (CPA 2.1)
+CPATC	Gemeinsame Patentklassifikation
+CPAYAGR	Tarifvertrag
+CREDINST	Kreditinstitute 
+CROPAREA	Flächen mit jeweiligen pflanzlichen Produkten
+CROPS	Pflanzenbaumerkmale
+CROP_PRO	Pflanzliche Erzeugung
+CROP_ROT	Anteil der Ackerfläche mit Fruchtwechsel
+CRUDEOIL	 Rohölsorte
+CTM_NAT	Art der Marke
+CTM_USE	Nutzung der Marke
+CTR_WTIME	Kontrolle über die Arbeitszeit
+CURRENCY	Währung
+CUSTOMER	Kunde
+CVTAGR	Vereinbarung zur BWB (berufliche Weiterbildung)
+CVTPLAN	Planung der BWB (berufliche Weiterbildung) in Unternehmen
+CVT_CH	BWB-Änderung und Änderung des Gegenstands
+C_BIRTH	Geburtsland/-region
+C_BTHFAT	Geburtsland des Vaters
+C_BTHMOT	Geburtsland der Mutter
+C_BTHPAR	Geburtsland der Eltern
+C_CTRL	Land, in dem das kontrollierende Unternehmen seinen Sitz hat
+C_DEST	Zielland
+C_LOAD	Beladungs- oder Einschiffungsland/-region
+C_REGIS	Land der Registrierung
+C_RESID	Aufenthaltsland
+C_TRANS	Transitland
+C_UNLOAD	Entladungs- oder Ausschiffungsland/-region
+C_WORK	Arbeitsland/-region
+DAIRYPROD	Milch und andere Tierprodukte (ausgenommen Fleisch) 
+DANG_GDS	Gefährliche Güter
+DAYSWEEK	Wochentage 
+DECISION	Entscheidung
+DEG_URB	Urbanisierungsgrad
+DENSITY	Pflanzdichte
+DEST	Ziel
+DEST_USE	Herkunft und Verwendung des Fisches
+DEVIATN	Abweichung
+DIAGNOSE	Diagnose
+DIMLST	
+DIRECT	Flussrichtung
+DISTANCE	Entfernung
+DURATION	Dauer
+ECASE	Verdienstsituation
+EFFECT	Auswirkungen 
+EFFEMP	Auswirkungen auf die Erwerbstätigkeit
+EMPSOUGH	Art der Beschäftigung gesucht
+EMP_CONT	Art des Arbeitsvertrages
+ENGINE	Moterleistung des Fahrzeugs (in cm³)
+ENG_POW	Maschinenleistung
+ENTERPR	Unternehmen
+ENTGRP	Unternehmensgruppenidentifizierung
+ENTITY	Rechtssubjekte
+ENV_ECON	Umweltökonomische Merkmale
+ENV_EXP	Ausgaben
+ESEG	Europäische sozioökonomische Gruppen
+ESTRUCT	Verdienststruktur
+ESU	Größenklassen von Wirtschaftsbetrieben in europäischer Größeneinheit (EGE)
+EXCH_RT	Wechselkurs
+EXPECT	Erwartungen
+EXPEN	Art der Ausgaben
+EXPEND	Ausgabe und Investition
+EXPERNCE	Erfahrung
+FACILITY	Einrichtung des Gesundheitswesens
+FACTOR	Faktoren
+FARMTYPE	Betriebswirtschaftliche Ausrichtung
+FDI_ITEM	DI Position
+FIELD	Bildungs- oder Weiterbildungsbereich
+FIELDID	Landwirtschaftliches Produkt
+FINPOS	Finanzielle Position
+FIN_SOURCE	Finanzierungsquelle
+FIN_TYP	Finanzierungstyp
+FISHREG	Fanggebiete
+FORD	Klassifikation nach Forschungszweigen (FORD)
+FORMEV	Formular um Weiterbildungskursen auszuwerten
+FOR_ACC	Forstwirtschaftliche Gesamtrechnungen
+FOS07	Klassifikation der Wissenschafts- und Technologiezweige (FOS 2007)
+FREQ	Zeitliche Frequenz
+FREQUENC	Häufigkeit
+FRQ_WOTH	Häufigkeit des Arbeitens an anderen Orten
+FRQ_WTPR	Häufigkeit des Arbeitens unter Zeitdruck
+FRUITVAR	Obstsarten und Gruppen von Sorten
+FUND	Finanzierungsart
+GAUGETRK	Typ der Spurweite
+GD_SERV	Art der Güter und Dienstleistungen
+GEAR	Fanggeräte
+GEN_TECH	Produktions-Technologien
+GEO	Geopolitische Meldeeinheit
+GUARANTORS	Garantiegeber bei Darlehen
+HATCHITM	Brutbetriebe
+HAZARD	Gefahrenklasse
+HHCARACT	Haushaltsmerkmale
+HHCOMP	Haushaltszusammensetzung
+HHSTATUS	Einzelpersonen nach Stellung im Haushalt
+HHTYP	Haushaltstyp
+HHTYPE	Haushaltstyp
+HHWKSTAT	Arbeitsstatus innerhalb des Haushalts
+HIRE_PLAN	Einstellungsplan
+HLTHCARE	Gesundheitsversorgung
+HLTH_HLE	Gesundheit und Lebenserwartung
+HLTH_PB	Gesundheitsprobleme
+HOLD_MAN	Rechtsform und Inhaber-Leiterbeziehung
+HOSPCARE	Krankenhauspflege
+HOTELSIZE	Zahl der Zimmer in den Beherbergungsbetrieben
+HOUSING	Unterbringung
+HP_CAUSE	Ursache des lang andauernden Gesundheitsproblems bzw. der Behinderung
+HP_TECH	Wärmepumpen-Technologien
+ICCS	Internationale Klassifikation von Kriminalität für statistische Zwecke (ICCS)
+ICD10	Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD-10 2010)
+ICD9CM	Internationale Klassifikation der Krankheiten (Medizinische Verfahren)
+ICHA11_FS	Klassifikation der Finanzierungssysteme der Gesundheitsversorgung - SHA 2011
+ICHA11_HC	Klassifikation der Funktionen der Gesundheitsversorgung - SHA 2011
+ICHA11_HF	Klassifikation der Finanzierungssysteme der Gesundheitsversorgung - SHA 2011
+ICHA11_HP	Klassifikation der Leistungserbringer - SHA 2011
+ICHA_HC	Funktionen der Gesundheitsversorgung SHA
+ICHA_HP	Leistungserbringer der Gesundheitsversorgung SHA
+IMPACPCV	Auswirkungen
+IMPACT	Wahrgenommene Auswirkungen
+INCGRP	Einkommenssituation in Bezug auf die Armutsrisikogrenze
+INCOME	Einkommensgruppe
+INCSRC	Primäreinkommensquelle
+INCUBAT	Inkubationstyp
+INDIC	Indikator
+INDICATOR	Indicator DE
+INDIC_AG	Landwirtschaftliche Indikator
+INDIC_AGR	Landwirtschaftliche Indikatoren
+INDIC_BP	Indikator zur Zahlungsbilanz
+INDIC_BT	Konjunkturindikator
+INDIC_CO	Indikatoren für Kooperationsstatistiken
+INDIC_CR	Kriminalitäts- und Strafverfolgungsindikatoren
+INDIC_DE	Demographische Indikator
+INDIC_ED	Bildungsindikator
+INDIC_EF	Eurofarm Indikatoren
+INDIC_EM	Beschäftigungsindikator
+INDIC_EN	Energieindikator
+INDIC_ENV	Umweltindikator
+INDIC_ET	Indikator zum Außenhandel
+INDIC_EU	Indicatoren für das EU2020 Projekt
+INDIC_FB	Indikator zu Faktoren des Unternehmenserfolgs
+INDIC_FO	Indikatoren zur Forstwirtschaft
+INDIC_HE	Gesundheitsindikator
+INDIC_IL	Einkommens- und Lebensbedingungenindikator
+INDIC_IN	Innovationsindikator
+INDIC_INN	Innovationsindikator
+INDIC_IP	Verfahren bei makroökonomischen Ungleichgewichten Indikatoren
+INDIC_IS	Indikator zur Informationsgesellschaft
+INDIC_LC	Arbeitskostenindikatoren
+INDIC_MD	Spezifisch für Euro_med benutzte Indikator
+INDIC_MG	Migrationsindikator
+INDIC_NRG	Energieindikator
+INDIC_NV	Umweltindikator
+INDIC_PDC	Prodcom indicators
+INDIC_PEFA	Indikatoren der physischen Energieflusskonten
+INDIC_PRODCOM	Prodcom indicators
+INDIC_SB	Wirtschaftlicher Indikator für strukturelle Unternehmensstatistik
+INDIC_SE	Lohn- und Gehaltsstrukturindikator
+INDIC_SP	Indikatoren des Sozialschutzes 
+INDIC_TO	Tourismusindikator
+INDIC_UR	Urban Audit Indikator
+INDIC_VI	Erhebung über Weinbauvariablen
+INDIC_WB	Personnal well-being indicators
+INDUSE	Wirtschaftsbereiche, Verwendungskategorien und Importe
+INDX	Index
+IND_FARM	Wichtigste Indikatoren der Landwirtschaft
+IND_INPU	Posten des Inputindexes
+IND_OUTP	Posten des Outputindexes
+IND_TYPE	Art der Einzelpersonen
+INJURY	Art der Verletzung
+INNOVAT	Innovationstyp
+INN_ACT	Innovationsaktivitäten
+INN_DEVR	Innovationsentwickler
+INT_RT	Zinssatz
+INVOLVE	Beteiligung
+IPC	Internationale Patentklassifikation (IPK)
+IPR_TRN	Transaktion und Typen von Schutzrechte des intellektuellen Eigentums
+IRRIG	Bewässerte Flächen
+IRR_AREA	Bewässerung landwirtschaftlicher Flächen
+ISCED11	Internationale Standardklassifikation des Bildungswesens (ISCED 2011)
+ISCED11F	Internationale Standardklassifikation des Bildungswesens (ISCED 2011) - (für Familienmitglieder)
+ISCED97	Internationale Standardklassifikation des Bildungswesens (ISCED 1997)
+ISCEDF13	ISCED Bildungs- und Weiterbildungsbereiche (ISCED-F 2013)
+ISCO08	Internationale Standardklassifikation der Berufe 2008 (ISCO-08)
+ISCO88	Internationale Standardklassifikation der Berufe für die Zwecke der Europäischen Union (ISCO-88 (COM))
+ITM_NEWA	Liste der Produkte - LGR
+IWW_HD	Einteilung der Binnenwasserstraßen nach horizontalen Abmessungen der Schiffe und Schubverbände
+JOB_AUTN	Arbeitsautonomie
+JOB_CL	Schaffung und Verlust von Arbeitsplätzen und berufliche Mobilität
+LA	Flächennutzungskategorie (km2)
+LANDCOVER	Bodenbedeckung
+LANDUSE	Bodennutzung
+LANGUAGE	Sprache
+LCSTRUCT	Struktur der Arbeitskosten
+LEARNING	Lernform
+LEAVE	Art des Urlaubs
+LEGTYPE	Rechtsform der Betriebe
+LEG_CASE	Rechtsfäll
+LEG_FORM	Rechtsform
+LEG_FRAM	Rechtsrahmen
+LEG_PROV	Rechtsvorschrift
+LEG_STAT	Rechtsstellung
+LENGTH	Länge
+LEVELS	Einstufung
+LEV_DEPR	Höhe der Deprivation 
+LEV_DIFF	Schwierigkeitsgrad
+LEV_EXPC	Erwartungsniveau
+LEV_EXPN	Höhe den Verbrauchsaufgaben 
+LEV_IMPT	Wichtigkeitsgrad
+LEV_KNOW	Kenntnisgrad
+LEV_LIMIT	Einstufung der Aktivitätseinschränkung
+LEV_MATCH	Grad der Übereinstimmung der Beschäftigung
+LEV_PERC	Wahrnehmungsebene
+LEV_SATIS	Grad der Zufriedenheit
+LOADSTAT	Ladestatus
+LSU	Anzahl der Großvieheinheiten (GVE)
+L_SERV	Beschäftigungsdauer
+MAINW	Hauptmittel für den Erwerb/die Entwicklung neuer Fertigkeiten
+MARSTA	Familienstand
+MARSTA2	Familienstand (der Braut)
+MATAGENT	Gegenstand
+MATERIAL	Materialien
+MATURITY	Fälligkeit
+MEAT	Fleischprodukt
+MEATITEM	Fleischpost
+MEDIA	Medien
+MED_SPEC	Medizinische Spezialität
+METROREG	Metropolregionen  
+MGSTATUS	Migrationsstatus
+MILKITEM	Milchposten
+MKTPLACE	Märkte
+MOBILITY	Mobilität 
+MOBSCHEME	Mobilitätsschema 
+MODINJ	Kontakt - Art der Verletzung
+MONTH	Monat
+MORTALIT	Art der Sterblichkeit
+MOT_NRG	Motorenergie 
+NABS07	Systematik für die Analyse und den Vergleich wissenschaftlicher Programme und Haushalte (NABS 2007)
+NABS92	Systematik für die Analyse und den Vergleich wissenschaftlicher Programme und Haushalte (NABS 1992)
+NACE_R1	Klassifikation der Wirtschaftszweige - NACE Rev.1.1
+NACE_R2	Klassifikation der Wirtschaftszweige - NACE Rev.2
+NATVESSR	Nationalität der Flagge
+NA_ITEM	Volkswirtschaftliche Gesamtrechnungen Indikator (ESVG 2010)
+NCL	Internationale Klassifikation von Waren und Dienstleistungen für die Eintragung von Marken (Klassifikation von Nizza, 10. Ausgabe)
+NET_SEG	Schienennetzwerkabschnitt
+NET_SEG10	Schienennetzwerkabschnitt
+NET_SEG15	Schienennetzwerkabschnitt (2015)
+NRG_BAL	Energiebilanz
+NRG_CONS	Energieverbrauch
+NRG_FLOW	Energieflüsse 
+NRG_PRC	Zusammensetzung des Energiepreises
+NST07	Einheitliches Güterverzeichnis für die Verkehrsstatistik (NST 2007, 20-Gruppe)
+NSTR24	NST/R24 Gruppen
+NUTRIENT	Nährstoff
+N_ACTION	Anzahl der Bildungsaktivitäten
+N_ACTIV	Anzahl der Erwerbspersonen
+N_BOOK	Anzahl der Bücher
+N_CHILD	Anzahl der Kinder
+N_CLASS	Anzahl der Klassen, zu denen das Recht an geistigem Eigentum gehört
+N_CLIENT	Anzahl der Kunden
+N_CONTACT	Anzahl der Begegnungen
+N_DESIGN	Anzahl der Geschmacksmuster in der Anmeldung
+N_HEAD	Anzahl der Tiere
+N_HPROB	Anzahl der Gesundheitsbeschwerden
+N_INJURY	Zahl der unfallbedingten Verletzungen
+N_ITEM	Anzahl der Posten
+N_JOB	Anzahl der Arbeitsplätze
+N_LANG	Anzahl der Fremdsprachen
+N_PARTNER	Anzahl der Partner
+N_PERSON	Anzahl der Personen
+N_PORTION	Anzahl der Portionen
+N_ROOM	Anzahl der Räume
+N_TRACKS	Anzahl der Gleise
+N_UNEMP	Anzahl der Arbeitslosen
+N_VEHICL	Anzahl der Kraftfahrzeuge
+N_VESSEL	Anzahl der Schiffe
+OBS_STATUS	Beobachtungswert
+OBZONE	Zielgebiete (GAP)
+OGA_FAM	Sonstige Erwerbstätigkeiten der Familienmitglieder
+OGA_HLD	Sonstige andere Erwerbstätigkeit des Betriebsinhabers
+OGA_NRH	Sonstige andere Erwerbstätigkeiten des Betriebsinhabers (nicht mit dem landwirtschaftlichen Betrieb verbundenen)
+OGA_RH	Sonstige andere Erwerbstätigkeiten des Betriebsinhabers (mit dem landwirtschaftlichen Betrieb verbundenen)
+OGA_SPOU	Sonstige andere Erwerbstätigkeit des Gatten
+OGA_TYPE	Arten von anderen Erwerbstätigkeiten auf landwirtschaftlichen Betrieben
+OPERATOR	Betrieb/Händler
+ORD_BRTH	Geburten nach Folge
+ORGANIC	Ökologischer Landbau: Ja/Nein
+ORG_INST	Nationale und internationale Organisationen und Institutionen
+ORIGIN	Ort der Emissionen
+OWNER	Art des Eigentums 
+PARITY	Anzahl der vorhergehenden Geburten einer Frau 
+PARTICIP	Teilnahme
+PARTNER	Geopolitische Partnereinheit
+PAR_MAR	Seeverkehr (Partnereinheit)
+PENSCHEME	Alterssicherungssysteme
+PERCENT	Größenklassen in Prozent
+PERS_INV	Von Unfällen betroffene Personen
+PESTICID	Pestizidgruppen
+PHYSACT	Spezifische Tätigkeit
+PLANTS	Art der Anlage
+PLANT_TEC	Technische Eigenschaften der Anlagen
+PL_CAPA	Anlagekapazität
+PORT_INFR	Hafen Infrastruktur
+PORT_IWW	Binnenschifffahrtshäfen
+POST	Zahlungsbilanz-Posten
+POWER	Stromart
+PPP_CAT	Analytische Kategorien zur Berechnung der Kaufkraftparitäten (KKP)
+PRCCODE	Produktion
+PRCCODE_TEST	Prccode
+PRES	Handelsform
+PRIORITY	Priorität der Datenerhebung
+PROCSTAT	Prozessstatus
+PRODMILK	Milchprodukt
+PRODTYP	Produktion
+PRODUCT	Erzeugnisse
+PROD_ANI	Tierisches Produkt
+PROD_APR	Landwirtschaftliches Produkt (alte Kodifizierung)
+PROD_CT	Kulturelle Erzeugnisse
+PROD_FROM	Test CL for FIGARO datasets DE
+PROD_INP	Inputprodukt
+PROD_NA	Produkte und Bruttowertschöpfungskomponenten
+PROD_NRG	Energieprodukt
+PROD_SP	Sportartikel
+PROD_TO	Test CL for FIGARO datasets DE
+PROD_VEG	Landwirtschaftliches Produkt
+PROD_WD	Holzerzeugnisse
+PROF_POS	Berufliche Position
+PROJECTION	Art der Vorausberechnung
+PROV	Berufliche Bildung
+PROVLOC	Standort des wichtigsten Dienstleistungsanbieters
+PURCHASE	Ankäufe
+PURPOSE	Zweck
+P_ADJ	Preisanpassung 
+QUANTILE	Quantil
+QUANT_EXPN	Ausgabenquantil
+QUANT_INC	Einkommensquantil
+QUANT_WLTH	Vermögensquantil
+RAIL_ACT	Eisenbahntätigkeiten
+RANKING	Ranking
+RAWMAT	Rohstoffe
+RBD	Flussgebietseinheit oder -untereinheit (FGE)
+REACTION	Reaktion
+REASON	Grund
+REASRET	Grund für Verrentung
+RECIP_CO	Art des Beitragsempfängers
+RECORD	Erfassung
+RECYCLED_OBJECT_8321	Test 19032020
+REGISVEH	Kategorie der Fahrzeugregistration
+REGIS_ES	Registrierung bei den Arbeitsverwaltungen
+RELEASE	Veröffentlichung
+REP_AIRP	Meldeflughafen
+REP_MAR	Seeverkehr (Meldeeinheit)
+REQUEST	Gesuche
+RESID	Aufenthaltsort
+RETURN	Art der Rückkehr
+RND_ACT	FuE Tätigkeiten
+RURALDEV	Ländliche Entwicklung
+SCHEDULE	Typ des Fahrplans
+SEABASIN	Meeresbecken
+SECTFUND	Finanzierungsquelle
+SECTOR	Sektor
+SECTOR10	Sektor (ESVG 2010)
+SECTOR2	Sektor des Transaktionspartners
+SECTPART	Sektor (ESVG 2010)
+SECTPERF	Leistungssektor
+SEVERITY	Schweregrad (Ausfalltage)
+SEX	Geschlecht
+SIEC	Standardisierte internationale Klassifikation der Energieprodukte (SIEC)
+SIGNAL	Art der Signalisierung
+SITC06	Internationales Warenverzeichnis für den Aussenhandel (SITC Rev. 4, 2006)
+SIZECLAS	Größenklassen nach Anzahl der Arbeitnehmer
+SIZEHATCH	Fassungsvermögen der Brütereien nach Anzahl der Eier
+SIZEN_R2	Größe der Unternehmen und Nace Rev. 2
+SIZES	Größe
+SIZE_EMP	Größenklassen (Anzahl) der Beschäftigten
+SIZE_EXPN	Größenklassen der Ausgaben
+SIZE_MBR	Größenklassen in Zahl der Mitglieder
+SKILLS	Fähigkeiten und Kompetenzen
+SMOKING	Raucherverhalten
+SNGLHLDR	Rechtsform: Einzelbetrieb: Ja/Nein
+SOIL_COV	Bodenbedeckung von Ackerland
+SOURCE	Datenquelle
+SOURINFO	Quellen von welchem die Teilnehmer haben information über Lernaktivitäten gefunden
+SO_EUR	Standardoutput in Euros
+SPDEP	ESSOSS-Ausgaben
+SPDEPB	ESSOSS-Pensionstyp
+SPDEPM	ESSOSS-mit Bedürftigkeitsprüfung
+SPDEPS	ESSOSS-Haupttypausgaben
+SPECIES	Arten
+SPFUNC	ESSOSS-Funktion
+SPSCHEME	ESSOSS-Systemkategorie
+SPSECTOR	ESSOSS-Einnahmen - Sektor der Herkunft
+SPTYPE	ESSOSS-Einnahmen
+SRC	Hydrologische Parameter, Ströme - Quellen - Wasserversorgung - Behandlung von Wasser
+SRC_ACT	Beschaffungsaktivität
+SRC_CRF	Quellsektoren für Treibhausgasemissionen (Gemeinsames Berichtsformat, UNFCCC)
+SRC_FUND	Finanzierungsquelle
+SRC_INFO	Informationsquelle
+SRC_NFR	Quellsektoren für die Emissionen von Luftschadstoffen (Nomenklatur für die Berichterstattung, CLRTAP)
+STARTIME	Anfangszeit der Aktivität
+STATINFO	Statistische Information
+STK_FLOW	Bestand oder Fluss
+STRUCPRO	Produktionsstruktur
+STUDENTC	Studentenkategorien
+SUBJNMON	Subjektiver und nicht-monetärer Indikator
+SUBJ_REGL	Gegenstand der Gesetzgebung
+SUBSTANCE	Substanzen
+SUBST_CAT	Einstufung von Wirkstoffen für den harmonisierten Risikoindikator
+SWMETHOD	Angewandte Methode für die Arbeitssuche
+S_ADJ	Saisonbereinigung
+TABLE_DIC	
+TAX	Steuern
+TECH	Technologische oder strukturelle Änderungen
+TENURE	Besitzverhältnis
+TERRTYPO	Territoriale Typologie
+TEST19032020	Test 19032020
+TESTDERIVED1	testderived1
+TESTMASTER1	testmaster1
+THICKNESS	Stärke
+TILLAGE	Bodenbearbeitung von Ackerland
+TIME	Zeitraum
+TINFO	Information zum Tourismus
+TNGPROV	Bildungsanbieter
+TONNAGE	Größenklassen in Bruttoraumzahl
+TRAIN	Zugart
+TRAINING	Ausbildung
+TRANS1G	Änderungen zur Vorgängergeneration
+TRANS1Y	Übergang von der vorherigen Jahr-Zustand
+TRANS2Y	Änderungen innerhalb von zwei Jahren
+TRANS3Y	Änderungen innerhalb von drei Jahren
+TRA_COV	Verkehrsumfang
+TRA_INFR	Verkehrsinfrastruktur
+TRA_MEAS	Verkehrsleistung
+TRA_MODE	Beförderungsart
+TRA_OPER	Art des Einsatzes und Ladestatus
+TREESPEC	Baumarten
+TRIPDEST	Art des Reiseziels
+TRIP_ARR	Reiseorganisation
+TWRK_HR	Unterrichtsaktivität während der Arbeitszeit
+TY	Ausgabenart
+TYPASSE	Einschätzung der Fähigkeit/Ausbildungsbedarf
+TYPASSWK	Art der geleisteten / benötigten Unterstützung zur Ausübung der Erwerbstätigkeit
+TYPCOST	Kostenart
+TYPEAGR	Art der Weiterbildungsvereinbarung
+TYPECOST	Ausgabenart
+TYPE_INN	Gliederung nach Innovationsart
+TYPPACK	Verpackungsart
+TYPTRAIF	Zukünftige Art der beruflichen Bildung
+TYP_REAR	Zuchtart
+UNIT	Maßeinheit
+VALUE	Monetäre Beträge nach Größenklassen
+VARIABLE	Variable
+VEHICLE	Fahrzeuge
+VESSEL	Schiffstyp
+VICTIM	Art des Personenschadens
+VINESPEC	Spezialisierung der Rebflächenbetriebe 
+VINETYPE	Art der Reben  
+VINEVAR	Hauptrebsorten
+VITYPE	Rebflächenart
+VIT_VTV	Anteil der Rebfläche in der landwirtschaftlich genutzten Fläche
+VOLUME	Volumen in Tonnen
+VTARCLS	Rebflächeklasse
+WANTWORK	Arbeitswilligkeit 
+WASTE	Abfallkategorien
+WATPOL	Wasserschadstoffe
+WAT_PROC	Wasser Prozess
+WAT_SRC	Wasserquellen
+WEEK	Kalenderwoche
+WEIGHT	Gewicht
+WINE_VAR	Keltertraubensorte
+WORKFIND	Methode der Arbeitssuche
+WORKINT	Arbeitsintensität
+WORKPLACE	Arbeitsplatz
+WORKPROC	Arbeitsprozess
+WORKSTUD	Arbeitserfahrung im Studium
+WORKTIME	Arbeitszeit
+WRKENV	Arbeitsumgebung
+WRKMETH	Arbeitsmethoden
+WRKPROC	Arbeitsprozess
+WRKSTAT	Arbeitsplatz
+WSTATUS	Erwerbstätigkeits- und Beschäftigungsstatus
+WSTATUS2	Erwerbstätigkeit in der zweiten Tätigkeit
+WSTATUSPR	Bevorzugter Erwerbstätigkeitsstatus
+WSTA_ACC	Erwerbstätigkeit nach dem Unfall
+WST_OPER	Abfallbewirtschaftungsmaßnahmen
+WTFLEX	Flexible Arbeitszeitregelung
+WW_GTD	Aufkommen, Behandlung und Ableitung von Abwasser
+WW_TP	Kläranlagen
+WW_TPAR	Parameter der Kläranlagen
+YES_NO	Antwort in Erhebung - Ja/Nein
+YIELDCLS	Ertragsklasse
+YLD_CURV	Renditenstrukturkurve 
+YNLFS	Modalitäten der Variable des Ad-hoc Moduls
+YN_DIF	Schwierigkeiten - Ja/Nein
+YN_DIS	Behinderung - Ja/Nein
+YN_RSKPOV	Von Armut bedroht - Ja/Nein
+Y_ARRIV	Ankunftsjahr
+Y_BIRTH	Geburtsjahr
+Y_CONST	Baujahr
+Y_REGIS	Registrierungsjahr

@@ -1,0 +1,29 @@
+TOTAL	Insgesamt
+PC0	Null Prozent
+PC0-1	0 (0 ausgeschlossen) bis 1 Prozent
+PC0-9	0 (0 ausgeschlossen) bis 9 Prozent
+PC0-24	0 (0 ausgeschlossen) bis 24 Prozent
+PC_LT10	Weniger als 10 Prozent
+PC_GE10	10 Prozent oder mehr
+PC1-4	1 bis 4 Prozent
+PC1-10	1 bis 10 Prozent
+PC1-24	1 bis 24 Prozent
+PC5-9	5 bis 9 Prozent
+PC10-19	10 bis 19 Prozent
+PC10-24	10 bis 24 Prozent
+PC11-20	11 bis 20 Prozent
+PC20-29	20 bis 29 Prozent
+PC21-40	21 bis 40 Prozent
+PC25-49	25 bis 49 Prozent
+PC30-39	30 bis 39 Prozent
+PC40-49	40 bis 49 Prozent
+PC_GT40	Mehr als 40 Prozent
+PC_LT50	Weniger als 50 Prozent
+PC50-74	50 bis 74 Prozent
+PC_GE50	50 Prozent oder mehr
+PC75-89	75 bis 89 Prozent
+PC_GE75	75 Prozent oder mehr
+PC90-99	90 bis 99 Prozent
+PC100	100 Prozent
+NAP	Nicht anwendbar
+UNK	Unbekannt

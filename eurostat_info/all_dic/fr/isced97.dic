@@ -1,0 +1,62 @@
+TOTAL	Ensemble des niveaux de la CITE 1997
+ED0-4	Education préprimaire, enseignement primaire, secondaire, et post-secondaire non-supérieur (niveaux 0-4) 
+ED0-3CS	Education préprimaire, enseignement primaire, et  secondaire de premier et deuxième cycles, d'une durée inférieure à 3 ans (niveaux 0-3CS)
+ED0-2	Education préprimaire, enseignement primaire et secondaire de premier cycle (niveaux 0-2)
+ED0_1	Education préprimaire, enseignement primaire (niveaux 0 et 1)
+ED0	Education préprimaire (niveau 0) 
+ED1-6	Enseignement primaire, secondaire de premier et deuxième cycles, post-secondaire non-supérieur, premier et deuxième cycles de l'enseignement supérieur (niveaux 1-6)
+ED1-4	Enseignement primaire, secondaire de premier et deuxième cycles, post-secondaire non-supérieur (niveaux 1-4)
+ED1-3	Enseignement primaire et secondaire de premier et deuxième cycles (niveaux 1-3)
+ED1_2	Enseignement primaire et premier cycle de l'enseignement secondaire (niveaux 1-2)
+ED1	Enseignement primaire ou premier cycle de l'éducation de base (niveau 1)
+ED2-4	Enseignement secondaire de premier et deuxième cycles, post-secondaire non-supérieur (niveaux 2-4)
+ED2-4V	Enseignement secondaire de premier et deuxième cycles, post-secondaire non-supérieur (niveaux 2-4) - orientation professionnelle ou technique
+ED2_3	Enseignement secondaire de premier et deuxième cycles (niveaux 2-3) 
+ED2	Premier cycle de l'enseignement secondaire ou deuxième cycle de l'éducation de base (niveau 2)
+ED2A	Enseignement secondaire de premier cycle (niveau 2A), programmes conçus pour un accès direct aux niveaux 3A ou 3B
+ED2B	Enseignement secondaire de premier cycle (niveau 2B), programmes conçus pour un accès direct au niveau 3C
+ED2C	Enseignement secondaire de premier cycle (niveau 2C), programmes conçus pour un accès direct au marché du travail
+ED2G	Premier cycle de l'enseignement secondaire (niveau 2) - orientation enseignement général
+ED2VPV	Premier cycle de l'enseignement secondaire (niveau 2) - orientations préprofessionnelle/prétechnique et professionnelle/technique
+ED2PV	Premier cycle de l'enseignement secondaire (niveau 2) - orientation préprofessionnelle ou prétechnique
+ED2V	Premier cycle de l'enseignement secondaire (niveau 2) - orientation professionnelle ou technique
+ED3-6	Enseignement secondaire de deuxième cycle, post-secondaire non-supérieur, premier et deuxième cycles de l'enseignement supérieur (niveaux 3-6)
+ED3_4	Enseignement secondaire de deuxième cycle et post-secondaire non-supérieur (niveaux 3-4)
+ED3AB_4	Enseignement secondaire de deuxième cycle (à l'exclusion du niveau 3C inférieur à 3 ans) et enseignement post-secondaire non supérieur (niveaux 3A, 3B et 4)
+ED3_4G	Enseignement secondaire de deuxième cycle et post-secondaire non-supérieur (niveaux 3 et 4) - orientation enseignement général
+ED3	Enseignement secondaire de deuxième cycle (niveau 3)
+ED3A	Enseignement secondaire de deuxième cycle (niveau 3A), programmes conçus pour permettre d'accéder directement au niveau 5A  
+ED3B	Enseignement secondaire de deuxième cycle (niveau 3B), programmes conçus pour permettre d'accéder directement au niveau 5B  
+ED3C	Enseignement secondaire de deuxième cycle (niveau 3C), programmes non conçus pour permettre d'accéder directement aux niveaux 5A ou 5B; ils mènent directement au marché du travail, à des programmes de niveau 4 ou à d'autres programmes de niveau 3
+ED3CS	Enseignement secondaire de deuxième cycle (niveau 3C), programmes non conçus pour permettre d'accéder directement aux niveaux 5A ou 5B - d'une durée inférieure à 3 ans 
+ED3CL	Enseignement secondaire de deuxième cycle (niveau 3C), programmes non conçus pour permettre d'accéder directement aux niveaux 5A ou 5B - d'une durée d'au moins 3 ans
+ED3G	Enseignement secondaire de deuxième cycle (niveau 3) - orientation enseignement général
+ED3VPV	Enseignement secondaire de deuxième cycle (niveau 3) - orientation préprofessionnelle et professionnelle
+ED3PV	Enseignement secondaire de deuxième cycle (niveau 3) - orientation préprofessionnelle ou prétechnique
+ED3V	Enseignement secondaire de deuxième cycle (niveau 3) - orientation professionnelle ou technique
+ED4-6	Enseignement post-secondaire non-supérieur et enseignement supérieur (niveaux 4-6)
+ED4	Enseignement post-secondaire non-supérieur (niveau 4)
+ED4A	Enseignement post-secondaire non-supérieur (niveau 4A),  programmes conçus pour permettre d'accéder directement au niveau 5A
+ED4B	Enseignement post-secondaire non-supérieur (niveau 4B), programmes conçus pour permettre d'accéder directement au niveau 5B
+ED4C	Enseignement post-secondaire non-supérieur (niveau 4C), programmes conçus pour permettre d'accéder directement au niveau 5
+ED4G	Enseignement post-secondaire non-supérieur (niveau 4) - orientation enseignement général
+ED4VPV	Enseignement post-secondaire non-supérieur (niveau 4) - orientation préprofessionnelle et professionnelle
+ED4PV	Enseignement post-secondaire non-supérieur (niveau 4) - orientation préprofessionnelle
+ED4V	Enseignement post-secondaire non-supérieur (niveau 4) - orientation professionnelle
+ED5_6	Enseignement supérieur de premier et deuxième cycles (niveaux 5-6)
+ED5A_6	Enseignement supérieur de premier cycle, programmes fondés sur la théorie/préparant à la recherche ou donnant accès à des professions exigeant de hautes compétences (niveau 5A) et deuxième cycle de l'enseignement supérieur (niveau 6)
+ED5	Premier cycle de l'enseignement supérieur ne conduisant pas directement à un titre de chercheur de haut niveau (niveau 5) 
+ED5A	Premier cycle de l'enseignement supérieur, programmes fondés sur la théorie/préparant à la recherche ou donnant accès à des professions exigeant de hautes compétences (niveau 5A)
+ED5AD1	Premier cycle de l'enseignement supérieur, programmes fondés sur la théorie/préparant à la recherche ou donnant accès à des professions exigeant de hautes compétences (premier diplôme du niveau 5A)
+ED5AD2	Premier cycle de l'enseignement supérieur, programmes fondés sur la théorie/préparant à la recherche ou donnant accès à des professions exigeant de hautes compétences (deuxième diplôme du niveau 5A)
+ED5B	Premier cycle de l'enseignement supérieur, programmes pratiques, techniques et préparant à un métier précis (niveau 5B)
+ED5BQ1	Premier cycle de l'enseignement supérieur, programmes pratiques, techniques et préparant à un métier précis (premier titre du niveau 5B)
+ED5BQ2	Premier cycle de l'enseignement supérieur, programmes pratiques, techniques et préparant à un métier précis (deuxième titre du niveau 5B)
+ED6	Deuxième cycle de l'enseignement supérieur, conduisant à un titre de chercheur hautement qualifié (niveau 6)
+ED6PHD	Doctorat 
+OTH	Autre niveau d'éducation
+ED_NED	Total de tous les niveaux de la CITE97 et 'pas d'éducation'
+NED	Pas d'éducation
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

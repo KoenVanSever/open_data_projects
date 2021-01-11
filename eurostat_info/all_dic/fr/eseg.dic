@@ -1,0 +1,62 @@
+TOTAL	Total
+ESEG0	Personnes dans la population active pour lesquelles la profession ou la situation dans la profession n'est pas connue
+ESEG01	Personnes avec un emploi pour lesquelles la profession ou la situation dans la profession n'est pas connue
+ESEG02	Chômeurs pour lesquels la profession ou la situation dans la profession n'est pas connue ou qui n'ont jamais travaillé
+ESEG1	Directeurs, cadres de direction et gérants
+ESEG10	Directeurs, cadres de direction et gérants - non précisé
+ESEG11	Fonctions de direction et d'encadrement de niveau supérieur, à titre indépendant
+ESEG12	Fonctions de direction et d'encadrement de niveau inférieur, à titre indépendant
+ESEG13	Fonctions de direction et d'encadrement de niveau supérieur, à titre salarié
+ESEG14	Fonctions de direction et d'encadrement de niveau inférieur, à titre salarié
+ESEG2	Professions intellectuelles et scientifiques
+ESEG20	Professions intellectuelles et scientifiques - non précisé
+ESEG21	Spécialistes des sciences techniques et des technologies de l'information et des communications
+ESEG22	Spécialistes de la santé
+ESEG23	Spécialistes en administration d'entreprises
+ESEG24	Spécialistes de la justice, des sciences sociales et de la culture
+ESEG25	Spécialistes de l'enseignement
+ESEG3	Professions intermédiaires salariées
+ESEG30	Professions intermédiaires salariées - non précisé
+ESEG31	Professions intermédiaires des sciences, des techniques, des technologies de l'information et des communications
+ESEG32	Professions intermédiaires de la santé
+ESEG33	Professions intermédiaires, finance et administration
+ESEG34	Professions intermédiaires des services juridiques, des services sociaux et de la culture
+ESEG35	Sous-officiers des forces armées
+ESEG4	Petits entrepreneurs
+ESEG40	Petits entrepreneurs - non précisé
+ESEG41	Travailleurs agricoles indépendants et assimilés
+ESEG42	Techniciens indépendants, travailleurs indépendants des secteurs du soutien administratif et des services directs aux particuliers, commerçants et vendeurs indépendants
+ESEG43	Conducteurs de véhicules indépendants, artisans et assimilés et travailleurs indépendants dans des professions élémentaires
+ESEG5	Employés de type administratif et salariés qualifiés des services directs aux particuliers
+ESEG50	Employés de type administratif et salariés qualifiés des services directs aux particuliers - non précisé
+ESEG51	Employés de bureau (fonctions générales), employés des services comptables et financiers et autres employés de type administratif
+ESEG52	Employés de réception, guichetiers et assimilés
+ESEG53	Personnel soignant salarié
+ESEG54	Salariés des services de protection et de sécurité et autres membres des forces armées
+ESEG6	Salariés qualifiés de l'industrie
+ESEG60	Salariés qualifiés de l'industrie - non précisé
+ESEG61	Salariés du bâtiment et assimilés
+ESEG62	Salariés de l'alimentation, du travail sur bois et de l'habillement
+ESEG63	Salariés de la métallurgie, de la construction mécanique, de l'artisanat, de l'imprimerie, de l'électricité et de l'électronique
+ESEG64	Salariés conducteurs de machines et d'installations fixes et salariés de l'assemblage
+ESEG65	Salariés conducteurs de véhicules et d'engins lourds de levage et de manoeuvre
+ESEG7	Salariés à statut professionnel inférieur
+ESEG70	Salariés à statut professionnel inférieur - non précisé
+ESEG71	Salariés des services directs aux particuliers et salariés du commerce et de la vente
+ESEG72	Manoeuvres de l'industrie et assistants de fabrication de l'alimentation
+ESEG73	Aides de ménage et agents d'entretien et salariés des services directs aux particuliers dans des professions élémentaires
+ESEG74	Salariés agricoles
+ESEG8	Retraités
+ESEG80	Retraités - non précisé
+ESEG81	Directeurs, cadres de direction et gérants retraités
+ESEG82	Retraités des professions intellectuelles et scientifiques
+ESEG83	Retraités des professions intermédiaires salariées
+ESEG84	Petits entrepreneurs retraités
+ESEG85	Employés de type administratif et salariés qualifiés des services directs aux particuliers retraités
+ESEG86	Salariés qualifiés de l'industrie retraités
+ESEG87	Salariés à statut professionnel inférieur retraités
+ESEG9	Autres personnes ne faisant pas partie de la population active
+ESEG91	Étudiants
+ESEG92	Personnes en invalidité permanente non retraitées
+ESEG99	Autres personnes ne faisant pas partie de la population active non classées ailleurs
+NRP	Sans réponse

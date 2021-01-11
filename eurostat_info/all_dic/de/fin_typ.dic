@@ -1,0 +1,6 @@
+LOAN	Finanzierung durch Kredite
+EQUIT	Finanzierung durch Beteiligung
+EQUIT_RNDINN	Finanzierung durch Beteiligung für Forschung und Entwicklung oder andere Innovationsaktivitäten
+DEBT	Fremdfinanzierung
+DEBT_RNDINN	Fremdfinanzierung für Forschung und Entwicklung oder andere Innovationsaktivitäten
+OTH	Sonstige

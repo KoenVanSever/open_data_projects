@@ -1,0 +1,58 @@
+TIPSBP10	Balance du compte des transactions courantes - % du PIB, moyenne sur 3 ans
+TIPSBP20	Balance du compte des transactions courantes - % du PIB
+TIPSII10	Positions extérieures nettes - % du PIB
+TIPSER10_1	Taux de change effectif réel, 42 partenaires commerciaux - variation en % sur 1 an
+TIPSER10_2	Taux de change effectif réel, 42 partenaires commerciaux - variation en % sur 3 ans
+TIPSEX10	Part de marché des exportations mondiales - variation en % sur 5 ans
+TIPSEX20	Part de marché des exportations mondiales - variation en % sur 1 an
+TIPSLM10	Coût salarial unitaire nominal - variation en % sur 3 ans
+TIPSLM20	Coût salarial unitaire nominal - variation en % sur 1 an
+TIPSHO10	Indice des prix des logements, déflaté - variation en % sur 1 an
+TIPSPC20	Flux de crédit du secteur privé, consolidé - % du PIB
+TIPSPC10	Flux de crédit du secteur privé, non consolidé, % du PIB
+TIPSPD20	Dette du secteur privé, consolidée - % du PIB
+TIPSGO10	Dette brute des administrations publiques - % du PIB
+TIPSFS10_1	Passifs du secteur des sociétés financières, non consolidés - variation en % sur 1 an
+TIPSFS10_2	Passifs du secteur des sociétés financières, non consolidés - millions de monnaie nationale
+TIPSUN10	Taux de chômage - moyenne sur 3 ans
+TIPSUN20	Taux de chômage - %
+TIPSNA10	Produit intérieur brut (PIB réel - variation en % sur 1 an
+TIPSNA20	Formation brute de capital fixe - % du PIB
+TIPSST10	Dépense intérieure brute de R&D. - % du PIB
+TIPSBP70	La capacité ou besoin de financement (Compte des transactions courantes et capitales) - % du PIB
+TIPSII20	Dette extérieure nette - % du PIB
+TIPSBP90	Investissements directs dans l'économie déclarante (flux) - % du PIB
+TIPSBP100	Investissements directs dans l'économie déclarante (stocks) - % du PIB
+TIPSEN10	Balance commerciale nette des produits énergétiques - % du PIB
+TIPSER20	Taux de change effectif réel, partenaires commerciaux zone euro - variation en % sur 3 ans
+TIPSBP60	Part de marché des exportations OCDE - variation en % sur 5 ans
+TIPSNA30	Termes de léchange (biens et services - variation en % sur 5 ans
+TIPSEX_V	Part de marché des exportations mondiales, volumes - variation en % sur 1 an
+TIPSNA70	Productivité du travail - variation en % sur 1 an
+TIPSNA40	Coût salarial unitaire nominal - variation en % sur 10 ans
+TIPSLM50	Performance des coûts salariaux unitaires par rapport à la zone euro - variation en % sur 10 ans
+TIPSHO20	Indice nominal du prix des logements - variation en % sur 3 ans
+TIPSNA50	Construction résidentielle - % du PIB
+TIPSPD10	Dette du secteur privé, non consolidée - % du PIB
+TIPSFS20	Levier du secteur financier (dette par rapport aux actions) - %
+TIPSNA60	Emploi - variation en % sur 1 an
+TIPSLM60_1	Taux dactivité (15 -64 ans) - % de la population totale du même groupe dâge
+TIPSLM60_2	Taux dactivité (15 -64 ans) - variation en points de % sur 3 ans
+TIPSLM70_1	Taux de chômage de longue durée - % de la population active du même groupe dâge)
+TIPSLM70_2	Taux de chômage de longue durée - % de la population active du même groupe dâge, variation en points de % sur 3 ans
+TIPSLM80_1	Taux de chômage des jeunes - % de la population active du même groupe dâge)
+TIPSLM80_2	Taux de chômage des jeunes - % de la population active du même groupe dâge, variation en points de % sur 3 ans
+TIPSLM90_1	Jeunes ne travaillant pas et ne suivant pas d'études ou de formation - % de la population totale)
+TIPSLM90_2	Jeunes ne travaillant pas et ne suivant pas d'études ou de formation - % de la population totale, variation en points de % sur 3 ans
+TIPSLC10_1	Personnes en risque de pauvreté ou d'exclusion sociale - % de la population totale)
+TIPSLC10_2	Personnes en risque de pauvreté ou d'exclusion sociale - % de la population totale, variation en points de % sur 3 ans
+TIPSLC20_1	Personnes en risque de pauvreté après transferts sociaux - % de la population totale)
+TIPSLC20_2	Personnes en risque de pauvreté après transferts sociaux - % de la population totale, variation en points de % sur 3 ans
+TIPSLC30_1	Personnes en situation de privation matérielle sévère - % de la population totale)
+TIPSLC30_2	Personnes en situation de privation matérielle sévère - % de la population totale, variation en points de % sur 3 ans
+TIPSLC40_1	Personnes vivant dans un ménage avec une très faible intensité de travail - % de la population âgée de 0 à 59 ans)
+TIPSLC40_2	Personnes vivant dans un ménage avec une très faible intensité de travail - % de la population âgée de 0 à 59 ans, variation en points de % sur 3 ans
+TIPSBD10	Prêts bruts non performants, entités nationales et étrangères - % des prêts bruts
+TIPSBD20	Effet bancaire consolidé, entités nationales et étrangères (multiple actif / équité)
+TIPSII50	Position extérieure nette hors instruments non défaillants - % du PIB
+TIPSPD22	Dette des ménages, consolidée y compris les institutions sans but lucratif au service des ménages - % du PIB

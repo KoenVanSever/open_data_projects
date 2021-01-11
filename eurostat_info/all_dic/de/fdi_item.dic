@@ -1,0 +1,54 @@
+DO__D__F	Direktinvestitionen im Ausland
+DO__D__F5A	Direktinvestitionen im Ausland  Anteilsrechte ohne reinvestierte Gewinne
+DO__D1D2__F5A	Direktinvestitionen im Ausland  Anteilsrechte ohne reinvestierte Gewinne (ohne wechselseitige Beteiligungen zwischen Schwesterunternehmen)
+DO__U1__F5A	Direktinvestitionen im Ausland  Anteilsrechte ohne reinvestierte Gewinne zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist im Meldeland ansässig)
+DO__D__F5B	Direktinvestitionen im Ausland  Reinvestierte Gewinne
+DO__D__F5	Direktinvestitionen im Ausland  Anteilsrechte
+DO__D1D2__F5	Direktinvestitionen im Ausland  Anteilsrechte (ohne wechselseitige Beteiligungen zwischen Schwesterunternehmen)
+DO__U1__F5	Direktinvestitionen im Ausland  wechselseitige Beteiligungen zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist im Meldeland ansässig)
+DO__D__FL	Direktinvestitionen im Ausland  Schuldtitel
+DO__D1D2__FL	Direktinvestitionen im Ausland  Schuldtitel (ohne Forderungen zwischen Schwesterunternehmen)
+DO__U1__FL	Direktinvestitionen im Ausland  Schuldtitel zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist im Meldeland ansässig)
+DI__D__F	Direktinvestitionen im Inland
+DI__D__F5A	Direktinvestitionen im Inland  Anteilsrechte ohne reinvestierte Gewinne
+DI__D1D2__F5A	Direktinvestitionen im Inland  Anteilsrechte ohne reinvestierte Gewinne (ohne wechselseitige Beteiligungen zwischen Schwesterunternehmen)
+DI__U2__F5A	Direktinvestitionen im Inland  Anteilsrechte ohne reinvestierte Gewinne zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist im Meldeland ansässig)
+DI__U21__F5A	Darunter: Oberste beherrschende Gesellschaft ist in einem anderen Land des Euro-Währungsgebiets ansässig
+DI__U22__F5A	Oberste beherrschende Gesellschaft ist in der EU, aber außerhalb des Euro-Währungsgebiets ansässig
+DI__U23__F5A	Oberste beherrschende Gesellschaft ist außerhalb der EU ansässig
+DI__D__F5B	Direktinvestitionen im Inland  Reinvestierte Gewinne
+DI__D__F5	Direktinvestitionen im Inland  Anteilsrechte
+DI__D1D2__F5	Direktinvestitionen im Inland  Anteilsrechte (ohne wechselseitige Beteiligungen zwischen Schwesterunternehmen)
+DI__U2__F5	Direktinvestitionen im Inland  wechselseitige Beteiligungen zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist nicht im Meldeland ansässig)
+DI__U21__F5	Darunter: Oberste beherrschende Gesellschaft ist in einem anderen Land des Euro-Währungsgebiets ansässig
+DI__U22__F5	Oberste beherrschende Gesellschaft ist in der EU, aber außerhalb des Euro-Währungsgebiets ansässig
+DI__U23__F5	Oberste beherrschende Gesellschaft ist außerhalb der EU ansässig
+DI__D__FL	Direktinvestitionen im Inland  Schuldtitel
+DI__D1D2__FL	Direktinvestitionen im Inland  Schuldtitel (ohne Schuldtitel zwischen Schwesterunternehmen)
+DI__U2__FL	Direktinvestitionen im Inland  Schuldtitel zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist nicht im Meldeland ansässig)
+DI__U21__FL	Darunter: Oberste beherrschende Gesellschaft ist in einem anderen Land des Euro-Währungsgebiets ansässig
+DI__U22__FL	Oberste beherrschende Gesellschaft ist in der EU, aber außerhalb des Euro-Währungsgebiets ansässig
+DI__U23__FL	Oberste beherrschende Gesellschaft ist außerhalb der EU ansässig
+DO__D4P__D__F	Direktinvestitionen im Ausland  Erträge
+DO__D42S__D__F5	Direktinvestitionen im Ausland  Dividenden
+DO__D42S__D1D2__F5	Direktinvestitionen im Ausland  Dividenden (ohne Dividenden zwischen Schwesterunternehmen)
+DO__D42S__U1__F5	Direktinvestitionen im Ausland  Dividenden zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist im Meldeland ansässig)
+DO__D43S__D__F5	Direktinvestitionen im Ausland  Reinvestierte Gewinne
+DO__D4Q__D__FL	Direktinvestitionen im Ausland  Erträge aus Forderungen
+DO__D4Q__D1D2__FL	Direktinvestitionen im Ausland  Erträge aus Forderungen (ohne Erträge aus Forderungen zwischen Schwesterunternehmen)
+DO__D4Q__U1__FL	Direktinvestitionen im Ausland  Erträge aus Forderungen zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist im Meldeland ansässig)
+DI__D4P__D__F	Direktinvestitionen im Inland  Erträge
+DI__D42S__D__F5	Direktinvestitionen im Inland  Dividenden
+DI__D42S__D1D2__F5	Direktinvestitionen im Inland  Dividenden (ohne Dividenden zwischen Schwesterunternehmen)
+DI__D42S__U2__F5	Direktinvestitionen im Inland  Dividenden zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist nicht im Meldeland ansässig)
+DI__D42S__U21__F5	Darunter: Oberste beherrschende Gesellschaft ist in einem anderen Land des Euro-Währungsgebiets ansässig
+DI__D42S__U22__F5	Oberste beherrschende Gesellschaft ist in der EU, aber außerhalb des Euro-Währungsgebiets ansässig
+DI__D42S__U23__F5	Oberste beherrschende Gesellschaft ist außerhalb der EU ansässig
+DI__D43S__D__F5	Direktinvestitionen im Inland  Reinvestierte Gewinne
+DI__D4Q__D__FL	Direktinvestitionen im Inland  Erträge aus Forderungen
+DI__D4Q__D1D2__FL	Direktinvestitionen im Inland  Erträge aus Forderungen (ohne Erträge aus Forderungen zwischen Schwesterunternehmen)
+DI__D4Q__U2__FL	Direktinvestitionen im Inland  Erträge aus Forderungen zwischen Schwesterunternehmen (oberste beherrschende Gesellschaft ist nicht im Meldeland ansässig)
+DI__D4Q__U21__FL	Darunter: Oberste beherrschende Gesellschaft ist in einem anderen Land des Euro-Währungsgebiets ansässig
+DI__D4Q__U22__FL	Oberste beherrschende Gesellschaft ist in der EU, aber außerhalb des Euro-Währungsgebiets ansässig
+DI__D4Q__U23__FL	Oberste beherrschende Gesellschaft ist außerhalb der EU ansässig
+NAP	Nicht anwendbar

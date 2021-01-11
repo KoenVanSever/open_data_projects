@@ -1,0 +1,640 @@
+HOLD_HOLD	expl: Nombre totale d'exploitations
+HOLDSL_HOLD	expl: Exploitations individuelles
+HOLDLEG_GRP_HOLD	expl: Personnes morales ou groupements
+AGRAREA_HA	ha: Superficie agricole utilisee (SAU)
+AGRAREA_HOLD	exploitations ayant Superficie agricole utilisee (SAU)
+AGRAREA_LSU	UGB des exploitations ayant Superficie agricole utilisee (SAU)
+B_1_HA	ha: Terres arables
+B_1_HOLD	expl:Terres arables
+B_1_1_HA	ha: Céréales
+B_1_1_HOLD	expl: Céréales
+B_1_1_1_HA	ha: Blé tendre et épeautre
+B_1_1_1_HOLD	expl: Blé tendre et épeautre
+B_1_1_2_HA	ha: Blé dur
+B_1_1_2_HOLD	expl: Blé dur
+B_1_1_3_HA	ha: Seigle
+B_1_1_3_HOLD	expl: Seigle
+B_1_1_4_HA	ha: Orge
+B_1_1_4_HOLD	expl: Orge
+B_1_1_5_HA	ha: Avoine
+B_1_1_5_HOLD	expl: Avoine
+B_1_1_6_HA	ha: Maïs-grain
+B_1_1_6_HOLD	expl: Maïs-grain
+B_1_1_7_HA	ha: Riz
+B_1_1_7_HOLD	expl: Riz
+B_1_1_99_HA	ha: Autres céréales
+B_1_1_99_HOLD	expl: Autres céréales
+B_1_2_HA	ha: Légumes secs - total
+B_1_2_HOLD	expl: Légumes secs - total
+B_1_345_HA	ha: Plantes sarclées
+B_1_345_HOLD	hold: Plantes sarclées
+B_1_3_HA	ha: Pommes de terre
+B_1_3_HOLD	expl: Pommes de terre
+B_1_4_HA	ha: Betteraves sucrières
+B_1_4_HOLD	expl: Betteraves sucrières
+B_3_99_HA	ha: Superficies fourragères
+B_3_99_HOLD	expl: Superficies fourragères
+B_1_5_HA	ha: Plantes sarclées fourragères
+B_1_5_HOLD	expl: Plantes sarclées fourragères
+B_1_6_HA	ha: Plantes industrielles
+B_1_6_HOLD	expl: Plantes industrielles
+B_1_6_1_HA	ha: Tabac
+B_1_6_1_HOLD	expl: Tabac
+B_1_6_2_HA	ha: Houblon
+B_1_6_2_HOLD	expl: Houblon
+B_1_6_3_HA	ha: Coton
+B_1_6_3_HOLD	expl: Coton
+B_1_6_4_HA	ha: Colza et navette
+B_1_6_4_HOLD	expl: Colza et navette
+B_1_6_5_HA	ha: Tournesol
+B_1_6_5_HOLD	expl: Tournesol
+B_1_6_6_HA	ha: Soja
+B_1_6_6_HOLD	expl: Soja
+B_1_6_7_11_HA	ha: Autres plantes oléagineuses ou textiles
+B_1_6_7_11_HOLD	expl: Autres plantes oléagineuses ou textiles
+B_1_6_12_HA	ha: Plantes aromatiques, médicinales et condimentaires
+B_1_6_12_HOLD	expl: Plantes aromatiques, médicinales et condimentaires
+B_1_6_99_HA	ha: Plantes industrielles, non mentionnées ailleurs
+B_1_6_99_HOLD	expl: Plantes industrielles, non mentionnées ailleurs
+B_4_7_7_2_8_2_HA	ha: Sous serre: Légumes frais, fleurs, cultures permanentes
+B_4_7_7_2_8_2_HOLD	expl: Sous serre: Légumes frais, fleurs, cultures permanentes
+B_1_7_HA	ha: Légumes frais, melons, fraises
+B_1_7_HOLD	expl: Légumes frais, melons, fraises
+B_1_7_1_HA	ha: En plein air: Légumes frais, melons, fraises
+B_1_7_1_HOLD	expl: En plein air: Légumes frais, melons, fraises
+B_1_7_1_1_HA	ha: Culture de plein champ: En plein air: Légumes frais, melons, fraises
+B_1_7_1_1_HOLD	expl: Culture de plein champ: En plein air: Légumes frais, melons, fraises
+B_1_7_1_2_HA	ha: Culture maraîchère: En plein air: Légumes frais, melons, fraises
+B_1_7_1_2_HOLD	expl: Culture maraîchère: En plein air: Légumes frais, melons, fraises
+B_1_7_2_HA	ha: Sous serre: Légumes frais, melons, fraises
+B_1_7_2_HOLD	expl: Sous serre: Légumes frais, melons, fraises
+B_1_8_HA	ha: Fleurs et plantes ornementales
+B_1_8_HOLD	expl: Fleurs et plantes ornementales
+B_1_8_1_HA	ha: En plein air: Fleurs et plantes ornementales
+B_1_8_1_HOLD	expl: En plein air: Fleurs et plantes ornementales
+B_1_8_2_HA	ha: Sous serre: Fleurs et plantes ornementales
+B_1_8_2_HOLD	expl: Sous serre: Fleurs et plantes ornementales
+B_1_9_HA	ha: Plantes fourragères - total
+B_1_9_HOLD	expl: Plantes fourragères - total
+B_1_9_1_HA	ha: Plantes fourragères - prairies et pâturages temporaires
+B_1_9_1_HOLD	expl: Plantes fourragères - prairies et pâturages temporaires
+B_1_9_2_HA	ha: Total: Autres fourrages verts: Plantes fourragères
+B_1_9_2_HOLD	expl: Total: Autres fourrages verts: Plantes fourragères
+B_1_9_2_1_HA	ha: Maïs fourrage: Autres fourrages verts: Plantes fourragères
+B_1_9_2_1_HOLD	expl: Maïs fourrage: Autres fourrages verts: Plantes fourragères
+B_1_9_2_2_HA	ha: Autres plantes fourragères: légumineuses
+B_1_9_2_2_HOLD	expl: Autres plantes fourragères: légumineuses
+B_1_9_2_99_HA	ha: Plantes fourragères - fourrages verts autres que maïs fourrage et légumineuses
+B_1_9_2_99_HOLD	expl: Plantes fourragères - fourrages verts autres que maïs fourrage et légumineuses
+B_1_10_11_HA	ha: Semences et plants de terres arables et autre
+B_1_10_11_HOLD	expl: Semences et plants de terres arables et autre
+B_1_10_HA	ha: Semences et plants de terres arables
+B_1_10_HOLD	expl: Semences et plants de terres arables
+B_1_11_HA	ha: Autres cultures de terres arables
+B_1_11_HOLD	expl: Autres cultures de terres arables
+B_1_12_HA	ha: Jachères - Total
+B_1_12_HOLD	expl: Jachères - Total
+B_2_HA	ha: Jardins familiaux
+B_2_HOLD	expl: Jardins familiaux
+B_3_HA	ha: Total: Prairies permanentes et pâturages
+B_3_HOLD	expl: Total: Prairies permanentes et pâturages
+B_3_1_HA	ha: Prairies permanentes et pâturages: Non compris les pâturages pauvres
+B_3_1_HOLD	expl: Prairies permanentes et pâturages: Non compris les pâturages pauvres
+B_3_2_HA	ha: Pâturages pauvres: Prairies permanentes et pâturages
+B_3_2_HOLD	expl: Pâturages pauvres: Prairies permanentes et pâturages
+B_3_3_HA	ha: Prairies permanentes et pâturages, non exploités, subventionnés
+B_3_3_HOLD	expl: Prairies permanentes et pâturages, non exploités, subventionnés
+B_4_HA	ha: Cultures permanentes
+B_4_HOLD	expl: Cultures permanentes
+B_4_1_HA	ha: Plantations d'arbres fruitiers et baies - total
+B_4_1_HOLD	expl: Plantations d'arbres fruitiers et baies - total
+B_4_1_1_HA	ha: Plantations d'arbres fruitiers et baies - Espèces à fruit
+B_4_1_1_HOLD	expl: Plantations d'arbres fruitiers et baies - Espèces à fruit
+B_4_1_1_1_HA	ha: Espèces à fruit de zone de climat tempéré
+B_4_1_1_1_HOLD	expl: Espèces à fruit de zone de climat tempéré
+B_4_1_1_2_HA	ha: Espèces à fruit de zone de climat sub-tropical
+B_4_1_1_2_HOLD	expl: Espèces à fruit de zone de climat sub-tropical
+B_4_1_2_HA	ha: Espèces à baies
+B_4_1_2_HOLD	expl: Espèces à baies
+B_4_1_99_1_HA	ha: Origine tempérée: Plantations d'arbres fruitiers et baies - jusqu'au 2007
+B_4_1_99_1_HOLD	expl: Origine tempérée: Plantations d'arbres fruitiers et baies - jusqu'au 2007
+B_4_1_99_2_HA	ha: Origine tropicale: Plantations d'arbres fruitiers et baies - jusqu'au 2007
+B_4_1_99_2_HOLD	expl: Origine tropicale: Plantations d'arbres fruitiers et baies - jusqu'au 2007
+B_4_1_3_HA	ha: Fruits à coque: Plantations d'arbres fruitiers et baies
+B_4_1_3_HOLD	expl: Fruits à coque: Plantations d'arbres fruitiers et baies
+B_4_2_HA	ha: Agrumeraies
+B_4_2_HOLD	expl: Agrumeraies
+B_4_3_HA	ha: Oliveraies - total
+B_4_3_HOLD	expl: Oliveraies - total
+B_4_3_1_HA	ha: Oliveraies - olives de table
+B_4_3_1_HOLD	expl: Oliveraies - olives de table
+B_4_3_2_HA	ha: Oliveraies - olives pour l'huile
+B_4_3_2_HOLD	expl: Oliveraies - olives pour l'huile
+B_4_4_HA	ha: Vignes - total
+B_4_4_HOLD	expl: Vignes - total
+B_4_4_1_HA	ha: Vignes - vins de qualité
+B_4_4_1_HOLD	expl: Vignes - vins de qualité
+B_4_4_2_HA	ha: Vignes - autres vins
+B_4_4_2_HOLD	expl: Vignes - autres vins
+B_4_4_3_HA	ha: Vignes - raisins de table
+B_4_4_3_HOLD	expl: Vignes - raisins de table
+B_4_4_4_HA	ha: Vignes - raisins secs
+B_4_4_4_HOLD	expl: Vignes - raisins secs
+B_4_5_HA	ha: Pépinières
+B_4_5_HOLD	expl: Pépinières
+B_4_6_HA	ha: Autres cultures permanentes
+B_4_6_HOLD	expl: Autres cultures permanentes
+B_4_7_HA	ha: Cultures permanentes sous serre
+B_4_7_HOLD	expl: Cultures permanentes sous serre
+B_5_HA	ha: Autres superficies - total
+B_5_HOLD	expl: Autres superficies - total
+B_5_1_5_3_HA	ha: Superficie agricole non utilisée et autres superficies
+B_5_1_5_3_HOLD	expl: Superficie agricole non utilisée et autres superficies
+B_5_1_HA	ha: Superficie agricole non utilisée
+B_5_1_HOLD	expl: Superficie agricole non utilisée
+B_5_2_HA	ha: Superficie boisée
+B_5_2_HOLD	expl: Superficie boisée
+B_5_2_1_HA	ha: Superficie boisée - Zones boisées à rotation rapide
+B_5_2_1_HOLD	expl.: Superficie boisée - Zones boisées à rotation rapide
+B_5_3_HA	ha: Autres superficies
+B_5_3_HOLD	expl: Autres superficies
+B_6_1_HA	ha: Champignons
+B_6_1_HOLD	expl: Champignons
+B_6_3_HA	ha: Cultures énergétiques
+B_6_3_HOLD	expl: Cultures énergétiques
+B_6_3_1_HA	ha: Cultures énergétiques en retrait des terres arables
+B_6_3_1_HOLD	expl: Cultures énergétiques en retrait des terres arables
+B_6_4_HA	ha: Cultures génétiquement modifiées
+B_6_4_HOLD	expl: Cultures génétiquement modifiées
+B_6_2_1_HA	ha: Superficies irrigables
+B_6_2_1_HOLD	expl: Superficies irrigables
+B_6_2_2_HA	ha: Superficies irriguées (jardins familiaux et serres non compris)
+B_6_2_2_HOLD	expl: Superficies irriguées (jardins familiaux et serres non compris)
+B_6_2_2_99_HOLD	expl: Superficies irriguées (y comp. jardins familiaux et serres)
+C_LIVESTOCK_HOLD	expl. ayant de chaptel
+C_LIVESTOCK_LSU	UGB dans les exploitations ayant de cheptel
+C_1_HEADS	Nb: Equidés
+C_1_HOLD	expl: Equidés
+C_1_3_LSU	UGB: Herbivores
+C_1_3_HOLD	explotations avec des herbivores
+C_2_LSU	UGB: Bovins
+C_2_HEADS	Nb: Bovins - total
+C_2_HOLD	expl: Bovins - total
+C_2_1_HEADS	Nb: Bovins <1 an
+C_2_1_HOLD	expl: Bovins <1 an
+C_2_2_HEADS	Nb: Bovins 1-< 2 ans - mâles
+C_2_2_HOLD	expl: Bovins 1-< 2 ans - mâles
+C_2_3_HEADS	Nb: Bovins 1-< 2 ans - femelles
+C_2_3_HOLD	expl: Bovins 1-< 2 ans - femelles
+C_2_4_HEADS	Nb: Bovins >= 2 ans - mâles
+C_2_4_HOLD	expl: Bovins >= 2 ans - mâles
+C_2_5_HEADS	Nb: Génisses, bovins >= 2 ans
+C_2_5_HOLD	expl: Génisses, bovins >= 2 ans
+C_2_6_HEADS	Nb: Vaches laitières, bovins >= 2 ans
+C_2_6_HOLD	expl: Vaches laitières, bovins >= 2 ans
+C_2_99_HEADS	Nb: Autres vaches, bovins >= 2 ans
+C_2_99_HOLD	expl: Autres vaches, bovins >= 2 ans
+C_3_1_HEADS	Nb: Ovins
+C_3_1_HOLD	expl: Ovins
+C_3_1_1_HEADS	Nb: Ovins, brebis reproductrices
+C_3_1_1_HOLD	expl: Ovins, brebis reproductrices
+C_3_1_99_HEADS	Nb: Ovins, autres
+C_3_1_99_HOLD	expl: Ovins, autres
+C_3_2_HEADS	Nb: Caprins
+C_3_2_HOLD	expl: Caprins
+C_3_2_1_HEADS	Nb: Caprins, chèvres reproductrices
+C_3_2_1_HOLD	expl: Caprins, chèvres reproductrices
+C_3_2_99_HEADS	Nb: Caprins, autres
+C_3_2_99_HOLD	expl: Caprins, autres
+C_4_HEADS	Nb: Porcins
+C_4_HOLD	expl: Porcins
+C_4_1_HEADS	Nb: Porcins, porcelets d'un poids vif de moins de 20 kg
+C_4_1_HOLD	expl: Porcins, porcelets d'un poids vif de moins de 20 kg
+C_4_2_HEADS	Nb: Porcins, truies reproductrices de 50 kg et plus
+C_4_2_HOLD	expl: Porcins, truies reproductrices de 50 kg et plus
+C_4_99_HEADS	Nb: Porcins, autres porcs
+C_4_99_HOLD	expl: Porcins, autres porcs
+C_5_1000_HEADS	1000 nb: Volaille
+C_5_HOLD	expl: Volaille
+C_5_1_1000_HEADS	1000 nb: Volaille, poulets de chair
+C_5_1_HOLD	expl: Volaille, poulets de chair
+C_5_2_1000_HEADS	1000 nb: Poules pondeuses
+C_5_2_HOLD	expl: Poules pondeuses
+C_5_3_1000_HEADS	1000nb: Volaille - autres
+C_5_3_HOLD	expl: Volaille - autres
+C_6_HEADS	Nb: Lapines mères
+C_6_HOLD	expl: Lapines mères
+C_7_HIVE	Nb: Abeilles (ruches)
+C_7_HOLD	expl: Abeilles (ruches)
+C_99_EQ_Y_HOLD	Exploitations avec des autres animaux d'élevage
+A_3_2_1_HOLD	expl:Agriculture biologique  - certifiée
+A_3_2_1_HA	ha:Agriculture biologique  - certifiée
+A_3_2_2_HOLD	expl:Mode d'exploitation - Conversion vers agriculture biologique
+A_3_2_2_HA	ha:Mode d'exploitation - Conversion vers agriculture biologique
+A_3_2_3_HOLD	expl:Agriculture biologique (y compris en conversion)
+A_3_2_3_HA	ha:Agriculture biologique (y compris en conversion)
+A_3_2_3_1_HOLD	expl:Agriculture biologique - céréales
+A_3_2_3_1_HA	ha:Agriculture biologique - céréales
+A_3_2_3_2_HOLD	expl:Agriculture biologique -  légumes secs et graines protéagineuses
+A_3_2_3_2_HA	ha:Agriculture biologique -  légumes secs et graines protéagineuses
+A_3_2_3_3_HOLD	expl:Agriculture biologique - pommes de terre
+A_3_2_3_3_HA	ha:Agriculture biologique - pommes de terre
+A_3_2_3_4_HOLD	expl:Agriculture biologique - betteraves sucrières
+A_3_2_3_4_HA	ha:Agriculture biologique - betteraves sucrières
+A_3_2_3_5_HOLD	expl:Agriculture biologique - plantes oléagineuses
+A_3_2_3_5_HA	ha:Agriculture biologique - plantes oléagineuses
+A_3_2_3_6_HOLD	expl:Agriculture biologique - légumes frais, melons, fraises
+A_3_2_3_6_HA	ha:Agriculture biologique - légumes frais, melons, fraises
+A_3_2_3_7_HOLD	expl:Agriculture biologique - pâturages et prés, non compris les pâturages pauvres
+A_3_2_3_7_HA	ha:Agriculture biologique - pâturages et prés, non compris les pâturages pauvres
+A_3_2_3_8_HOLD	expl:Agriculture biologique - plantations d'arbres fruitiers et baies
+A_3_2_3_8_HA	ha:Agriculture biologique - plantations d'arbres fruitiers et baies
+A_3_2_3_9_HOLD	expl:Agriculture biologique - agrumeraies
+A_3_2_3_9_HA	ha:Agriculture biologique - agrumeraies
+A_3_2_3_10_HOLD	expl:Agriculture biologique - oliveraies
+A_3_2_3_10_HA	ha:Agriculture biologique - oliveraies
+A_3_2_3_11_HOLD	expl:Agriculture biologique - vignobles
+A_3_2_3_11_HA	ha:Agriculture biologique - vignobles
+A_3_2_3_99_HOLD	expl:Agriculture biologique - autres cultures
+A_3_2_3_99_HA	ha:Agriculture biologique - autres cultures
+A_3_2_4_1_HOLD	expl: Agriculture biologique - bovins
+A_3_2_4_1_HEADS	têtes: Agriculture biologique - bovins
+A_3_2_4_2_HOLD	expl: Agriculture biologique - porcins
+A_3_2_4_2_HEADS	têtes: Agriculture biologique - porcins
+A_3_2_4_3_HOLD	expl: Agriculture biologique - ovins et caprins
+A_3_2_4_3_HEADS	têtes: Agriculture biologique - ovins et caprins
+A_3_2_4_4_HOLD	expl: Organic farming - voliailles
+A_3_2_4_4_HEADS	Nb: Organic farming - voliailles
+A_3_2_4_5_EQ_Y_HOLD	expl: production biologique - autres produits de l'elevage
+E_1_2_4B_EQ_Y_HOLD	Expl. avec formation du chef d'exploitation entreprise depuis 12 mois
+M_1_1_HA	ha: Travail du sol: conventionnel
+M_1_1_HOLD	expl: Travail du sol: conventionnel
+M_1_2_HA	ha: Travail du sol: de conservation
+M_1_2_HOLD	expl: Travail du sol: de conservation
+M_1_3_HA	ha: Travail du sol: zéro-labourage
+M_1_3_HOLD	expl: Travail du sol: zéro-labourage
+M_2_1_1_HA	ha: Couverture du sol en hiver: culture hivernale normale
+M_2_1_1_HOLD	expl: Couverture du sol en hiver: culture hivernale normale
+M_2_1_2_HA	ha: Couverture du sol en hiver: culture de couverture ou intermédiaire
+M_2_1_2_HOLD	expl: Couverture du sol en hiver: culture de couverture ou intermédiaire
+M_2_1_3_HA	ha: Couverture du sol en hiver: résidus végétaux
+M_2_1_3_HOLD	expl: Couverture du sol en hiver: résidus végétaux
+M_2_1_4_HA	ha: Couverture du sol en hiver: sol nu
+M_2_1_4_HOLD	expl: Couverture du sol en hiver: sol nu
+M_2_2_1_EQ_0_HOLD	expl: Part des terres arables exclues de l'assolement: 0
+M_2_2_1_EQ_0_HA	ha terres arables des expl: Part des terres arables exclues de l'assolement: 0
+M_2_2_1_EQ_24_HOLD	expl: Part des terres arables exclues de l'assolement: >0-<25
+M_2_2_1_EQ_24_HA	ha terres arables des expl: Part des terres arables exclues de l'assolement: >0-<25
+M_2_2_1_EQ_49_HOLD	expl: Part des terres arables exclues de l'assolement: >=25-<50
+M_2_2_1_EQ_49_HA	ha terres arables des expl: Part des terres arables exclues de l'assolement: >=25-<50
+M_2_2_1_EQ_74_HOLD	expl: Part des terres arables exclues de l'assolement: >=50-<75
+M_2_2_1_EQ_74_HA	ha terres arables des expl: Part des terres arables exclues de l'assolement: >=50-<75
+M_2_2_1_EQ_100_HOLD	expl: Part des terres arables exclues de l'assolement: >=75
+M_2_2_1_EQ_100_HA	ha terres arables des expl: Part des terres arables exclues de l'assolement: >=75
+M_3_1_ABC_Y_HOLD	expl: Eléments linéaires entretenus : oui
+M_3_1_A_EQ_Y_HOLD	expl: Eléments linéaires entretenus : haies - oui
+M_3_1_B_EQ_Y_HOLD	expl: Eléments linéaires entretenus : alignements d'arbres - oui
+M_3_1_C_EQ_Y_HOLD	expl: Eléments linéaires entretenus : murs de pierre - oui
+M_3_2_ABC_Y_HOLD	expl: Eléments linéaires implantés :  oui
+M_3_2_A_EQ_Y_HOLD	expl: Eléments linéaires implantés : haies - oui
+M_3_2_B_EQ_Y_HOLD	expl: Eléments linéaires implantés : alignements d'arbres - oui
+M_3_2_C_EQ_Y_HOLD	expl: Eléments linéaires implantés : murs de pierres - oui
+M_3_12_ABC_Y_HOLD	expl: Eléments linéaires implantés ou entretenus :  oui
+M_3_12_A_Y_HOLD	expl: Eléments linéaires implantés ou entretenus : haies - oui
+M_3_12_B_Y_HOLD	expl: Eléments linéaires implantés ou entretenus : alignements d'arbres - oui
+M_3_12_C_Y_HOLD	expl: Eléments linéaires implantés ou entretenus : murs de pierre - oui
+M_4_1_1_HA	ha: Pâturage sur l'exploitation : superficie pâturée pendant l'année précédente
+M_4_2_1_HEADS	Pâturage communaux : nombre d'animaux
+M_4_2_1_HOLD	Pâturage communaux : nombre d'exploitations
+M_4_2_1_LSU	Pâturage communaux: UGB des exploitations
+M_5_1_1_PLACES	places: Logement du cheptel - bovin : stabulation entravée, fumier solide et liquide
+M_5_1_1_HOLD	expl: Logement du cheptel - bovin : stabulation entravée, fumier solide et liquide
+M_5_1_1_HEADS	tetes: Logement du cheptel - bovin : stabulation entravée, fumier solide et liquide
+M_5_1_2_PLACES	places :Logement du cheptel - bovin : stabulation entravée, lisier
+M_5_1_2_HOLD	expl: Logement du cheptel - bovin : stabulation entravée, lisier
+M_5_1_2_HEADS	tetes :Logement du cheptel - bovin : stabulation entravée, lisier
+M_5_1_3_PLACES	places :Logement du cheptel - bovin : stabulation libre, fumier solide et liquide
+M_5_1_3_HOLD	expl :Logement du cheptel - bovin : stabulation libre, fumier solide et liquide
+M_5_1_3_HEADS	tetes :Logement du cheptel - bovin : stabulation libre, fumier solide et liquide
+M_5_1_4_PLACES	places :Logement du cheptel - bovin : stabulation libre, lisier
+M_5_1_4_HOLD	expl :Logement du cheptel - bovin : stabulation libre, lisier
+M_5_1_4_HEADS	tetes :Logement du cheptel - bovin : stabulation libre, lisier
+M_5_1_99_PLACES	places :Logement du cheptel - bovin : autres
+M_5_1_99_HOLD	expl :Logement du cheptel - bovin : autres
+M_5_1_99_HEADS	tetes :Logement du cheptel - bovin : autres
+M_5_2_1_PLACES	places: Logement du cheptel - porcin : caillebotis partiel
+M_5_2_1_HOLD	expl: Logement du cheptel - porcin : caillebotis partiel
+M_5_2_1_HEADS	tetes: Logement du cheptel - porcin : caillebotis partiel
+M_5_2_2_PLACES	places: Logement du cheptel - porcin : caillebotis intégral
+M_5_2_2_HOLD	expl: Logement du cheptel - porcin : caillebotis intégral
+M_5_2_2_HEADS	tetes: Logement du cheptel - porcin : caillebotis intégral
+M_5_2_3_PLACES	places: Logement du cheptel - porcin : litière paillée
+M_5_2_3_HOLD	expl: Logement du cheptel - porcin : litière paillée
+M_5_2_3_HEADS	tetes: Logement du cheptel - porcin : litière paillée
+M_5_2_99_PLACES	places: Logement du cheptel - porcin : autres
+M_5_2_99_HOLD	expl: Logement du cheptel - porcin : autres
+M_5_2_99_HEADS	tetes: Logement du cheptel - porcin : autres
+M_5_3_1_PLACES	places: Logement du cheptel - poules pondeuses : litière paillée
+M_5_3_1_HOLD	expl: Logement du cheptel - poules pondeuses : litière paillée
+M_5_3_1_1000_HEADS	1000 nb: Logement du cheptel - poules pondeuses : litière paillée
+M_5_3_2_PLACES	places: Logement du cheptel - poules pondeuses : cages en batterie (tous types)
+M_5_3_2_HOLD	expl: Logement du cheptel - poules pondeuses : cages en batterie (tous types)
+M_5_3_2_1000_HEADS	1000 nb: Logement du cheptel - poules pondeuses : cages en batterie (tous types)
+M_5_3_2_1_PLACES	places: Logement du cheptel - poules pondeuses : cages en batterie (ceinture pour fumier)
+M_5_3_2_1_HOLD	expl: Logement du cheptel - poules pondeuses : cages en batterie (ceinture pour fumier)
+M_5_3_2_1_1000_HEADS	1000 nb: Logement du cheptel - poules pondeuses : cages en batterie (ceinture pour fumier)
+M_5_3_2_2_PLACES	places: Logement du cheptel - poules pondeuses : cages en batterie (avec fosse)
+M_5_3_2_2_HOLD	expl: Logement du cheptel - poules pondeuses : cages en batterie (avec fosse)
+M_5_3_2_2_1000_HEADS	1000 nb: Logement du cheptel - poules pondeuses : cages en batterie (avec fosse)
+M_5_3_2_3_PLACES	places: Logement du cheptel - poules pondeuses : cages en batterie (sur pilotis)
+M_5_3_2_3_HOLD	expl: Logement du cheptel - poules pondeuses : cages en batterie (sur pilotis)
+M_5_3_2_3_1000_HEADS	1000 nb: Logement du cheptel - poules pondeuses : cages en batterie (sur pilotis)
+M_5_3_99_PLACES	places: Logement du cheptel - poules pondeuses : autre que litière pailléé et cages en batterie
+M_5_3_99_HOLD	expl: Logement du cheptel - poules pondeuses : autre que litière pailléé et cages en batterie
+M_5_3_99_1000_HEADS	1000 nb: Logement du cheptel - poules pondeuses : autre que litière pailléé et cages en batterie
+M_6_1_2_EQ_0_HOLD	expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - 0
+M_6_1_2_EQ_0_HA	ha SAU des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) = 0
+M_6_1_2_EQ_0_LSU	UGB des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) = 0
+M_6_1_2_EQ_24_HOLD	expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - >0-<25
+M_6_1_2_EQ_24_HA	ha SAU des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - >0-<25
+M_6_1_2_EQ_24_LSU	UGB des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - >0-<25
+M_6_1_2_EQ_49_HOLD	expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - 25-<50
+M_6_1_2_EQ_49_HA	ha SAU des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - 25-<50
+M_6_1_2_EQ_49_LSU	UGB des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - 25-<50
+M_6_1_2_EQ_74_HOLD	expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - 50-<75
+M_6_1_2_EQ_74_HA	ha SAU des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - 50-<75
+M_6_1_2_EQ_74_LSU	UGB des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - 50-<75
+M_6_1_2_EQ_100_HOLD	expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - >=75
+M_6_1_2_EQ_100_HA	ha SAU des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - >=75
+M_6_1_2_EQ_100_LSU	UGB des expl: Ependage du fumier : % de SAU avec du fumier épandu (absorption immédiate) - >=75
+M_6_2_2_EQ_0_HOLD	expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) = 0
+M_6_2_2_EQ_0_HA	ha SAU des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) = 0
+M_6_2_2_EQ_0_LSU	UGB des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) = 0
+M_6_2_2_EQ_24_HOLD	expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - >0-<25
+M_6_2_2_EQ_24_HA	ha SAU des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - >0-<25
+M_6_2_2_EQ_24_LSU	UGB des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - >0-<25
+M_6_2_2_EQ_49_HOLD	expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - 25-<50
+M_6_2_2_EQ_49_HA	ha SAU des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - 25-<50
+M_6_2_2_EQ_49_LSU	UGB des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - 25-<50
+M_6_2_2_EQ_74_HOLD	expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - 50-<75
+M_6_2_2_EQ_74_HA	ha SAU des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - 50-<75
+M_6_2_2_EQ_74_LSU	UGB des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - 50-<75
+M_6_2_2_EQ_100_HOLD	expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - >=75
+M_6_2_2_EQ_100_HA	ha SAU des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - >=75
+M_6_2_2_EQ_100_LSU	UGB des expl: Ependage du lisier : % de SAU avec du lisier épandu (absorption immédiate) - >=75
+M_7_1_1_EQ_Y_HOLD	expl: Exploitations avec installation de stockage pour fumier solide
+M_7_1_1_EQ_Y_HA	ha SAU des exploitations avec installation de stockage pour fumier solide
+M_7_1_1_EQ_Y_LSU	UGB des exploitations avec installation de stockage pour fumier solide
+M_7_1_2_EQ_Y_HOLD	expl: Exploitations avec installation de stockage pour fumier liquide
+M_7_1_2_EQ_Y_HA	ha SAU des exploitations avec installation de stockage pour fumier liquide
+M_7_1_2_EQ_Y_LSU	UGB des exploitations avec installation de stockage pour fumier liquide
+M_7_1_3_1_EQ_Y_HOLD	expl: Exploitations avec réservoir pour lisier
+M_7_1_3_1_EQ_Y_HA	ha SAU des exploitations avec réservoir pour lisier
+M_7_1_3_1_EQ_Y_LSU	UGB des exploitations avec réservoir pour lisier
+M_7_1_3_2_EQ_Y_HOLD	expl: Exploitations avec bassin pour lisier
+M_7_1_3_2_EQ_Y_HA	ha SAU des exploitations avec bassin pour lisier
+M_7_1_3_2_EQ_Y_LSU	UGB des exploitations avec bassin pour lisier
+M_7_2_1_EQ_Y_HOLD	expl: Exploitations avec installation couverte  de stockage pour fumier solide
+M_7_2_1_EQ_Y_HA	ha SAU des exploitations avec installation couverte  de stockage pour fumier solide
+M_7_2_1_EQ_Y_LSU	UGB des exploitations avec installation couverte  de stockage pour fumier solide
+M_7_2_2_EQ_Y_HOLD	expl: Exploitations avec Installation couverte de stockage pour fumier liquide
+M_7_2_2_EQ_Y_HA	ha SAU des exploitations avec Installation couverte de stockage pour fumier liquide
+M_7_2_2_EQ_Y_LSU	UGB des exploitations avec Installation couverte de stockage pour fumier liquide
+M_7_2_3_EQ_Y_HOLD	expl: Exploitations avec installation couverte de stockage pour lisier
+M_7_2_3_EQ_Y_HA	ha SAU des exploitations avec installation couverte de stockage pour lisier
+M_7_2_3_EQ_Y_LSU	UGB des exploitations avec installation couverte de stockage pour lisier
+M_8_1_1_HA	ha: Superficie moyenne irriguée dans les 3 dernières années
+M_8_1_1_HOLD	expl: Superficie moyenne irriguée dans les 3 dernières années
+M_8_1_2_1_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : céréales (hors maïs et riz)
+M_8_1_2_1_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : céréales (hors maïs et riz)
+M_8_1_2_2_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : maïs (grain et vert)
+M_8_1_2_2_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : maïs (grain et vert)
+M_8_1_2_3_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : riz
+M_8_1_2_3_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : riz
+M_8_1_2_4_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : légumes secs
+M_8_1_2_4_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : légumes secs
+M_8_1_2_5_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : pommes de terre
+M_8_1_2_5_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : pommes de terre
+M_8_1_2_6_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : betterave sucrière
+M_8_1_2_6_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : betterave sucrière
+M_8_1_2_7_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : colza et navette
+M_8_1_2_7_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : colza et navette
+M_8_1_2_8_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : tournesol
+M_8_1_2_8_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : tournesol
+M_8_1_2_9_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : plantes à fibres
+M_8_1_2_9_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : plantes à fibres
+M_8_1_2_10_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : legumes frais, melons, fraises de plein champ
+M_8_1_2_10_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : legumes frais, melons, fraises de plein champ
+M_8_1_2_11_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : herbages temporaires et prairie permanente
+M_8_1_2_11_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : herbages temporaires et prairie permanente
+M_8_1_2_12_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : autres cultures de terres arables
+M_8_1_2_12_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : autres cultures de terres arables
+M_8_1_2_13_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : plantations d'arbres fruitiers et baies
+M_8_1_2_13_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : plantations d'arbres fruitiers et baies
+M_8_1_2_14_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : agrumeraies
+M_8_1_2_14_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : agrumeraies
+M_8_1_2_15_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : oliveraies
+M_8_1_2_15_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : oliveraies
+M_8_1_2_16_HA	ha: Superficie de culture irriguée au cours des 12 derniers mois : vignes
+M_8_1_2_16_HOLD	expl: Superficie de culture irriguée au cours des 12 derniers mois : vignes
+M_8_2_1_EQ_Y_HOLD	expl: Exploitations avec: Méthodes d'irrigation : Irrigation de surface
+M_8_2_2_EQ_Y_HOLD	expl: Exploitations avec: Méthodes d'irrigation : Irrigation par aspersion
+M_8_2_3_EQ_Y_HOLD	expl: Exploitations avec: Méthodes d'irrigation : Irrigation par goutte-à-goutte
+M_8_3_1_EQ_Y_HOLD	expl: Exploitations avec: Origine de l'eau : eau souterraine de l'exploitation
+M_8_3_2_EQ_Y_HOLD	expl: Exploitations avec: Origine de l'eau : eau de surface de l'exploitation
+M_8_3_3_EQ_Y_HOLD	expl: Exploitations avec: Origine de l'eau : eau de surface importée
+M_8_3_4_EQ_Y_HOLD	expl: Exploitations avec: Origine de l'eau : eau importée d'un réseau d'approvisionnement
+M_8_3_99_EQ_Y_HOLD	expl: Exploitations avec: Origine de l'eau : autre origine
+M_8_4_M3	Volume d'eau utilisée pour l'irrigation par an - en m3
+LFH_W_PERS	pers: Exploitants individuels travaillant a l'exploitation
+LFH_W_F_PERS	pers: Fém.: Exploitants individuels travaillant a l'exploitation
+LFH_W_M_PERS	pers: Masc.: Exploitants individuels travaillant a l'exploitation
+LFRMF_PERS	pers: Main-d'oeuvre: Membres de la famille des exploitants individuels
+LFRMF_M_PERS	pers: Masc.: Main-d'oeuvre: Membres de la famille des exploitants individuels
+LFRMF_F_PERS	pers: Fém.: Main-d'oeuvre: Membres de la famille des exploitants individuels
+LFRF_PERS	pers: Main-d'oeuvre familiale
+LFRF_M_PERS	pers: Masc.: Main-d'oeuvre familiale
+LFRF_F_PERS	pers: Fém.: Main-d'oeuvre familiale
+LFRNF_PERS	pers: Main-d'oeuvre: Non familiale régulièrement occupée
+LFRNF_M_PERS	pers: Masc.: Main-d'oeuvre: Non familiale régulièrement occupée
+LFRNF_F_PERS	pers: Fém.: Main-d'oeuvre: Non familiale régulièrement occupée
+LFR_PERS	pers: Main-d'oeuvre: Régulièrement occupée
+LFR_M_PERS	pers:Masc.: Main-d'oeuvre: Régulièrement occupée
+LFR_F_PERS	pers: Fém.: Main-d'oeuvre: Régulièrement occupée
+LFH_AWU	UTA: Exploitants individuels
+LFH_W_F_AWU	UTA: Fém.: Exploitants individuels travaillant a l'exploitation
+LFH_W_M_AWU	UTA: Masc: Exploitants individuels travaillant a l'exploitation
+LFRMF_AWU	UTA: Main-d'oeuvre: Membres de la famille des exploitants individuels
+LFRMF_M_AWU	UTA: Masc.: Main-d'oeuvre: Membres de la famille des exploitants individuels-calcul
+LFRMF_F_AWU	UTA: Fém.: Main-d'oeuvre: Membres de la famille des exploitants individuels-calcul
+LFRF_AWU	UTA: Main-d'oeuvre familiale
+LFRF_M_AWU	UTA: Masc.: Main-d'oeuvre familiale
+LFRF_F_AWU	UTA: Fém.: Main-d'oeuvre familiale
+LFRNF_AWU	UTA: Main-d'oeuvre non familiale régulièrement occupée
+LFRNF_M_AWU	UTA: Masc.: Main-d'oeuvre: Non familiale régulièrement occupée
+LFRNF_F_AWU	UTA: Fém.: Main-d'oeuvre: Non familiale régulièrement occupée
+LFR_AWU	UTA: Main-d'oeuvre: Régulièrement occupée
+LFR_M_AWU	UTA:  Masc.: Main-d'oeuvre: Régulièrement occupée
+LFR_F_AWU	UTA: Fém.: Main-d'oeuvre: Régulièrement occupée
+LFNRNF_AWU	UTA: Main-d'oeuvre non familiale non régulièrement occupée
+LFD_AWU	UTA: Main-d'oeuvre - directement employée par l'exploitation
+LFND_AWU	UTA: Main-d'oeuvre  non directement employée par l'exploitation
+SO_EURO	Euro: Production standard (PS)
+A_3_1_1_HA	ha: Faire-valoir direct: SAU
+A_3_1_1_HOLD	expl: Faire-valoir direct: SAU
+A_3_1_2_HA	ha: Fermage: SAU
+A_3_1_2_HOLD	expl: Fermage: SAU
+A_3_1_3_HA	ha: Métayage et en autres modes de faire-valoir: SAU
+A_3_1_3_HOLD	expl: Métayage et en autres modes de faire-valoir: SAU
+TOTAREA_HA	ha: Superficie totale
+TOTAREA_HOLD	expl: Superficie totale
+A_3_3_1_EQ_Y_HOLD	expl: Plus de 50% de la production est consommée par l'exploitant
+LFROF_PERS	total: Members of sole holder's family- persons
+D_2_1_1_Y_HOLD	Exploitations avec d'equipement pour la production d'énergie: vent
+D_2_1_1_Y_HA	ha: SAU des exploitations avec d'equipement pour la production d'énergie: vent
+D_2_1_2_Y_HOLD	Exploitations avec d'equipement pour la production d'énergie: biomasse
+D_2_1_2_Y_HA	ha: SAU des exploitations avec d'equipement pour la production d'énergie: biomasse
+D_2_1_2_1_Y_HOLD	Exploitations avec d'equipement pour la production d'énergie: biométhane de la biomasse
+D_2_1_2_1_Y_HA	ha: SAU des exploitations avec d'equipement pour la production d'énergie: biométhane de la biomasse
+D_2_1_3_Y_HOLD	Exploitations avec d'equipement pour la production d'énergie: énergie solaire
+D_2_1_3_Y_HA	ha: SAU des exploitations avec d'equipement pour la production d'énergie: énergie solaire
+D_2_1_4_Y_HOLD	Exploitations avec equipement pour la production d'énergie: hydroénergie
+D_2_1_4_Y_HA	ha: SAU des exploitations avec equipement pour la production d'énergie: hydroénergie
+D_2_1_99_Y_HOLD	Exploitations avec equipement pour la production d'énergie: autres sources
+D_2_1_99_Y_HA	ha: SAU des exploitations avec equipement pour la production d'énergie: autres sources
+OGA_H_D_Y_HOLD	expl. avec une AAL de l'exploitant individuel/chef d'exploitation directement liée à l'exploitation
+OGA_H_N_Y_HOLD	expl. avec une AAL de l'exploitant individuel/chef d'exploitation non liée à l'exploitation
+OGA_S_D_Y_HOLD	expl. avec une AAL du conjoint d'exploitant individuel/chef d'exploitation directement liée à l'exploitation
+OGA_S_N_Y_HOLD	expl. avec une AAL du conjoint d'exploitant individuel/chef d'exploitation non liée à l'exploitation
+OGA_F_M_PERS	pers: Autres membres famille de l'exploitant individuel ayant une AAL principale
+OGA_F_M_HOLD	expl: Autres membres famille de l'exploitant individuel ayant une AAL principale
+OGA_F_S_PERS	pers: Autres membres famille de l'exploitant individuel ayant une AAL secondaire
+OGA_F_S_HOLD	expl: Autres membres famille de l'exploitant individuel ayant une AAL secondaire
+OGA_F_D_PERS	pers: Autres membres famille de l'exploitant individuel ayant une AAL lié à'l exploitation
+OGA_F_D_HOLD	expl: Autres membres famille de l'exploitant individuel ayant une AAL lié à'l exploitation
+OGA_F_N_PERS	pers: Autres membres famille de l'exploitant individuel ayant une AAL non lié à'l exploitation
+OGA_F_N_HOLD	expl: Autres membres famille de l'exploitant individuel ayant une AAL non lié à'l exploitation
+OGA_N_D_M_PERS	pers: main-d'oeuvre non-familiale ayant une AAL principale lié à'l exploitation
+OGA_N_D_M_HOLD	expl: main-d'oeuvre non-familiale ayant une AAL principale lié à'l exploitation
+OGA_N_D_S_PERS	pers: main-d'oeuvre non-familiale ayant une AAL secondaire lié à'l exploitation
+OGA_N_D_S_HOLD	expl: main-d'oeuvre non-familiale ayant une AAL secondaire lié à'l exploitation
+OGA_F_1_Y_HOLD	Exploitations avec AAL
+OGA_F_1_Y_HA	ha: SAU des expl.  avec AAL
+OGA_F_1_Y_EUR	Euro: PS des expl.  avec AAL
+OGA_F_1_Y_LSU	UGB des expl. avec AAL
+OGA_F_1_1_Y_HOLD	expl. avec AAL Tourisme
+OGA_F_1_1_Y_HA	ha: SAU des expl. avec AAL Tourisme
+OGA_F_1_1_Y_EUR	Euro: PS des expl. avec AAL Tourisme
+OGA_F_1_1_Y_LSU	LSU des expl. avec AAL Tourisme
+OGA_F_1_2_Y_HOLD	expl. avec AAL Artisanat
+OGA_F_1_2_Y_HA	ha: SAU des expl. avec AAL Artisanat
+OGA_F_1_2_Y_EUR	Euro: PS des expl. avec AAL Artisanat
+OGA_F_1_2_Y_LSU	UGB des expl. avec AAL Artisanat
+OGA_F_1_3_Y_HOLD	expl. avec AAL Produits agricoles transformés
+OGA_F_1_3_Y_HA	ha: SAU des expl. avec AAL Produits agricoles transformés
+OGA_F_1_3_Y_EUR	Euro: PS des expl. avec AAL Produits agricoles transformés
+OGA_F_1_3_Y_LSU	UGB des expl. avec AAL Produits agricoles transformés
+OGA_F_1_4_Y_HOLD	expl. avec AAL Production d'énergie renouvelable
+OGA_F_1_4_Y_HA	ha: SAU des expl. avec AAL Production d'énergie renouvelable
+OGA_F_1_4_Y_EUR	Euro: PS des expl. avec AAL Production d'énergie renouvelable
+OGA_F_1_4_Y_LSU	LSU des expl. avec AAL Production d'énergie renouvelable
+OGA_F_1_5_Y_HOLD	expl. avec AAL Transformation du bois
+OGA_F_1_5_Y_HA	ha: SAU des expl. avec AAL Transformation du bois
+OGA_F_1_5_Y_EUR	Euro: PS des expl. avec AAL Transformation du bois
+OGA_F_1_5_Y_LSU	UGB des expl. avec AAL Transformation du bois
+OGA_F_1_6_Y_HOLD	expl. avec AAL Aquaculture
+OGA_F_1_6_Y_HA	ha: SAU des expl. avec AAL Aquaculture
+OGA_F_1_6_Y_EUR	Euro: PS des expl. avec AAL Aquaculture
+OGA_F_1_6_Y_LSU	UGB des expl. avec AAL Aquaculture
+OGA_F_1_7_Y_HOLD	expl. avec AAL Travail à façon
+OGA_F_1_7_Y_HA	ha: SAU des expl. avec AAL Travail à façon
+OGA_F_1_7_Y_EUR	Euro: PS des expl. avec AAL Travail à façon
+OGA_F_1_7_Y_LSU	UGB des expl. avec AAL Travail à façon
+OGA_F_1_7_1_Y_HOLD	expl. avec AAL Travail agricole à façon
+OGA_F_1_7_1_Y_HA	ha: SAU des expl. avec AAL Travail agricole à façon
+OGA_F_1_7_1_Y_EUR	Euro: PS des expl. avec AAL Travail agricole à façon
+OGA_F_1_7_1_Y_LSU	UGB des expl. avec AAL Travail agricole à façon
+OGA_F_1_7_2_Y_HOLD	expl. avec AAL Travail non agricole à façon
+OGA_F_1_7_2_Y_HA	ha: SAU des expl. avec AAL Travail non agricole à façon
+OGA_F_1_7_2_Y_EUR	Euro: PS des expl. avec AAL Travail non agricole à façon
+OGA_F_1_7_2_Y_LSU	UGB des expl. avec AAL Travail non agricole à façon
+OGA_F_1_8_Y_HOLD	expl. avec AAL Travail en sylviculture
+OGA_F_1_8_Y_HA	ha: SAU des expl. avec AAL Travail en sylviculture
+OGA_F_1_8_Y_EUR	Euro: PS des expl. avec AAL Travail en sylviculture
+OGA_F_1_8_Y_LSU	UGB des expl. avec AAL Travail en sylviculture
+OGA_F_1_99_Y_HOLD	expl. avec AAL non communiqueé ailleurs
+OGA_F_1_99_Y_HA	ha: SAU des expl. avec AAL n.c.a.
+OGA_F_1_99_Y_EUR	Euro: PS des expl. avec AAL n.c.a.
+OGA_F_1_99_Y_LSU	UGB des expl. avec AAL n.c.a.
+OGA_F_2_1_0_HOLD	Exploitations  avec jusque 10% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_0_HA	ha: SAU des expl. avec jusque 10% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_0_EUR	Euro: PS des expl. avec jusque 10% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_0_LSU	UGB des expl. avec jusque 10% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_11_HOLD	Exploitations  avec entre 10% et 50% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_11_HA	ha: SAU des expl. avec entre 10% et 50% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_11_EUR	Euro: PS des expl. avec entre 10% et 50% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_11_LSU	UGB des expl. avec entre 10% et 50% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_51_HOLD	Exploitations avec plus de 50% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_51_HA	ha: SAU des expl. avec plus de 50% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_51_EUR	Euro: PS des expl. avec plus de 50% du chiffre d'affaire d'origine  'AAL'
+OGA_F_2_1_51_LSU	UGB des expl. avec plus de 50% du chiffre d'affaire d'origine  'AAL'
+RD_G_1_Y_HOLD	exploitations bénéficiant des mesures du développement rural
+RD_G_1_Y_HA	ha: SAU des expl. bénéficiant des mesures du développement rural
+RD_G_1_Y_EUR	Euro: PS des expl. bénéficiant des mesures du développement rural
+RD_G_1_Y_LSU	UGB des expl. bénéficiant des mesures du développement rural
+RD_G_1_1_Y_HOLD	exploitations bénéficiant de services de conseil (Développement rural)
+RD_G_1_1_Y_HA	ha: SAU des expl. bénéficiant de services de conseil (Développement rural)
+RD_G_1_1_Y_EUR	Euro: PS des expl. bénéficiant de services de conseil (Développement rural)
+RD_G_1_1_Y_LSU	UGB des expl. bénéficiant de services de conseil (Développement rural)
+RD_G_1_2_Y_HOLD	exploitations bénéficiant de mesures de modernisation (Développement rural)
+RD_G_1_2_Y_HA	ha: SAU des expl. bénéficiant de mesures de modernisation (Développement rural)
+RD_G_1_2_Y_EUR	Euro: PS des  expl. bénéficiant de mesures de modernisation (Développement rural)
+RD_G_1_2_Y_LSU	UGB des expl. bénéficiant de mesures de modernisation (Développement rural)
+RD_G_1_3_Y_HOLD	exploitations  bénéficiant de mesures de valeur ajoutée des produits (Développement rural)
+RD_G_1_3_Y_HA	ha: SAU des expl. bénéficiant de mesures de valeur ajoutée des produits (Développement rural)
+RD_G_1_3_Y_EUR	Euro: PS des expl. bénéficiant de mesures de valeur ajoutée des produits (Développement rural)
+RD_G_1_3_Y_LSU	UGB des expl. bénéficiant de mesures de valeur ajoutée des produits (Développement rural)
+RD_G_1_4_Y_HOLD	exploitations  bénéficiant de mesures de respect des normes communautaires (Développement rural)
+RD_G_1_4_Y_HA	ha: SAU des expl. bénéficiant de mesures de respect des normes communautaires (Développement rural)
+RD_G_1_4_Y_EUR	Euro: PS des expl. bénéficiant de mesures de respect des normes communautaires (Développement rural)
+RD_G_1_4_Y_LSU	UGB des expl. bénéficiant de mesures de respect des normes communautaires (Développement rural)
+RD_G_1_5_Y_HOLD	exploitations  bénéficiant de mesures de régime d'assurance qualité (Développement rural)
+RD_G_1_5_Y_HA	ha: SAU des expl. bénéficiant de mesures de régime d'assurance qualité (Développement rural)
+RD_G_1_5_Y_EUR	Euro: PS des expl. bénéficiant de mesures de régime d'assurance qualité (Développement rural)
+RD_G_1_5_Y_LSU	UGB des expl. bénéficiant de mesures de régime d'assurance qualité (Développement rural)
+RD_G_1_6_Y_HOLD	exploitations  bénéficiant de mesures de paiements Natura 2000 (Développement rural)
+RD_G_1_6_Y_HA	ha: SAU des expl. bénéficiant de mesures de paiements Natura 2000 (Développement rural)
+RD_G_1_6_Y_EUR	Euro: PS des expl. bénéficiant de mesures de paiements Natura 2000 (Développement rural)
+RD_G_1_6_Y_LSU	UGB des expl. bénéficiant de mesures de paiements Natura 2000 (Développement rural)
+RD_G_1_7_Y_HOLD	exploitations bénéficiant de mesures de paiements sous Directive Cadre pour l'eau (Développement rural)
+RD_G_1_7_Y_HA	ha: SAU des expl. bénéficiant de mesures de paiements sous Directive Cadre pour l'eau (Développement rural)
+RD_G_1_7_Y_EUR	Euro: PS des expl. bénéficiant de mesures de paiements sous Directive Cadre pour l'eau (Développement rural)
+RD_G_1_7_Y_LSU	UGB des expl. bénéficiant de mesures de paiements sous Directive Cadre pour l'eau (Développement rural)
+RD_G_1_8_Y_HOLD	exploitations  bénéficiant de mesures de paiements agro-environnementaux (Développement rural)
+RD_G_1_8_Y_HA	ha: SAU des expl. bénéficiant de mesures de paiements agro-environnementaux (Développement rural)
+RD_G_1_8_Y_EUR	Euro: PS des expl. bénéficiant de mesures de paiements agro-environnementaux (Développement rural)
+RD_G_1_8_Y_LSU	LSU des expl. bénéficiant de mesures de paiements agro-environnementaux (Développement rural)
+RD_G_1_8_1_Y_HOLD	exploitations bénéficiant de mesures de paiements agro-environnementaux à l'agriculture biologique (Développement rural)
+RD_G_1_8_1_Y_HA	ha:SAU des expl. bénéficiant de mesures de paiements agro-environnementaux à l'agriculture biologique (Développement rural)
+RD_G_1_8_1_Y_EUR	Euro: SO des expl. bénéficiant de mesures de paiements agro-environnementaux à l'agriculture biologique (Développement rural)
+RD_G_1_8_1_Y_LSU	UGB des expl. bénéficiant de mesures de paiements agro-environnementaux à l'agriculture biologique (Développement rural)
+RD_G_1_9_Y_HOLD	exploitations bénéficiant de mesures de paiements au bien-être animal (Développement rural)
+RD_G_1_9_Y_HA	ha: SAU des expl. bénéficiant de mesures de paiements au bien-être animal (Développement rural)
+RD_G_1_9_Y_EUR	Euro: PS des expl. bénéficiant de mesures de paiements au bien-être animal (Développement rural)
+RD_G_1_9_Y_LSU	UGB des expl. bénéficiant de mesures de paiements au bien-être animal (Développement rural)
+RD_G_1_10_Y_HOLD	exploitations bénéficiant de mesures de Diversification dans des activités non agricoles (Développement rural)
+RD_G_1_10_Y_HA	ha: SAU des expl. bénéficiant de mesures de Diversification dans des activités non agricoles (Développement rural)
+RD_G_1_10_Y_EUR	Euro: PS des expl. bénéficiant de mesures de Diversification dans des activités non agricoles (Développement rural)
+RD_G_1_10_Y_LSU	UGB des expl. bénéficiant de mesures de Diversification dans des activités non agricoles (Développement rural)
+RD_G_1_11_Y_HOLD	exploitations  bénéficiant de mesures d' Encouragement des activités touristiques (Développement rural)
+RD_G_1_11_Y_HA	ha: SAU des expl. bénéficiant de mesures d' Encouragement des activités touristiques (Développement rural)
+RD_G_1_11_Y_EUR	Euro: PS des expl. bénéficiant de mesures d' Encouragement des activités touristiques (Développement rural)
+RD_G_1_11_Y_LSU	UGB des expl. bénéficiant de mesures d' Encouragement des activités touristiques (Développement rural)
+D_1_1_A	Tracteurs à 4 roues, tracteurs à chenilles, porte-outils appartenant en propre à l'exploitation
+D_1_1_B	Motoculteurs etc. appartenant en propre à l'exploitation
+D_1_1_C	Moissonneuses-batteuses appartenant en propre à l'exploitation mais utilisées
+D_1_1_D	Autres récolteuses compl. mécanisée appart. en propre à l'exploitation
+D_1_2_A_EQ_Y	Utilisation de tracteurs etc. n'appartenant pas à l'expl. depuis 12 mois
+D_1_2_B_EQ_Y	Utilisation des motoculteurs etc. n'appartenant pas à l'expl. depuis 12 mois
+D_1_2_C_EQ_Y	Utilisation de moissonneuses-batteuses n'appartenant pas à l'expl. depuis 12 mois
+D_1_2_D_EQ_Y	Utilisation d'autres récolteuses mécanisées n'appartenant pas à l'expl. depuis 12 mois

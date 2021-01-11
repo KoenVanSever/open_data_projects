@@ -1,0 +1,17 @@
+TOTAL	Total
+CHG_INCR_INC	Tous les changements permettant d'augmenter les revenus
+CHG_JOB	Changement d'emploi ou d'employeur
+LS_DTSK	Tâches moins exigeantes au travail
+FAM_LEAV	Congé familial
+WRKINTR	Interruption de carrière
+NWRKINTR	Pas d'interruption de carrière
+RED_WRKTIME	Réduction du temps de travail
+NWRKINTR_NRED_WRKTIME	Pas d'interruption de carrière ni de réduction du temps de travail
+NVR_WRK_CHCARE	N'a jamais travaillé pour des raisons de garde d'enfants
+NVR_WRK_OTH	N'a jamais travaillé pour d'autres raisons
+NVR_CH	N'a jamais eu d'enfant
+NVR_CARE	N'a jamais eu de responsabilités familiales
+OTH	Autre
+NONE	Pas d'effets
+NAP	Non applicable
+NRP	Sans réponse

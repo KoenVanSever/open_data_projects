@@ -1,0 +1,44 @@
+TOTAL	Ingesamt
+ACT	Erwerbsbevölkerung
+EMP	Beschäftigung insgesamt (Inlandskonzept - ESA)
+EMP_LFS	Beschäftigung insgesamt (Wohnbevölkerung - AKE)
+EMP_PCH	Beschäftigungswachstum
+EMP_CLT	Beschäftigung im Kulturbereich
+SELF_EMP_RT	Selbständige in Prozent der Beschäftigung insgesamt
+SERV_RT	Dienstleistungen in Prozent der Beschäftigung insgesamt
+INDU_RT	Industrie in Prozent der Beschäftigung insgesamt
+AGRI_RT	Landwirtschaft in Prozent der Beschäftigung insgesamt
+AGRI_PCH	Beschäftigungswachstum Landwirtschaft
+IND_PCH	Beschäftigungswachstum Industrie
+SERV_PCH	Beschäftigungswachstum Dienstleistungen
+UNE	Arbeitslosigkeit (ILO)
+UEMP	Unterbeschäftigte mit Teilzeittätigkeit
+SEEK_NAV	Personen, die eine Arbeit suchen, aber kurzfristig nicht verfügbar sind
+NSEE_AV	Personen, die für eine Arbeit verfügbar sind, aber nicht suchen
+LTU	Langzeitarbeitslosigkeit
+VLTU	Arbeitslosigkeit über sehr lange Zeit
+JOBVAC	Zahl der offenen Stellen
+JOBOCC	Zahl der besetzten Stellen
+JOBRATE	Quote der offenen Stellen
+CH_Q_Q	Die vierteljährliche Veränderung der Quote der offenen Stellen
+CH_Y_Y	Die jährliche Veränderung der Quote der offenen Stellen
+SLACK	Unausgeschöpftes Arbeitskräftepotential
+SC071	Kinder im Alter von 0-17 Jahren in erwerbslosen Haushalten : Anteil der Personen im Alter von 0-17 Jahren in Haushalten, in denen kein Mitglied einer Erwerbstätigkeit nachgeht
+SC072	Personen im Alter von 18-59 Jahren in erwerbslosen Haushalten : Anteil der Personen im Alter von 18-59 Jahren in Haushalten, in denen kein Mitglied einer Erwerbstätigkeit nachgeht
+SC073	Frauen im Alter von 18-59 Jahren in erwerbslosen Haushalten : Anteil der Frauen im Alter von 18-59 Jahren in Haushalten, in denen kein Mitglied einer Erwerbstätigkeit nachgeht
+SC074	Männern im Alter von 18-59 Jahren in erwerbslosen Haushalten : Anteil der Männer im Alter von 18-59 Jahren in Haushalten, in denen kein Mitglied einer Erwerbstätigkeit nachgeht
+EM021	Durchschnittliches Erwerbsaustrittsalter - insgesamt - gewichtet mit der Wahrscheinlichkeit eines Ausscheidens aus dem Arbeitsmarkt
+EM022	Durchschnittliches Erwerbsaustrittsalter - weiblich - gewichtet mit der Wahrscheinlichkeit eines Ausscheidens aus dem Arbeitsmarkt
+EM023	Durchschnittliches Erwerbsaustrittsalter - männlich - gewichtet mit der Wahrscheinlichkeit eines Ausscheidens aus dem Arbeitsmarkt
+E_E	Übergang Beschäftigung - Beschäftigung
+E_U	Übergang Beschäftigung - Arbeitslosigkeit
+E_I	Übergang Beschäftigung - ökonomische Inaktivität
+U_E	Übergang Arbeitslosigkeit - Beschäftigung
+U_U	Übergang Arbeitslosigkeit - Arbeitslosigkeit
+U_I	Übergang Arbeitslosigkeit - ökonomische Inaktivität
+I_E	Übergang ökonomische Inaktivität - Beschäftigung
+I_U	Übergang ökonomische Inaktivität - Arbeitslosigkeit
+I_I	Übergang ökonomische Inaktivität - ökonomische Inaktivität
+INAC	Nichterwerbspersonen
+WANTW	Personen, die arbeiten möchten aber weder suchen noch verfügbar sind 
+OTH	Sonstige

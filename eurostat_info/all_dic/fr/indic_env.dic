@@ -1,0 +1,66 @@
+DE	Extraction intérieure
+IMP	Importations
+IMP_EU	Importations de pays UE
+IMP_RME	Importations en équivalent matières premières
+IMP_RCV_R	Importations de déchets destinés à la valorisation - recyclage
+IMP_X_RCV_R	Importations hors importations de déchets destinés à la valorisation - recyclage
+EXP	Exportations
+EXP_EU	Exportations vers pays UE
+EXP_RME	Exportations en équivalent matières premières
+EXP_RCV_R	Exportations de déchets destinés à la valorisation - recyclage
+EXP_X_RCV_R	Exportations hors exportations de déchets destinés à la valorisation - recyclage
+DMC	Consommation intérieure de matières 
+DMI_RCV_R_B	Matières transformées - apports directs de matières et de valorisation - recyclage et remblayage
+DMI	Apports directs de matières 
+DPO	Émissions des processus intérieurs vers la nature
+NAS	Addition nette de stock
+PTB	Balance commerciale physique
+BI	Éléments d'équilibrage (entrée - sortie)
+PH_GLB	Valeur globale du pH
+TD_GLB	Écart de température global
+TD_GLB_A	Écart de température global annuel
+TD_GLB_DEC	Écart de température global décennal
+TD_EUR	Écart de température européen
+TD_EUR_A	Écart de température européen annuel
+TD_EUR_DEC	Écart de température européen décennal
+RMC	Consommation de matières premières
+RMC_P3	Consommation de matières premières résultant de la dépense de consommation finale
+RMC_P3_S13	Consommation de matières premières résultant de la dépense de consommation finale des administrations publiques
+RMC_P3_S14	Consommation de matières premières résultant de la dépense de consommation finale des ménages
+RMC_P3_S15	Consommation de matières premières résultant de la dépense de consommation finale des institutions sans but lucratif au service des ménages
+RMC_P5	Consommation de matières premières résultant de la formation brute de capital
+RMC_P51G	Consommation de matières premières résultant de la formation brute de capital fixe
+RMC_P52_53	Consommation de matières premières résultant de la variation des stocks et acquisitions moins cessions d'objets de valeur
+RMI	Apports de matières premières
+MAT_ACCUM	Accumulation de matières
+CAP	Capacité - tonnes par an
+CAP_RST	Capacité restante - mètres cubes
+FAC	Installations - nombre
+FAC_CL	Installations fermées - nombre
+PRD	Production de substances chimiques
+CONS	Consommation de substances chimiques
+EMIS	Émissions
+EMIS_X_WST_INC	Émissions hors émissions de l¿incinération des déchets
+EMIS_AIR_NBI	Émissions dans l¿air - net d'éléments d'équilibrage
+EMIS_WTR	Emissions dans l'eau
+GHG_I90	Indice d'émissions de gaz à effet de serre (en équivalent CO2), année de base 1990
+GHG_I_KBY	Indice d'émissions de gaz à effet de serre à l'exclusion de l'aviation internationale (en équivalent CO2), année de base de Kyoto
+GHG_T_HAB	Indice d'émissions de gaz à effet de serre - tonnes par tête
+ORG_EMAS	Organisations enregistrées EMAS
+SITE_EMAS	Sites enregistrés EMAS
+FSTK_ASS_NR	Stocks de poissons évalués
+FSTK_OVF_NR	Stocks de poissons surpêchés
+FSTK_OVF_PC	Stocks de poissons surpêchés - %
+FSTK_BMA_I03	Biomasse du stock de poissons - indice 2003 = 100
+FSTK_MBMED	Fish stocks - valeur médiane basée sur des modèles
+FSTK_AMV_ASS	Valeur arithmétique moyenne de toutes les évaluations
+PER_NGUA_PC	Personnes dans zones urbaines sans zones urbaines vertes dans leur voisinage - %
+MGCI	Indice du couvert végétal des montagnes
+CO2_UVA_KG_EUR	Emissions de CO2 par unité de valeur ajoutée - kilogrammes par euro
+WEI	Indice d'exploitation de l'eau
+WSL	Niveau de stress hydrique
+TPW	Volume de déchets
+DFLOW	Flux dissipatifs
+DEM_DCR	Démolition et élimination
+MAT_USE	Utilisation de matières
+NRS	Réductions nettes en stock

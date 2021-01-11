@@ -1,0 +1,32 @@
+TOTAL	Insgesamt
+BASIC	Grundausbildung
+PRACT	Nur praktische Erfahrung
+FULL	Umfassende landwirtschaftliche Ausbildung
+CO_OF	BWB-Kurse und/oder andere Arten der BWB
+CO	BWB-Kurse
+CO_INT	BWB-Kurse - intern
+CO_EXT	BWB-Kurse - extern
+CO_HSW	Pflichtkurse zu Gesundheit und Sicherheit am Arbeitsplatz
+OF	Andere Arten der BWB
+OF_GUID	Andere Arten der BWB - betriebliche Weiterbildung am Arbeitsplatz
+OF_JROT	Andere Arten der BWB - Jobrotation, Austausch oder Abordnung
+OF_CONF	Andere Arten der BWB - Weiterbildung im Rahmen von Konferenzen, Workshops, Messen und Vorträgen
+OF_LQC	Andere Arten der BWB - Lern-/Qualitätszirkel
+OF_SDL	Andere Arten der BWB - Selbststudium
+NO_CVT	Keine BWB
+FE_NFE	Formale und nicht-formale Bildung/Weiterbildung
+FE	Formale Bildung/Weiterbildung
+NFE	Nicht-formale Bildung/Weiterbildung
+NFE_JB	Nicht-formale Bildung/Weiterbildung - berufsbezogen
+NFE_JB_ES	Nicht-formale Bildung/Weiterbildung - berufsbezogen und vom Arbeitgeber unterstützt
+NFE_JB_ES_SAL	Nicht-formale Bildung/Weiterbildung - berufsbezogen und vom Arbeitgeber unterstützt (nur Arbeitnehmer)
+NFE_JB_NES	Nicht-formale Bildung/Weiterbildung - berufsbezogen und nicht vom Arbeitgeber unterstützt
+NFE_NJB	Nicht-formale Bildung/Weiterbildung - nicht berufsbezogen
+NO_FE_NO_NFE	Keine formale oder nicht-formale Bildung/Weiterbildung
+NO_FE	Keine formale Bildung/Weiterbildung
+NO_NFE	Keine nicht-formale Bildung/Weiterbildung
+INF	Informelles Lernen
+INF_ONL	Nur informelles Lernen
+NO_LEARN	Keine Lernaktivität
+NAP	Nicht anwendbar
+NRP	Keine Antwort

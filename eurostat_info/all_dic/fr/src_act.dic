@@ -1,0 +1,15 @@
+TOTAL	Total
+SRC	Sourçage
+SRC_IN	Sourçage à l'intérieur du groupe d'entreprises
+SRC_DOM	Sourçage local
+SRC_DOM_IN	Sourçage local à l'intérieur du groupe d'entreprises
+SRC_DOM_OUT	Sourçage local à l'extérieur du groupe d'entreprises
+SRC_INTL	Sourçage international
+SRC_INTL_IN	Sourçage international à l'intérieur du groupe d'entreprises
+SRC_INTL_OUT	Sourçage international à l'extérieur du groupe d'entreprises
+NSRC	Aucun sourçage
+SO	La fonction fait l'objet d'un sourçage
+SO_DO	La fonction fait l'objet d'un sourçage au niveau local
+SO_IN	La fonction fait l'objet d'un sourçage au niveau international
+NO	La fonction ne fait pas l'objet d'un sourçage
+UNK	Inconnu

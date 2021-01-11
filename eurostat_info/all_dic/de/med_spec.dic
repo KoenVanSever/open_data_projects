@@ -1,0 +1,39 @@
+GEN	Allgemeinmediziner
+GEN_PRAC	Hausärzte
+GEN_OTH	Andere Allgemeinmediziner
+GEN_SPEC	Allgemeinmediziner und Fachärzte
+GEN_SPEC_HOSP	Allgemeinmediziner und Fachärzte im Krankenhaus
+SPEC	Fachärzte
+PAED	Kinderärzte
+GYN	Gynäkologen und Geburtshelfer
+PSY	Psychiater
+MED	Medizinische  Fachgruppe
+MED_INT	Innere Medizin
+MED_CAR	Kardiologie
+MED_END	Endokrinologie
+MED_GAS	Gastroenterologie
+MED_RES	Pneumologie
+MED_ONC	Onkologie
+MED_IMM	Immunologie
+MED_NEU	Neurologie
+MED_ORL	Hals-, Nasen- und Ohrenheilkunde
+MED_RAD	Radiologie
+MED_MIC	Mikrobiologie-Bakteriologie  
+MED_HAE	Hämatologie
+MED_DER	Dermatologie
+MED_PAT	Pathologie
+MED_OCC	Arbeitsmedizin
+MED_DDS	Zahnmedizin
+SURG	Chirurgische Fachgruppe
+SURG_GEN	Allgemeine Chirurgie
+SURG_NEU	Neurologische Chirurgie
+SURG_PLA	Plastische Chirurgie
+SURG_OPH	Augenheilkunde
+SURG_ORT	Orthopädie
+SURG_THO	Thorax Chirurgie
+SURG_VAS	Gefäßchirurgie
+SURG_ANE	Anästhesiologie und Intensivpflege
+SURG_URO	Urologie
+SURG_EME	Unfall- und Notfallmedizin
+OTH	Andere Spezialisten, nicht anderswo erwähnt
+NSP	Ärzte nicht weiter definiert

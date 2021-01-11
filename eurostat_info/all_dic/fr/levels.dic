@@ -1,0 +1,64 @@
+TOTAL	Total
+ALL	Tous niveaux
+VH_H	Très elevé ou elevé
+VHIGH	Très elevé
+MOT	Langue maternelle
+PROF	Très bon
+STR	Fort
+GRT_MOD_SOME	Grand, modéré ou quelque
+GRT	Grand
+HIGH	Elevé
+HVY	Important
+VG_FG	Très bon ou assez bon
+VGOOD	Très bon
+BROAD	Large
+GOOD	Bon
+VG_G	Très bon ou bon
+FGOOD	Assez bon
+FAIR	Moyen
+INT	Moyen
+MED	Moyen
+MOD_SEV	Modéré ou grave
+MOD	Modéré
+MOD_HVY	Modéré ou important
+SOME	Quelque
+BASIC	Elémentaire
+LTD	Limité
+VMILD	Très faible
+MILD	Faible
+M_VM	Faible ou très faible
+LGHT	Léger
+NONE_LGHT	Aucun ou léger
+NONE_MIN	Aucun ou minimum
+POOR	Faible
+L_VL	Bas ou très bas
+LOW	Bas
+NLOW	Autre que bas
+BAD	Mauvais
+VLOW	Très bas
+VB_FB	Très mauvais ou assez mauvais
+VBAD	Très mauvais
+FBAD	Assez mauvais
+B_VB	Mauvais ou très mauvais
+SEV	Grave
+NSEV	Autre que grave
+MODS	Moyennement grave
+MOD_MODS_SEV	Modéré, moyennement grave ou grave
+VSEV	Très grave
+S_VS	Grave ou très grave
+SM_SEV	Quelque ou grave
+MOD_S_VS	Modéré, grave ou très grave
+FDIF_VDIF	Assez difficile ou très difficile
+VDIF	Très difficile
+DIF	Difficile
+FDIF	Assez difficile
+FEASY_EASY_VEASY	Assez facile, facile ou très facile 
+FEASY_VEASY	Assez facile ou très facile
+FEASY	Assez facile 
+EASY	Facile 
+VEASY	Très facile 
+NONE	Aucune
+NAP	Non applicable
+NRP	Sans réponse
+NSP	Non spécifié
+UNK	Inconnu

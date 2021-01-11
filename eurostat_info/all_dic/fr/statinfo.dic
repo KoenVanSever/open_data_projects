@@ -1,0 +1,87 @@
+TOTAL	Total
+UNI	Univers
+SPL	Echantillon
+SRC	Source de données
+AVG	Moyenne
+AVG_3Y	Moyenne sur trois ans
+MMEAN	Moyenne mesurée
+CMEAN	Moyen calculé
+MED	Médiane
+SD	Ecart-type
+SE	Erreur standard
+CV	Coefficient de variation
+CVA	Coefficient de variation de la valeur absolue
+CVR	Coefficient de variation de la valeur relative
+CV_PLI	Coefficient de variation des indices au niveau des prix
+CV_VI_HAB	Coefficient de variation des indices de volume des dépenses par habitant
+CUM	Séries cumulées
+VAL	Valeur
+VAL_A	Valeur annuelle
+RV	Valeur relative
+END	Valeur en fin de période
+MAX	Valeur maximale au cours de la période
+MIN	Valeur minimale au cours de la période
+DISP_NUTS2	Dispersion au niveau NUTS 2
+DISP_NUTS3	Dispersion au niveau NUTS 3
+SUM3Y	Somme des 3 dernières années
+SUM4Y	Somme des 4 dernières années
+SUM6Y	Somme des 6 dernières années
+NSME	Estimation non lissée
+SME	Estimation lissée
+SME_UP95	Estimation lissée - limite supérieure de l'intervalle de confiance de 95%
+SME_LW95	Estimation lissée - limite inférieure de l'intervalle de confiance de 95%
+STA	Statut
+WT	Pondération
+COWEU	Pondérations des pays pour l'Union européenne (UE6-1958, UE9-1973, UE10-1981, UE12-1986, UE15-1995, UE25-2004, UE27-2007, UE28-2013, UE27-2020)
+COWEU27_2020	Pondérations des pays pour l'UE27 (à partir de 2020)
+COWEU28	Pondérations des pays pour l'UE28 (2013-2020)
+COWEU27_2007	Pondérations des pays pour l'UE27 (2007-2013)
+COWEU25	Pondérations des pays pour l'UE25 (2004-2006)
+COWEU15	Pondérations des pays pour l'UE15 (1995-2004)
+COWEA	Pondérations des pays pour la zone euro (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)
+COWEA19	Pondérations des pays pour EA19 (zone euro à partir de 2015)
+COWEA18	Pondérations des pays pour EA18 (zone euro - 2014)
+COWEA17	Pondérations des pays pour EA17 (zone euro - 2011-2013)
+COWEA16	Pondérations des pays pour EA16 (zone euro - 2009-2010)
+COWEA15	Pondérations des pays pour EA15 (zone euro - 2008)
+COWEA13	Pondérations des pays pour EA13 (zone euro - 2007)
+COWEA12	Pondérations des pays pour EA12 (zone euro - 2001-2006)
+COWEEA	Pondérations des pays pour l'EEE (Espace économique européen)
+IWBS	Pondération des indices pour l'industrie, la construction et les services (sauf les activités des ménages en tant qu'employeurs et les activités extra-territoriales)  - NACE rév.2, B to S
+NONE	Aucun revenu
+Q1	Premier quartile
+Q2	Second quartile
+Q3	Troisième quartile
+Q4	Quatrième quartile
+QU1	Premier quintile
+QU2	Second quintile
+QU3	Troisième quintile
+QU4	Quartième quintile
+QU5	Cinquième quintile
+D1	Premier décile
+D2	Second décile
+D3	Troisième décile
+D4	Quatrième décile
+D5	Cinquième décile
+D6	Sixième décile
+D7	Septième décile
+D8	Huitième décile
+D9	Neuvième décile
+D10	Dixième décile
+P1	Premier percentile
+P2	Second percentile
+P3	Troisième percentile
+P4	Quatrième percentile
+P5	Cinquième percentile
+P10	Dixième percentile
+P25	Vingt-cinquième percentile
+S2	Second sextile
+P75	Soixante-quinzième percentile
+P90	Quatre-vingt-dizième percentile
+P95	Quatre-vingt-quinzième percentile
+P96	Quatre-vingt-seizième percentile
+P97	Quatre-vingt-dix-septième percentile
+P98	Quatre-ving-dix-huitième percentile
+P99	Quatre-vingt-dix-neuvième percentile
+P100	Centième percentile
+UNK	Inconnu

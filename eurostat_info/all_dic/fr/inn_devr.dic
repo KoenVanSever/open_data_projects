@@ -1,0 +1,14 @@
+TOTAL	Total
+ENT	Entreprise elle-même
+ENT_RND	Entreprise elle-même (exécutants de l'activité R&D)
+ENT_NRND	Entreprise elle-même (non-exécutants de l'activité R&D)
+ENT_OTH	Entreprise conjointement avec d'autres entreprises ou organisations
+ENT_OTH_RND	Entreprise conjointement avec d'autres entreprises ou organisations (exécutants de l'activité R&D)
+ENT_OTH_NRND	Entreprise conjointement avec d'autres entreprises ou organisations (non-exécutants de l'activité R&D)
+ENTOTH	Entreprise elle-même et/ou conjointement avec d'autres entreprises ou organisations
+ENT_ADP_OTH	Entreprise en adaptant ou en modifiant des produits et/ou procédés développés initialement par d'autres entreprises ou organisations
+ENT_ADP_OTH_RND	Entreprise en adaptant ou en modifiant des produits et/ou procédés développés initialement par d'autres entreprises ou organisations (exécutants de la R&D)
+ENT_ADP_OTH_NRND	Entreprise en adaptant ou en modifiant des produits et/ou procédés développés initialement par d'autres entreprises ou organisations (non-exécutants de la R&D)
+OTH	Autres entreprises ou organisations
+OTH_RND	Autres entreprises ou organisations (exécutants de l'activité R&D)
+OTH_NRND	Autres entreprises ou organisations (non-exécutants de l'activité R&D)

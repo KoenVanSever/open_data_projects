@@ -1,0 +1,10 @@
+TOTCOST	Gesamtkosten
+DIR	Direkte Kosten
+LCP	Arbeitskosten der Teilnehmer
+FEE	Gebühren und Zahlungen
+TRAVEL	Reisekosten und Tagegelder
+INTEX	Arbeitskosten interner Ausbilder, welche ausschließlich in Weiterbildung beschäftigt sind
+INTPART	Arbeitskosten interner Ausbilder, welche teilweise in Weiterbildung beschäftigt sind
+PREM	Kosten für Bildungszentrum, Räumlichkeiten und Unterrichtsmaterial
+CONTR	BWB-Beiträge
+RECEIPTS	BWB-Einnahmen

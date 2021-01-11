@@ -1,0 +1,35 @@
+TOTAL	Alle Leistungserbringer im Gesundheitswesen
+HP1	Krankenhäuser
+HP11	Allgemeinkrankenhäuser
+HP12	Psychiatrische Kliniken
+HP13	Fachkliniken (ausgenommen psychiatrische Kliniken)
+HP2	Pflegeheime
+HP21	Langzeitpflegeheime
+HP22	Wohnheime für psychisch Kranke und Suchtkranke
+HP29	Sonstige Wohn- und Pflegeheime
+HP3	Anbieter ambulanter Gesundheitsversorgung
+HP31	Arztpraxen
+HP32	Zahnarztpraxen
+HP33	Praxen von Angehörigen anderer Gesundheitsberufe
+HP34	Ambulante Zentren der Gesundheitsversorgung
+HP35	Anbieter häuslicher Gesundheitsleistungen
+HP4	Anbieter von Hilfsleistungen
+HP41	Ambulanz- und Rettungsdienste
+HP42	Medizinische und diagnostische Labors
+HP49	Sonstige Anbieter medizinischer Hilfsleistungen
+HP5	Einzelhändler und sonstige Anbieter medizinischer Güter
+HP51	Apotheken
+HP52	Einzelhandel und sonstige Anbieter langlebiger medizinischer Güter und Geräte
+HP59	Sonstige Händler und übrige Anbieter  pharmazeutischer und medizinischer Güter
+HP6	Anbieter von Präventivmaßnahmen
+HP7	Verwalter und Finanziers des Gesundheitssystems
+HP71	Staatliche Verwaltungstellen der Gesundheitsversorgung
+HP72	Stellen der gesetzlichen Krankenversicherung
+HP73	Stellen der privaten Krankenversicherung
+HP79	Sonstige Verwaltungstellen der Gesundheitsversorgung
+HP8	Sonstige Wirtschaftszweige
+HP81	Private Haushalte als Erbringer häuslicher Pflegeleistungen
+HP82	Sonstige Wirtschaftszweige als  sekundäre Anbieter von Gesundheitsleistungen
+HP89	Sonstige Wirtschaftszweige, a.n.g.
+HP9	Ausländische Anbieter
+HP_UNK	Leistungserbringer (nicht bekannt)

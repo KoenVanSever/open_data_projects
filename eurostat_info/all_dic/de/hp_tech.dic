@@ -1,0 +1,93 @@
+TOTAL	Insgesamt
+ATH	Aerothermal
+ATH_AA	Aerothermal - Luft-Luft
+ATH_AA_EC	Aerothermal - Luft-Luft elektrisch - kaltes Klima
+ATH_AA_EA	Aerothermal - Luft-Luft elektrisch - gemäßigtes Klima
+ATH_AA_EW	Aerothermal - Luft-Luft elektrisch - warmes Klima
+ATH_AA_TC	Aerothermal - Luft-Luft thermisch - kaltes Klima
+ATH_AA_TA	Aerothermal - Luft-Luft thermisch - warmes Klima
+ATH_AA_TW	Aerothermal - Luft-Luft thermisch - warmes Klima
+ATH_AW	Aerothermal - Luft-Wasser
+ATH_AW_EC	Aerothermal - Luft-Wasser elektrisch - kaltes Klima
+ATH_AW_EA	Aerothermal - Luft-Wasser elektrisch - gemäßigtes Klima
+ATH_AW_EW	Aerothermal - Luft-Wasser elektrisch - warmes Klima
+ATH_AW_TC	Aerothermal - Luft-Wasser thermisch - kaltes Klima
+ATH_AW_TA	Aerothermal - Luft-Wasser thermisch - gemäßigtes Klima
+ATH_AW_TW	Aerothermal - Luft-Wasser thermisch - warmes Klima
+ATH_RAA	Aerothermal - reversibel Luft-Luft
+ATH_RAA_EC	Aerothermal - reversibel Luft-Luft elektrisch - kaltes Klima
+ATH_RAA_EA	Aerothermal - reversibel Luft-Luft elektrisch - gemäßigtes Klima
+ATH_RAA_EW	Aerothermal - reversibel Luft-Luft elektrisch - warmes Klima
+ATH_RAA_TC	Aerothermal - reversibel Luft-Luft thermisch - kaltes Klima
+ATH_RAA_TA	Aerothermal - reversibel Luft-Luft thermisch - gemäßigtes Klima
+ATH_RAA_TW	Aerothermal - reversibel Luft-Luft thermisch - warmes Klima
+ATH_RAW	Aerothermal - reversibel Luft-Wasser
+ATH_RAW_EC	Aerothermal - reversibel Luft-Wasser elektrisch - kaltes Klima
+ATH_RAW_EA	Aerothermal - reversibel Luft-Wasser elektrisch - gemäßigtes Klima
+ATH_RAW_EW	Aerothermal - reversibel Luft-Wasser elektrisch - warmes Klima
+ATH_RAW_TC	Aerothermal - reversibel Luft-Wasser thermisch - kaltes Klima
+ATH_RAW_TA	Aerothermal - reversibel Luft-Wasser thermisch - gemäßigtes Klima
+ATH_RAW_TW	Aerothermal - reversibel Luft-Wasser thermisch - warmes Klima
+ATH_EAA	Aerothermal - Abluft-Luft
+ATH_EAA_EC	Aerothermal - Abluft-Luft elektrisch - kaltes Klima
+ATH_EAA_EA	Aerothermal - Abluft-Luft elektrisch - gemäßigtes Klima
+ATH_EAA_EW	Aerothermal - Abluft-Luft elektrisch - warmes Klima
+ATH_EAA_TC	Aerothermal - Abluft-Luft thermisch - kaltes Klima
+ATH_EAA_TA	Aerothermal - Abluft-Luft thermisch - gemäßigtes Klima
+ATH_EAA_TW	Aerothermal - Abluft-Luft thermisch - warmes Klima
+ATH_EAW	Aerothermal - Abluft-Wasser
+ATH_EAW_EC	Aerothermal - Abluft-Wasser elektrisch - kaltes Klima
+ATH_EAW_EA	Aerothermal - Abluft-Wasser elektrisch - gemäßigtes Klima
+ATH_EAW_EW	Aerothermal - Abluft-Wasser elektrisch - warmes Klima
+ATH_EAW_TC	Aerothermal - Abluft-Wasser thermisch - kaltes Klima
+ATH_EAW_TA	Aerothermal - Abluft-Wasser thermisch - gemäßigtes Klima
+ATH_EAW_TW	Aerothermal - Abluft-Wasser thermisch - warmes Klima
+ATH_EC	Aerothermal - elektrisch - kaltes Klima
+ATH_EA	Aerothermal - elektrisch - gemäßigtes Klima
+ATH_EW	Aerothermal - elektrisch - warmes Klima
+ATH_TC	Aerothermal - thermisch - kaltes Klima
+ATH_TA	Aerothermal - thermisch - gemäßigtes Klima
+ATH_TW	Aerothermal - thermisch - warmes Klima
+GTH	Geothermie
+GTH_GA	Geothermie - Boden-Luft
+GTH_GA_EC	Geothermie - Boden-Luft elektrisch - kaltes Klima
+GTH_GA_EA	Geothermie - Boden-Luft elektrisch - gemäßigtes Klima
+GTH_GA_EW	Geothermie - Boden-Luft elektrisch - warmes Klima
+GTH_GA_TC	Geothermie - Boden-Luft thermisch - kaltes Klima
+GTH_GA_TA	Geothermie - Boden-Luft thermisch - gemäßigtes Klima
+GTH_GA_TW	Geothermie - Boden-Luft thermisch - warmes Klima
+GTH_GW	Geothermie - Boden-Wasser
+GTH_GW_EC	Geothermie - Boden-Wasser elektrisch - kaltes Klima
+GTH_GW_EA	Geothermie - Boden-Wasser elektrisch - gemäßigtes Klima
+GTH_GW_EW	Geothermie - Boden-Wasser elektrisch - warmes Klima
+GTH_GW_TC	Geothermie - Boden-Wasser thermisch - kaltes Klima
+GTH_GW_TA	Geothermie - Boden-Wasser thermisch - gemäßigtes Klima
+GTH_GW_TW	Geothermie - Boden-Wasser thermisch - warmes Klima
+GTH_EC	Geothermie - elektrisch - kaltes Klima
+GTH_EA	Geothermie - elektrisch - gemäßigtes Klima
+GTH_EW	Geothermie - elektrisch - warmes Klima
+GTH_TC	Geothermie - thermisch - kaltes Klima
+GTH_TA	Geothermie - thermisch - gemäßigtes Klima
+GTH_TW	Geothermie - thermisch - warmes Klima
+HTH	Hydrothermal
+HTH_WA	Hydrothermal - Wasser-Luft
+HTH_WA_EC	Hydrothermal - Wasser-Luft elektrisch - kaltes Klima
+HTH_WA_EA	Hydrothermal - Wasser-Luft elektrisch - gemäßigtes Klima
+HTH_WA_EW	Hydrothermal - Wasser-Luft elektrisch - warmes Klima
+HTH_WA_TC	Hydrothermal - Wasser-Luft thermisch - kaltes Klima
+HTH_WA_TA	Hydrothermal - Wasser-Luft thermisch - gemäßigtes Klima
+HTH_WA_TW	Hydrothermal - Wasser-Luft thermisch - warmes Klima
+HTH_WW	Hydrothermal - Wasser-Wasser
+HTH_WW_EC	Hydrothermal - Wasser-Wasser elektrisch - kaltes Klima
+HTH_WW_EA	Hydrothermal - Wasser-Wasser elektrisch - gemäßigtes Klima
+HTH_WW_EW	Hydrothermal - Wasser-Wasser elektrisch - warmes Klima
+HTH_WW_TC	Hydrothermal - Wasser-Wasser thermisch - kaltes Klima
+HTH_WW_TA	Hydrothermal - Wasser-Wasser thermisch - gemäßigtes Klima
+HTH_WW_TW	Hydrothermal - Wasser-Wasser thermisch - warmes Klima
+HTH_EC	Hydrothermal - elektrisch - kaltes Klima
+HTH_EA	Hydrothermal - elektrisch - gemäßigtes Klima
+HTH_EW	Hydrothermal - elektrisch - warmes Klima
+HTH_TC	Hydrothermal - thermisch - kaltes Klima
+HTH_TA	Hydrothermal - thermisch - gemäßigtes Klima
+HTH_TW	Hydrothermal - thermisch - warmes Klima
+OTH	Sonstige

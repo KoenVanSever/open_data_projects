@@ -1,0 +1,15 @@
+TOTAL	Total
+PAS	Avion de ligne
+PAS_ST_LE50	Avion de ligne de 50 sièges ou moins
+PAS_ST51-150	Avion de ligne de 51 à 150 sièges
+PAS_ST151-250	Avion de ligne de 151 à 250 sièges
+PAS_ST_GT250	Avion de ligne de plus de 250 sièges
+CARGO	Avion cargo
+CARGO_LBS_LT100000	Avion cargo d'une masse maximale au décollage de moins de 100 000 lbs
+CARGO_LBS_GT100000	Avion cargo d'une masse maximale au décollage de plus de 100 000 lbs
+SPE_AMB_BSN	Avion à usage spécifique, avion ambulance et avion d'affaires
+SPE_AMB	Avion à usage spécifique et avion ambulance
+BSN_CRP_EXE	Avion privé d'affaires
+COMBI	Avion combi
+QUICK	Avion à conversion rapide
+OTH	Autre

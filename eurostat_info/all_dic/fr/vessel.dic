@@ -1,0 +1,43 @@
+TOTAL	Total
+MER	Navires marchands
+MER_NF	Navires marchands sous pavillon national
+MER_FF	Navires marchands sous pavillon étranger appartenant à une compagnie résidente
+LBK	Navires de vrac liquide (citernes)
+LBK_OIL	Pétroliers
+LBK_CHM	Navires-citernes pour produits chimiques
+LBK_LGAS	Transporteurs de gaz liquéfié
+LBK_TB	Chalands-citernes
+LBK_OTH	Autres navires-citernes
+DBK	Transporteurs de vrac sec (vraquiers)
+DBK_OIL	Pétroliers-vraquiers
+DBK_BC	Vraquiers
+ODC	Autres navires pour cargaisons sèches
+ODC_CNT	Navires de conteneurs
+ODC_SPE	Transporteurs spécialisés
+ODC_GEN	Transporteurs de marchandises générales, non-spécialisés
+ODC_PRO	Navires à passagers et navires pour manutention par roulage et pour passagers (Ro-Ro)
+ODC_RO	Cargos à manutention par roulage (Ro-Ro)
+ODC_DCB	Barges/chalands pour cargaisons sèches
+ODC_PAS	Navires pour le transport de passagers
+ODC_PCRU	Navires de croisière
+ODC_PAS_XCR	Navires pour le transport de passagers (sauf navires de croisière)
+MSC	Divers types de navires
+MSC_FISH	Navires de pêche
+MSC_OFF	Navires pour les activités off shore
+MSC_TOW	Remorqueurs et pousseurs
+MSC_OTH	Navires divers (dragueurs, navires de recherche, autres)
+BAR_SP	Automoteurs
+BAR_NSP	Autres barges
+BAR_SPT	Automoteurs-citernes
+BAR_NSPT	Autres barges-citernes
+SEA	Bateaux destinés à la navigation maritime
+TUG_PUSH	Remorqueurs et pousseurs
+DUM_PUSV	Chalands et barges poussés
+OTH_GD	Autres bateaux de transport de marchandises
+CARGO	Cargos
+IWW	Navires de navigation intérieure
+NAVY	Navires de la marine
+REC	Bateaux de plaisance
+SERV	Navires de service
+OTH	Autre navire
+UNK	Inconnu

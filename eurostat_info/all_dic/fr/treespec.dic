@@ -1,0 +1,15 @@
+TOTAL	Total - toutes espèces
+CONIF	Conifères
+C_FIR	Conifères: Sapin/Épicéa (Abies alba, Picea abies)
+C_PIN	Conifères: Pin sylvestre (Pinus sylvestris)
+C_NSP	Conifères: non spécifiés
+NCONIF	Feuillus
+NC_OAK	Feuillus: Chêne (Quercus spp.)
+NC_BEE	Feuillus: Hêtre (Fagus spp.)
+NC_BIR	Feuillus: Bouleau (Betula spp.)
+NC_MAP	Feuillus: Érable (Acer spp.)
+NC_CHE	Feuillus: Cerisier (Prunus spp.)
+NC_ASH	Feuillus: Frêne (Fraxinus spp.)
+NC_POP	Feuillus: Peuplier (Populus spp.)
+NC_EUC	Feuillus: Eucalyptus (Eucalyptus spp.)
+NC_TRO	Feuillus: bois tropical

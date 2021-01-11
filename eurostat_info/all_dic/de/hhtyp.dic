@@ -1,0 +1,58 @@
+TOTAL	Insgesamt
+A1	Alleinstehende Person
+A1_LT30	Ein Erwachsener jünger als 30 Jahre
+A1_30_64	Ein Erwachsener zwischen 30 und 64 Jahren
+A1_LT64	Ein Erwachsener jünger als 64 Jahre
+A1_LT65	Ein Erwachsener jünger als 65 Jahre
+A1_GE65	Ein Erwachsener 65 Jahre und mehr
+A1_DCH	Alleinstehende Person mit abhängigen Kindern
+A1_CHLT25	Alleinstehender Elternteil mit Kind(ern) jünger als 25 Jahre
+A1F	Alleinstehende Frau
+A1M	Alleinstehender Mann
+A1F_CH	Alleinstehende Mutter mit Kindern
+A2	Zwei Erwachsene
+A2_2LT65	Zwei Erwachsene jünger als 65 Jahre
+A2_GE1_GE65	Zwei Erwachsene, einer mindestens 65 Jahre und mehr
+A2_DCH	Zwei Erwachsene mit abhängigen Kindern
+A2_1DCH	Zwei Erwachsene mit einem abhängigen Kind
+A2_2DCH	Zwei Erwachsene mit zwei abhängigen Kindern
+A2_2CH_LT14	Zwei Erwachsene mit zwei Kindern jünger als 14 Jahre
+A2_GE3DCH	Zwei Erwachsene mit drei oder mehr abhängigen Kindern
+A_GE2_NDCH	Zwei oder mehr Erwachsene ohne abhängige Kindern
+A_GE2_DCH	Zwei oder mehr Erwachsene mit abhängigen Kindern
+A_GE3	Drei oder mehr Erwachsene
+A_GE3_DCH	Drei oder mehr Erwachsene mit abhängigen Kindern
+CPL_CHLT25	Paar mit Kind(ern) jünger als 25 Jahre
+CPL_CHLT25_OTH	Paar oder alleinstehender Elternteil mit Kind(ern) jünger als 25 Jahre und andere im Haushalt lebende Personen
+CPL_NCH	Ehepaar ohne Kinder
+CPL_NCHLT25	Paar ohne Kind(er) jünger als 25 Jahre ("Paar ohne Kinder")
+CPL_NCH_NOTH	Ehepaar ohne Kind ohne andere Personen
+CPL_OTH	Ehepaar, das mit anderen Personen zusammenlebt
+CHILD	Person, die als Kind im Elternhaus lebt
+CH_MCPL	Kind, das mit beiden verheirateten Eltern zusammenlebt
+CH_CCPL	Kind, das mit zusammenlebenden Eltern lebt
+CH_A0	Kind, das nicht mit Eltern lebt
+CH_A1	Kind, das mit einem einzelnen Elternteil lebt
+OTH	Sonstige
+OTH_NCH	Sonstige, ohne Kinder
+OTH_CH	Sonstige mit Kinder
+ALL_NDCH	Alle Typen ohne abhängige Kinder
+ALL_DCH	Alle Typen mit abhängigen Kindern
+HH_NDCH	Haushalte ohne abhängige Kinder
+HH_DCH	Haushalte mit abhängigen Kindern
+HH_O1	Haushalte in Ziel-1-Gebieten / "Konvergenz" Gebieten
+OTHER	Sonstige Haushalte
+HH_NO1	Haushalte in Nicht-Ziel-1-Gebieten / "Regionale Wettbewerbsfähigkeit und Beschäftigung" Gebieten
+HH_DEG1	Haushalte in Städten
+HH_DEG2	Haushalte in kleineren Städten und Vororten
+HH_DEG3	Haushalte in ländlichen Gebieten
+HH_DEV_L	Haushalte in weniger entwickelten Regionen
+HH_DEV_M	Haushalte in stärker entwickelten Regionen
+HH_DEV_T	Haushalte in Übergangsregionen
+HHI_Q1	Zahl der Haushalte mit einem Einkommen im ersten Quartil
+HHI_Q2	Zahl der Haushalte mit einem Einkommen im zweiten Quartil
+HHI_Q3	Zahl der Haushalte mit einem Einkommen im dritten Quartil
+HHI_Q4	Zahl der Haushalte mit einem Einkommen im vierten Quartil
+INST	Anstaltshaushalt
+RESTHOME	Sanatorien und Kurbetriebe
+UNK	Unbekannt

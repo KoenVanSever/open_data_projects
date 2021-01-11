@@ -1,0 +1,11 @@
+TOTAL	Insgesamt
+CONT_ORD	Inhalt und Reihenfolge der Aufgaben
+CONT	Inhalt der Aufgaben
+ORD	Reihenfolge der Aufgaben
+SOMECONT_SOMEORD	Etwas oder viel bzgl. Inhalt und Reihenfolge der Aufgaben
+LTLCONT_SOMEORD	Wenig oder keine bzgl. Inhalt und etwas oder viel bzgl. Reihenfolge der Aufgaben
+SOMECONT_LTLORD	Etwas oder viel bzgl. Inhalt und wenig oder keine bzgl. Reihenfolge der Aufgaben
+LTLCONT_LTLORD	Wenig oder keine bzgl. Inhalt und Reihenfolge der Aufgaben
+NONE	Keine
+NAP	Nicht anwendbar
+NRP	Keine Antwort

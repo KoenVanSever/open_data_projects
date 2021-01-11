@@ -1,0 +1,14 @@
+FEI	Établissements d'éducation et de formation formelles
+NFEI	Centres d'éducation et de formation non-formelles
+PUB_TNG	Instituts publics de formation (financés ou orientés par les pouvoirs publics)
+PRV_TNG	Entreprises privées de formation
+PRV_NTNG	Entreprises privées dont l'activité principale n'est pas la formation (par exemple les fournisseurs d'équipement, entreprises mères ou associées)
+COM_NTNG	Entités commerciales dont l'activité principale n'est pas l'éducation ni la formation (par exemple fournisseurs d'équipements)
+NCOM_NTNG	Entités non commerciales dont l'activité principale n'est pas l'éducation ni la formation (par exemple bibliothèques, musées, ministères)
+EMPL	Employeur
+EO_CHC	Organisations d'employeurs, chambres de commerce
+TRD_UN	Organisations syndicales
+NPA	Associations à but non-lucratif (par exemple club culturel, parti politique)
+IND	Individus (par exemple étudiants qui donnent des cours particuliers)
+OTH	Autres prestataires de formation
+NRP	Sans réponse

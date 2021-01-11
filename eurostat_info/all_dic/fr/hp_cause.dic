@@ -1,0 +1,9 @@
+TOTAL	Total
+BIRTH	De naissance, ou accident survenu à la naissance
+WRK_DIS	Maladies liées au travail
+WRK_ACC	Accident ou blessure lié au travail, y compris les accidents de la route survenus pendant les heures de travail
+NWRK_DIS	Maladie non liée au travail
+NWRK_ACC	Accident ou blessure survenu à la maison, ou lors d'une activité de loisir ou de la pratique d'un sport
+TRF_ACC	Accident de la route non lié au travail
+NRP	Sans réponse
+UNK	Inconnu

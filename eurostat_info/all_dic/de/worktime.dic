@@ -1,0 +1,31 @@
+TOTAL	Insgesamt
+PC0	Null Prozent der Vollzeit
+PC1-24	1 bis 24 Prozent der Vollzeit
+PC25-49	25 bis 49 Prozent der Vollzeit
+PC50-74	50 bis 74 Prozent der Vollzeit
+PC75-99	75 bis 99 Prozent der Vollzeit
+PC100	100 Prozent der Vollzeit
+H0	Null Stunden
+H1-9	1 bis 9 Stunden
+H1-19	1 bis 19 Stunden
+H10-19	10 bis 19 Stunden
+H20-29	20 bis 29 Stunden
+H20-31	20 bis 31 Stunden
+H30-39	30 bis 39 Stunden
+H_GE32	32 Stunden und mehr
+H40-49	40 bis 49 Stunden
+H_GE50	50 Stunden und mehr
+PT	Teilzeit
+FT	Vollzeit
+TEMP	Zeitverträge
+TOT_FTE	Insgesamt in Vollzeitäquivalente
+AVG_FTE	Jahresdurchschnitt in Vollzeitäquivalente
+PT_FTE	Teilzeit in Vollzeitäquivalente
+NORM	Normale Arbeitszeit
+ATYP	Atypische Arbeitszeit
+INCR	Arbeitsstunden erhöhen
+DECR	Arbeitsstunden verringern
+NCHG	Keine Änderung der Arbeitsstunden
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+UNK	Unbekannt

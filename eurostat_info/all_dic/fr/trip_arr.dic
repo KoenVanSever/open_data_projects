@@ -1,0 +1,9 @@
+TOTAL	Total
+PACK	Voyages à forfait 
+NPACK	Autres que voyages à forfait
+TRA_TO_TA	Réservation du moyen de transport principal auprès d'un voyagiste ou d'une agence de voyage
+ACC_TO_TA	Réservation de l'hébergement principal auprès d'un voyagiste ou d'une agence de voyage
+TRA_WEB	Réservation par internet du moyen de transport principal
+ACC_WEB	Réservation par internet de l'hébergement principal
+DIRECT	Réservation du voyage indépendante: réservation directe auprès du prestataire
+NBOOK	Réservation du voyage indépendante: aucune réservation nécessaire

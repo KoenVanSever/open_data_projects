@@ -1,0 +1,11 @@
+FARM_NR	Exploitations agricoles - nombre
+UAA_HA	Superficie agricole utilisée - hectare
+FA_HA	Superficie de l'exploitation agricoles - hectare
+FAXSAA_HA	Superficie de l'exploitation agricoles, superficie de production agricole spéciale non compris - hectare
+FARM_NR_LS	Exploitations agricoles avec cheptel - nombre
+FARM_LSU_LS	Exploitations agricoles avec cheptel - unité de gros bétail
+SO_EUR	Production standard - euro
+LF_D_AWU	Main-d'oeuvre directement employée - unité de travail annuel
+FARM_NR_PD_GT50	Fermes dont le ménage consomme plus de 50% de la production finale - nombre
+HRI1	Indicateur de risques harmonisé 1
+HRI2	Indicateur de risques harmonisé 2

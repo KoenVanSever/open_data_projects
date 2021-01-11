@@ -1,0 +1,11 @@
+TOTAL	Total - Verkehr insgesamt
+LOADED	Geladen - Verkehr insgesamt
+LNAT	Geladen - innerstaatlicher Verkehr
+LINTL	Geladen - grenzüberschreitender Verkehr - insgesamt
+LINTL_LD	Geladen - grenzüberschreitender Verkehr - Güter im Meldeland verladen
+LINTL_NLD	Geladen - grenzüberschreitender Verkehr - Güter im Meldeland entladen
+LINTL_CTRD	Geladen - grenzüberschreitender Verkehr - Dreiländerverkehr
+LINTL_CAB	Geladen - grenzüberschreitender Verkehr - Kabotage
+EMPTY	Leer - Verkehr insgesamt
+ENAT	Leer - innerstaatlicher Verkehr
+EINTL	Leer - grenzüberschreitender Verkehr - insgesamt

@@ -1,0 +1,39 @@
+GEN	Praticiens en médecine générale
+GEN_PRAC	Médecins généralistes
+GEN_OTH	Autres praticiens en médecine générale
+GEN_SPEC	Praticiens en médecine générale et spécialisée
+GEN_SPEC_HOSP	Praticiens en médecine générale et spécialisée à l'hôpital
+SPEC	Praticiens en médecine spécialisée
+PAED	Pédiatres généralistes
+GYN	Gynécologues et obstétriciens
+PSY	Psychiatres
+MED	Groupe de spécialistes médicaux
+MED_INT	Médecine interne
+MED_CAR	Cardiologie
+MED_END	Endocrinologie
+MED_GAS	Gastro-entérologie
+MED_RES	Médecine respiratoire (pneumologie)
+MED_ONC	Oncologie
+MED_IMM	Immunologie
+MED_NEU	Neurologie
+MED_ORL	Oto-rhino-laryngologie
+MED_RAD	Radiologie
+MED_MIC	Microbiologie-bactériologie
+MED_HAE	Hématologie
+MED_DER	Dermatologie
+MED_PAT	Pathologie
+MED_OCC	Médecine du travail
+MED_DDS	Dentisterie
+SURG	Groupe de spécialistes chirurgicaux
+SURG_GEN	Chirurgie générale
+SURG_NEU	Chirurgie neurologique
+SURG_PLA	Chirurgie plastique
+SURG_OPH	Ophtalmologie
+SURG_ORT	Orthopédie
+SURG_THO	Chirurgie thoracique
+SURG_VAS	Chirurgie vasculaire
+SURG_ANE	Anesthésie et soins intensifs
+SURG_URO	Urologie
+SURG_EME	Médecine d'urgence
+OTH	Autres spécialistes non classifiés ailleurs
+NSP	Docteurs en médecine non définis

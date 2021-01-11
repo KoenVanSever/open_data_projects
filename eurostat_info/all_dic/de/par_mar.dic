@@ -1,0 +1,302 @@
+TOTAL	Insgesamt
+SSS	Kurzstreckenseeverkehr
+DSS	Hochseeschifffahrt
+EUR	Europa
+EU27_2020	Europäische Union - 27 Länder (ab 2020)
+EU28	Europäische Union - 28 Länder (2013-2020)
+BE	Belgien
+BG	Bulgarien
+CZ	Tschechien
+DK	Dänemark
+DE	Deutschland
+DE_1	Deutschland: Nordsee
+DE_2	Deutschland: Ostsee
+DE_3	Deutschland: Rhein
+DE_9	Deutchland: Küstenregion nicht näher bezeichnet
+EE	Estland
+IE	Irland
+EL	Griechenland
+ES	Spanien
+ES_1	Spanien: Nordatlantik
+ES_2	Spanien: Mittelmeer und Südatlantik
+ES_3	Spanien: Ceuta
+ES_4	Spanien: Melilla
+ES_5	Spanien: Ceuta und Melilla
+ES_9	Spanien: Küstenregion nicht näher bezeichnet
+FR	Frankreich
+FR_1	Frankreich: Atlantik / Nordsee
+FR_2	Frankreich: Mittelmeer
+FR_3	Frankreich: Guyane
+FR_4	Frankreich: Guadeloupe und Martinique
+FR_5	Frankreich: Réunion
+FR_6	Frankreich: Mayotte
+FR_9	Frankreich: Küstenregion nicht näher bezeichnet
+YT	Mayotte (FR - Teil der EU ab 01.01.2014)
+HR	Kroatien
+IT	Italien
+CY	Zypern
+LV	Lettland
+LT	Litauen
+LU	Luxemburg
+HU	Ungarn
+MT	Malta
+NL	Niederlande
+AT	Österreich
+PL	Polen
+PT	Portugal
+RO	Rumänien
+SI	Slowenien
+SK	Slowakei
+FI	Finnland
+SE	Schweden
+SE_1	Schweden: Ostsee
+SE_2	Schweden: Nordsee
+SE_9	Schweden: Küstenregion nicht näher bezeichnet
+UK	Vereinigtes Königreich
+UK_1	Vereinigtes Königreich: Großbritannien und Nordirland
+UK_2	Vereinigtes Königreich: Isle of Man
+UK_3	Vereinigtes Königreich: Guernsey und Jersey (Kanalinseln)
+UK_9	Vereinigtes Königreich: Küstenregion nicht näher bezeichnet
+IS	Island
+LI	Liechtenstein
+NO	Norwegen
+CH	Schweiz
+ME	Montenegro
+MK	Nordmazedonien
+AL	Albanien
+RS	Serbien
+TR	Türkei
+TR_1	Türkei: Schwarzes Meer
+TR_2	Türkei: Mittelmeer
+TR_9	Türkei: Küstenregion nicht näher bezeichnet
+BY	Belarus
+BA	Bosnien und Herzegowina
+FO	Färöer (DK)
+GI	Gibraltar (UK)
+XK	Kosovo (gemäß der Resolution 1244/99 des Sicherheitsrates der Vereinten Nationen)
+MD	Moldau
+MC	Monaco
+RU	Russland
+RU_1	Russland: Schwarzes Meer
+RU_2	Russiland: Ostsee (nicht näher bezeichnet)
+RU_3	Russland: Asien
+RU_4	Russland: Barentssee und Weißes Meer
+RU_5	Russland: Ostsee (nur finnischer Meerbusen)
+RU_6	Russland: Ostsee (ohne finnischer Meerbusen)
+RU_7	Russland: Europäische Binnengewässer einschließlich Kaspisches Meer
+RU_9	Russland: Küstenregion nicht näher bezeichnet
+UA	Ukraine
+RS_ME	Ehemaliges Serbien und Montenegro (vor 2006) / Alle Teilstaaten des ehemaligen Serbien und Montenegro
+EX_YU	Ehemaliges Jugoslawien (vor 1992) / Alle Teilstaaten der ehemaligen jugoslawischen Republik
+EUR_NEU27_2020	Europäische Nicht-EU27-Länder (ab 2020)
+EUR_NEU28	Europäische Nicht-EU28-Länder (2013-2020)
+AFR	Afrika
+DZ	Algerien
+AO	Angola
+BJ	Benin
+CM	Kamerun
+CV	Kap Verde
+KM	Komoren
+CG	Kongo
+CI	Elfenbeinküste
+CD	Demokratische Republik Kongo
+DJ	Dschibuti
+EG	Ägypten
+GQ	Äquatorialguinea
+ER	Eritrea
+ET	Äthiopien
+GA	Gabun
+GM	Gambia
+GH	Ghana
+GN	Guinea
+GW	Guinea-Bissau
+KE	Kenia
+LR	Liberia
+LY	Libyen
+MG	Madagaskar
+ML	Mali
+MR	Mauretanien
+MU	Mauritius
+MA	Marokko
+MA_1	Marokko: Mittelmeer
+MA_2	Marokko. Westafrika
+MA_9	Marokko: Küstenregion nicht näher bezeichnet
+MZ	Mosambik
+NA	Namibia
+NE	Niger
+NG	Nigeria
+SH	St. Helena, Ascension und Tristan da Cunha (UK)
+ST	São Tomé und Príncipe
+SN	Senegal
+SC	Seychellen
+SL	Sierra Leone
+SO	Somalia
+ZA	Südafrika
+SD	Sudan
+TZ	Tansania
+TG	Togo
+TN	Tunesien
+EH	Westsahara
+AME	Amerika
+AI	Anguilla (UK)
+AG	Antigua und Barbuda
+AR	Argentinien
+AW	Aruba (NL)
+BS	Bahamas
+BB	Barbados
+BZ	Belize
+BM	Bermuda (UK)
+BQ	Bonaire, St. Eustatius und Saba
+BR	Brasilien
+VG	Britische Jungferninseln (UK))
+CA	Kanada
+CA_1_2	Kanada: Atlantik, Große Seen und Oberer St. Lorenz
+CA_1	Kanada: Atlantik
+CA_2	Kanada: Große Seen, Oberer St. Lorenz
+CA_3	Kanada: Westküste
+CA_9	Canada: Küstenregion nicht näher bezeichnet
+KY	Kaimaninseln (UK)
+CL	Chile
+CO	Kolumbien
+CO_1	Kolumbien: Nordküste
+CO_2	Kolumbien: Westküste
+CO_9	Kolumbien: Küstenregion nicht näher bezeichnet
+CR	Costa Rica
+CU	Kuba
+CW	Curaçao
+DM	Dominica
+DO	Dominikanische Republik
+EC	Ecuador
+SV	El Salvador
+FK	Falklandinseln (Malwinen) (UK)
+AN	Ehemalige Niederländische Antillen
+GL	Grönland (DK)
+GD	Grenada
+GT	Guatemala
+GY	Guyana
+HT	Haiti
+HN	Honduras
+JM	Jamaika
+MF	St. Martin (FR)
+MX	Mexiko
+MX_1	Mexiko: Atlantik
+MX_2	Mexiko: Pazifik
+MX_9	Mexiko: Küstenregion nicht näher bezeichnet
+MS	Montserrat (UK)
+NI	Nicaragua
+PA	Panama
+PE	Peru
+KN	St. Kitts und Nevis
+LC	St. Lucia
+PM	St. Pierre und Miquelon (FR)
+VC	St. Vincent und die Grenadinen
+BL	Saint-Barthélemy (FR)
+SX	St. Martin
+SR	Suriname
+TT	Trinidad und Tobago
+TC	Turks- und Caicosinseln (UK)
+US	Vereinigte Staaten
+US_1_2_6	Vereinigte Staaten: Nord- und Südatlantik und Große Seen
+US_1	Vereinigte Staaten: Nordatlantik
+US_2	Vereinigte Staaten: Südatlantik
+US_3	Vereinigte Staaten: Golf
+US_4	Vereinigte Staaten: Südpazifik
+US_5	Vereinigte Staaten: Nordpazifik
+US_6	Vereinigte Staaten: Große Seen
+US_7	Vereinigte Staaten: Puerto Rico
+US_9	Vereinigte Staaten: Küstenregion nicht näher bezeichnet
+UY	Uruguay
+VI	Amerikanische Jungferninseln (US)
+VE	Venezuela
+ASI_OCE	Asien und Ozeanien
+ASI	Asien
+AZ	Aserbaidschan
+BH	Bahrain
+BD	Bangladesch
+IO	Britisches Territorium im Indischen Ozean (UK)
+BN	Brunei Darussalam
+KH	Kambodscha
+CN_X_HK	China (ohne Hongkong)
+EG_1	Ägypten: Mittelmeer
+EG_2	Ägypten: Rotes Meer
+EG_9	Ägypten: Küstenregion nicht näher bezeichnet
+GE	Georgien
+HK	Hongkong
+IN	Indien
+ID	Indonesien
+IR	Iran
+IQ	Irak
+IL	Israel
+IL_1	Israel: Mittelmeer
+IL_2	Israel: Rotes Meer
+IL_9	Israel: Küstenregion nicht näher bezeichnet
+JP	Japan
+JO	Jordanien
+KZ	Kasachstan
+KW	Kuwait
+LB	Libanon
+MO	Macau
+MY	Malaysia
+MV	Malediven
+MM	Myanmar/Birma
+KP	Nordkorea
+OM	Oman
+PK	Pakistan
+PS	Palästina
+PH	Philippinen
+QA	Katar
+SA	Saudi-Arabien
+SA_1	Saudi-Arabien: Rotes Meer
+SA_2	Saudi-Arabien: Golf
+SA_9	Saudi-Arabien: Küstenregion nicht näher bezeichnet
+SG	Singapur
+KR	Südkorea
+LK	Sri Lanka
+SY	Syrien
+TW	Taiwan
+TH	Thailand
+TL	Timor-Leste
+TM	Turkmenistan
+AE	Vereinigte Arabische Emirate
+VN	Vietnam
+YE	Jemen
+OCE	Ozeanien
+US_ISL	Amerikanisches Ozeanien (US)
+AS	Amerikanisch-Samoa (US)
+AU	Australien
+AU_ISL	Australisches Ozeanien
+CX	Weihnachtsinsel (AU)
+CC	Kokosinseln (AU)
+CK	Cook Inseln (NZ)
+FM	Föderierte Staaten von Mikronesien
+FJ	Fidschi
+PF	Französisch-Polynesien (FR)
+GU	Guam (US)
+HM	Heard und die McDonaldinseln (AU)
+KI	Kiribati
+MH	Marshallinseln
+NR	Nauru
+NC	Neukaledonien (FR)
+NZ	Neuseeland
+NU	Niue (NZ)
+NF	Norfolkinsel (AU)
+MP	Nördliche Marianen (US)
+PW	Palau
+PG	Papua-Neuguinea
+PN	Pitcairninseln (UK)
+WS	Samoa
+SB	Salomonen
+TK	Tokelau (NZ)
+TO	Tonga
+TV	Tuvalu
+UM	Kleinere Amerikanische Überseeinseln (US)
+VU	Vanuatu
+WF	Wallis und Futuna (FR)
+AQ	Antarktis
+BV	Bouvet Insel (NO)
+GS	Südgeorgien und die Südlichen Sandwichinseln (UK)
+TF	Französische Südgebiete (FR)
+UNK_NSP	Nicht näher bezeichnete und unbekannte Orte insgesamt
+OFF_NSP	Offshore-Anlagen nicht näher bezeichnet
+AGG_NSP	Nicht näher bezeichnete Aggregate
+UNK	Unbekannt

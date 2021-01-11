@@ -1,0 +1,98 @@
+INST_NAT	Institutions nationales
+PARL_NAT	Parlement national
+GOV_NAT	Gouvernement national
+ORG_INTL	Organisations internationales
+EUI	Institutions et organes de l'Union européenne
+EUI_X_EAI	Institutions de l'UE hors institutions de la zone euro (agrégat variable en fonction du contexte)
+EUI_X_ECB	Institutions de l'UE hors BCE
+PARL	Parlement européen
+COUNCIL	Conseil européen
+CONS	Conseil de l'Union européenne
+COMM	Commission européenne
+EU_NSI	Eurostat
+CURIA	Cour de justice
+ECA	Cour des comptes européenne
+EESC	Comité économique et social européen
+COR	Comité européen des régions
+EIB	Banque européenne d'investissement
+EIF	Fonds européen d'investissement
+ECB	Banque centrale européenne (BCE)
+ESM	Mécanisme européen de stabilité
+EDF	Fonds européen de développement
+EU_BDG	Toutes les institutions européennes financées par le budget de l'UE
+EUB_MNR	Autres petites institutions européennes financées par le budget de l'UE
+EUB_OTH	Autre(s) institution(s) européenne(s) financée(s) par le budget de l'UE
+EUI_NBDG	Institution(s) européenne(s) non financée(s) par le budget de l'UE
+ECSC	Communauté européenne du charbon et de l'acier (CECA)
+EMI	Institut monétaire européen
+EMCF	Fonds européen de coopération monétaire
+EURATOM	Communauté européenne de l'énergie atomique
+UNO	Organisation des Nations Unies (ONU)
+UNICEF	Fonds des Nations Unies pour l'enfance (UNICEF)
+UNHCR	Haut-Commissariat des Nations Unies pour les réfugiés (UNHCR)
+UNRWA	Office de secours et de travaux des Nations Unies pour les réfugiés de Palestine dans le Proche-Orient (UNRWA)
+ILO	Bureau international du travail (BIT)
+FAO	Organisation des Nations Unies pour l'alimentation et l'agriculture (OAA)
+UNESCO	Organisation des Nations Unies pour l'éducation, la science et la culture (UNESCO)
+WHO	Organisation mondiale de la santé (OMS)
+IBRD	Banque internationale pour la reconstruction et le développement (BIRD)
+IDA	Association internationale de développement
+IFC	Société financière internationale (SFI)
+MIGA	Agence multilatérale de garantie des investissements (AMGI)
+IMF	Fonds monétaire international (FMI)
+ITU	Union internationale des télécommunications (UIT)
+IFAD	Fonds international de développement agricole (FIDA)
+WTO	Organisation mondiale du commerce (OMC)
+IAEA	Agence internationale de l'énergie atomique (AIEA)
+UNO_OTH	Organisation des Nations Unies hors FMI, OMC, BIRD, AID
+ORG_OTH	Autre(s) organisation(s) internationale(s)
+ACP	Groupe des Etats d'Afrique, des Caraïbes, et du Pacifique, signataires de l'accord de partenariat
+ACP_AFR	Pays ACP africains
+ACP_CRB	Pays ACP des Caraïbes
+ACP_PAC	Pays ACP du Pacifique
+AFDB	Banque africaine de développement
+ALA	Pays partenaires d'Amérique latine et d'Asie
+APEC	Coopération Economique Asie-Pacifique
+ASDB	Banque asiatique de développement
+ASEAN	Association des nations de l'Asie du Sud-Est
+BIS	Banque des règlements internationaux
+BRIC	Pays BRIC
+BRICS	Pays BRICS
+CAN	Communauté andine
+CARICOM	Communauté caribéenne
+CEMAC	Communauté Économique et Monétaire de l'Afrique Centrale
+COMESA	Marché Commun d'Afrique Orientale et australe
+DAC	Comité d'aide au développement (CAD)
+EASA	Agence européenne de la sécurité aérienne (AESA)
+NEASA	Pays non membres de l'AESA
+EBRD	Banque européenne pour la reconstruction et le développement
+ECCAS	Communauté économique des Etats de l'Afrique centrale
+ECOWAS	Communauté Economique des Etats de l'Afrique de l'Ouest
+EHEA	Espace Européen de l'Enseignement Supérieur (processus de Bologne)
+ESA	Agence Spatiale Européenne
+EURMED	Pays méditerranéens dans le partenariat euro-méditerranéen
+FEMIP	Facilité euro-méditerranéenne d¿investissement et de partenariat
+FZ	Zone Franc
+G20	Groupe des vingt
+IDB	Banque inter-américaine de développement
+IF	Facilité d'investissement
+MACR	Machrek
+MAGR	Maghreb
+MED	Pays du bassin méditerranéen
+MED_X_HR	Pays du bassin méditerranéen excepté la Croatie
+MERCOSUR	Marché Commun du Sud
+NAFTA	Association nord-américaine de libre-échange
+ODA	Pays et territoires bénéficiaires d'aide publique au développement (APD)
+OECD	Organisation de coopération et de développement économiques (OCDE)
+NOECD	Pays non membres de l'OCDE
+OPEC	Pays exportateurs de pétrole (OPEP)
+PALOP	Pays Africains ayant pour Langue Officielle le Portugais
+SADC	Communauté pour le Développement de l'Afrique Australe
+UEMOA	Union économique et monétaire ouest-africaine
+ORG_NEUR	Organisations internationales non européennes
+OTH	Autre(s)
+NAL	Non alloué
+NAP	Non applicable
+NRP	Sans réponse
+NSP	Non spécifié
+UNK	Inconnu(s)

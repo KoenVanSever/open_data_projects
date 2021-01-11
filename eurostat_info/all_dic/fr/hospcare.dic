@@ -1,0 +1,5 @@
+DIS	Total des sorties d'hôpital
+ALOS	Durée moyenne de séjour des patients hospitalisés
+BEDDAY	Jours d'hospitalisations
+INPAT	Patients hospitalisés pour au moins une nuit
+DAYCASE	Hospitalisations de jour

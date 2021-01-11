@@ -1,0 +1,31 @@
+TOTAL	Total
+0	Aucune personne employée
+0_1	De 0 à 1 personnes employées 
+0-9	De 0 à 9 personnes employées 
+0-49	De 0 à 49 personnes employées 
+1	1 personne employée
+1-4	De 1 à 4 personnes employées 
+1-9	De 1 à 9 personnes employées 
+1-19	De 1 à 19 personnes employées 
+1-49	De 1 à 49 personnes employées 
+1-249	De 1 à 249 personnes employées 
+2-4	De 2 à 4 personnes employées 
+2-9	De 2 à 9 personnes employées 
+5-9	De 5 à 9 personnes employées 
+GE5	5 personnes employées ou plus
+LT10	Moins de 10 personnes employées 
+10-19	De 10 à 19 personnes employées 
+10-49	De 10 à 49 personnes employées 
+GE10	10 personnes employées ou plus
+20-49	De 20 à 49 personnes employées 
+GE20	20 personnes employées ou plus
+LT49	Moins de 49 personnes employées 
+50-99	De 50 à 99 personnes employées 
+50-249	De 50 à 249 personnes employées 
+GE50	50 personnes employées ou plus
+100-249	De 100 à 249 personnes employées 
+250-499	De 250 à 499 personnes employées 
+GE250	250 personnes employées ou plus
+500-999	De 500 à 999 personnes employées 
+GE500	500 personnes employées ou plus
+GE1000	1 000 personnes employées ou plus

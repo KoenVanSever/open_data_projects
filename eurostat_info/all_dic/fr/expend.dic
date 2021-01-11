@@ -1,0 +1,120 @@
+TOTAL	Total
+TRA	Dépenses liées au transport
+SHOP	Dépenses liées aux achats
+REST	Dépenses dans des restaurants/cafés
+ACC	Dépenses liées à l'hébergement
+DUR	Dépenses liées à l'achat de biens durables et objets de valeur
+IW_VES	Dépenses en bateaux des entreprises de transport de marchandises par voies navigables intérieurs
+IW_INF	Dépenses en infrastructures de transport par voies navigables intérieures
+RD_VEH	Dépenses en véhicules de transport routier
+RD_INF	Dépenses en infrastructure routière
+RL_RSTK	Dépenses en matériel roulant dans l'EFP
+RL_INF	Dépenses en infrastructure dans l'EFP
+INSTR	Dépenses dans l'éducation à l'exclusion des services annexes et de la R&D
+ASERV	Dépenses pour des services auxiliaires
+RD	Dépenses pour les activités R&D
+INIT	Dépenses publiques avant des transferts intergouvernementaux
+FINL	Dépenses publiques après des transferts intergouvernementaux
+AVG_TRP	Dépenses moyennes par voyage
+AVG_NGT	Dépenses moyennes par nuitée
+ADJ	Correction des différences dans la balance du financement
+INV	Investissements
+INV_IW_VES	Investissements en bateaux des entreprises de transport de marchandises par voies navigables intérieures
+INV_IW_INF	Investissement en infrastructures de transport par voies navigables intérieures
+INV_RD_VEH	Investissements en véhicules routiers des entreprises de transport routier de marchandises
+INV_RD_INF	Investissements en infrastructure routière
+INV_RL_RSTK	Investissements en matériel roulant dans l'EFP
+INV_RL_INF	Investissementsen infrastructure dans l'EFP
+INV_PT	Investissements dans le traitement de la pollution
+INV_PP	Investissements dans la prévention de la pollution
+INV_PP_PC	Investissements dans la prévention de la pollution en % des investissements totaux pour la protection de l'environnement
+INV_TRD	Investissements en droits échangeables
+INV_ICT	Investissements dans les technologies de l'information et de la communication
+INV_EARL	Investissements de phase préliminaire
+INV_VEN	Investissements en capital-risque (amorçage, création et post-création)
+INV_VEN_SEED	Investissements en phase d'amorçage
+INV_VEN_STAR	Investissements en phase de création
+INV_VEN_LATE	Investissements en phase de post-création
+INV_EXRE	Investissements d'expansion et de remplacement
+INV_GROW	Investissements en phase de développement
+INV_RESC	Investissements de sauvetage/restructuration
+INV_REPL	Investissements de remplacement
+INV_BUY	Investissements de rachat/acquisition
+TRF_PAY	Transfers et paiements
+TRF	Subventions/transferts
+TRF_IND	Transferts aux individus
+TRF_IPER	Transferts aux individus - prestations périodiques en espèces
+TRF_ILUMP	Transferts aux individus - prestations uniques
+TRF_IREIM	Transferts aux individus - remboursements
+TRF_ISOC	Transferts aux individus - réductions de cotisations sociales
+TRF_ITAX	Transferts aux individus - réductions d'impôts
+TRF_EMP	Transferts aux employeurs
+TRF_EPER	Transferts aux employeurs - prestations périodiques en espèces
+TRF_ELUMP	Transferts aux employeurs - prestations uniques
+TRF_EREIM	Transferts aux employeurs - remboursements
+TRF_ESOC	Transferts aux employeurs - réductions de cotisations sociales
+TRF_ETAX	Transferts aux employeurs - réductions d'impôts
+TRF_SERV	Transferts aux prestataires de services
+TRF_NET	Transfers nets
+TRF_NSP	Transferts non spécifiés
+MNT	Entretien
+MNT_IW_VES	Entretien des bateaux des entreprises de transport de marchandises par voies navigables intérieures
+MNT_IW_INF	Entretien des infrastructures de transport par voies navigables intérieures
+MNT_RD_VEH	Entretien des véhicules routiers des entreprises de transport routier de marchandises
+MNT_RD_INF	Entretien des infrastructure routière
+MNT_RL_RSTK	Entretien du matériel roulant dans l'EFP
+MNT_RL_INF	Entretien de l'infrastructure dans l'EFP
+CUR	Dépenses courantes
+CUR_LC	Dépenses courantes - coûts salariaux
+CUR_COMP	Dépenses pour le paiement du personnel
+CUR_COMPT	Dépenses pour le paiement du personnel enseignant (avec une responsabilité active dans l'enseignement)
+CUR_COMPO	Dépenses pour le paiement d'autre personnel pédagogique, administratif et professionnel et personnel de support
+CUR_RET	Dépenses pour les pensions
+CUR_NLC	Dépenses pour d'autres paiements non-liés aux salaires
+CUR_OTH	Dépenses courantes - autres
+CAP	Dépenses en capital
+CAP_LAND	Capital - terrains et immeubles
+CAP_INST	Capital - instruments and équipement
+BC_RD	Frais capitalisés pour des investissements dans la recherche et le développement et autres investissements similaires
+BC_MKT	Frais capitalisés pour services commerciaux et de vente
+BC_OSERV	Autres frais capitalisés liés à des services
+FA	Aide financière pour les ménages et étudiants
+FA_GRNT	Bourses et d'autres subventions pour les ménages et étudiants
+FA_LOAN	Prêts pour étudiants
+DIR	Dépenses directes
+PAY	Paiements
+PAY_NET	Paiements nets
+PAY_SEA	Paiements pour des activités spécifiques au titre de l'éducation
+DW_ACQ	Acquisitions de logements
+DW_ACQ_NEW	Logements neufs
+DW_ACQ_NEWP	Achats de logements neufs
+DW_ACQ_NEWSB	Logements construits par les propriétaires eux-mêmes et rénovations majeures
+DW_ACQ_EXST	Logements existants nouveaux pour les ménages
+DW_ACQ_OTH	Autres services associés à l'acquisition de logements
+DW_OWN	Propriété des logements
+DW_OWN_RMNT	Travaux majeurs d'entretien et de réparations
+DW_OWN_INS	Assurance habitation
+DW_OWN_OTH	Autres services associés à la propriété des logements
+INN	Dépenses liées à l'innovation
+INN_XRND_CONTR_OUT	Dépenses liées à l'innovation excluant les dépenses pour les activités R&D sous-traitées
+INNXRND_CONTR_OUT	Dépenses liées à l'innovation excluant les dépenses pour les activités R&D sous-traitées
+RND	Dépenses pour les activités R&D
+RND_IH	Dépenses pour les activités R&D effectuées en interne
+RND_CONTR_OUT	Dépenses pour les activités R&D sous-traitées
+INN_XRND	Autres dépenses liées à l'innovation (à l'exception des activités R&D)
+INNXRND	Autres dépenses liées à l'innovation (à l'exception des activités R&D)
+INN_XRND_OWN_PER	Son propre personnel travaillant sur l'innovation
+INNXRND_OWN_PER	Son propre personnel travaillant sur l'innovation
+INN_XRND_CAP_GD	Biens d'équipement pour l'innovation (acquisition de machines, d'équipements, de logiciels, de droits de propriété intellectuelle (DPI), de bâtiments, etc.)
+INNXRND_CAP_GD	Biens d'équipement pour l'innovation (acquisition de machines, d'équipements, de logiciels, de droits de propriété intellectuelle (DPI), de bâtiments, etc.)
+INN_XRND_SMSP	Services, matériels, fournitures achetés pour les activités d’innovation
+INNXRND_SMSP	Services, matériels, fournitures achetés pour les activités d’innovation
+ACQ_MEBTA	Acquisition de machines, d'équipements, de bâtiments et d'autres biens corporels
+ACQ_MES	Acquisition de machines, d'équipements et de logiciels
+SOFT_DBA_DA	Développement de logiciels, gestion de base de données et analyse de données (y compris coûts internes et achats de services)
+RFM_IPR_PUR_LIC	Enregistrer, remplir et contrôler ses droits de propriété intellectuelle (DPIs) et acheter ou concéder les licences de DPIs des autres
+ACQ_EKNOW	Acquisition d'autres connaissances externes
+MKTG_BB_ADV	Marketing, développement de marque, publicité (y compris coûts internes et achats de services)
+TNG_STAFF	Formation de leur propre personnel (y compris tous les coûts internes incluant les salaires et traitements du personnel en formation, et coûts d'achats de services auprès de tiers)
+PRD_DESG	Conception de produit (y compris coûts internes et achats de services)
+OTH	Autres dépenses

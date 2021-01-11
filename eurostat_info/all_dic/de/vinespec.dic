@@ -1,0 +1,11 @@
+TOTAL	Betriebe mit Rebflächen - insgesamt
+HLD_EWI	Betriebe mit Rebflächen ausschließlich zur Weinerzeugung
+HLD_EWI_P	Betriebe mit Rebflächen ausschließlich zur Erzeugung von Weinen mit g.U. und/oder g.g.A.
+HLD_EWI_PDO	Betriebe mit Rebflächen ausschließlich zur Erzeugung von Weinen mit g.U.
+HLD_EWI_PGI	Betriebe mit Rebflächen ausschließlich zur Erzeugung von Weinen mit g.g.A.
+HLD_EWI_PDO_PGI	Betriebe mit Rebflächen ausschließlich zur Erzeugung von Weinen mit g.U. und g.g.A.
+HLD_EWI_NP	Betriebe mit Rebflächen ausschließlich zur Erzeugung von Weinen ohne g.U./g.g.A.
+HLD_EWI_SEV	Betriebe mit Rebflächen zur Erzeugung verschiedener Weinarten
+HLD_EDRI	Betriebe mit Rebflächen ausschließlich zur Erzeugung von Rosinen
+HLD_OTH	Betriebe mit anderen Rebflächen a.n.g.
+HLD_SEV	Betriebe mit Rebflächen zur Erzeugung unterschiedlicher Produkte

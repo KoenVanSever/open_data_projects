@@ -1,0 +1,109 @@
+TOTAL	Ensemble des niveaux de la CITE 2011
+ED0-4	Inférieur à l'enseignement primaire, enseignement primaire, secondaire et post-secondaire non-supérieur (niveaux 0-4)
+ED0-2	Inférieur à l'enseignement primaire, enseignement primaire et premier cycle de l'enseignement secondaire (niveaux 0-2) 
+ED0	Éducation de la petite enfance
+ED01	Développement éducatif de la petite enfance
+ED02-8	Ensemble des niveaux de la CITE 2011, à l'exclusion du développement éducatif de la petite enfance
+ED02	Enseignement préprimaire
+ED1-4	Enseignement primaire, premier cycle du secondaire, deuxième cycle du secondaire et post-secondaire non supérieur (niveaux 1-4)
+ED1-3	Enseignement primaire, premier cycle du secondaire et deuxième cycle du secondaire (niveaux 1-3) 
+ED1_2	Enseignement primaire et premier cycle du secondaire (niveaux 1 et 2) 
+ED1	Enseignement primaire
+ED2-4	Premier cycle du secondaire, deuxième cycle du secondaire et post-secondaire non supérieur (niveaux 2-4)
+ED2_3	Premier cycle du secondaire et deuxième cycle du secondaire (niveaux 2 et 3) 
+ED2	Premier cycle de l'enseignement secondaire
+ED24	Premier cycle de l'enseignement secondaire - général
+ED25_35_45	Premier cycle du secondaire, deuxième cycle du secondaire et post-secondaire non-supérieur - professionnel (niveaux 25, 35 et 45)
+ED25	Premier cycle de l'enseignement secondaire - professionnel
+ED3-8	Deuxième cycle de l'enseignement secondaire, enseignement post-secondaire non-supérieur et enseignement supérieur (niveaux 3-8)
+ED3_4	Deuxième cycle de l'enseignement secondaire et enseignement post-secondaire non-supérieur (niveaux 3 et 4) 
+ED3_4GEN	Deuxième cycle de l'enseignement secondaire et enseignement post-secondaire non-supérieur (niveaux 3 et 4) -  général
+ED3_4VOC	Deuxième cycle de l'enseignement secondaire et enseignement post-secondaire non-supérieur (niveaux 3 et 4) - professionnel
+ED3_4UNK	Deuxième cycle de l'enseignement secondaire et enseignement post-secondaire non-supérieur (niveaux 3 et 4) - orientation inconnue
+ED3	Deuxième cycle de l'enseignement secondaire
+ED3SW	Deuxième cycle de l'enseignement secondaire - apprentissage 
+ED34_44	Deuxième cycle du secondaire et post-secondaire non-supérieur - général (niveaux 34 et 44) 
+ED34	Deuxième cycle de l'enseignement secondaire - général
+ED341	Deuxième cycle de lenseignement secondaire - général, insuffisant pour un achèvement ou un achèvement partiel de niveau, sans accès direct à lenseignement supérieur 
+ED342_352	Deuxième cycle de l'enseignement secondaire - tous les programmes, suffisant pour un achèvement partiel de niveau, sans accès direct à l'enseignement supérieur (niveaux 342 et 352) 
+ED342	Deuxième cycle de lenseignement secondaire - général, suffisant pour un achèvement partiel de niveau, sans accès direct à lenseignement supérieur 
+ED343_353	Deuxième cycle de l'enseignement secondaire - tous les programmes, suffisant pour un achèvement de niveau, sans accès direct à l'enseignement supérieur (niveaux 343 et 353)
+ED343	Deuxième cycle de l'enseignement secondaire -général, suffisant pour un achèvement de niveau, sans accès direct à l'enseignement supérieur
+ED344_354	Deuxième cycle de l'enseignement secondaire - tous les programmes, suffisant pour un achèvement de niveau, avec accès direct à l'enseignement supérieur (niveaux 344 et 354)
+ED344	Deuxième cycle de l'enseignement secondaire - général, suffisant pour un achèvement de niveau, avec accès direct à l'enseignement supérieur
+ED35_45	Deuxième cycle du secondaire et post-secondaire non-supérieur - professionnel (niveaux 35 et 45) 
+ED35	Deuxième cycle de l'enseignement secondaire - professionnel
+ED351	Deuxième cycle de l'enseignement secondaire - professionnel, insuffisant pour un achèvement ou un achèvement partiel de niveau, sans accès direct à l'enseignement supérieur
+ED352	Deuxième cycle de l'enseignement secondaire - professionnel, suffisant pour un achèvement partiel de niveau, sans accès direct à l'enseignement supérieur
+ED353	Deuxième cycle de l'enseignement secondaire - professionnel, suffisant pour un achèvement de niveau, sans accès direct à l'enseignement supérieur
+ED354	Deuxième cycle de l'enseignement secondaire - professionnel, suffisant pour un achèvement de niveau, avec accès direct à l'enseignement supérieur
+ED4	Enseignement post-secondaire non-supérieur
+ED4SW	Enseignement post-secondaire non-supérieur - apprentissage
+ED44	Enseignement post-secondaire non-supérieur - général
+ED441	Enseignement post-secondaire non-supérieur - général, insuffisant pour un achèvement de niveau, sans accès direct à lenseignement supérieur
+ED443_453	Enseignement post-secondaire non-supérieur - tous les programmes, suffisant pour un achèvement de niveau, sans accès direct à l'enseignement supérieur (niveaux 443 et 453)
+ED443	Enseignement post-secondaire non-supérieur - général, suffisant pour un achèvement de niveau, sans accès direct à lenseignement supérieur
+ED444_454	Enseignement post-secondaire non-supérieur - tous les programmes, suffisant pour un achèvement de niveau, avec accès direct à l'enseignement supérieur (niveaux 444 et 454)
+ED444	Enseignement post-secondaire non-supérieur - général, suffisant pour un achèvement de niveau, avec accès direct à lenseignement supérieur
+ED45	Enseignement post-secondaire non-supérieur - professionnel
+ED451	Enseignement post-secondaire non-supérieur - professionnel, insuffisant pour un achèvement de niveau, sans accès direct à lenseignement supérieur
+ED453	Enseignement post-secondaire non-supérieur - professionnel, suffisant pour un achèvement de niveau, sans accès direct à lenseignement supérieur
+ED454	Enseignement post-secondaire non-supérieur - professionnel, suffisant pour un achèvement de niveau, avec accès direct à lenseignement supérieur
+ED5-8	Enseignement supérieur (niveaux 5-8)
+ED5-7	Enseignement supérieur, à l'exclusion de niveau doctorat ou équivalent (niveaux 5 - 7) 
+ED5_6	Enseignement supérieur de cycle court et niveau licence ou équivalent (niveaux 5 et 6)
+ED5	Enseignement supérieur de cycle court
+ED5SW	Enseignement supérieur de cycle court - apprentissage
+ED54	Enseignement supérieur de cycle court - général/académique
+ED541	Enseignement supérieur de cycle court - général/académique, insuffisant comme achèvement de niveau
+ED544	Enseignement supérieur de cycle court - général/académique, suffisant comme achèvement de niveau
+ED55	Enseignement supérieur de cycle court - professionnel
+ED551	Enseignement supérieur de cycle court - professionnel, insuffisant comme achèvement de niveau
+ED554	Enseignement supérieur de cycle court - professionnel, suffisant comme achèvement de niveau
+ED6-8	Enseignement supérieur, à l'exclusion de l'enseignement supérieur de cycle court (niveaux 6 - 8) 
+ED6	Niveau licence ou équivalent
+ED64	Niveau licence ou équivalent - académique
+ED641_651_661	Niveau licence ou équivalent - tous les programmes, insuffisant comme achèvement de niveau (niveaux 641, 651 et 661)
+ED641	Niveau licence ou équivalent - académique, insuffisant comme achèvement de niveau
+ED645_655_665	Niveau licence ou équivalent - tous les programmes, premier diplôme (3 à 4 ans) (niveaux 645, 655 et 665)
+ED645	Niveau licence ou équivalent - académique, premier diplôme (3 à 4 ans)
+ED646_656_666	Niveau licence ou équivalent - tous les programmes, premier diplôme long (plus de 4 ans) (niveaux 646, 656 et 666)
+ED646	Niveau licence ou équivalent - académique, premier diplôme long (plus de 4 ans)
+ED647_657_667	Niveau licence ou équivalent ¿ tous les programmes, deuxième diplôme ou diplôme supplémentaire (après un programme de licence ou équivalent) (niveaux 647, 657 et 667)
+ED647	Niveau licence ou équivalent - académique, deuxième diplôme ou diplôme supplémentaire (après un programme de licence ou équivalent)
+ED65	Niveau licence ou équivalent - professionnel
+ED651	Niveau licence ou équivalent - professionnel, insuffisant comme achèvement de niveau
+ED655	Niveau licence ou équivalent - professionnel, premier diplôme (3 à 4 ans)
+ED656	Niveau licence ou équivalent - professionnel, premier diplôme long (plus de 4 ans)
+ED657	Niveau licence ou équivalent - professionnel, deuxième diplôme ou diplôme supplémentaire (après un programme de licence ou équivalent)
+ED66	Niveau licence ou équivalent - orientation non spécifiée
+ED661	Niveau licence ou équivalent - orientation non spécifiée, insuffisant comme achèvement de niveau
+ED665	Niveau licence ou équivalent - orientation non spécifiée, premier diplôme (3 à 4 ans)
+ED666	Niveau licence ou équivalent - orientation non spécifiée, premier diplôme long (plus de 4 ans)
+ED667	Niveau licence ou équivalent - orientation non spécifiée, deuxième diplôme ou diplôme supplémentaire (après un programme de licence ou équivalent)
+ED7_8	Niveau master et niveau doctorat ou équivalent (niveaux 7 et 8)
+ED7	Niveau master ou équivalent 
+ED74	Niveau master ou équivalent - académique
+ED741_751_761	Niveau master ou équivalent - tous les programmes, insuffisant comme achèvement de niveau (niveaux 741, 751 et 761)
+ED741	Niveau master ou équivalent - académique, insuffisant comme achèvement de niveau
+ED746_756_766	Niveau master ou équivalent - tous les programmes, premier diplôme long (au moins 5 ans) (niveaux 746, 756 et 766)
+ED746	Niveau master ou équivalent - académique, premier diplôme long (au moins 5 ans)
+ED747_757_767	Niveau master ou équivalent - tous les programmes, deuxième diplôme ou diplôme supplémentaire (après un programme de niveau licence ou équivalent) (niveaux 747, 757 et 767)
+ED747	Niveau master ou équivalent - académique, deuxième diplôme ou diplôme supplémentaire (après un programme de niveau licence ou équivalent)
+ED748_758_768	Niveau master ou équivalent - tous les programmes, deuxième diplôme ou diplôme supplémentaire (après un programme de master ou équivalent) (niveaux 748, 758 et 768)
+ED748	Niveau master ou équivalent - académique, deuxième diplôme ou diplôme supplémentaire (après un programme de master ou équivalent)
+ED75	Niveau master ou équivalent - professionnel
+ED751	Niveau master ou équivalent - professionnel, insuffisant comme achèvement de niveau
+ED756	Niveau master ou équivalent - professionnel, premier diplôme long (au moins 5 ans)
+ED757	Niveau master ou équivalent - professionnel, deuxième diplôme ou diplôme supplémentaire (après un programme de licence ou équivalent)
+ED758	Niveau master ou équivalent - professionnel, deuxième diplôme ou diplôme supplémentaire (après un programme de master ou équivalent)
+ED76	Niveau master ou équivalent - orientation non spécifiée
+ED761	Niveau master ou équivalent - orientation non spécifiée, insuffisant comme achèvement de niveau
+ED766	Niveau master ou équivalent - orientation non spécifiée, premier diplôme long (au moins 5 ans)
+ED767	Niveau master ou équivalent - orientation non spécifiée, deuxième diplôme ou diplôme supplémentaire (après un programme de licence ou équivalent)
+ED768	Niveau master ou équivalent - orientation non spécifiée, deuxième diplôme ou diplôme supplémentaire (après un programme de master ou équivalent)
+ED8	Niveau doctorat ou équivalent 
+ED9	Non classé ailleurs
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

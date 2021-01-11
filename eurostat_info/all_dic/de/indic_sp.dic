@@ -1,0 +1,16 @@
+GSP_MIO_NAC	Bruttosozialschutzleistungen in Millionen Einheiten Landeswährung
+NSP_MIO_NAC	Nettosozialschutzleistungen in Millionen Einheiten Landeswährung
+GSP_MIO_EUR	Bruttosozialschutzleistungen in Millionen Euro
+NSP_MIO_EUR	Nettosozialschutzleistungen in Millionen Euro
+NSP_PC_GSP	Nettosozialschutzleistungen in Prozent der Bruttosozialschutzleistungen
+GSP_PC_GDP	Bruttosozialschutzleistungen in Prozent des BIP
+NSP_PC_GDP	Nettosozialschutzleistungen in Prozent des BIP
+SPB_PC_TSC	Prozentualer Anteil der steuer- oder sozialbeitragspflichtigen Sozialschutzleistungen
+SPB_PC_TAX	Prozentualer Anteil der steuerpflichtigen Sozialschutzleistungen
+SPB_PC_SC	Prozentualer Anteil der sozialbeitragspflichtigen Sozialschutzleistungen
+SPC_PC_TSC	Prozentualer Anteil der steuer- oder sozialbeitragspflichtigen Barsozialschutzleistungen
+SPC_PC_TAX	Prozentualer Anteil der steuerpflichtigen Barsozialschutzleistungen
+SPC_PC_SC	Prozentualer Anteil der sozialbeitragspflichtigen Barsozialschutzleistungen
+TSC_RT_LE	Effektive kombinierte Steuer- und Sozialbeitragsraten auf abgabepflichtige Leistungen
+TSC_RT_SPB	Effektive kombinierte Steuer- und Sozialbeitragsraten auf alle Sozialschutzleistungen
+FBE_MIO_EUR	Restliche Steuervergünstigungen in Millionen Euro

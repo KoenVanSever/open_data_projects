@@ -1,0 +1,21 @@
+TOTAL	Total
+D0-3	De 0 à 3 jours
+D_LT1	Moins de 1 jour
+D1-3	De 1 à 3 jours
+D4-6	De 4 à 6 jours
+D_GE4	4 jours ou plus
+D7-13	De 7 à 13 jours
+D14-20	De 14 à 20 jours
+D14-29	De 14 à 29 jours
+D_GE14	14 jours ou plus
+D21-M1	De 21 jours à 1 mois
+D_GE183_PI	Incapacité permanente ou 183 jours ou plus
+M1-3	De 1 à 3 mois
+M_GE1	1 mois ou plus
+M3-6	De 3 à 6 mois
+M_GE3	3 mois ou plus
+M_GE6	6 mois ou plus
+FAT	Mortel
+NSP	Non spécifié
+OTH	Autres
+UNK	Inconnu

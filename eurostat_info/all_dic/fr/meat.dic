@@ -1,0 +1,35 @@
+B0000	Total des viandes et abats comestibles
+B0010	Viande d'animaux d'élevage
+B1000	Viande bovine
+B1100	Veau et jeune bovin
+B1110	Veau
+B1120	Jeune bovin
+B1200	Gros bovin
+B1210_1220	Boeuf et taureau
+B1210	Boeuf
+B1220	Taureau
+B1230	Vache
+B1240	Génisse
+B3000	Viande porcine
+B3100	Porc
+B3100A	Porc (grade I)
+B3100B	Porc (grade II)
+B4000	Viande ovine et caprine
+B4100	Viande ovine
+B4110	Agneau
+B4120	Mouton
+B4200	Viande caprine
+B5000	Viande équine
+B6000	Abats comestibles
+B7000	Viande de volaille
+B7100	Poule et poulet
+B7110	Poulet
+B7120	Poule à bouillir
+B7200	Canard
+B7300	Dinde
+B7400	Oie, pintade et autre volaille
+B7410	Oie
+B7420	Pintade
+B7490	Autre volaille
+B8000	Viande de lapin
+B9000	Autre viande

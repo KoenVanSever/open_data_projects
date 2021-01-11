@@ -1,0 +1,25 @@
+NEI_EXT	Aus der Natur entnommene Energieformen
+EPRD_DOM	Inländische Produktion von Energieerzeugnissen
+EPRD_ICNS	Vorleistungsverbrauch von Energieerzeugnissen
+EPRD_HHCNS	Haushaltsverbrauch von Energieerzeugnissen
+WST_USE	Verwendung von Abfällen für energetische Zwecke
+WST_USE_EP	Verwendung von Abfällen für energetische Zwecke
+NETDOM_EUSE	Nettoinlandsverbrauch von Energie
+NETDOM_EUSE_EP	Nettoinlandsverbrauch von Energie für energetische Zwecke
+NETDOM_EUSE_NEP	Nettoinlandsverbrauch von Energie für nicht-energetische Zwecke
+NRG_INP_OUT	Energieein- und -ausgang
+ER_EUSE	Emissionsrelevante Verwendung von Energie
+DEI	Direkter Energieeinsatz
+DEO	Direkte Abgabe von Energie
+NAS_CAL	Nettobestandszunahme (kalkuliert)
+NAS_REP	Nettobestandszunahme (berichtet)
+DEC	Inländischer Energieverbrauch
+EPRD_ERES_IMP	Importe von Energieprodukten und -residuen (Abfall für energetische Nutzungen)
+EPRD_IMP	Importe von Energieprodukten
+ERES_IMP	Importe von Energieresiduen (Abfall für energetische Nutzungen)
+DPO	Inländisch produzierte Abgabe an die Natur
+EPRD_ERES_EXP	Exporte von Energieprodukten und -residuen
+EPRD_ERES_NETCHG	Nettobestandsveränderungen (Verwendung minus Aufkommen) der Energieproduke und -residuen
+ERES_SUP	Aufkommen von Energieresiduen aus dem Bestand
+EPRD_ERES_AS	Bestandszunahme (Verwendung) an Energieprodukten und -residuen
+EPRD_ERES_DSP	Statistische Differenze zwischen Aufkommen und Verwendung von Energieprodukten und -residuen

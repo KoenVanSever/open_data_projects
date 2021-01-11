@@ -1,0 +1,6 @@
+LOAN	Financement par emprunt
+EQUIT	Financement par fonds propres
+EQUIT_RNDINN	Financement par fonds propres pour l'activité R&D ou d'autres activités liées à l'innovation
+DEBT	Financement par dette
+DEBT_RNDINN	Financement par dette pour l'activité R&D ou d'autres activités liées à l'innovation
+OTH	Autre

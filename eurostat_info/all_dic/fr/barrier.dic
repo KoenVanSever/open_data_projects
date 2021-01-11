@@ -1,0 +1,146 @@
+TOTAL	Total
+LEG_ADM	Juridique ou administratif
+CBT_NRLV	Échange transfrontalier non approprié
+C41	Echange transfrontalier non approprié (produits non exportables)
+E_COM_ABR	Établissement d'une présence commerciale à l'étranger
+C42	Etablissement d'une présence commerciale à l'étranger
+MV_STAF_TEMP	Détachement temporaire de personnel
+C43	Détachement temporaire de personnel
+TAX	Obstacles fiscaux
+C44	Problèmes de fiscalité
+INS_GAR	Assurances, systèmes de garantie et autres obstacles
+C45	Problèmes d'assurances, de systèmes de garantie et similaires
+LINTLSTD	Manque de normes internationales
+C46	Manque de normes internationales pour les services
+DIF_IDF_CLABR	Difficulté à identifier les clients potentiels à l'étranger
+C47	Difficultés à identifier les clients potentiels à l'étranger
+LANG_CLT	Langue et culture
+C48	Barrières linguistiques et culturelles
+TAR_TRD	Tarifs douaniers et autres obstacles commerciales
+TARIF	Tarifs douaniers
+UNC_INTLSTD	Incertitude des normes internationales
+INT_STAN	Incertitude des normes internationales
+CNC_SAL	Préoccupations des salariés (y compris les syndicats)
+EMPL	Préoccupations des salariés (y compris les syndicats)
+CNC_VLPAT_IPR	Préoccupations relatives à la violation des brevets et/ou des droits de propriété intellectuelle
+PAT_INT	Préoccupations relatives à la violation des brevets et/ou des droits de propriété intellectuelle
+CNF_SOCVAL	En opposition avec les valeurs sociales de votre entreprise (p. ex. les questions de responsabilité sociale de l'entreprise)
+CONFL	En opposition avec les valeurs sociales de votre entreprise (par exemple les questions de responsabilité sociale de l'entreprise)
+DST_PRR	Distance des producteurs
+DISTAN	Problèmes liés à l'éloignement par rapport aux producteurs
+DST_CL	Distance des clients existants
+PROX	Nécessité d'une proximité avec les clients existants
+DIF_IDF_PROVABR	Difficulté à trouver des fournisseurs appropriés à l'étranger
+PROV	Difficultés à trouver des fournisseurs potentiels/appropriés à l'étranger
+CNC_SRCOP_BEN	Préoccupations relatives à l'opération de sourçage dépassant les bénéfices escomptés
+OVERALL	Préoccupations globales que l'opération de sourçage ne dépasse les bénéfices escomptés
+FIN	Obstacles financiers
+UNC_QUALPRD_ABR	Incertitude sur la qualité des biens/services fournis à l'étranger
+QPS	Incertitude sur la qualité des biens/services produits à l'étranger
+LMNG_KH	Manque de ressources managériales et de savoir-faire
+MAN	Insuffisances de ressources managériales et de savoir-faire (optionnel)
+MSSDOC_PRD	Absence de documentation sur les produits et les procédés
+DOC	Absence de documentation sur les produits et les procédés (optionnel)
+MOB	Mobilité
+TRA	Transport
+TRANSP	Obstacles au transport
+ACS_BLD	Accès aux bâtiments
+BUILD	Obstacles à l'accès aux immeubles
+EDUC_TNG	Éducation et formation
+EDUC	Obstacles à l'éducation et à la formation
+EMP	Emploi
+U_INET	Utilisation de l'Internet
+INT	Obstacles à l'utilisation d'internet
+SOC	Contact social
+SPEAK	Obstacles aux contacts sociaux
+LEIS	Loisirs
+LEISURE	Obstacles à la pratique de loisirs
+P_ESS	Paiement des biens essentiels
+PAY	Obstacles aux dépenses essentielles de la vie
+PERC_DCRIM	Discrimination perçue
+DISCRIM	Obstacles à un traitement équitable
+PTP_LD1	Participation dans 1 domaine de la vie
+LD1	Obstacles à la participation dans 1 domaine de la vie
+PTP_LD2-3	Participation dans 2 à 3 domaines de la vie
+LD2-3	Obstacles à la participation dans 2 ou 3 domaines de la vie
+PTP_LD_GE4	Participation dans 4 domaines de la vie ou plus
+LD_GE4	Obstacles à la participation dans 4 domaines de la vie ou plus
+LLANG	Manque de compétences linguistiques
+LANG	Manque de compétences linguistiques
+LREC_QLF	Manque de reconnaissance des qualifications
+QUAL	Qualifications non reconnues
+CTZ_RPRM	Nationalité ou autorisation de séjour
+PERM	Citoyenneté ou autorisation de résidence
+ORI_REL_SOC	Origine, religion ou origine sociale
+ORELSOC	Origine, religion ou statut social
+LQLFLAB_ABR	Manque de main-d'oeuvre qualifiée à l'étranger
+ACS_FIN_OTH	Accès au financement ou autres obstacles financiers
+LFIN	Manque de financements
+LFIN_IN	Manque de financements internes
+LFIN_EXT	Manque de financements externes (crédit ou capital privé)
+LFUND_IN	Manque de fonds au sein de l'entreprise ou du groupe
+HCOST	Coûts élevés
+HCOST_ACS_NEWMKT	Coûts élevés d'accès à de nouveaux marchés
+HCOST_MT_REGL	Coûts élevés du respect de la réglementation
+LQLFSAL_IN	Manque de salariés qualifiés au sein de l'entreprise
+LCOLLPTN	Manque de partenaires de collaboration
+DIF_SUB	Difficultés à obtenir des subventions ou des aides publiques
+MKTDM_UNC	Demande du marché incertaine
+MKTDM_LW	Faible demande du marché
+HCOMP	Grande concurrence
+PRCCOMP_STR	Forte concurrence des prix
+INN_COMP	Innovations introduites par les concurrents
+MKTCOMP_LTL	Peu de concurrence sur le marché
+STRCOMP_PRDQUAL	Forte concurrence sur la qualité des produits
+LINFO_TEC	Manque d'information sur la technologie
+LINFO_MKT	Manque d'information sur les marchés
+LGIDEA	Manque de bonnes idées
+MKT_EENT	Marchés dominés par des entreprises établies
+NND	Aucun besoin
+PREINN	Innovations précédentes
+NDM	Aucune demande
+ABD_CNC	Abandonné au stade du concept
+ABD_BG	Abandonné après le début
+D_SRL	Sérieusement retardé
+NCMPG	Aucune barrière convaincante
+BRR_TL	Trop grands obstacles
+BUR_REGL	Charge due à la législation/règlementation
+UNC_REGL	Incertitude due à la législation/réglementation
+LCSI_EU_REGL	Manque de cohérence de la législation/règlementation dans l'UE
+LACS_KNOW	Manque d'accès à la connaissance externe
+DIFFPRIOR_IN	Différentes priorités au sein de l'entreprise
+BRR_GE1	Une ou plusieurs barrières
+OUTSRC_LOG	Logistique externalisée à une autre entreprise
+REGL	Barrières règlementaires
+TECH	Barrières techniques
+WRKHR_LG	Long temps de travail
+DIF_WRKSCD	Horaires de travail difficiles ou aléatoires
+COM_LG	Long trajet
+DMJOB	Travail fatigant ou exigeant
+LSUPP_EMPL	Manque de soutien de la part des employeurs et des collègues
+RF	Relations possibles uniquement au sein du groupe
+L	Situation géographique de l'entreprise
+SBS	Taille ou étendue d'activité de l'entreprise
+ASP	Disponibilité de partenaires adéquats
+LRB	Barrières juridiques ou réglementaires
+CCI	Crainte de perdre des compétences de base ou l'indépendance
+RIMF	Risque d'investir des ressources humaines et/ou financières dans une mauvaise direction
+NSCC	Tentative passée soldée par un échec
+NWRI	Nécessité ou volonté de rester indépendant
+OSOP	Préférence pour d'autres options stratégiques ou opérationnelles
+BEG	Effort trop onéreux en comparaison des gains escomptés
+11	Barrières liées à la localisation
+12	Barrières linguistiques
+13	Barrières culturelles et de confiance
+14	Barrières économiques
+15	Barrières juridiques et réglementaires
+16	Difficultés à identifier les fournisseurs de services étrangers adéquats
+20	Pas de barrières
+30	Le service n'est pas pertinent
+OTH	Autre(s)
+OTHER	Autres barrières
+NO	Aucune barrière
+NONE	Aucun
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu

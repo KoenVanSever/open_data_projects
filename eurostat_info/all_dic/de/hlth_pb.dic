@@ -1,0 +1,187 @@
+TOTAL	Insgesamt
+LHC_DIF_BACT	Sowohl ein lang andauerndes Gesundheitsproblem als auch Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+LHC_ILL	Lang andauerndes Gesundheitsproblem bzw. lang andauernde Krankheit
+NLHC_ILL	Keine lang andauernden Gesundheitsprobleme oder Krankheiten
+LHC_ONL	Nur ein lang andauerndes Gesundheitsproblem
+DIF_BACT	Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+DIF_BACT_ONL	Nur eine Schwierigkeit bei der Ausübung von Tätigkeiten des täglichen Lebens
+NDIF_BACT	Keine Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+NLHC_DIF_BACT	Kein lang andauerndes Gesundheitsproblem oder Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+LTD_LHC_DIF_BACT	Sowohl durch ein lang andauerndes Gesundheitsproblem als auch durch Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens beschränkt
+LTD_LHC	Beschränkt nur durch ein lang andauerndes Gesundheitsproblem
+LTD_DIF_BACT	Beschränkt nur durch Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+MUSC_SKE	Knochen-, Gelenk- oder Muskelerkrankungen
+ARMS_HANDS	Probleme mit Armen oder Händen
+LEGS_FEET	Probleme mit Beinen oder Füßen
+ARTHRO	Arthrose
+BACK_NECK	Probleme mit Rücken oder Nacken
+LW_CHR_BACK	Probleme im unteren Rückenbereich oder ein anderes chronisches Rückenleiden
+NECK	Probleme im Bereich der Halswirbelsäule oder eine andere chronische Halsschädigung
+SEE	Sehen
+HEAR	Hören
+SPCH_IMPED	Sprachfehler
+SKIN	Hautprobleme
+CHST_BRTH	Brust- oder Atemprobleme
+ASTHMA	Asthma
+CHR_LW_RES	Chronische Erkrankungen der unteren Atemwege (ohne Asthma)
+CARDIO_VASC	Herz-Kreislauf-Erkrankungen
+HRT_BLPR	Herz-, Blutdruck- oder Kreislaufprobleme
+HRT_CHR_ATK	Herzinfarkt oder chronische Folgen eines Herzinfarkts
+CHRT_ANGPEC	Koronare Herzkrankheit oder Angina pectoris
+PULMO	Lungenerkrankungen
+HBLPR	Bluthochdruck
+STRK_CHR	Schlaganfall oder chronische Folgen eines Schlaganfalls
+STOMACH	Magen-, Leber-, Nieren- oder Verdauungsprobleme
+CIRRHOSIS	Leberzirrhose
+URIN	Harninkontinenz, Probleme bei der Kontrolle der Blase
+KIDNEY	Nierenprobleme
+INFECT	Infektionskrankheiten
+DIAB	Diabetes
+ALLGY	Allergie
+EPILEP	Epilepsie
+MENT_NRV_EMO	Mentale, nervöse oder emotionale Probleme
+CHR_ANX	Chronische Angst
+DPR	Depressive Symptome
+DPR_CHR	Chronische Depression
+DPR_MJR	Schwere depressive Symptome
+DPR_OTH	Sonstige depressive Symptome
+STRESS	Stress, Depressionen, Angstzustände
+LEARN	Lernschwierigkeiten
+MNE_OTH	Sonstige mentale, nervöse oder emotionale Probleme
+PILL_OTH	Sonstige fortschreitende Krankheiten
+HEAD_EYE	Kopfschmerzen, Augenschmerzen, Migräne
+SHEAD	Starke Kopfschmerzen (wie Migräne)
+CANCER	Krebs
+LH_OTH	Sonstige lang andauernde Gesundheitsprobleme
+WALK	Gehen
+CLMB	Treppensteigen
+REME_CONC	Sich erinnern oder Konzentrieren
+COMM	Kommunizieren
+TBTL	Hochheben einer 2-Liter-Wasserflasche von Bauch- bis auf Augenhöhe
+HLD_GRP_TRN	Halten, Greifen oder Drehen
+SITT_STD	Sitzen oder Stehen
+REAC_STRT	Erreichen oder Strecken
+LI_CARY	Heben und Tragen
+BND	Bücken
+VIDIF_COR_NREH	Korrigiertes Sehproblem ohne weiterbestehendes gesundheitliches Augenproblem
+COR_VDIF_NEPB	Korrigiertes Sehproblem ohne weiter bestehendes gesundheitliches Augenproblem
+VIDIF_COR_REH	Korrigiertes Sehproblem mit weiterbestehendem gesundheitlichen Augenproblem
+COR_VDIF_EPB	Korrigiertes Sehproblem mit weiter bestehendem gesundheitlichem Augenproblem
+VIDIFXCOR	Bestehendes Sehproblem ohne erfolgte Korrekturmaßnahme
+NCOR_VDIF	Bestehendes Sehproblem ohne erfolgte Korrekturmassnahme
+NVIDIF	Kein bestehendes Sehproblem
+NVDIF	Kein bestehendes Sehproblem
+U_VIAID	Gebrauch von Sehhilfen
+U_VAID	Gebrauch von Sehhilfen
+NU_VIAID	Kein Gebrauch von Sehhilfen
+NU_VAID	Kein Gebrauch von Sehhilfen
+FD_OSELF	Sich selbst ernähren
+IN_OUT_G_BED	Aus einem Bett oder Stuhl Aufstehen und Sich hinlegen/-setzen
+DRS_UNDRS	An- und Auskleiden
+USE_TOIL	Toilettengang
+BATH_SHOW	Baden oder Duschen
+PRPM	Zubereiten von Mahlzeiten
+USE_TLF	Telefonieren
+SHOP	Einkaufen
+MNG_MED	Medikamenteneinnahme
+LGHT_HWRK	Leichte Hausarbeiten
+OH_HWRK	Gelegentlich schwere Hausarbeiten
+TCF_EADM	Erledigung finanzieller und alltäglicher administrativer Angelegenheiten
+OTH	Sonstige
+NRP	Keine Antwort
+NSP	Nicht angegeben
+PB0000	Behinderung
+PB0001	Keine Behinderung
+PB1000	Lang andauerndes Gesundheitsproblem bzw. lang andauernde Krankheit
+PB1001	Keine lang andauernden Gesundheitsprobleme oder Krankheiten
+PB1010	Nur ein lang andauerndes Gesundheitsproblem
+PB1020	Nur Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1030	Sowohl ein Gesundheitsproblem als auch  Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1031	Keine Gesundheitsproblem und keine Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1040	Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1041	Keine Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1050	Schwierigkeiten bei der persönlichen Pflege
+PB1051	Keine Schwierigkeiten bei der persönlichen Pflege
+PB1060	Schwierigkeiten bei der Erledigung des Haushalts
+PB1061	Keine Schwierigkeiten bei der Erledigung des Haushalts
+PB1070	Einschränkung der Erwerbstätigkeit auf Grund eines lang andauernden Gesundheitsproblems oder auf Grund von Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1071	Keine Einschränkung der Erwerbstätigkeit auf Grund eines lang andauernden Gesundheitsproblems oder auf Grund von Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens
+PB1080	Nur durch ein lang andauerndes Gesundheitsproblem beschränkt
+PB1090	Nur durch Schwierigkeiten bei der Ausübung von Tätigkeiten des täglichen Lebens beschränkt
+PB1100	Sowohl durch ein Gesundheitsproblem als auch durch eine Schwierigkeit bei der Ausübung von Tätigkeiten des täglichen Lebens beschränkt
+PB2010	Probleme mit den Armen oder Händen
+PB2020	Probleme mit den Beinen oder Füßen
+PB2021	Arthrose
+PB2030	Probleme mit dem Rücken oder Nacken
+PB2031	Probleme im unteren Rückenbereich oder ein anderes chronisches Rückenleiden
+PB2032	Probleme im Bereich der Halswirbelsäule oder eine andere chronische Halsschädigung
+PB2110	Sehen
+PB2120	Hören
+PB2121	Hören in einem ruhigen Raum
+PB2122	Hören in einem Raum mit höherem Geräuschpegel
+PB2130	Sprachfehler
+PB2210	Hauterkrankungen
+PB2310	Brust-oder Atmungsprobleme
+PB2311	Asthma
+PB2312	Chronische Krankheiten der unteren Atemwege (ohne Asthma)
+PB2410	Herz-, Blutdruck- oder Kreislaufprobleme
+PB2411	Herzinfarkt oder chronischen Folgen eines Herzinfarkts
+PB2412	Koronare Herzerkrankung oder Angina pectoris
+PB2413	Bluthochdruck
+PB2414	Schlaganfall oder chronische Folgen eines Schlaganfalls
+PB2420	Probleme mit dem Magen, der Leber, den Nieren oder der Verdauung
+PB2421	Leberzirrhose
+PB2422	Harninkontinenz
+PB2423	Nierenprobleme
+PB2430	Diabetes
+PB2440	Allergie
+PB2510	Epilepsie
+PB2610	Mentale, nervliche oder psychische Probleme
+PB2620	Chronische Angst
+PB2630	Chronische Depression
+PB2640	Lernschwierigkeiten
+PB2690	Andere mentale, nervliche oder psychische Probleme
+PB2710	Andere fortschreitende Krankheiten
+PB2720	Schwere Kopfschmerzen (wie Migräne)
+PB2730	Krebs
+PB2790	Andere lang andauernde Gesundheitsprobleme
+PB3010	Gehen
+PB3011	Gehen oder Treppen steigen
+PB3012	Treppen steigen
+PB3110	Sich erinnern oder konzentrieren
+PB3120	Kommunizieren
+PB3210	Hochheben einer 2-Liter-Wasserflasche vom Bauch bis auf Augenhöhe
+PB3310	Halten, greifen oder drehen
+PB3320	Sitzen oder stehen
+PB3330	Nach etwas greifen oder sich strecken
+PB3340	Heben und tragen
+PB3350	Bücken
+PB4010	Selbständige Nahrungsaufnahme
+PB4020	Aus einem Bett oder Stuhl aufstehen und sich hinlegen/setzen
+PB4030	An- und auskleiden
+PB4040	Toilettengang
+PB4050	Baden oder duschen
+PB5010	Zubereitung von Mahlzeiten
+PB5020	Telefonieren
+PB5030	Einkaufen
+PB5040	Medikamenteneinnahme
+PB5050	Hausarbeiten
+PB5051	Leichte Hausarbeiten
+PB5052	Gelegentliche schwere Hausarbeiten
+PB5060	Erledigung finanzieller und alltäglicher administrativer Angelegenheiten
+ALLERGIC	Allergische Erkrankungen
+CARDIO_V	Herz-Kreislauf-Erkrankungen
+DENTAL	Zahnerkrankungen
+EYE	Augenerkrankungen
+GASTROIN	Erkrankungen des Verdauungsapparates
+HEMATOLO	Erkrankungen der blutbildenden Organe
+HEARING	Gehörschäden
+HEPATIC	Lebererkrankungen
+IRRI_SKI	Haut- und Schleimhautreizungen
+NEUROLOG	Nervenerkrankungen
+PULMONAR	Lungenerkrankungen
+INFECTIO	Infektionskrankheiten
+SKIN_DIS	Hautprobleme
+OTHER	Sonstige anderweitig nicht genannt
+UNK	Nicht bekannt
+NDPR	Keine depressiven Symptome

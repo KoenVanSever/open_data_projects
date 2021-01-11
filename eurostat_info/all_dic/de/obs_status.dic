@@ -1,0 +1,36 @@
+b	Zeitreihenbruch
+bc	Zeitreihenbruch, vertraulich
+bd	Zeitreihenbruch, abweichende Definition (siehe Metadaten)
+bde	Zeitreihenbruch, geschätzt, abweichende Definition (siehe Metadaten)
+bdep	Zeitreihenbruch, geschätzt, abweichende Definition (siehe Metadaten), vorläufig
+bdf	Zeitreihenbruch, Prognose, abweichende Definition (siehe Metadaten)
+bdn	Zeitreihenbruch, abweichende Definition (siehe Metadaten), unbedeutend
+bdp	Zeitreihenbruch, abweichende Definition (siehe Metadaten), vorläufig
+bdu	Zeitreihenbruch, abweichende Definition (siehe Metadaten),  geringe Zuverlässigkeit
+be	Zeitreihenbruch, geschätzt
+bep	Zeitreihenbruch, geschätzt, vorläufig
+bf	Zeitreihenbruch, Prognose
+bn	Zeitreihenbruch, unbedeutend
+bp	Zeitreihenbruch, vorläufig
+bu	Zeitreihenbruch, geringe Zuverlässigkeit
+bz	Zeitreihenbruch, nicht zutreffend
+c	vertraulich
+cp	vertraulich, vorläufig
+d	abweichende Definition (siehe Metadaten)
+de	abweichende Definition (siehe Metadaten), geschätzt
+dep	abweichende Definition (siehe Metadaten), geschätzt, vorläufig
+df	abweichende Definition (siehe Metadaten), Prognose
+dn	abweichende Definition (siehe Metadaten), unbedeutend
+dp	abweichende Definition (siehe Metadaten), vorläufig
+du	abweichende Definition (siehe Metadaten), geringe Zuverlässigkeit
+e	geschätzt
+ep	geschätzt, vorläufig
+f	Prognose
+i	siehe Metadaten (in Zukunft nicht mehr verwendet)
+n	unbedeutend
+p	vorläufig
+pu	vorläufig, geringe Zuverlässigkeit
+r	revidiert
+s	Eurostat Schätzung (in Zukunft nicht mehr verwendet)
+u	geringe Zuverlässigkeit
+z	nicht zutreffend

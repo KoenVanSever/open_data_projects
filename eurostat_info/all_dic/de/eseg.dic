@@ -1,0 +1,62 @@
+TOTAL	Insgesamt
+ESEG0	Erwerbspersonen mit unbekanntem Beruf oder Beschäftigungsstatus
+ESEG01	Erwerbstätige mit unbekanntem Beruf oder Beschäftigungsstatus
+ESEG02	Erwerbslose mit unbekanntem Beruf oder Beschäftigungsstatus oder die nie einen Beruf ausgeübt haben
+ESEG1	Führungskräfte
+ESEG10	Führungskräfte - ohne nähere Angabe
+ESEG11	Selbständige in leitender Funktion
+ESEG12	Selbständige in nachgeordneter Leitungsfunktion
+ESEG13	Angestellte in leitender Funktion
+ESEG14	Angestellte in nachgeordneter Leitungsfunktion
+ESEG2	Akademiker
+ESEG20	Akademiker - ohne nähere Angabe
+ESEG21	Akademiker in den Bereichen Naturwissenschaften, Ingenieurwissenschaften und Informations- und Kommunikationstechnologie
+ESEG22	Akademische und verwandte Gesundheitsberufe
+ESEG23	Betriebswirte und vergleichbare akademische Berufe
+ESEG24	Juristen, Sozialwissenschaftler und Kulturberufe
+ESEG25	Lehrkräfte
+ESEG3	Techniker und akademische gleichrangige nichttechnische Berufe
+ESEG30	Techniker und akademische gleichrangige nichttechnische Berufe - ohne nähere Angabe
+ESEG31	Ingenieurtechnische und vergleichbare Fachkräfte sowie Informations- und Kommunikationstechniker
+ESEG32	Assistenzberufe im Gesundheitswesen
+ESEG33	Nicht akademische betriebswirtschaftliche und kaufmännische Fachkräfte und Verwaltungsfachkräfte
+ESEG34	Nicht akademische juristische, sozialpflegerische, kulturelle und verwandte Fachkräfte
+ESEG35	Unteroffiziere in regulären Streitkräften
+ESEG4	Kleinunternehmer
+ESEG40	Kleinunternehmer - ohne nähere Angabe
+ESEG41	Selbständige in der Landwirtschaft und verwandte Berufe
+ESEG42	Selbständige Techniker, Bürokräfte, Dienstleistungsberufe und Verkäufer
+ESEG43	Selbständige Kraftfahrer, Handwerker, Händler und Hilfsarbeitskräfte
+ESEG5	Bürokräfte und Fachkräfte im Dienstleistungsbereich
+ESEG50	Bürokräfte und Fachkräfte im Dienstleistungsbereich - ohne nähere Angabe
+ESEG51	Angestellte im Rechnungs-, Statistik- und Finanzwesen und sonstige Bürokräfte und verwandte Berufe
+ESEG52	Bürokräfte mit Kundenkontakt
+ESEG53	Betreuungsberufe
+ESEG54	Schutzkräfte und Sicherheitsbedienstete sowie Angehörige der Streitkräfte, sonstige Ränge
+ESEG6	Fachkräfte in der Industrie
+ESEG60	Fachkräfte in der Industrie - ohne nähere Angabe
+ESEG61	Bau- und Ausbaufachkräfte
+ESEG62	Berufe in der Nahrungsmittelverarbeitung, Holzverarbeitung und Bekleidungsherstellung
+ESEG63	Metallarbeiter, Mechaniker, Kunsthandwerker, Drucker, Elektriker und Elektroniker
+ESEG64	Bediener stationärer Anlagen und Maschinen sowie Monteure
+ESEG65	Fahrzeugführer und Bediener mobiler Anlagen
+ESEG7	Rangniedrigere Arbeitnehmer
+ESEG70	Rangniedrigere Arbeitnehmer - ohne nähere Angabe
+ESEG71	Arbeitnehmer im Bereich personenbezogene Dienstleistungen und Verkauf
+ESEG72	Hilfskräfte in der Industrie und in der Nahrungsmittelzubereitung
+ESEG73	Reinigungspersonal und Hilfskräfte im Dienstleistungsbereich
+ESEG74	Landwirtschaftliche Arbeitnehmer
+ESEG8	Personen im Ruhestand
+ESEG80	Personen im Ruhestand - ohne nähere Angabe
+ESEG81	Führungskräfte im Ruhestand
+ESEG82	Akademiker im Ruhestand
+ESEG83	Techniker und Beschäftigte in gleichrangigen nichttechnischen Berufen im Ruhestand
+ESEG84	Kleinunternehmer im Ruhestand
+ESEG85	Bürokräfte und Fachkräfte im Dienstleistungsbereich im Ruhestand
+ESEG86	Fachkräfte in der Industrie im Ruhestand
+ESEG87	Rangniedrigere Arbeitnehmer im Ruhestand
+ESEG9	Sonstige Nichterwerbspersonen
+ESEG91	Schüler und Studierende
+ESEG92	Dauerhaft behinderte Personen, nicht im Ruhestand
+ESEG99	Sonstige Nichterwerbspersonen, anderweitig nicht genannt
+NRP	Keine Antwort

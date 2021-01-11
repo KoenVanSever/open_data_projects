@@ -1,0 +1,35 @@
+TOTAL	Tous les types de coopération
+PRV	Entreprises privées
+PRV_IN	Entreprises au sein du même groupe d'entreprises
+PRV_OUT	Entreprises privées hors du groupe d'entreprises
+PRV_OUT_CN_PRV_RI	Consultants, laboratoires commerciaux, instituts de recherche privés
+PRV_RI	Instituts de recherche privés
+PRV_OUT_CN	Consultants ou laboratoires commerciaux
+PRV_OUT_SUPPL	Fournisseurs d'équipements, de matériel, de composants ou de logiciels
+CLCU	Clients ou consommateurs
+PRV_OUT_CLCU	Clients ou consommateurs du secteur privé
+PRV_OUT_COMP	Concurrents ou d'autres entreprises du même secteur
+PRV_OUT_OTH	Autres entreprises privées hors du groupe d'entreprises
+UNIV_GOV_RI	Universités ou établissements d'enseignement supérieur, gouvernement et instituts de recherche publics ou privés
+UNIV	Universités ou établissements d'enseignement supérieur
+PUB	Organisations publiques
+PUB_GOV_RI	Gouvernement ou instituts de recherche publics
+GOV_RI	Gouvernement, instituts de recherche publics ou privés
+PUB_CLCU	Clients ou consommateurs du secteur public
+IND_HH	Ménages individuels
+NPO	Organisations à but non lucratif
+NAT	Partenaire national
+FOR	Partenaire étranger
+EU_EFTA	Partenaire d'un pays de l'UE ou de l'AELE
+NEU_NEFTA	Partenaire hors des pays de l'UE ou de l'AELE
+EU_EFTA_CC_FOR	Partenaire d'un pays de l'UE, EFTA ou candidat à l'UE (sauf partenaire national)
+EU_EFTA_CC_NAT	Partenaire d'un pays membre de l'UE, d'un pays de l'AELE ou d'un pays candidat à l'UE (y compris partenaire national)
+EU_ONL	Partenaire seulement au sein de l'UE
+CN_IN	Chine ou Inde
+US_OTH	États-Unis et autres pays
+US	États-Unis
+COOP_RND	Sur l'activité R&D
+COOP_INN_XRND	Sur d'autres activités de l'innovation (sauf activité R&D)
+COOP_INNXRND	Sur d'autres activités de l'innovation (sauf activité R&D)
+COOP_OTH	Sur toute autre activité commerciale
+OTH	Autres

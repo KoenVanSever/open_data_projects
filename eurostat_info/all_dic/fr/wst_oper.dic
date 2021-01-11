@@ -1,0 +1,60 @@
+GEN	Déchets produits
+GEN_HH	Déchets produits par les ménages
+GEN_ORT	Déchets produits, déclarés pour confirmer le respect des objectifs de recyclage anciens
+MKT	Produits mis sur le marché
+COL	Déchets collectés
+COL_SEP	Collecte séparée
+COL_SEP_RCY_S	Biodéchets séparés et recyclés à la source - compostage et méthanisation
+COL_HH	Déchets ménagers collectés
+COL_OTH	Déchets collectés d'autres sources
+TRT	Traitement des déchets
+TRT_NAT	Déchets traités dans l'État membre
+TRT_EU_FOR	Déchets traités dans un autre État membre de l'UE
+TRT_NEU	Déchets traités hors UE
+TRT_NAL	Traitement des déchets non-alloué
+DSP_I_RCV_E	Elimination - incinération (D10) et valorisation - valorisation énergétique (R1)
+DSP	Elimination
+DSP_L_OTH	Elimination - décharges et autres (D1-D7, D12)
+DSP_L	Elimination - décharges (D1, D5, D12)
+DSP_LH	Elimination - décharges pour déchets dangereux
+DSP_LNH	Elimination - décharges pour déchets non dangereux
+DSP_LIN	Elimination - décharges pour déchets inertes
+DSP_I	Elimination - incinération (D10)
+DSP_OTH	Elimination - autres (D2-D4, D6-D7)
+RCV_REU	Valorisation et réutilisation
+RCV	Valorisation
+RCV_I_PAC	Valorisation - incinération avec valorisation énergétique (emballages)
+RCV_E	Valorisation - valorisation énergétique (R1)
+RCV_E_PAC	Valorisation - valorisation énergétique des déchets d'emballages
+RCV_R_B	Valorisation - recyclage et remblayage (R2-R11)
+RCV_R	Valorisation - recyclage
+RCV_B	Valorisation- remblayage
+RCV_OTH	Valorisation - autres
+RCY_REU	Recyclage et réutilisation
+RCY	Recyclage
+RCY_INP	Recyclage - fractions entrantes
+RCY_M	Recyclage - matériel
+RCY_M_R	Recyclage - matériel -  préparation en vue de réutilisation 
+RCY_M_IBA	Recyclage - matériel -  séparés après l'incinération 
+RCY_C_D	Recyclage - compostage et méthanisation
+RCY_NAT	Recyclage dans l'État Membre
+RCY_EU_FOR	Recyclage dans d'autres États membres de la UE
+RCY_NEU	Recyclage en dehors de l'UE
+RCY_ORT	Recyclage, déclaré pour confirmer le respect des objectifs de recyclage anciens
+RCY_OTH	Recyclage - autres
+RCY_RT	Taux de recyclage
+REU	Réutilisation
+RPR	Réparation
+CMP	Compostage
+FMKT	Mis sur le marché pour la première fois - emballages de tous types
+FMKT_S	Mis sur le marché pour la première fois - emballages de vente
+FMKT_RE	Mis sur le marché pour la première fois - réutilisable emballages de tous types
+FMKT_RE_S	Mis sur le marché pour la première fois - emballages de vente réutilisables
+ROTY_RE	Rotations par an - réutilisable emballages de tous types
+ROTY_RE_S	Rotations par an - emballages de vente réutilisables
+INC_RCV_PL	Nombre total d'usines d'incinération
+RCV_I_PL	Nombre total d'usines d'incinération avec récupération d'énergie
+TRT_PL	Usines de traitement
+C_DSP_D	Sites de décharges contrôlées
+OTH	Autres opérations de gestion des déchets
+NSP	Non spécifié

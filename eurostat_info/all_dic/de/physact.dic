@@ -1,0 +1,22 @@
+TOTAL	Insgesamt
+MV_WALK_CYCL_GET	Zu Fuss gehen und Radfahren, um von einem Ort zum anderen zu gelangen 
+MV_WALK_GET	Zu Fuss gehen, um von einem Ort zum anderen zu gelangen 
+MV_CYCL_GET	Radfahren, um von einem Ort zum anderen zu gelangen 
+MV_AERO_MSC	Aerobic und Muskelkräftigung 
+MV_AERO	Aerobic 
+MV_AERO_SPRT	Aerobischer Sport 
+MV_MSC	Muskelkräftigung 
+MV_SITT	Sitzend
+MV_STD	Stehend
+MV_MOD_EFF	Mässige körperliche Anstrengung
+MV_HVY_EFF	Schwere körperliche Anstrengung
+PHA_0	Bezeichnung
+PHA_1	Keine Angabe
+PHA_2	Bedienung einer Maschine - ohne nähere Angabe
+PHA_3	Arbeit mit Handwerkzeugen - ohne nähere Angabe
+PHA_4	Führen eines Transportmittels/Fördermittels, Mitfahren auf einem Transportmittel - ohne nähere Angabe
+PHA_5	Manuelle Handhabung von Gegenständen - ohne nähere Angabe
+PHA_6	Transport von Hand - ohne nähere Angabe
+PHA_7	Bewegung - ohne nähere Angabe
+PHA_9	Anwesenheit - ohne nähere Angabe
+NRP	Ohne Antwort

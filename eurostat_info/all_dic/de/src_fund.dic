@@ -1,0 +1,16 @@
+PUB_FUND	Öffentliche Förderung
+PUB_FUND_RNDINN	Öffentliche Förderung (genutzt für Forschung und Entwicklung oder andere Innovationsaktivitäten)
+GOV_CTL	Nationale Zentralregierung
+GOV_CTL_RNDINN	Nationale Zentralregierung (genutzt für Forschung und Entwicklung oder andere Innovationsaktivitäten) 
+AUT_LOC_REG	Örtliche oder regionale Stellen
+AUT_LOC_REG_RNDINN	Örtliche oder regionale Stellen (genutzt für Forschung und Entwicklung oder andere Innovationsaktivitäten)
+EU	Europäische Union
+EU_FP5_6	5. oder 6. Rahmenprogramm der EU
+EU_FP6	6. Rahmenprogramm der EU
+EU_FP6_7	6. oder 7. Rahmenprogramm der EU
+EU_FP7	7. Rahmenprogramm der EU
+EU_FP7_HP2020	7. Rahmenprogramm der EU und Horizon 2020 Programme 
+EU_HP2020	Horizon 2020 Programme der EU
+EU_HP2020_RNDINN	Horizon 2020 Programme der EU (genutzt für Forschung und Entwicklung oder andere Innovationsaktivitäten) 
+EU_OTH	Sonstige finanzielle Unterstützung einer EU Institution
+EU_OTH_RNDINN	Sonstige finanzielle Unterstützung einer EU Institution (genutzt für Forschung und Entwicklung oder andere Innovationsaktivitäten)

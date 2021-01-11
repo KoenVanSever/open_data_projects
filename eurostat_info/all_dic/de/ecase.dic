@@ -1,0 +1,14 @@
+TOTAL	Insgesamt
+P1_NCH_AW50	Alleinstehende ohne Kinder mit einem Verdienst von 50% des Durchschnittslohns
+P1_NCH_AW67	Alleinstehende ohne Kinder mit einem Verdienst von 67% des Durchschnittslohns
+P1_NCH_AW80	Alleinstehende ohne Kinder mit einem Verdienst von 80% des Durchschnittslohns
+P1_NCH_AW100	Alleinstehende ohne Kinder mit einem Verdienst von 100% des Durchschnittslohns
+P1_NCH_AW125	Alleinstehende ohne Kinder mit einem Verdienst von 125% des Durchschnittslohns
+P1_NCH_AW167	Alleinstehende ohne Kinder mit einem Verdienst von 167% des Durchschnittslohns
+P1_CH2_AW67	Alleinstehende mit zwei Kindern mit einem Verdienst von 67% des Durchschnittslohns
+CPL_CH2_AW100	Paar mit zwei Kindern und einem Verdienst von 100% des Durchschnittslohns
+CPL_CH2_AW100_33	Paar mit zwei Kindern und zwei Verdiensten von 100% und 33% des Durchschnittslohns
+CPL_CH2_AW100_67	Paar mit zwei Kindern und zwei Verdiensten von 100% und 67% des Durchschnittslohns
+CPL_CH2_AW100_100	Paar mit zwei Kindern und zwei Verdiensten beide von 100% des Durchschnittslohns
+CPL_NCH_AW100_33	Paar ohne Kinder und zwei Verdiensten von 100% und 33% des Durchschnittslohns
+CPL_NCH_AW100_100	Paar ohne Kinder mit zwei Verdiensten beide von 100% des Durchschnittslohns

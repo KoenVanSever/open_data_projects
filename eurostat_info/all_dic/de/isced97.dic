@@ -1,0 +1,62 @@
+TOTAL	Alle Stufen der ISCED 1997
+ED0-4	Vorprimarstufe, Primarstufe, Sekundarstufe I und II, post-sekundäre, nicht-tertiäre Stufe (Stufen 0-4)
+ED0-3CS	Vorprimarstufe, Primarstufe, Sekundarstufe I und II mit einer Zeitdauer, die kürzer ist als 3 Jahre (Stufen 0-3CS)
+ED0-2	Vorprimarstufe, Primarstufe, Sekundarstufe I (Stufen 0-2)
+ED0_1	Vorprimarstufe, Primarstufe (Stufen 0 und 1)
+ED0	Vorprimarstufe (Stufe 0)
+ED1-6	Primarstufe, Sekundarstufe I und II, post-sekundäre, nicht-tertiäre Stufe, erste und zweite Phase des Tertiärbereichs (Stufen 1-6)
+ED1-4	Primarstufe, Sekundarstufe I und II, post-sekundäre, nicht-tertiäre Stufe (Stufen 1-4)
+ED1-3	Primarstufe, Sekundarstufe I und II (Stufen 1-3)
+ED1_2	Primarstufe und Sekundarstufe I (Stufen 1 und 2)
+ED1	Primarstufe oder erste Phase der Grundbildung (Stufe 1)
+ED2-4	Sekundarstufe I und II, post-sekundäre, nicht-tertiäre Stufe (Stufen 2-4)
+ED2-4V	Sekundarstufe I und II, post-sekundäre, nicht-tertiäre Stufe (Stufen 2-4) - berufliche Bildung
+ED2_3	Sekundarstufe I und II (Stufen 2 und 3)
+ED2	Sekundarstufe I oder zweite Phase der Grundbildung (Stufe 2)
+ED2A	Sekundarstufe I (Stufe 2A), Programme, die unmittelbaren Zugang zu den Stufen 3A und 3B eröffnen
+ED2B	Sekundarstufe I (Stufe 2B), Programme, die unmittelbaren Zugang zur Stufe 3C eröffnen
+ED2C	Sekundarstufe I (Stufe 2C), Programme, die unmittelbaren Zugang zum Arbeitsmarkt bieten
+ED2G	Sekundarstufe I (Stufe 2) - allgemeine Bildung
+ED2VPV	Sekundarstufe I (Stufe 2) - berufsvorbereitende Bildung und berufliche Bildung
+ED2PV	Sekundarstufe I (Stufe 2) - berufsvorbereitende Bildung
+ED2V	Sekundarstufe I (Stufe 2) - berufliche Bildung
+ED3-6	Sekundarstufe II, post-sekundäre, nicht-tertiäre Stufe, erste und zweite Phase des Tertiärbereichs (Stufen 3-6)
+ED3_4	Sekundarstufe II, post-sekundäre, nicht-tertiäre Stufe (Stufen 3 und 4)
+ED3AB_4	Sekundarstufe II (ausgenommen Stufe 3C mit einer Zeitdauer kürzer als 3 Jahre) und post-sekundäre, nicht-tertiäre Stufe (Stufen 3A, 3B und 4)
+ED3_4G	Sekundarstufe II, post-sekundäre, nicht-tertiäre Stufe (Stufen 3 und 4) - allgemeine Bildung
+ED3	Sekundarstufe II (Stufe 3)
+ED3A	Sekundarstufe II (Stufe 3A), Programme, die unmittelbaren Zugang zur Stufe 5A eröffnen
+ED3B	Sekundarstufe II (Stufe 3B), Programme, die unmittelbaren Zugang zur Stufe 5B eröffnen
+ED3C	Sekundarstufe II (Stufe 3C), Programme, die nicht unmittelbar zu den Stufen 5A oder 5B führen; sie bieten direkten Zugang zum Arbeitsmarkt, zur Stufe 4 oder zu sonstigen Programmen der Stufe 3
+ED3CS	Sekundarstufe II (Stufe 3C), Programme, die nicht unmittelbar zu den Stufen 5A oder 5B führen, mit einer Zeitdauer kürzer als 3 Jahre
+ED3CL	Sekundarstufe II (Stufe 3C), Programme, die nicht unmittelbar zu den Stufen 5A oder 5B führen, mit einer Zeitdauer von mindestens 3 Jahren
+ED3G	Sekundarstufe II (Stufe 3) - allgemeine Bildung
+ED3VPV	Sekundarstufe II (Stufe 3) - berufsvorbereitende Bildung und berufliche Bildung
+ED3PV	Sekundarstufe II (Stufe 3) - berufsvorbereitende Bildung
+ED3V	Sekundarstufe II (Stufe 3) - berufliche Bildung
+ED4-6	Post-sekundäre, nicht-tertiäre Stufe, tertiärer Bereich (Stufen 4-6)
+ED4	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4)
+ED4A	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4A) - Programme, die unmittelbaren Zugang zur Stufe 5A eröffnen
+ED4B	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4B) - Programme, die unmittelbaren Zugang zur Stufe 5B eröffnen
+ED4C	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4C) - Programme, die nicht unmittelbar zur Stufe 5 führen
+ED4G	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4) - allgemeine Bildung
+ED4VPV	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4) - berufsvorbereitende Bildung und berufliche Bildung
+ED4PV	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4) - berufsvorbereitende Bildung
+ED4V	Post-sekundäre, nicht-tertiäre Stufe (Stufe 4) - berufliche Bildung
+ED5_6	Erste und zweite Phase des Tertiärbereichs (Stufen 5 und 6)
+ED5A_6	Erste Phase des Tertiärbereichs, Programme, die theorieorientiert/forschungsvorbereitend sind oder Zugang zu Berufen mit sehr hohen Qualifikationsanforderungen bieten (Stufe 5A) und zweite Phase des Tertiärbereichs (Stufe 6)
+ED5	Erste Phase des Tertiärbereichs, die nicht unmittelbar zu einer höheren Forschungsqualifikation führt (Stufe 5)
+ED5A	Erste Phase des Tertiärbereichs, Programme, die theorieorientiert/forschungsvorbereitend sind oder Zugang zu Berufen mit sehr hohen Qualifikationsanforderungen bieten (Stufe 5A)
+ED5AD1	Erste Phase des Tertiärbereichs, Programme, die theorieorientiert/forschungsvorbereitend sind oder Zugang zu Berufen mit sehr hohen Qualifikationsanforderungen bieten (erster Hochschulabschluss der Stufe 5A)
+ED5AD2	Erste Phase des Tertiärbereichs, Programme, die theorieorientiert/forschungsvorbereitend sind oder Zugang zu Berufen mit sehr hohen Qualifikationsanforderungen bieten (zweiter Hochschulabschluss der Stufe 5A)
+ED5B	Erste Phase des Tertiärbereichs, Programme, die praktisch orientiert und berufsspezifisch sind (Stufe 5B)
+ED5BQ1	Erste Phase des Tertiärbereichs, Programme, die praktisch orientiert und berufsspezifisch sind (erste Qualifikation der Stufe 5B)
+ED5BQ2	Erste Phase des Tertiärbereichs, Programme, die praktisch orientiert und berufsspezifisch sind (zweite Qualifikation der Stufe 5B)
+ED6	Zweite Phase des Tertiärbereichs, die zu einer höheren Forschungsqualifikation führt (Stufe 6)
+ED6PHD	Doktortitel
+OTH	Sonstige Bildungsstufe
+ED_NED	Alle Stufen der ISCED 1997 und kein Bildungsabschluss
+NED	Kein Bildungsabschluss
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+UNK	Unbekannt

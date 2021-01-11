@@ -1,0 +1,74 @@
+TOTAL	Total
+CHRG	Demande de prise en charge
+CHRG_FAM	Demande de prise en charge - critères familiaux (articles 8, 9, 10, 11)
+CHRG_FAM_8	Demande de prise en charge - mineurs dont un membre de la famille est légalement présent (article 8)
+CHRG_FAM_9	Demande de prise en charge - membres de la famille bénéficiaires d'une protection internationale (article 9)
+CHRG_FAM_10	Demande de prise en charge - membres de la famille qui demandent une protection internationale (article 10)
+CHRG_FAM_11	Demande de prise en charge - procédure familiale (article 11)
+CHRG_DOC	Demande de prise en charge - documentation et critères légaux d'entrée sur le territoire (articles 12.1, 12.2, 12.3, 12.4, 14)
+CHRG_DOC_121	Demande de prise en charge - titre de séjour en cours de validité (article 12.1)
+CHRG_DOC_122	Demande de prise en charge - visa valide (article 12.2)
+CHRG_DOC_123	Demande de prise en charge - plus d'un titre de séjour en cours de validité (article 12.3)
+CHRG_DOC_124	Demande de prise en charg - titre de séjour expiré (article 12.4)
+CHRG_DOC_14	Demande de prise en charge - entrée sans visa (article 14)
+CHRG_131	Demande de prise en charge - entrée irrégulière (article 13.1)
+CHRG_132	Demande de prise en charge - séjour irrégulier (article 13.2)
+CHRG_15	Demande de prise en charge - demande présentée dans la zone de transit international d'un aéroport (article 15)
+CHRG_16	Demande de prise en charge - personnes à charge (article 16)
+CHRG_172	Demande de prise en charge - critères humanitaires (article 17.2)
+CHRG_UNK	Demande de prise en charge - critères inconnus
+BACK	Demande de reprise en charge
+BACK_181B	Demande de reprise en charge - demande en cours d'examen lors du dépôt d'une nouvelle demande introduite ou présentée sans titre de séjour dans un autre État Membre (article 18.1.b)
+BACK_181C	Demande de reprise en charge - retrait de la demande en cours d'examen et nouvelle demande déposée ou présentée sans titre de séjour dans un autre État Membre (article 18.1.c)
+BACK_181D	Demande de reprise en charge - rejet dans un autre État Membre et nouvelle demande introduite ou présentée sans titre de séjour (article 18.1.d)
+BACK_205	Demande de reprise en charge - demande présentée sans titre de séjour ou nouvelle demande déposée dans un autre État Membre après le retrait de l'ancienne demande effectuée dans un État Membre différent au cours de la procédure 'Dublin' (article 20.5)
+BACK_UNK	Demande de reprise en charge - critères inconnus
+EDAC_CHRG	Demande de prise en charge - EURODAC (Base de données dactyloscopique européenne pour les demandeurs d'asile)
+EDAC_BACK	Demande de reprise en charge - EURODAC (Base de données dactyloscopique européenne pour les demandeurs d'asile)
+INFO	Demande d'information
+INFO_345	Demande d'information - critères généraux (article 34.5)
+INFO_65_86	Demande d'information - famille de mineurs non accompagnés (articles 6.5 et 8.6)
+INFO_164	Demande d'information - famille de personnes à charge (article 16.4)
+RP_INFO	Réponse à une demande d'information
+RP_INFO_345	Réponse à une demande d'information - critères généraux (article 34.5)
+RP_INFO_65_86	Réponse à une demande d'information - famille de mineurs non accompagnés (articles 6.5 et 8.6)
+RP_INFO_164	Réponse à une demande d'information - famille des personnes à charge (Article 16.4)
+SOV_171	Application de la clause de souveraineté (article 17.1)
+RESPD	État Membre responsable par défaut
+RESPD_32A_B	État Membre responsable par défaut - transfert impossible en raison de défaillances dans les conditions d'accueil (article 3.2, premier et deuxième alinéas)
+RESPD_32A	État Membre responsable par défaut - sans critère préalable applicable (article 3.2, premier alinéa)
+RESPD_292	État Membre responsable par défaut - transfert non effectuée dans les délais requis (article 29.2)
+UNK	Inconnu
+CHARGE	Demande de prise en charge
+CHF	Demande de prise en charge - critères familiaux (articles 8, 9, 10, 11)
+CHF_8	Demande de prise en charge - mineurs dont un membre de la famille est légalement présent (article 8)
+CHF_9	Demande de prise en charge - membres de la famille bénéficiaires d'une protection internationale (article 9)
+CHF_10	Demande de prise en charge - membres de la famille qui demandent une protection internationale (article 10)
+CHF_11	Demande de prise en charge - procédure familiale (article 11)
+CHD	Demande de prise en charge - documentation et critères légaux d'entrée sur le territoire (articles 12.1, 12.2, 12.3, 12.4, 14)
+CHD_121	Demande de prise en charge - titre de séjour en cours de validité (article 12.1)
+CHD_122	Demande de prise en charge - visa valide (article 12.2)
+CHD_123	Demande de prise en charge - plus d'un titre de séjour en cours de validité (article 12.3)
+CHD_124	Demande de prise en charg - titre de séjour expiré (article 12.4)
+CHD_14	Demande de prise en charge - entrée sans visa (article 14)
+CH_15	Demande de prise en charge - demande présentée dans la zone de transit international d'un aéroport (article 15)
+CH_131	Demande de prise en charge - entrée irrégulière (article 13.1)
+CH_132	Demande de prise en charge - séjour irrégulier (article 13.2)
+CH_16	Demande de prise en charge - personnes à charge (article 16)
+CH_172	Demande de prise en charge - critères humanitaires (article 17.2)
+CH_UNK	Demande de prise en charge - critères inconnus
+BK_205	Demande de reprise en charge - demande présentée sans titre de séjour ou nouvelle demande déposée dans un autre État Membre après le retrait de l'ancienne demande effectuée dans un État Membre différent au cours de la procédure 'Dublin' (article 20.5)
+BK_181B	Demande de reprise en charge - demande en cours d'examen lors du dépôt d'une nouvelle demande introduite ou présentée sans titre de séjour dans un autre État Membre (article 18.1.b)
+BK_181C	Demande de reprise en charge - retrait de la demande en cours d'examen et nouvelle demande déposée ou présentée sans titre de séjour dans un autre État Membre (article 18.1.c)
+BK_181D	Demande de reprise en charge - rejet dans un autre État Membre et nouvelle demande introduite ou présentée sans titre de séjour (article 18.1.d)
+BK_UNK	Demande de reprise en charge - critères inconnus
+EDAC	Demandes basées sur EURODAC
+EDAC_CH	Demande de prise en charge - EURODAC (Base de données dactyloscopique européenne pour les demandeurs d'asile)
+EDAC_BK	Demande de reprise en charge - EURODAC (Base de données dactyloscopique européenne pour les demandeurs d'asile)
+INFO_GEN	Demande d'information - critères généraux (article 34.5)
+INFO_UAM	Demande d'information - famille de mineurs non accompagnés (articles 6.5 et 8.6)
+INFO_DEP	Demande d'information - famille de personnes à charge (article 16.4)
+RESP	Réponse à une demande d'information
+RESP_GEN	Réponse à une demande d'information - critères généraux (article 34.5)
+RESP_UAM	Réponse à une demande d'information - famille de mineurs non accompagnés (articles 6.5 et 8.6)
+RESP_DEP	Réponse à une demande d'information - famille des personnes à charge (Article 16.4)

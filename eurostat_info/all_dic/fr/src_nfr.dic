@@ -1,0 +1,153 @@
+NFR1A1A	Production d'électricité et de chauffage publique
+NFR1A1B	Raffinage de pétrole
+NFR1A1C	Fabrication de combustibles solides et autres industries de l'énergie
+NFR1A2A	Combustion stationnaire dans les industries manufacturières et la construction: sidérurgie
+NFR1A2B	Combustion stationnaire dans les industries manufacturières et la construction: métaux non-ferreux
+NFR1A2C	Combustion stationnaire dans les industries manufacturières et la construction: produits chimiques
+NFR1A2D	Combustion stationnaire dans les industries manufacturières et la construction: pâte, papier et imprimerie
+NFR1A2E	Combustion stationnaire dans les industries manufacturières et la construction: alimentaire, boissons et tabac
+NFR1A2F	Combustion stationnaire dans les industries manufacturières et la construction: minéraux non métalliques
+NFR1A2G7	Combustion mobile dans les industries manufacturières et la construction
+NFR1A2G8	Combustion stationnaire dans les industries manufacturières et la construction: autre
+NFR1A_TRA	Transport et autres sources mobiles (NFR1A3A1_1-NFR1A3E2, 1A4A2, 1A5B)
+NFR1A3	Transport (combustible utilisé)
+NFR1A3A1_1	Aviation internationale LTO (civile)
+NFR1A3A1_2	Aviation internationale croisières (civile)
+NFR1A3A2_1	Aviation domestique LTO (civile)
+NFR1A3A2_2	Aviation domestique croisières (civile)
+NFR1A3B1	Transport routier: voitures
+NFR1A3B2	Transport routier: véhicules légers
+NFR1A3B3	Transport routier: véhicules lourds et autobus
+NFR1A3B4	Transport routier: cyclomoteurs et motocycles 
+NFR1A3B5	Transport routier: évaporation d'essence
+NFR1A3B6	Transport routier: usure des freins et des pneus d'automobile
+NFR1A3B7	Transport routier: abrasion du revêtement routier
+NFR1A3C	Chemins de fer
+NFR1A3D1_1	Transport maritime international
+NFR1A3D1_2	Voies navigables internationales
+NFR1A3D2	Transport maritime national (navigation)
+NFR1A3E1	Transport par pipeline
+NFR1A3E2	Autre transport
+NFR1A4A1	Commercial/institutionnel: stationnaire
+NFR1A4A2	Commercial/institutionnel: mobiles
+NFR1A4B1	Résidentiel: stationnaire
+NFR1A4B2	Résidentiel: ménage et jardinage (mobiles)
+NFR1A4C1	Agriculture/sylviculture/pêche: stationnaire
+NFR1A4C2	Agriculture/sylviculture/pêche: véhicules non routiers et autres machines
+NFR1A4C3	Agriculture/sylviculture/pêche: pêche nationale
+NFR1A5A	Autre stationnaire (y compris militaires)
+NFR1A5B	Autre, mobile (y compris bateaux militaires et de plaisance)
+NFR1A5C	Opérations multilatérales
+NFR1B1A	Émissions fugitives de combustibles solides: extraction et manutention du charbon
+NFR1B1B	Émissions fugitives de combustibles solides: transformation des combustibles solides
+NFR1B1C	Autres émissions fugitives de combustibles solides
+NFR1B2A1	Émissions fugitives de pétrole: exploration, production, transport
+NFR1B2A4	Émissions fugitives de pétrole: raffinage, stockage
+NFR1B2A5	Distribution de produits pétroliers
+NFR1B2B	Émissions fugitives de gaz naturel (exploration, production, transformation, stockage, distribution et d'autres)
+NFR1B2C	Ventilation et brûlage à la torche (pétrole, gaz, pétrole et gaz combinés)
+NFR1B2D	Autres émissions fugitives de la production d'énergie
+NFR2A1	Production de ciment
+NFR2A2	Production de chaux
+NFR2A3	Production de verre
+NFR2A5A	Extraction et exploitation de minéraux autres que le charbon
+NFR2A5B	Construction et démolition
+NFR2A5C	Stockage, manutention et transport de produits minéraux
+NFR2A6	Autres produits minéraux
+NFR2B1	Production d'ammoniac
+NFR2B10A	Industrie chimique: autre
+NFR2B10B	Stockage, manutention et transport de produits chimiques
+NFR2B2	Production d'acide nitrique
+NFR2B3	Production d'acide adipique
+NFR2B5	Production de carbure
+NFR2B6	Production de dioxyde de titane
+NFR2B7	Production de carbonate de sodium
+NFR2C1	Sidérurgie
+NFR2C2	Production de ferroalliages
+NFR2C3	Production d'aluminium
+NFR2C4	Production de magnésium
+NFR2C5	Production de plomb
+NFR2C6	Production de zinc
+NFR2C7A	Production de cuivre
+NFR2C7B	Production de nickel
+NFR2C7C	Autre production métallique
+NFR2C7D	Stockage, manutention et transport de produits métalliques
+NFR2D3A	Utilisation de solvants ménagers y compris fongicides
+NFR2D3B	Revêtement routier en asphalte
+NFR2D3C	Revêtement de toiture
+NFR2D3D	Applications du revêtement
+NFR2D3E	Dégraissage
+NFR2D3F	Nettoyage à sec
+NFR2D3G	Produits chimiques
+NFR2D3H	Imprimerie
+NFR2D3I	Autre utilisation de solvants
+NFR2G	Autre utilisation de produits
+NFR2H1	Industrie de la fabrication de la pâte à papier et du papier
+NFR2H2	Industrie des produits alimentaires et des boissons
+NFR2H3	Autres procédés industriels
+NFR2I	Transformation du bois
+NFR2J	Production des POP
+NFR2K	Consommation des POP et métaux lourds (par exemple équipements électriques et scientifiques)
+NFR2L	Autres activités de production, consommation, stockage, transport ou manutention de produits en vrac
+NFR3_AGR	Agriculture (NFR3)
+NFR3_MNR	Gestion des effluents d'élevage, engrais azotés inorganiques, fumier animal et urine et fumier des animaux de pâturage (NFR3B1A-NFR3B4H, 3DA1, 3DA2A, 3DA3)
+NFR3B1A	Gestion des effluents d'élevage - bovins laitiers
+NFR3B1B	Gestion des effluents d'élevage - bovins non laitiers
+NFR3B2	Gestion des effluents d'élevage - ovins
+NFR3B3	Gestion des effluents d'élevage - porcins
+NFR3B4A	Gestion des effluents d'élevage - buffles
+NFR3B4D	Gestion des effluents d'élevage - caprins
+NFR3B4E	Gestion des effluents d'élevage - chevaux
+NFR3B4F	Gestion des effluents d'élevage - mules et ânes
+NFR3B4G1	Gestion des effluents d'élevage - poules pondeuses
+NFR3B4G2	Gestion des effluents d'élevage - poulets de chair vivants
+NFR3B4G3	Gestion des effluents d'élevage - dindes
+NFR3B4G4	Gestion des effluents d'élevage - autres volailles
+NFR3B4H	Gestion des effluents d'élevage - autres animaux
+NFR3DA1	Engrais azotés inorganiques (incluent également l'application d'urée)
+NFR3DA2A	Fumier animal épandu sur les sols
+NFR3DA2B	Boues d'épuration épandues sur les sols
+NFR3DA2C	Autres engrais organiques épandus sur les sols (y compris le compost)
+NFR3DA3	Urine et fumier déposés par les animaux de pâturage
+NFR3DA4	Résidus de culture épandus sur les sols
+NFR3DB	Émissions indirectes des sols exploités
+NFR3DC	Exploitations agricoles au niveau de la ferme, y compris stockage, manutention et transport de produits agricoles
+NFR3DD	Stockage, manutention et transport des produits agricoles en vrac hors de la ferme
+NFR3DE	Plantes cultivées
+NFR3DF	Utilisation des pesticides
+NFR3F	Brûlage des résidus agricoles dans les champs
+NFR3I	Autre agriculture
+NFR5A	Traitement biologique des déchets - mise en décharge des déchets solides
+NFR5B1	Traitement biologique des déchets - compostage
+NFR5B2	Traitement biologique des déchets - digestion anaérobie dans les installations de biogaz
+NFR5C1A	Incinération déchets municipaux
+NFR5C1B1	Incinération déchets industriels
+NFR5C1B2	Incinération des déchets dangereux
+NFR5C1B3	Incinération des déchets hospitaliers
+NFR5C1B4	Incinération des boues d'épuration
+NFR5C1B5	Crémation
+NFR5C1B6	Autre incinération des déchets
+NFR5C2	Combustion à l'air libre des déchets
+NFR5D1	Traitement des eaux usées domestiques
+NFR5D2	Traitement des eaux usées industrielles
+NFR5D3	Autre traitement des eaux usées
+NFR5E	Autres déchets
+NFR6A	Autres (inclus dans le total national pour l'ensemble du territoire)
+NFR6B	Autres non inclus dans le total national de l'ensemble du territoire
+NFR11A	Volcans
+NFR11B	Incendies de forêt 
+NFR11C	Autres émissions naturelles
+NFR_ADJ	Somme des ajustements (valeur négative) de l'annexe VII
+NFR_TOT_NAT	Total national pour tout l'ensemble du territoire (basé sur le carburant vendu)
+NFR_TOT_NAT_C	Total national pour l'évaluation de conformité
+SE_TOT_NAT	Total des secteurs d'émission pour le territoire national
+SE1_EPD	Production et distribution d'énergie (NFR 1A1a, b, c, 1B1a, b, c, 1B2ai, aiv, av, b, c, d)
+SE1_EUI	Utilisation d'énergie dans l'industrie (NFR 1A2a, b, c, d, e, f, gvii, gviii)
+SE1_RD	Transport routier (NFR 1A3b)
+SE1_NRD	Transport non-routier (NFR 1A3a, c, d and 1A4ciii)
+SE1_RD_NRD	Transport routier et non-routier (NFR 1A3a, b, c, d and 1A4ciii)
+SE1_CIH	Commercial, institutionnel et ménages (NFR 1A4ai, aii, bi, bii, ci, cii, 1A5a, b)
+SE2_IPPU	Processus industriels et utilisations de produits (NFR 2A1-6, 2B1-7, 2C1-7, 2D3, 2G, 2H, 2I, 2J, 2K, 2L)
+SE3_AGR	Agriculture (NFR 3B1-4, 3D, 3F, 3I)
+SE5_WST	Déchets (NFR 5A, 5B, 5C1-2, 5D1-3, 5E)
+SE6_OTH	Autre (NFR 6A)

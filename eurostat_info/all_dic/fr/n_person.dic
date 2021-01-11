@@ -1,0 +1,19 @@
+TOTAL	Total
+0	Aucune personne
+1	1 personne
+2	2 personnes
+3	3 personnes
+3-5	De 3 à 5 personnes
+4	4 personnes
+GE4	4 personnes ou plus
+5	5 personnes
+6	6 personnes
+6-10	De 6 à 10 personnes
+GE6	6 personnes ou plus
+7	7 personnes
+GE7	7 personnes ou plus
+8	8 personnes
+9	9 personnes
+10	10 personnes
+GE11	11 personnes ou plus
+UNK	Inconnu

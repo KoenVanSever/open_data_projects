@@ -1,0 +1,75 @@
+TOTAL	Ingesamt
+SOL_FUEL	Feste Brennstoffe (v2011 + v2012)
+HCOA_DER	Steinkohle und Nebenprodukte
+COKE	Koks
+SOL_FUEL_OTH	Sonstige feste Brennstoffe
+LIQ_FUEL	Flüssige Brennstoffe
+COIL	Rohöl
+ROIL	Raffinierte flüssige Erdölprodukte
+PETROL	Benzin
+LPG	Flüssiggas LPG
+DIESEL	Diesel
+GAS	Gas (v2031 + v2032 + v2033 + v2034)
+GAS_NAT	Erdgas
+GAS_BFUR	Hochofengas
+GAS_COKE	Koksofengas
+GAS_CONV	Konvertergas
+GAS_OTH	Sonstiges Gas
+ELEC	Elektrische Strom
+ELEC_OTH	Elektrische Energie oder sonstige Energien
+OTHER	Sonstige
+STEAM	Dampf
+DLV_GAS_BFUR	Auslandslieferungen von Hochofengas
+DLV_GAS_CONV	Auslandslieferungen von Konvertergas
+ALTER	Alternative Energie
+PETROL_X_HYBR	Benzin (ohne Hybride)
+ELEC_PETROL	Elektro-Benzin Hybrid
+ELEC_PETROL_PI	Aufladbarer Elektro-Benzin Hybrid
+DIESEL_X_HYBR	Diesel (ohne Hybrid)
+ELEC_DIESEL	Elektro-Diesel Hybrid
+ELEC_DIESEL_PI	Aufladbarer Diesel-Elektro Hybrid
+HYDR_FUELCELL	Wasser- und Brennstoff-Zellen
+BIOETHAN	Bioethanol
+BIODIESEL	Biodiesel
+BIFUEL	Bi-Fuel Fahrzeugen
+CNG	Komprimiertes Erdgas (CNG)
+LNG	Verflüssigtes Erdgas (LNG)
+ELEC_PETROL_HYBR	Elektro-Benzin Hybrid und ansteckbarer Elektro-Benzin Hybrid
+ELEC_DIESEL_HYBR	Elektro-Diesesl Hybrid und ansteckbarer Elektro-Diesel Hybrid
+N00	Aus der Natur entnommene Energieformen
+N01	Fossile nicht-erneuerbare Energieformen aus der Natur entnommen
+N02	Nucleare nicht-erneuerbare Energieformen aus der Natur entnommen
+N03	Wasserbasierte erneuerbare Energieformen aus der Natur entnommen
+N04	Windbasierte erneuerbare Energieformen aus der Natur entnommen
+N05	Solarbasierte erneuerbare Energieformen aus der Natur entnommen
+N06	Biomassebasierte erneuerbare Energieformen aus der Natur entnommen
+N07	Sonstige erneuerbare Energieformen aus der Natur entnommen
+P00	Energieerzeugnisse
+P08	Steinkohle
+P09	Braunkohle und Torf
+P10	Abgeleitete Gase (ohne Biogas)
+P11	Sekundäre Kohleerzeugnisse (Koks, Benzol, Steinkohlenbriketts, BKB und Torferzeugnisse)
+P12	Rohöl, Erdgaskondensate (NGL), und sonstige Kohlenwasserstoffe (ohne Biokomponenten)
+P13	Naturgas
+P14	Motorenbenzin und Flugbenzin (ohne Biokomponenten)
+P15	Petroleum und Flugturbinenkraftstoffe (ohne Biokomponenten)
+P16	Naphtha
+P17	Kraftfahrzeug-Diesel (ohne Biokomponenten)
+P18	Heizöl und sonstiges Gasöl ohne Biokomponenten)
+P19	Rückstandsheizöle
+P20	Raffineriegas, Ethan und Flüssiggas (LPG)
+P21	Andere Mineralölerzeugnisse einschließlich Zusatzstoffe/Oxigenate und Raffinerieeinsatzmaterial
+P22	Nuklearbrennstoff
+P23	Brennholz, Holzrückstände und andere Feste Biobrennstoffe, Holzkohle
+P24	Flüssige Biobrennstoffe
+P25	Biogas
+P26	Elektrizität
+P27	Abgeleitete Wärme
+R00	Energieresiduen
+R28	Erneuerbare Abfälle
+R29	Nicht erneuerbare Abfälle
+R30	Energieverluste aller Art (bei der Extraktion, Verteilung, Lagerung, Transformation sowie dissipative Wärme nach Endnutzung)
+R31	Energie enthalten in Produkten für nicht-energetische Nutzung
+SD_IO	Statistische Differenzen zwischen Input und Output für alle Energieflüsse
+N00_P00_R00	Aus der Natur entnommenen Energieformen, Energieerzeugnisse und Energieresiduen
+EPRD_OUSE	Energieerzeugnisse für den Eigenbedarf

@@ -1,0 +1,10 @@
+TOTAL	Total
+SP_WPL	Période d'étude et/ou période de stage
+SP_SWP	Période d'étude ou période d'étude combinée avec un stage 
+WPL	Période de stage 
+MOV_NAT	A déménagé ou serait disposé à déménager pour un travail à l'intérieur de son pays
+MOV_EU_FOR	A déménagé ou serait disposé à déménager pour un travail vers un autre pays de l'Union européenne
+MOV_EXT_EU	A déménagé ou serait disposé à déménager pour un travail vers un pays n'appartenant pas à l'Union européenne
+NMOV	N'a pas déménagé ou ne serait pas disposé à déménager pour les besoins de son emploi
+NRP	Sans réponse
+UNK	Inconnu

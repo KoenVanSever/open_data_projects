@@ -1,0 +1,43 @@
+TOTAL	Toutes formes de présentation
+FRE	Frais
+FRE_WHL	Frais, entier
+FRE_GUT	Frais, éviscéré
+FRE_GUH	Frais, éviscéré et étêté
+FRE_TAL	Frais, queues
+FRE_FIL	Frais, fileté
+FRE_PEL	Frais, décortiqué et nettoyé
+FRE_ALI	Frais, vivant
+FRE_OTH	Frais, autre
+FRE_NSP	Frais, non spécifié
+FRO	Congelé
+FRO_WHL	Congelé, entier
+FRO_GUT	Congelé, éviscéré
+FRO_GUH	Congelé, éviscéré et étêté
+FRO_TAL	Congelé, queues
+FRO_FIL	Congelé, fileté
+FRO_NFL	Congelé, non fileté
+FRO_CLE	Congelé, nettoyé
+FRO_NCL	Congelé, non nettoyé
+FRO_OTH	Congelé, autre
+FRO_NSP	Congelé, non spécifié
+SAL	Salé
+SAL_WHL	Salé, entier
+SAL_GUT	Salé, éviscéré
+SAL_GUH	Salé, éviscéré et étêté
+SAL_FIL	Salé, fileté
+SAL_OTH	Salé, autre
+SAL_NSP	Salé, non spécifié
+SMO	Fumé
+COK	Cuit
+COK_FRO	Cuit, congelé et emballé
+DRI	Séché
+DRI_WHL	Séché, entier
+DRI_GUT	Séché, éviscéré
+DRI_GUH	Séché, éviscéré et étêté
+DRI_FIL	Séché,  fileté
+DRI_OTH	Séché, autre
+DRI_NSP	Séché, non spécifié
+CLA	Pinces
+ROE	Oeufs de poisson
+WHL	Entier
+UNK	Présentation inconnue

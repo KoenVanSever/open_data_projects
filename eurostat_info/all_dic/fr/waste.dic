@@ -1,0 +1,136 @@
+TOTAL	Déchets totaux
+PRIM	Déchets primaires (TOTAL moins SEC)
+SEC	Déchets secondaires (W033+W103+W128_13)
+W01-05	Déchets chimiques et déchets provenant des soins médicaux (sous-total)
+W011	Solvants usés
+W012	Déchets acides, alcalins ou salins
+W013	Huiles usées
+W014	Catalyseurs chimiques usés
+W02A	Déchets chimiques
+W032	Boues d'effluents industriels
+W033	Boues et déchets liquides provenant du traitement des déchets
+W05	Déchets provenant des soins médicaux ou vétérinaires et déchets biologiques
+W06_07A	Déchets recyclables (sous-total, W06+W07 excepté W077)
+W061	Déchets de métaux, ferreux
+W062	Déchets de métaux, non ferreux
+W063_122_MUN	Déchets municipaux de métaux
+W063_122_MUN_INC	Métaux séparés après incinération des déchets municipaux
+W063	Déchets de métaux, ferreux et non ferreux en mélange
+W071	Déchets de verre
+W071_MUN	Déchets municipaux de verre
+W072	Déchets de papiers et cartons
+W072_MUN	Déchets municipaux de papiers et cartons
+W073	Déchets de caoutchouc
+W074	Déchets de matières plastiques
+W074_MUN	Déchets municipaux de matières plastiques
+W075	Déchets de bois
+W075_MUN	Déchets municipaux de bois
+W076	Déchets textiles
+W076_MUN	Déchets municipaux textiles
+W077_08	Equipements (sous-total, W077+W08A+W081+W0841)
+W077	Déchets contenant des PCB
+W08A	Equipements hors d'usage (excepté des véhicules au rebut et des déchets de piles et accumulateurs) (W08 excepté W08, 1W0841)
+W081	Véhicules au rebut
+W082_84_MUN	Déchets municipaux de équipement électrique et électronique
+W0841	Déchets de piles et accumulateurs
+W0841_MUN	Déchets municipaux de piles et accumulateurs
+W09	Déchets animaux et végétaux (sous-total, W091+W092+W093)
+W091_092_MUN	Biodéchets municipaux
+W091_092_MUN_S	Biodéchets municipaux séparés et recyclés à la source
+W091	Déchets animaux et déchets alimentaires en mélange
+W092	Déchets végétaux
+W093	Fèces, urines et fumier animaux
+W10	Déchets courants mélangés (sous-total, W101+W102+W103)
+W101	Déchets ménagers et similaires
+W1011_MUN	Déchets encombrants
+W1011_1021_MUN	Déchets municipaux en mélange
+W102	Matériaux mélangés et matériaux indifférenciés
+W103	Résidus de tri
+W11	Boues ordinaires
+W12-13	Déchets minéraux ou solidifiés (sous-total)
+W121	Déchets minéraux de construction et de démolition
+W12B	Autres déchets minéraux (W122+W123+W125)
+W124	Résidus d'opérations thermiques
+W126	Terres
+W127	Boues de dragage
+W128_13	Déchets minéraux provenant du traitement des déchets et déchets stabilisés
+W06	Déchets métalliques (W061+W062+W063)
+W091_092	"Déchets animaux et déchets alimentaires en mélange; déchets végétaux (W091+W092)"
+W11_127	Boues ordinaires et boues de dragage (W11+W127, valable jusqu'à 2008)
+W12_X_127NH	Déchets minéraux (excepté des boues de dragage non-dangereux, valable jusqu'à 2008)
+W12A	Déchets minéraux (excepté des résidus d'opérations thermiques, des terres et boues de dragage polluées) (W121+W122+W123+W125+W126, valable jusqu'à 2008)
+W126_127	Terres et boues de dragage (W126+W127,  valable jusqu'à 2008)
+W13	Déchets solidifiés, stabilisés ou vitrifiés (valable jusqu'à 2008)
+RCV_OTH	Autres déchets valorisés (valable jusqu'à 2008)
+DSP_OTH	Autres déchets éliminés (valable jusqu'à 2008)
+INC_OTH	Autres déchets incinérés (valable jusqu'à 2008)
+TOT_X_MIN	Déchets excepté les déchets minéraux principaux
+W1501	Emballages
+W150101	Emballages en papier / carton
+W150102	Emballages en matières plastiques
+W150102CB_LT50	Sacs en plastique légers avec épaisseurs inférieures à 50 microns
+W150102CB_LT15	Sacs en plastique légers avec épaisseurs inférieures à 15 microns
+W150102CB_15-49	Sacs en plastique légers avec épaisseurs de 15 à 49 microns
+W150102CB_GE50	Sacs en plastique avec épaisseurs de 50 microns ou plus
+W150103	Emballages en bois
+W150104	Emballages métalliques
+W15010401	Emballages en aluminium
+W15010401_IBA	Aluminium des mâchefers d'incinération (MI)
+W15010402	Emballages en acier
+W15010402_IBA	Métal ferreux des mâchefers d'incinération (MI)
+W150107	Emballages en verre 
+W150199	Autres emballages
+DMDP	Démontage et dépollution, total
+LIQ	Liquides (sauf carburant) (Low: 1301 jusqu'à 1306+1406+160113 jusqu'à 160115+160121+160122+160199)
+EXP	Véhicules hors usage: poids total des véhicules exportés
+W160103	Véhicules hors usage: pneumatiques
+W160107	Véhicules hors usage: filtres à huile
+W1601A	Véhicules hors usage: autres matériaux issus de la dépollution (sauf carburant) (LoW: 160108 jusqu'à 160111+160121)
+W1601B	Véhicules hors usage: composants métalliques (Low: 160117+160118)
+W160119	Véhicules hors usage: grandes pièces en matière plastique
+W160120	Véhicules hors usage: verre
+W1601C	Véhicules hors usage: autres matériaux issus du démontage (Low: 160122+160199)
+W1606	Piles et accumulateurs
+W160601	Accumulateurs au plomb
+W160601PB	Teneur en plomb des batteries
+W160602	Accumulateurs Ni-Cd
+W160602CD	Teneur en cadmium des batteries
+W1606B	Piles et accumulateurs portables
+W160605	Autres piles et accumulateurs
+W1608	Catalyseurs
+W1910	Broyage, total
+W191001	Ferraille (acier) du broyage
+W191002	Matériaux non ferreux (aluminium, cuivre, zinc, plomb, etc.) du broyage
+W1910A	Fraction légère des résidus de broyage (Low: 191003+191004)
+W1910B	Autres matériaux issus du broyage (Low: 191005+191006)
+PLAST	Plastiques
+PAPER	Papier et carton
+MT_FER	Fer et acier
+MT_PRE	Métaux précieux
+CAN	Cuivre, aluminium et nickel
+EE_LHA	Gros appareils ménagers
+EE_SHA	Petits appareils ménagers
+EE_ITT	Équipements informatiques et de télécommunications
+EE_CPV	Matériel grand public et panneaux photovoltaïques
+EE_CPV_CON	Matériel grand public
+EE_CPV_PVP	Panneaux photovoltaïques
+EE_LIT	Matériel d'éclairage
+EE_LIT_GDL	Lampes à décharge gazeuse
+EE_EET	Outils électriques et électroniques
+EE_TLS	Jouets, équipements de loisir et de sport
+EE_MED	Dispositifs médicaux
+EE_MON	Instruments de surveillance et de contrôle
+EE_ATD	Distributeurs automatiques
+EE_TEE	Équipements d'échange thermique
+EE_SME	Écrans, moniteurs et équipements comprenant des écrans d'une surface supérieure à 100 cm2
+EE_LMP	Lampes
+EE_LE	Gros équipements (toute dimension extérieure supérieure à 50 cm)
+EE_LEXPVP	Gros équipements sauf panneaux photovoltaïques
+EE_LE_PVP	Panneaux photovoltaïques
+EE_SE	Petits équipements (aucune dimension extérieure supérieure à 50 cm)
+EE_SITTE	Petits équipements informatiques et de télécommunications (aucune dimension extérieure supérieure à 50 cm)
+HAZ	Déchets dangereux
+MUN	Déchets municipaux
+MUN_OTH	Autres déchets municipaux
+ORG	Déchets organiques
+ORG_OTH	Autres déchets non-organiques

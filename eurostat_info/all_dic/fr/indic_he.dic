@@ -1,0 +1,47 @@
+TOTAL	Total
+HEIGHT	Taille
+WEIGHT	Poids
+N_EODS_OBL	Nombre de cas, non-mortel, EODS/SEMP liste obligatoire
+I_EODS_OBL	Taux d'incidence, non-mortel, EODS/SEMP liste obligatoire
+EM0611	Indice du nombre d'accidents du travail graves pour 100 mille personnes occupées (1998=100)
+EM0612	Indice du nombre d'accidents du travail graves des femmes pour 100 mille femmes occupées (1998=100)
+EM0613	Indice du nombre d'accidents du travail graves des hommes pour 100 mille hommes occupés (1998=100)
+EM062	Indice du nombre d'accidents du travail mortels pour 100 mille personnes occupées (1998=100)
+F_0_DFLE	Nombre d'années de vie en bonne santé à la naissance - femmes
+F_0_DFLEPC	Nombre d'années de vie en bonne santé à la naissance - pourcentage par rapport à l'espérance totale - femmes
+F_0_LE	Espérance de vie à la naissance - femmes
+M_0_DFLE	Nombre d'années de vie en bonne santé à la naissance - hommes
+M_0_DFLEPC	Nombre d'années de vie en bonne santé à la naissance - pourcentage par rapport à l'espérance totale - hommes
+M_0_LE	Espérance de vie à la naissance - hommes
+F_50_DFLE	Nombre d'années de vie en bonne santé à l'âge de 50 ans - femmes
+F_50_DFLEPC	Nombre d'années de vie en bonne santé à l'âge de 50 ans - pourcentage par rapport à l'espérance totale - femmes
+F_50_LE	Espérance de vie à l'âge de 50 ans - femmes
+M_50_DFLE	Nombre d'années de vie en bonne santé à l'âge de 50 ans - hommes
+M_50_DFLEPC	Nombre d'années de vie en bonne santé à l'âge de 50 ans - pourcentage par rapport à l'espérance totale - hommes
+M_50_LE	Espérance de vie à l'âge de 50 ans - hommes
+F_65_DFLE	Nombre d'années de vie en bonne santé à l'âge de 65 ans - femmes
+F_65_DFLEPC	Nombre d'années de vie en bonne santé à l'âge de 65 ans - pourcentage par rapport à l'espérance totale - femmes
+F_65_LE	Espérance de vie à l'âge de 65 ans - femmes
+M_65_DFLE	Nombre d'années de vie en bonne santé à l'âge de 65 ans - hommes
+M_65_DFLEPC	Nombre d'années de vie en bonne santé à l'âge de 65 ans - pourcentage par rapport à l'espérance totale - hommes
+M_65_LE	Espérance de vie à l'âge de 65 ans - hommes
+HE_BIRTH	Espérance de vie à la naissance
+HE_50	Espérance de vie à l'âge de 50 ans
+HE_65	Espérance de vie à l'âge de 65 ans
+HLY_0	Nombre d'années de vie en bonne santé à la naissance
+HLY_PC_0	Nombre d'années de vie en bonne santé à la naissance - pourcentage par rapport à l'espérance totale
+LE_0	Espérance de vie à la naissance
+HLY_50	Nombre d'années de vie en bonne santé à l'âge de 50 ans
+HLY_PC_50	Nombre d'années de vie en bonne santéà l'âge de 50 ans - pourcentage par rapport à l'espérance totale
+LE_50	Espérance de vie à l'âge de 50 ans
+HLY_65	Nombre d'années de vie en bonne santé à l'âge de 65 ans
+HLY_PC_65	Nombre d'années de vie en bonne santéà l'âge de 65 ans - pourcentage par rapport à l'espérance totale
+LE_65	Espérance de vie à l'âge de 65 ans
+DISCH	Autorisations de sortie
+ALOS	Durée moyenne de séjour des patients hospitalisés (en jours)
+DAY_HOSP	Jours d'hospitalisations
+INPAT	Patients hospitalisés pour au moins une nuit (nombre total)
+ONE_DAY	Hospitalisations de jours (nombre total)
+AMEN	Décès évitables liés au système de soins
+PREVENT	Mortalité évitables grâce à la prévention
+TREAT	Mortalité évitables grâce aux traitements

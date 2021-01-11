@@ -1,0 +1,56 @@
+TOTAL	Insgesamt
+OP	Alle Unternehmen
+PRD	Erzeuger
+PRR	Erzeuger
+PRR_MAIN	Hauptsächlich als Energieerzeuger tätiges Unternehmen
+PRR_AUTO	Eigenerzeuger
+PRD_AGRI	Landwirtschaftliche Erzeuger
+PRR_AGRI	Landwirtschaftliche Erzeuger
+PRD_AGRI_PRC	Landwirtschaftliche Erzeuger die auch Verarbeiter sind 
+PRR_AGRI_PRC	Landwirtschaftliche Erzeuger die auch Verarbeiter sind
+PRD_AGRI_IMP	Landwirtschaftliche Erzeuger die auch Importeure sind
+PRR_AGRI_IMP	Landwirtschaftliche Erzeuger die auch Importeure sind
+PRD_AGRI_HM	Landwirtschaftliche Produzenten von Eiern entsprechend harmonisierter Methode
+PRR_AGRI_HM	Landwirtschaftliche Produzenten von Eiern entsprechend harmonisierter Methode
+PRD_AGRI_HEN350-5000_HM	Landwirtschaftliche Produzenten von Eiern mit 350 bis 5 000 Legehennen entsprechend harmonisierter Methode
+PRR_AGRI_HEN350-5000_HM	Landwirtschaftliche Produzenten von Eiern mit 350 bis 5 000 Legehennen entsprechend harmonisierter Methode
+PRD_AGRI_HEN_GT5000_HM	Landwirtschaftliche Produzenten von Eiern mit mehr als 5 000 Legehennen entsprechend harmonisierter Methode
+PRR_AGRI_HEN_GT5000_HM	Landwirtschaftliche Produzenten von Eiern mit mehr als 5 000 Legehennen entsprechend harmonisierter Methode
+PRD_AGRI_NHM	Landwirtschaftliche Produzenten von Eiern außerhalb der harmonisierten Methode
+PRR_AGRI_NHM	Landwirtschaftliche Produzenten von Eiern außerhalb der harmonisierten Methode
+PRD_AGRI_OTH	Landwirtschaftliche Erzeuger - sonstige (a.n.k.)
+PRR_AGRI_OTH	Landwirtschaftliche Erzeuger - sonstige (a.n.k.)
+PRD_AQUA	Erzeuger von Aquakulturen
+PRR_AQUA	Erzeuger von Aquakulturen
+PRD_AQUA_PL	Erzeuger von Wasserpflanzen in Aquakulturen
+PRR_AQUA_PL	Erzeuger von Wasserpflanzen in Aquakulturen
+PRD_ONL	Ausschliesslich Erzeuger
+PRR_ONL	Ausschliesslich Erzeuger
+PRD_PRC	Erzeuger die auch Verarbeiter sind
+PRR_PRC	Erzeuger die auch Verarbeiter sind
+PRD_IMP	Erzeuger die auch Importeure sind
+PRR_IMP	Erzeuger die auch Importeure sind
+PRD_PRC_IMP	Erzeuger die Verarbeiter und Importeure sind
+PRR_PRC_IMP	Erzeuger die Verarbeiter und Importeure sind
+PRC	Verarbeiter
+PRC_IMP	Verarbeiter die auch Importeure sind
+PRC_OTH	Verarbeiter - sonstige (a.n.k.)
+PRC_ONL	Ausschliesslich Verarbeiter
+IMP	Importeure
+IMP_ONL	Ausschliesslich Importeure
+IMP_NAL	Importeure nicht zugeordnet
+EXP	Exporteure
+EXP_ONL	Ausschließlich Exporteure 
+EXP_NAL	Exporteure nicht zugeordnet
+OWT	Ausschliessliche Exporteure oder Importeure
+TWT	Im- und Exporteure
+PCK_EGG_PRD_AGRI	Verpacker, die Eier von landwirtschaftlichen Produzenten erhalten
+PCK_EGG_PRR_AGRI	Verpacker, die Eier von landwirtschaftlichen Produzenten erhalten
+OTH_EGG_PRD_AGRI	Andere Betreiber, die Eier von landwirtschaftlichen Produzenten erhalten
+OTH_EGG_PRR_AGRI	Andere Betreiber, die Eier von landwirtschaftlichen Produzenten erhalten
+OTH	Andere Unternehmen
+OTH_TRD	Andere Unternehmer -  Händler
+OTH_TRD_WHLS	Andere Unternehmer -  Händler - Grosshändler
+OTH_TRD_RTL	Andere Unternehmer -  Händler - Einzelhändler
+OTH_NEC	Andere Unternehmen a.n.k.
+NAL	Nicht zugeordnet

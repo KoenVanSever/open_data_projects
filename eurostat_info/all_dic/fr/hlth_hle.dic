@@ -1,0 +1,12 @@
+HE_Y0	Espérance de santé à la naissance
+HE_Y50	Espérance de santé à l'âge de 50 ans
+HE_Y65	Espérance de santé à l'âge de 65 ans
+LE_Y0	Espérance de vie à la naissance
+LE_Y50	Espérance de vie à l'âge de 50 ans
+LE_Y65	Espérance de vie à l'âge de 65 ans
+HLY_Y0	Nombre d'années de vie en bonne santé à la naissance
+HLY_Y50	Nombre d'années de vie en bonne santé à l'âge de 50 ans
+HLY_Y65	Nombre d'années de vie en bonne santé à l'âge de 65 ans
+HLY_LE_Y0_PC	Nombre d'années de vie en bonne santé - pourcentage par rapport à l'espérance de vie à la naissance
+HLY_LE_Y50_PC	Nombre d'années de vie en bonne santé - pourcentage par rapport à l'espérance de vie à l'âge de 50 ans
+HLY_LE_Y65_PC	Nombre d'années de vie en bonne santé -pourcentage par rapport à l'espérance de vie à l'âge de 65 ans

@@ -1,0 +1,24 @@
+TOT_REF	Personen, die an der Außengrenze abgewiesen wurden
+REF_LAND	Personen, die an einer Landgrenze abgewiesen wurden
+REF_SEA	Personen, die an einer Seegrenze abgewiesen wurden
+REF_AIR	Personen, die an einer Luftgrenze abgewiesen wurden
+TOTDECISION	Zur Ausreise aufgeforderte Drittstaatenangehörige (Artikel 7.1.a der Verordnung (EG) Nr. 862/2007)
+TOT_RET	Gesamtzahl der Zurückgekehrten
+VOLUNT	Freiwillige Rückkehr
+ENFORCE	Erzwungene Rückkehr
+ASSIST	Unterstützte Rückkehr
+N_ASSIST	Nicht- unterstützte Rückkehr
+RET_THRD	In einen Drittstaat Zurückgekehrte
+EURA	Zurückgekehrt unter EURA
+OTH_READM	Zurückgekehrt ohne bestehenden Rückübernahmeabkommen
+N_READM	Zurückgekehrt ohne bestehenden Rückübernahmeabkommen
+FOR_P_HHAB	Anteil der Ausländer, die die Staatsangehörigkeit erworben haben
+NEU27_2020_P_HHAB	Anteil der Nicht-EU27-Bürger (ab 2020), die die Staatsangehörigkeit erworben haben
+NEU28_P_HHAB	Anteil der Nicht-EU28-Bürger (2013-2020), die die Staatsangehörigkeit erworben haben
+NEU_P_HHAB	Anteil der Nicht-EU-Bürger, die die Staatsangehörigkeit erworben haben
+EU_P_HHAB	Anteil der EU Bürger, die die Staatsangehörigkeit erworben haben
+CITIZ	Herkunftsland
+TRANSIT	Transitland
+OTH_THRD	Anderes Drittland
+OTH	Andere
+UNK	Unbekannt

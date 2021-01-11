@@ -1,0 +1,25 @@
+TOT_FS	Laufende Gesundheitsausgaben insgesamt
+FS1	Transfers von staatlichen Inlandseinnahmen
+FS11	Innerstaatliche Transfers und Zuschüsse
+FS12	Staatliche Transfers zu Gunsten von bestimmten Gruppen
+FS13	Subventionen
+FS14	Sonstige Transfers aus staatlichen Inlandseinnahmen
+FS2	Von der öffentlichen Verwaltung verteilte Transfers ausländischer Herkunft
+FS3	Sozialversicherungsbeiträge
+FS31	Sozialversicherungsbeiträge der Arbeitnehmer
+FS32	Sozialversicherungsbeiträge der Arbeitgeber
+FS33	Sozialversicherungsbeiträge von Selbstständigen
+FS34	Sonstige Sozialversicherungsbeiträge
+FS4	Pflichtprämien (außer FS.3)
+FS41	Pflichtprämien von Einzelpersonen /Haushalten
+FS42	Pflichtprämien der Arbeitgeber
+FS43	Andere Pflichtprämien
+FS5	Freiwillige Prämien
+FS51	Freiwillige Prämien von Einzelpersonen/Haushalten
+FS52	Freiwillige Prämien der Arbeitgeber
+FS53	Andere freiwillige Prämien
+FS6	Sonstige inländische Einnahmen (anderweitig nicht genannt)
+FS61	Sonstige inländische Einnahmen von Haushalten (anderweitig nicht genannt)
+FS62	Sonstige inländische Einnahmen von Unternehmen (anderweitig nicht genannt)
+FS63	Sonstige inländische Einnahmen von privaten Organisationen ohne Erwerbszweck (anderweitig nicht genannt)
+FS7	Direkte Auslandstransfers

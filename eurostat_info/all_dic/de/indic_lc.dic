@@ -1,0 +1,16 @@
+SAL	Arbeitnehmer
+HW_SAL_Y	Zahl der von Arbeitnehmern tatsächlich geleisteten Arbeitsstunden pro Jahr
+HP_SAL_Y	Bezahlte Arbeitsstunden an Arbeitnehmer pro Jahr
+APP	Auszubildende
+HW_APP_Y	Zahl der von Auszubildenden tatsächlich geleisteten Arbeitsstunden pro Jahr
+HW_SAL_AVG	Durchschnittliche jährliche Zahl der tatsächlich geleisteten Arbeitsstunden pro Arbeitnehmer
+HP_SAL_AVG	Durchschnittliche jährliche Zahl der bezahlten Stunden pro Arbeitnehmer
+HW_APP_AVG	Durchschnittliche  jährliche Zahl der tatsächlich geleisteten Arbeitsstunden pro Auszubildenden
+HP_APP_AVG	Durchschnittliche jährliche Zahl der bezahlten Stunden pro Auszubildenden
+LC_NAC	Arbeitskosten - Landeswährung
+LC_EUR	Arbeitskosten - Euro
+LC_M	Arbeitskosten pro Monat
+LC_H	Arbeitskosten pro Stunde
+HW	Arbeitsstunden
+HP_HW_RAT	Verhältnis zwischen bezahlten und tatsächlich gearbeiteten Stunden
+HP_NHW	Stunden bezahlt, aber nicht tatsächlich gearbeitet

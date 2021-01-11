@@ -1,0 +1,35 @@
+B0000	Gesamt Fleisch und geniessbare Schlachtnebenerzeugnisse
+B0010	Fleisch
+B1000	Rindfleisch
+B1100	Kalb und Jungrind
+B1110	Kalb
+B1120	Jungrind
+B1200	Erwachsenes Rind
+B1210_1220	Ochs und Stier
+B1210	Ochse
+B1220	Stier
+B1230	Kuh
+B1240	Färse
+B3000	Fleisch vom Schwein
+B3100	Schweinefleisch
+B3100A	Schwein (Grad I )
+B3100B	Schwein (Grad II)
+B4000	Fleisch von Schaf und Ziege
+B4100	Schaffleisch
+B4110	Lamm
+B4120	Hammel
+B4200	Ziegenfleisch
+B5000	Fleisch von Pferd, Esel,  Maultier oder Maulesel
+B6000	Geniessbare Schlachtnebenerzeugnisse
+B7000	Geflügelfleisch
+B7100	Huhn
+B7110	Masthähnchen
+B7120	Masthuhn
+B7200	Ente
+B7300	Truthahn
+B7400	Gans, Perlhuhn und anderes Geflügel
+B7410	Gans
+B7420	Perlhuhn
+B7490	Anderes Geflügel
+B8000	Kaninchenfleisch
+B9000	Anderes Fleisch

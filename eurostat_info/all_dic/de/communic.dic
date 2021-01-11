@@ -1,0 +1,3 @@
+INTER	Nicht kontinuierliche Kommunikation zwischen Zug und Strecke
+CONT	Kontinuierliche Kommunikation zwischen Zug und Strecke
+CONT_TI	Kontinuierliche Kommunikation zwischen Zug und Strecke, mit fahrzeugseitiger Zugintegrität

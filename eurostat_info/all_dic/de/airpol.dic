@@ -1,0 +1,47 @@
+GHG	Treibhausgase (CO2, N2O in CO2 Äquivalente, CH4 in CO2 Äquivalente, HFC in CO2 Äquivalente, PFC in CO2 Äquivalente, SF6 in CO2 Äquivalente, NF3 in CO2 Äquivalente)
+CO2_N2O_CH4_CO2E	Treibhausgase (CO2, N2O in CO2 Äquivalente, CH4 in CO2 Äquivalente)
+CO2	Kohlendioxid
+CH4	Methan
+CH4_CO2E	Methan (CO2 Äquivalente)
+N2O	Distickstoffoxid
+N2O_CO2E	Distickstoffoxid (CO2 Äquivalente)
+HFC_CO2E	Fluorkohlenwasserstoffe (CO2 Äquivalente)
+PFC_CO2E	Perfluorcarbone (CO2 Äquivalente)
+HFC_PFC_NSP_CO2E	Fluorkohlenwasserstoffe und Perfluorcarbone - Mischung nicht angegeben (CO2 Äquivalente)
+SF6_CO2E	Schwefelhexafluorid (CO2 Äquivalente)
+NF3_CO2E	Stickstofftrifluorid (CO2 Äquivalente)
+NF3_SF6	Stickstofftrifluorid und Schwefelhexafluorid
+NF3_SF6_CO2E	Stickstofftrifluorid und Schwefelhexafluorid (CO2 Äquivalente)
+CO2_BIO	Kohlendioxid von Biomasse als Treibstoff genutzt
+ACG	Säurebildende Gase (SOX in SO2 Äquivalente, NOX in SO2 Äquivalente, NH3 in SO2 Äquivalente)
+SOX_SO2E	Schwefeloxide (SO2 Äquivalente)
+NOX_NO2E	Stickstoffoxide (NO2 Äquivalente)
+NOX_SO2E	Stickstoffoxide (SO2 Äquivalente)
+NH3_SO2E	Ammoniak (SO2 Äquivalente)
+O3PR	Ozonvorläuferstoffe (NMVOC, NOX in NMVOC Äquivalente, CO in NMVOC Äquivalente, CH4 in NMVOC Äquivalente)
+NOX_NMVOCE	Stickstoffoxide (NMVOC Äquivalente)
+CO	Kohlenmonoxid
+CO_NMVOCE	Kohlenmonoxid (NMVOC Äquivalente)
+CH4_NMVOCE	Methan (NMVOC Äquivalente)
+PM	Feinstaub
+O3	Ozon
+PB	Blei (Pb)
+SO2	Schwefeldioxid
+NOX	Stickstoffoxide
+SOX	Schwefeloxide
+NH3	Ammoniak
+PM2_5	Feinstaub der Partikelgröße < 2.5µm 
+PM10	Feinstaub der Partikelgröße < 10µm
+NMVOC	Flüchtige organische Verbindungen ohne Methan
+AS	Arsen (As)
+CD	Cadmium (Cd)
+HG	Quecksilber (Hg)
+CR	Chrom (Cr)
+CU	Kupfer (Cu)
+NI	Nickel (Ni)
+SE	Selen (Se)
+ZN	Zink (Zn)
+VOC	Flüchtige organische Verbindungen
+HFC	Hydrofluorocarbones
+PFC	Perfluorocarbones
+SF6	Schwefelhexafluorid

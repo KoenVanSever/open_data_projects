@@ -1,0 +1,43 @@
+TOTAL	Alle Handelsformen
+FRE	Frisch
+FRE_WHL	Frisch, ganz
+FRE_GUT	Frisch, ausgenommen
+FRE_GUH	Frisch, ausgenommen und ohne Kopf
+FRE_TAL	Frisch, Schwänze
+FRE_FIL	Frisch, filetiert
+FRE_PEL	Frisch, geschält und gesäubert
+FRE_ALI	Frisch, lebend
+FRE_OTH	Frisch, sonstiges
+FRE_NSP	Frisch, nicht spezifiziert
+FRO	Gefroren
+FRO_WHL	Gefroren, ganz
+FRO_GUT	Gefroren, ausgenommen
+FRO_GUH	Gefroren, ausgenommen und ohne Kopf
+FRO_TAL	Gefroren, Schwänze
+FRO_FIL	Gefroren, filetiert
+FRO_NFL	Gefroren, nicht filetiert
+FRO_CLE	Gefroren, gesäubert
+FRO_NCL	Gefroren, nicht gesäubert
+FRO_OTH	Gefroren, sonstiges
+FRO_NSP	Gefroren, nicht spezifiziert
+SAL	Gesalzen
+SAL_WHL	Gesalzen, ganz
+SAL_GUT	Gesalzen, ausgenommen
+SAL_GUH	Gesalzen, ausgenommen und ohne Kopf
+SAL_FIL	Gesalzen, filetiert
+SAL_OTH	Gesalzen, sonstiges
+SAL_NSP	Gesalzen, nicht spezifiziert
+SMO	Geräuchert
+COK	Gegart
+COK_FRO	Gegart, gefroren und verpackt
+DRI	Getrocknet
+DRI_WHL	Getrocknet, ganz
+DRI_GUT	Getrocknet, ausgenommen
+DRI_GUH	Getrocknet, ausgenommen und ohne Kopf
+DRI_FIL	Getrocknet, filetiert
+DRI_OTH	Getrocknet, sonstiges
+DRI_NSP	Getrocknet, nicht spezifiziert
+CLA	Scheren
+ROE	Fischeier
+WHL	Ganz
+UNK	Handelsform unbekannt

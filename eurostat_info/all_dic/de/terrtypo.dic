@@ -1,0 +1,20 @@
+TOTAL	Insgesamt
+URB	Überwiegend städtische Regionen
+INT	Intermediäre Regionen
+RUR	Überwiegend ländliche Regionen
+CST_A	Küstengebiete
+NCST_A	Nicht-Küstengebiete
+CST_R	Küstenregionen
+NCST_R	Nicht-Küstenregionen
+MNT_R	Bergregionen
+NMNT_R	Nicht-Bergregionen
+ISL_R	Inselregionen
+NISL_R	Nicht-Inselregionen
+BRD_R	Grenzregionen
+NBRD_R	Nicht-Grenzregionen
+LFA	Benachteiligte Gebiete  
+LFA_MNT	Benachteiligte Berggebiete
+LFA_OTH	Benachteiligte Gebiete - sonstige
+NLFA	Nicht benachteiligte Gebiete
+NRP	Keine Antwort
+UNK	Unbekannt

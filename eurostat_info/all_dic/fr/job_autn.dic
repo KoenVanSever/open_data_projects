@@ -1,0 +1,11 @@
+TOTAL	Total
+CONT_ORD	Contenu et ordre des tâches
+CONT	Contenu des tâches
+ORD	Ordre des tâches
+SOMECONT_SOMEORD	Certaine ou importante sur contenu et ordre des tâches
+LTLCONT_SOMEORD	Peu ou aucune sur contenu et certaine ou importante sur ordre des tâches
+SOMECONT_LTLORD	Certaine ou importante sur contenu et peu ou aucune sur ordre des tâches
+LTLCONT_LTLORD	Peu ou aucune sur contenu et ordre des tâches
+NONE	Aucun
+NAP	Non applicable
+NRP	Sans réponse

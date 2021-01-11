@@ -1,0 +1,39 @@
+TOTAL	Total
+GD_SERV_PCS	Biens, services ou procédés
+PRD	Innovation de produits
+PRD_GD	Biens
+PRD_SERV	Services
+BPCS	Innovation de processus d'affaires
+PCS_GD_SERV	Méthodes nouvelles ou améliorées de production de biens ou de prestation de services
+PCS	Innovation de procédé
+PCS_ACT	Activités de soutien pour procédés
+PCS_LOG	Méthodes nouvelles ou améliorées de logistique, de livraison ou de distribution
+LOG	Innovations dans la logistique
+LOG_OTH	Autres innovations dans la logistique
+RDESG_SHPM	Reconception des expéditions (emballage, poids et densité)
+OPROC_EXTREL	Nouvelles pratiques commerciales pour l'organisation de procédures ou de relations extérieures
+OPROC	Nouvelles pratiques commerciales pour l'organisation de procédures
+OEXTREL	Méthodes nouvelles d'organisation des relations extérieures
+OWR_DEC_HRM	Nouvelles méthodes d'organisation de la responsabilité, de prise de décision ou de gestion des ressources humaines
+OWR_DEC	Nouvelles méthodes d'organisation des responsabilités professionnelles et de prise de décision
+COMM	Méthodes nouvelles ou améliorées de traitement ou de communication de l'information
+ACCT	Nouvelles méthodes de comptabilité ou autres opérations administratives
+SLS_SERV	Nouvelles méthodes commerciales pour la promotion, l'emballage, la tarification, le placement de produits ou les services après-vente
+DESG_PK	Changements importants à la conception esthétique ou à l'emballage
+PROMO	Nouveaux médias ou nouvelles techniques pour la promotion de produits
+PLACMT	Nouvelles méthodes pour le placement de produit
+PRC_GD_SERV	Nouvelles méthodes de tarification des biens ou des services
+IMS	Système de gestion des stocks
+DSCM	Gestion de chaîne d'approvisionnement numérique
+EPROC	Approvisionnement en ligne
+UNAIDF_WSUPCH	Identification unique et automatique des produits dans toute la chaîne d'approvisionnement
+LOG_RVS	Logistique inverse
+NEWDLV_MDL	Nouveaux modèles de livraison, y compris l'utilisation de véhicules utilisant des carburants alternatifs ou la logistique multimodale
+INN_WRL_GE1	Au moins une "première mondiale" d'innovation de produits
+INN_NWRL	Aucune "première mondiale" d'innovation de produits
+INN_WRL_UNK	"Première mondiale" inconnue d'innovation de produits
+PRD_NEW	Produits nouveaux ou sensiblement améliorés
+PRD_NEW_ENT	Produits nouveaux ou sensiblement améliorés qui étaient nouveaux pour l'entreprise
+PRD_NEW_ENT_ONL	Produits nouveaux ou sensiblement améliorés qui n'étaient que nouveaux pour l'entreprise
+PRD_NEW_MKT	Produits nouveaux ou sensiblement améliorés qui étaient nouveaux sur le marché
+SAME	Produits inchangés ou légèrement modifiés (d'innovateurs de produits)

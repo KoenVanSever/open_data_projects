@@ -1,0 +1,16 @@
+SAL14	Nombre d'employés en 2014
+TUR14	Chiffre d'affaires en 2014
+TUR14_OUT	Chiffre d'affaires issu des ventes effectuées à l'étranger en 2014
+SAL16	Nombre d'employés en 2016
+TUR16	Chiffre d'affaires en 2016
+TUR16_OUT	Chiffre d'affaires issu des ventes effectuées à l'étranger en 2016
+ENT16	Nombre d'entreprises dans la population en 2016
+SAL18	Nombre d'employés en 2018
+TUR18	Chiffre d'affaires en 2018
+ENT18	Nombre d'entreprises dans la population en 2018
+EXPN19	Dépense en 2019
+NEXPN19	Pas de dépense en 2019
+EXPN20	Dépense en 2020
+NEXPN20	Pas de dépense en 2020
+MKT_GDSERV	Marché pour des biens et / ou des services
+LMKT_TUR	Marché le plus important en termes de chiffre d'affaires

@@ -1,0 +1,166 @@
+TOTAL	Insgesamt
+TOT_X_TM	Alle Fahrzeugarten (außer Anhänger und Motorräder)
+PUB	Öffentliche Verkehrsmittel
+TRN_BUS_TOT_AVD	Züge, Busse, Reisebusse und Oberleitungsbusse - Summe der verfügbaren Daten
+TRN	Züge
+TRN_HSPD	Hochgeschwindigkeitszüge
+TRN_THSPD	Hochgeschwindigkeitszüge mit Neigetechnik
+TRN_CV	Konventionelle Züge
+TST	Zugeinheiten
+TST_HSPD	Hochgeschwindigkeitszugeinheiten
+TST_THSPD	Hochgeschwindigkeitszugeinheiten mit Neigetechnik
+TST_CV	Konventionelle Zugeinheiten
+LOC	Lokomotiven
+LOC_ELC	Elektrische Lokomotiven
+LOC_DIE	Diesellokomotiven
+LOC_STM	Dampflokomotiven
+RCA	Triebwagen
+RCA_ELC	Elektrische Triebwagen
+RCA_DIE	Dieseltriebwagen
+RCA_TRL	Beiwagen
+RL_PAS	Personenwagen
+COA_RCA_TRL	Reisezugwagen und Beiwagen
+RCA_PAS	Personentriebwagen
+COU	Liegewagen oder Schlafwagen
+DIN	Speisewagen
+COA	Reisezugwagen
+VAN	Gepäckwagen
+WAG	Güterwagen
+WAG_GD	Güterwagen - insgesamt
+WAG_GD_LD	Güterwagen - beladen
+WAG_GD_EMP	Güterwagen - leer
+WAG_COV	Gedeckte Güterwagen
+WAG_HIS	Offene hochbordige Güterwagen
+WAG_FLT	Flachwagen
+WAG_IMOD	Güterwagen für den intermodalen Verkehr
+WAG_OTH	Sonstige Güterwagen
+RDVEH	Straßenfahrzeuge
+RDVEH_PAS	Straßenpersonenfahrzeuge
+RDVEH_GD	Straßengüterfahrzeuge
+UTL	Nutzfahrzeuge insgesamt
+LOR_RTRN	Lastkraftwagen und Lastzüge
+LOR_RTRN_DIE	Lastkraftwagen und Lastzüge - Diesel
+LOR_RTRN_OTH	Lastkraftwagen und Lastzüge - andere Kraftstoffe
+LOR_TRL	Lastkraftwagen und Anhänger
+LOR_TRL21	Lastkraftwagen und Anhänger - 2+1 Achsen
+LOR_TRL22	Lastkraftwagen und Anhänger - 2+2 Achsen
+LOR_TRL23	Lastkraftwagen und Anhänger - 2+3 Achsen
+LOR_TRL32	Lastkraftwagen und Anhänger - 3+2 Achsen
+LOR_TRL33	Lastkraftwagen und Anhänger - 3+3 Achsen
+LOR_TRL_OTH	Lastkraftwagen und Anhänger - sonstige
+LOR_LGV_TRC	Lastkraftwagen (einschließlich leichte Straßengüterfahrzeuge) und Strassenzugmaschinen
+LOR	Lastkraftwagen
+LOR2	Lastkraftwagen - 2 Achsen
+LOR3	Lastkraftwagen - 3 Achsen
+LOR4	Lastkraftwagen - 4 Achsen
+LOR_LE3P5	Lastkraftwagen <= 3.5 Tonnen
+LOR_LE3P5_PET	Lastkraftwagen <= 3.5 Tonnen - Benzin
+LOR_LE3P5_DIE	Lastkraftwagen <= 3.5 Tonnen - Diesel
+LOR_LE3P5_OTH	Lastkraftwagen <= 3.5 Tonnen - andere Kraftstoffe
+LOR_GT3P5-6	Lastkraftwagen > 3.5 Tonnen bis <= 6 Tonnen
+LOR_GT3P5-6_DIE	Lastkraftwagen > 3.5 Tonnen bis <= 6 Tonnen - Diesel
+LOR_GT3P5-6_OTH	Lastkraftwagen > 3.5 Tonnen bis <= 6 Tonnen - andere Kraftstoffe
+LOR_GT6	Lastkraftwagen > 6 Tonnen
+LOR_GT6_DIE	Lastkraftwagen > 6 Tonnen - Diesel
+LOR_GT6_OTH	Lastkraftwagen > 6 Tonnen - andere Kraftstoffe
+LOR_LE3P5_CNG	Lastkraftwagen <= 3.5 Tonnen - Bi-fuel: Benzin oder CNG
+LOR_LE3P5_LPG	Lastkraftwagen <= 3.5 Tonnen - Bi-fuel: Benzin oder LPG
+LOR_OTH	Lastkraftwagen - sonstige
+TRC	Strassenzugmaschinen
+TRC_AGR	Ackerschlepper
+TRC_AV	Strassenzugmaschinen und Gelenkfahrzeuge
+TRC_AV_DIE	Strassenzugmaschinen und Gelenkfahrzeuge - Diesel
+TRC_AV_OTH	Strassenzugmaschinen und Gelenkfahrzeuge - andere Kraftstoffe
+TRC_STRL	Strassenzugmaschinen und Sattelanhänger
+TRC_STRL21	Strassenzugmaschinen und Sattelanhänger - 2+1 Achsen
+TRC_STRL22	Strassenzugmaschinen und Sattelanhänger - 2+2 Achsen
+TRC_STRL23	Strassenzugmaschinen und Sattelanhänger - 2+3 Achsen
+TRC_STRL32	Strassenzugmaschinen und Sattelanhänger - 3+2 Achsen
+TRC_STRL33	Strassenzugmaschinen und Sattelanhänger - 3+3 Achsen
+TRC_STRL_OTH	Strassenzugmaschinen und Sattelanhänger - sonstige
+TRL_STRL	Anhänger und Sattelanhänger
+TRL	Anhänger
+STRL	Sattelanhänger
+VEH_GD	Straßengüterfahrzeuge
+VG_LE3P5	Straßengüterfahrzeuge <= 3.5 Tonnen
+VG_LE3P5_PET	Straßengüterfahrzeuge <= 3.5 Tonnen - Benzin
+VG_LE3P5_DIE	Straßengüterfahrzeuge <= 3.5 Tonnen - Diesel
+VG_LE3P5_LPG	Straßengüterfahrzeuge <= 3.5 Tonnen - LPG
+VG_LE3P5_CNG	Straßengüterfahrzeuge <= 3.5 Tonnen - LNG oder CNG
+VG_LE3P5_OTH	Straßengüterfahrzeuge <= 3.5 Tonnen - andere Kraftstoffe
+VG_GT3P5	Straßengüterfahrzeuge > 3.5 Tonnen
+VG_GT3P5_PET	Straßengüterfahrzeuge > 3.5 Tonnen - Benzin
+VG_GT3P5_DIE	Straßengüterfahrzeuge > 3.5 Tonnen - Diesel
+VG_GT3P5_OTH	Straßengüterfahrzeuge > 3.5 Tonnen - andere Kraftstoffe
+VG_3P5-15	Straßengüterfahrzeuge > 3.5 und <= 15 Tonnen
+VG_GT3P5-6	Straßengüterfahrzeuge > 3.5 bis <= 6 Tonnen
+VG_GT3P5-6_PET	Straßengüterfahrzeuge > 3.5 bis <= 6 Tonnen - Benzin
+VG_GT3P5-6_DIE	Straßengüterfahrzeuge > 3.5 bis <= 6 Tonnen - Diesel
+VG_GT3P5-6_OTH	Straßengüterfahrzeuge > 3.5 bis <= 6 Tonnen - andere Kraftstoffe
+VG_GT3P5-15	Straßengüterfahrzeuge > 3.5 bis <= 15 Tonnen
+VG_LE6	Straßengüterfahrzeuge <= 6 Tonnen
+VG_GT6	Straßengüterfahrzeuge > 6 Tonnen
+VG_GT6_DIE	Straßengüterfahrzeuge > 6 Tonnen - Diesel
+VG_GT6_OTH	Straßengüterfahrzeuge > 6 Tonnen - andere Kraftstoffe
+VG_GT6-12	Straßengüterfahrzeuge > 6 bis <= 12 Tonnen
+VG_GT12	Straßengüterfahrzeuge > 12 Tonnen
+VG_GT15	Straßengüterfahrzeuge > 15 Tonnen
+MOTO_MOP	Krafträder und Kleinkrafträder
+MOP	Kleinkrafträder
+MOTO	Krafträder
+MOTO_GT50	Krafträder > 50cm3
+MOTO_LE125	Krafträder <= 125 cm3
+MOTO_GT125	Krafträder > 125 cm3
+MOTO_NSP	Krafträder nicht näher angegeben
+MOTO_2WH	Zweirädrige motorisierte Straßenfahrzeuge (Krafträder)
+QUA_LE50	Quads <= 50 cm3
+QUA_GT50	Quads > 50 cm3
+CAR	Personenkraftwagen
+CAR_PET	Personenkraftwagen - Benzin
+CAR_PET_HYB	Personenkraftwagen - Benzin-Hybrid (Plug-in oder konventionell)
+CAR_DIE	Personenkraftwagen - Diesel
+CAR_DIE_HYB	Personenkraftwagen - Diesel-Hybrid (Plug-in oder konventionell)
+CAR_ELC	Personenkraftwagen - elektrisch
+CAR_HG	Personenkraftwagen - Wasserstoff
+CAR_LPG	Personenkraftwagen - LPG
+CAR_MULTI	Personenkraftwagen - Multi-Kraftstoffe und sonstige Kraftstoffe (ausgenommen Kraftstoffe mit ausgewiesener Kodierung)
+CAR_CNG	Personenkraftwagen - CNG
+CAR_PET_FLX	Personenkraftwagen - Flex-fuel: Benzin/Ethanol (E85)
+CAR_DIE_FLX	Personenkraftwagen - Flex-fuel: Diesel/Biodiesel
+CAR_PET_HYD	Personenkraftwagen - Bi-fuel: Benzin oder Wasserstoff
+CAR_PET_LPG	Personenkraftwagen - Bi-fuel: Benzin oder LPG
+CAR_PET_CNG	Personenkraftwagen - Bi-fuel: Benzin oder CNG
+CAR_OTH	Personenkraftwagen - andere Kraftstoffe
+BUS_TOT	Busse, Reisebusse und Oberleitungsbusse
+BUS_MCO	Busse und Reisebusse
+BUS_MCO_DIE	Busse und Reisebusse - Diesel
+BUS_MCO_PET	Andere Busse und Reisebusse - Benzin
+BUS_MCO_LPG	Andere Busse und Reisebusse - LPG
+BUS_MCO_CNG	Andere Busse und Reisebusse - LNG oder CNG
+BUS_MCO_MIN	Kleinbusse
+BUS_MIN	Kleinbusse
+BUS_MCO_OTH	Andere Busse und Reisebusse
+BUS	Busse
+BUS_DIE	Busse - Diesel
+BUS_DIE_HYB	Busse - Diesel-Hybrid
+BUS_ELC	Busse - elektrisch
+BUS_LPG	Busse - LPG
+BUS_CNG	Busse - CNG
+BUS_OTH	Busse - andere Kraftstoffe
+BUS_TRO	Oberleitungsbusse
+TRM_LR	Straßen-, Stadt- und S-Bahnen
+MCO	Reisebusse
+MCO_DIE	Reisebusse - Diesel
+MCO_OTH	Reisebusse - andere Kraftstoffe
+BIKE	Fahrräder
+SPE	Sonderfahrzeuge
+MTZ_OTH	Sonstige motorisierte Fahrzeuge
+MTZ_OTH_PET	Sonstige motorisierte Fahrzeuge - Benzin
+MTZ_OTH_DIE	Sonstige motorisierte Fahrzeuge - Diesel
+MTZ_OTH_LPG	Sonstige motorisierte Fahrzeuge - LPG
+MTZ_OTH_CNG	Sonstige motorisierte Fahrzeuge - CNG
+MTZ_OTH_OTH	Sonstige motorisierte Fahrzeuge - andere Kraftstoffe
+NMTZ_OTH	Sonstige, nicht-motorisierte Fahrzeuge
+ANI_RD	Reittiere
+OTH	Sonstige
+UNK	Unbekannt

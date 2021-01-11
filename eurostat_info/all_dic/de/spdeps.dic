@@ -1,0 +1,17 @@
+TOTALNOREROUTE	Ausgaben insgesamt
+SPBENEFNOREROUTE	Sozialschutzleistungen
+SNONTARGETNOREROUTE	Sozialleistungen ohne Bedürftigkeitsprüfung
+STARGETNOREROUTE	Sozialleistungen mit Bedürftigkeitsprüfung
+ADMIN	Verwaltungskosten
+OTHER	Sonstige Ausgaben
+SICK	Krankheit/Gesundheitsversorgung
+DISA	Invalidität/Gebrechen
+OLD	Alter
+SURVIV	Hinterbliebene
+FAM	Familie/Kinder
+UNEMPLOY	Arbeitslosigkeit
+HOUSE	Wohnung
+EXCLU	Soziale Ausgrenzung n.a.z.
+SICKDISA	Krankheit / Gesundheitsversorgung und Invalidität / Gebrechen
+OLDSURVIV	Alter und Hinterbliebene
+HOUSEEXCLU	Wohnen und Soziale Ausgrenzung n.a.z.

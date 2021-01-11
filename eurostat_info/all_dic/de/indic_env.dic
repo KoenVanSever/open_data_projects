@@ -1,0 +1,66 @@
+DE	Inländische Entnahme
+IMP	Importe
+IMP_EU	Einfuhren aus EU-Staaten
+IMP_RME	Importe in Rohstoffäquivalenten
+IMP_RCV_R	Importe von Abfällen zur Verwertung - Recycling
+IMP_X_RCV_R	Importe ausschließlich Importe von Abfällen zur Verwertung - Recycling
+EXP	Exporte
+EXP_EU	Ausfuhren nach EU-Staaten
+EXP_RME	Exporte in Rohstoffäquivalenten
+EXP_RCV_R	Exporte von Abfällen zur Verwertung - Recycling
+EXP_X_RCV_R	Exporte  ausschließlich Exporte von Abfällen zur Verwertung - Recycling
+DMC	Inländischer Materialverbrauch 
+DMI_RCV_R_B	Verarbeitetes Material - direkter Materialeinsatz und Verwertung - Recycling und Verfüllung
+DMI	Direkter Materialeinsatz 
+DPO	Inländisch produzierte Abgabe an die Natur
+NAS	Nettobestandszunahme
+PTB	Physische Handelsbilanz
+BI	Abstimmungssalden (inputseitig - outputseitig)
+PH_GLB	Globaler pH Wert
+TD_GLB	Globale Temperaturabweichung
+TD_GLB_A	Jährliche globale Temperaturabweichung
+TD_GLB_DEC	Dekadische globale Temperaturabweichung
+TD_EUR	Europäische Temperaturabweichung
+TD_EUR_A	Jährliche Europäische Temperaturabweichung
+TD_EUR_DEC	Dekadische Europäische Temperaturabweichung
+RMC	Rohstoffverbrauch
+RMC_P3	Rohstoffverbrauch als Folge der Konsumausgaben
+RMC_P3_S13	Rohstoffverbrauch als Folge der Konsumausgaben des Staates
+RMC_P3_S14	Rohstoffverbrauch als Folge der Konsumausgaben der privaten Haushalte
+RMC_P3_S15	Rohstoffverbrauch als Folge der Konsumausgaben der private Organisationen ohne Erwerbszweck
+RMC_P5	Rohstoffverbrauch als Folge der Bruttoinvestitionen
+RMC_P51G	Rohstoffverbrauch als Folge der Bruttoanlageinvestitionen
+RMC_P52_53	Rohstoffverbrauch als Folge der Vorratsveränderungen und Nettozugang an Wertsachen
+RMI	Rohstoffeinsatz
+MAT_ACCUM	Materialanhäufung
+CAP	Kapazität - Tonnen pro Jahr
+CAP_RST	Restkapazität - Kubikmeter
+FAC	Anlagen - Zahl
+FAC_CL	Geschlossene Anlagen - Zahl
+PRD	Produktion von Chemikalien
+CONS	Konsum von Chemikalien
+EMIS	Emissionen
+EMIS_X_WST_INC	Emissionen ausschließlich Emissionen aus der Abfallverbrennung
+EMIS_AIR_NBI	Luftemissionen - Netto-Abstimmungssalden
+EMIS_WTR	Wasseremissionen
+GHG_I90	Treibhausgasemissionen (CO2 Äquivalente), Basisjahr 1990
+GHG_I_KBY	Treibhausgasemissionen ausgenommen internationaler Luftverkehr (CO2 Äquivalente), Kyoto Basisjahr
+GHG_T_HAB	Treibhausgasemissionen - Tonnen pro Kopf
+ORG_EMAS	EMAS-registrierte Organisationen
+SITE_EMAS	EMAS-registrierte Standorte
+FSTK_ASS_NR	Ausgewertete Fischbestände - Anzahl
+FSTK_OVF_NR	Überfischte Fischbestände - Anzahl
+FSTK_OVF_PC	Überfischte Fischbestände - %
+FSTK_BMA_I03	Biomasse von Fischbeständen - Index 2003 = 100
+FSTK_MBMED	Fischbestände - modellbasierter Medianwert
+FSTK_AMV_ASS	Arithmetisches Mittel aller Auswertungen
+PER_NGUA_PC	Personen in städtischen Gebieten ohne grüne städtische Gebiete in ihrer Nachbarschaft - %
+MGCI	Index zum Bewuchs von Gebirgen
+CO2_UVA_KG_EUR	CO2-Emissionen pro Wertschöpfungseinheit - Kilogramm pro Euro
+WEI	Wasserausbeutungsindex
+WSL	Wasserstresslevel
+TPW	Abfallvolumen
+DFLOW	Dissipative Ströme
+DEM_DCR	Abbruch und Eliminierung
+MAT_USE	Materialverwendung
+NRS	Nettobestandsabnahme

@@ -1,0 +1,15 @@
+AREA_X_WT	Superficie sans eaux intérieures
+FOWL	Forêts et autres terres boisées
+FOR	Forêt
+FAWS	Superficie exploitable
+FNAWS	Superficie non exploitable
+OWL	Autres terres boisées
+OWL_AWS	Autres terres boisées exploitables
+OLWTC_AWS	Autre couvert arboré exploitable
+GS_FOWL	Volume vivant sur pied en forêt et sur d'autres terres boisées
+GS_FOR	Volume vivant sur pied en forêt
+GS_OWL	Volume vivant sur pied des autres terres boisées
+GS_FAWS	Volume vivant sur pied en forêt exploitable
+NAI_FAWS	Accroissement annuel net en forêt exploitable
+FEL_FAWS	Coupe en forêt exploitable
+FEL_NAI	Part de la coupe dans à  l'accroissement annuel net

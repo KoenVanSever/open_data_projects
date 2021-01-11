@@ -1,0 +1,9 @@
+TOTAL	Total
+NINFO	Pas d'information
+WPR1	Production, transformation, traitement, stockage
+WPR2	Terrassement, construction, réparation, démolition
+WPR3	Tâches de type agricole, forestier, horticole, piscicole, avec des animaux vivants
+WPR4	Service à l'entreprise et/ou au public; travail intellectuel
+WPR5	Autre type de travail relatif à: production, transformation, traitement, stockage (WPR1); terrassement, construction, réparation, démolition (WPR2); tâche de type agricole, forestier, horticole, piscicole, avec des animaux vivants (WPR3); services à l'entreprise et/ou au public, travail intellectuel (WPR4)
+WPR6	Mouvement, sport, artistique
+OTH	Autre

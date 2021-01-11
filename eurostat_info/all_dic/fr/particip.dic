@@ -1,0 +1,14 @@
+TOTAL	Total
+PC_LT10	Moins de 10 pour cent de l'ensemble des personnes occupées
+PC10-49	De 10 pour cent à 49 pour cent de l'ensemble des personnes occupées
+PC_GE50	50 pour cent ou plus de l'ensemble des personnes occupées
+PT_W	Personnes ayant participé mais qui souhaitaient participer davantage
+PT_NW	Personnes ayant participé et qui ne souhaitaient pas participer davantage
+NPT_W	Personnes n'ayant pas participé mais qui souhaitaient participer
+NPT_NW	Personnes n'ayant pas participé et qui ne souhaitaient pas participer
+NRP	Sans réponse
+0	Pourcentage d'entreprises dans lesquelles les personnes occupées n'ont pas participé à des cours FPC
+1_10	Pourcentage d'entreprises dans lesquelles de 1 à 10% des personnes occupées ont effectivement participé à des cours FPC
+11_20	Pourcentage d'entreprises dans lesquelles de 11 à 20% des personnes occupées ont effectivement participé à des cours FPC
+21_40	Pourcentage d'entreprises dans lesquelles de 21 à 40% des personnes occupées ont effectivement participé à des cours FPC
+GT_40	Pourcentage d'entreprises dans lesquelles plus de 40% des personnes occupées ont effectivement participé à des cours FPC

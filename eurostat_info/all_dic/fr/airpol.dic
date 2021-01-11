@@ -1,0 +1,47 @@
+GHG	Gaz à effet de serre  (CO2, N2O en équivalent CO2, CH4 en équivalent CO2, HFC en équivalent CO2, PFC en équivalent CO2, SF6 en équivalent CO2, NF3 en équivalent CO2)
+CO2_N2O_CH4_CO2E	Gaz à effet de serre (CO2, N2O en équivalent CO2, CH4 en équivalent CO2)
+CO2	Dioxyde de carbone
+CH4	Méthane
+CH4_CO2E	Méthane (équivalent CO2)
+N2O	Oxyde nitreux
+N2O_CO2E	Oxyde nitreux (équivalent CO2)
+HFC_CO2E	Hydrofluorocarbures (équivalent CO2)
+PFC_CO2E	Perfluorocarbures (équivalent CO2)
+HFC_PFC_NSP_CO2E	Hydrofluorocarbures et perfluorocarbures - mélange non spécifié (équivalent CO2)
+SF6_CO2E	Hexafluorures de soufre (équivalent CO2)
+NF3_CO2E	Trifluorure d'azote (équivalent CO2)
+NF3_SF6	Trifluorure d'azote et hexafluorures de soufre
+NF3_SF6_CO2E	Trifluorure d'azote et hexafluorures de soufre (équivalent CO2)
+CO2_BIO	Dioxyde de carbone à partir de biomasse utilisé comme combustible
+ACG	Gaz acidifiants (SOX en équivalent SO2, NOX en équivalent SO2, NH3 en équivalent SO2)
+SOX_SO2E	Oxydes de soufre (équivalent SO2)
+NOX_NO2E	Oxydes d'azote (équivalent NO2)
+NOX_SO2E	Oxydes d'azote (équivalent SO2)
+NH3_SO2E	Ammoniac (équivalent SO2)
+O3PR	Précurseurs de l'ozone (NMVOC, NOX en équivalent NMVOC, CO en équivalent NMVOC, CH4 en équivalent NMVOC)
+NOX_NMVOCE	Oxydes d'azote (équivalent NMVOC)
+CO	Monoxyde de carbone
+CO_NMVOCE	Monoxyde de carbone (équivalent NMVOC)
+CH4_NMVOCE	Méthane (équivalent NMVOC)
+PM	Particules
+O3	Ozone
+PB	Plomb (Pb)
+SO2	Dioxyde de soufre
+NOX	Oxydes d'azote
+SOX	Oxydes de soufre
+NH3	Ammoniac
+PM2_5	Particules < 2.5µm
+PM10	Particules < 10µm
+NMVOC	Composés organiques volatils autres que le méthane
+AS	Arsenic (As)
+CD	Cadmium (Cd)
+HG	Mercure (Hg)
+CR	Chrome (Cr)
+CU	Cuivre (Cu)
+NI	Nickel (Ni)
+SE	Sélénium (Se)
+ZN	Zinc (Zn)
+VOC	Composés organiques volatils
+HFC	Hydrofluorocarbones
+PFC	Perfluorocarbones
+SF6	Hexafluorure de soufre

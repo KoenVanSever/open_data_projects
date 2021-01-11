@@ -1,0 +1,31 @@
+TOTAL	Insgesamt
+0	Keine Beschäftigte
+0_1	0 bis 1 Beschäftigter
+0-9	0 bis 9 Beschäftigte
+0-49	0 bis 49 Beschäftigte
+1	1 Beschäftigter
+1-4	1 bis 4 Beschäftigte
+1-9	1 bis 9 Beschäftigte
+1-19	1 bis 19 Beschäftigte
+1-49	1 bis 49 Beschäftigte
+1-249	1 bis 249 Beschäftigte
+2-4	2 bis 4 Beschäftigte
+2-9	2 bis 9 Beschäftigte
+5-9	5 bis 9 Beschäftigte
+GE5	5 Beschäftigte und mehr
+LT10	Weniger als 10 Beschäftigte
+10-19	10 bis 19 Beschäftigte
+10-49	10 bis 49 Beschäftigte
+GE10	10 Beschäftigte und mehr
+20-49	20 bis 49 Beschäftigte
+GE20	20 Beschäftigte und mehr
+LT49	Weniger als 49 Beschäftigte
+50-99	50 bis 99 Beschäftigte
+50-249	50 bis 249 Beschäftigte
+GE50	50 Beschäftigte und mehr
+100-249	100 bis 249 Beschäftigte
+250-499	250 bis 499 Beschäftigte
+GE250	250 Beschäftigte und mehr
+500-999	500 bis 999 Beschäftigte
+GE500	500 Beschäftigte und mehr
+GE1000	1 000 Beschäftigte und mehr

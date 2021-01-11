@@ -1,0 +1,51 @@
+CAP_HEAT	Installierte Wärmekapazität
+CAP_HEAT_ABVTH	Installierte Wärmekapazität über dem Mindestschwellenwert für den saisonalen Leistungsfaktor
+SPERF_FACT	Saisonaler Leistungsfaktor
+TIME_USE	Nutzungsdauer
+CAP_NET_ELC	Maximale elektrische Nettokapazität
+SOL_COL_SURF	Solarkollektorenfläche
+CAP_PRD	Produktionskapazität
+CAP_GST	Gasspeicherkapazität
+PO_GST	Gasspeicher - Spitzenleistung
+PL	Spitzenbelastung
+PCAP	Spitzenkapazität
+LNGIT_RG	LNG-Importterminals - Wiederverdampfungskapazität
+LNGIT_VP	LNG-Importterminals - Verdampfer
+LNGIT_TRN	LNG-Importterminals - Bahn
+LNGIT_ST	LNG-Importterminals - Speicherkapazität
+LNGIT_TNK	LNG-Importterminals - Tanks
+LNGIT_PO	LNG-Importterminals - Spitzenleistung
+LNGET_LIQ	LNG-Exportterminals - Verflüssigungskapazität
+LNGET_TRN	LNG-Exportterminals - Bahn
+LNGET_ST	LNG-Exportterminals - Speicherkapazität
+LNGET_TNK	LNG-Exportterminals - Tanks
+LNGET_PO	LNG-Exportterminals - Spitzenleistung
+CAP_GNW	Gasnetz - maximale Kapazität
+CAP_GNW_R	Gasnetz - maximale Kapazität des Rückflusses
+RCAP_AD	Raffineriekapazität - atmosphärische Destillation
+RCAP_AD_NOP_NAR	Raffineriekapazität - atmosphärische Destillation - nicht in Betrieb und nicht in aktiver Reparatur
+RCAP_VD	Raffineriekapazität - Vakuumdestillation
+RCAP_TC	Raffineriekapazität - thermisches Cracken
+RCAP_TC_VB	Raffineriekapazität - thermisches Cracken - Visbreaking
+RCAP_TC_CO	Raffineriekapazität - thermisches Cracken - Verkokung
+RCAP_CC	Raffineriekapazität - katalytische Cracken
+RCAP_CC_FCC	Raffineriekapazität - katalytische Cracken - fluid catalytic cracking
+RCAP_CC_HC	Raffineriekapazität - katalytische Cracken - Hydrocracken
+RCAP_DS	Raffineriekapazität - Entschwefelung
+RCAP_DS_NG_LD	Raffineriekapazität - Entschwefelung - Naphtha, Benzin und andere leichte Destillate
+RCAP_DS_MIDD	Raffineriekapazität - Entschwefelung - Mitteldestillate
+RCAP_DS_HD	Raffineriekapazität - Entschwefelung - Schwere Destillate
+RCAP_RFOR	Raffineriekapazität - Reforming
+RCAP_API	Raffineriekapazität - Alkylierung, Polymerisation, Isomerisierung
+RCAP_ETH	Raffineriekapazität - Veretherung
+RCAP_UPU_OTH	Raffineriekapazität - andere Einheiten zur Güteverbesserung
+RCAP_H	Raffineriekapazität - Wasserstoff
+CAP_EN	Anreicherungskapazität (tSWU)
+PRDCAP_FF	Produktionskapazität von frischen Brennelementen (tHM)
+PRDCAP_MOXF	Produktionskapazität von MOX-Brennstofffabrikationsanlagen (tHM)
+PRD_FF	Produktion von frischen Brennelementen (tHM)
+PRD_MOXF	Produktion von MOX-Brennelementen (tHM)
+PRD_NUCH	Produktion von nuklearer Wärme (ktoe)
+BAA_IRRADF	Jahresdurchschnittsabbrand von endgültig entladenen bestrahlten Brennelementen (GWd / tHM)
+PRD_UP	Produktion von Uran und Plutonium in Wiederaufbereitungsanlagen (tHM)
+CAP_UP	Kapazität (Uran und Plutonium) von Wiederaufbereitungsanlagen (tHM)

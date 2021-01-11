@@ -1,0 +1,14 @@
+TOTAL	Insgesamt
+PC_LT10	Weniger als 10 Prozent aller Beschäftigten
+PC10-49	10 Prozent bis 49 Prozent aller Beschäftigten
+PC_GE50	50 Prozent oder mehr aller Beschäftigten
+PT_W	Personen, die teilgenommen haben aber mehr teilnehmen wollten
+PT_NW	Personen, die teilgenommen haben und nicht mehr teilnehmen wollten
+NPT_W	Personen, die nicht teilgenommen haben aber teilnehmen wollten
+NPT_NW	Personen, die nicht teilgenommen haben und nicht teilnehmen wollten
+NRP	Keine Antwort
+0	Prozentualer Anteil der Unternehmen, in denen die Beschäftigten nicht an BWB-Kursen teilgenommen haben
+1_10	Prozentualer Anteil der Unternehmen, in denen 1-10% der Beschäftigten an BWB-Kursen teilgenommen haben
+11_20	Prozentualer Anteil der Unternehmen, in denen 11-20% der Beschäftigten an BWB-Kursen teilgenommen haben
+21_40	Prozentualer Anteil der Unternehmen, in denen 21-40% der Beschäftigten an BWB-Kursen teilgenommen haben
+GT_40	Prozentualer Anteil der Unternehmen, in denen mehr als 40% der Beschäftigten an BWB-Kursen teilgenommen haben

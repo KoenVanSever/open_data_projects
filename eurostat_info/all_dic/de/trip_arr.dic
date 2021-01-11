@@ -1,0 +1,9 @@
+TOTAL	Insgesamt
+PACK	Pauschalreisen 
+NPACK	Nicht-Pauschalreisen
+TRA_TO_TA	Buchung des Hauptbeförderungsmittels über Reiseveranstalter oder Reisebüro
+ACC_TO_TA	Buchung der Hauptunterkunft über Reiseveranstalter oder Reisebüro
+TRA_WEB	Internetbuchung des Hauptbeförderungsmittels
+ACC_WEB	Internetbuchung der Hauptunterkunft
+DIRECT	Selbständige Reisebuchung: Dienstleistungen wurden direkt beim Anbieter gebucht
+NBOOK	Selbständige Reisebuchung: Buchung war nicht erforderlich

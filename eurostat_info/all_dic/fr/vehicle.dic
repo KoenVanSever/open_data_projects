@@ -1,0 +1,166 @@
+TOTAL	Total
+TOT_X_TM	Tous véhicules (sauf remorques et motocyclettes)
+PUB	Véhicules de transport public
+TRN_BUS_TOT_AVD	Trains, autocars, autobus et trolley bus - somme des données disponibles
+TRN	Trains
+TRN_HSPD	Trains à grande vitesse
+TRN_THSPD	Trains pendulaire à grande vitesse
+TRN_CV	Trains classiques
+TST	Rames indéformables
+TST_HSPD	Rames indéformables à grande vitesse
+TST_THSPD	Rames indéformables pendulaires à grande vitesse
+TST_CV	Rames indéformables classiques
+LOC	Locomotives
+LOC_ELC	Locomotives électriques
+LOC_DIE	Locomotives diesel
+LOC_STM	Locomotives à vapeur
+RCA	Automotrices
+RCA_ELC	Automotrices électriques
+RCA_DIE	Automotrices diesel
+RCA_TRL	Remorques d'automotrices
+RL_PAS	Véhicules de transport de voyageurs
+COA_RCA_TRL	Voitures ferrovières et remorques d'automotrices
+RCA_PAS	Automotrices de passagers
+COU	Voitures-couchettes, voitures-lits
+DIN	Voitures-restaurants
+COA	Voitures ferrovières
+VAN	Fourgons
+WAG	Wagons
+WAG_GD	Wagons de marchandises - total
+WAG_GD_LD	Wagons de marchandises - chargés
+WAG_GD_EMP	Wagons de marchandises - à vide
+WAG_COV	Wagons couverts
+WAG_HIS	Wagons tombereaux
+WAG_FLT	Wagons plats
+WAG_IMOD	Wagons pour le transport intermodal
+WAG_OTH	Autres wagons
+RDVEH	Véhicules routiers
+RDVEH_PAS	Véhicules routiers de transport de passagers
+RDVEH_GD	Véhicules routiers pour le transport de marchandises
+UTL	Total véhicules utilitaires
+LOR_RTRN	Camions et trains routiers
+LOR_RTRN_DIE	Camions et trains routiers - gazole
+LOR_RTRN_OTH	Camions et trains routiers - autres carburants
+LOR_TRL	Camions et remorques
+LOR_TRL21	Camions et remorques - 2+1 essieux
+LOR_TRL22	Camions et remorques - 2+2 essieux
+LOR_TRL23	Camions et remorques - 2+3 essieux
+LOR_TRL32	Camions et remorques - 3+2 essieux
+LOR_TRL33	Camions et remorques - 3+3 essieux
+LOR_TRL_OTH	Camions et remorques - autres
+LOR_LGV_TRC	Camions (y compris les véhicules utilitaires légers) et tracteurs routiers
+LOR	Camions
+LOR2	Camions - 2 essieux
+LOR3	Camions - 3 essieux
+LOR4	Camions - 4 essieux
+LOR_LE3P5	Camions <= 3.5 tonnes
+LOR_LE3P5_PET	Camions <= 3.5 tonnes - essence
+LOR_LE3P5_DIE	Camions <= 3.5 tonnes - gazole
+LOR_LE3P5_OTH	Camions <= 3.5 tonnes - autres carburants
+LOR_GT3P5-6	Camions > 3.5 tonnes à <= 6 tonnes
+LOR_GT3P5-6_DIE	Camions > 3.5 tonnes à <= 6 tonnes - gazole
+LOR_GT3P5-6_OTH	Camions > 3.5 tonnes à <= 6 tonnes- autres carburants
+LOR_GT6	Camions > 6 tonnes
+LOR_GT6_DIE	Camions > 6 tonnes - gazole
+LOR_GT6_OTH	Camions > 6 tonnes - autres carburants
+LOR_LE3P5_CNG	Camions <= 3.5 tonnes - bi-carburant: essence ou GNV
+LOR_LE3P5_LPG	Camions <= 3.5 tonnes - bi-carburant: essence ou GPL
+LOR_OTH	Camions - autres
+TRC	Tracteurs routiers
+TRC_AGR	Tracteurs agricoles
+TRC_AV	Tracteurs routiers et véhicules articulés
+TRC_AV_DIE	Tracteurs routiers et véhicules articulés - gazole
+TRC_AV_OTH	Tracteurs routiers et véhicules articulés - autres carburants
+TRC_STRL	Tracteur routiers et semi-remorques
+TRC_STRL21	Tracteur routiers et semi-remorques - 2+1 essieux
+TRC_STRL22	Tracteur routiers et semi-remorques - 2+2 essieux
+TRC_STRL23	Tracteur routiers et semi-remorques - 2+3 essieux
+TRC_STRL32	Tracteur routiers et semi-remorques - 3+2 essieux
+TRC_STRL33	Tracteur routiers et semi-remorques - 3+3 essieux
+TRC_STRL_OTH	Tracteur routiers et semi-remorques - autres
+TRL_STRL	Remorques et semi-remorques
+TRL	Remorques
+STRL	Semi-remorques
+VEH_GD	Véhicules routiers pour le transport de marchandises
+VG_LE3P5	Véhicules de marchandises <= 3.5 tonnes
+VG_LE3P5_PET	Véhicules de marchandises <= 3.5 tonnes - essence
+VG_LE3P5_DIE	Véhicules de marchandises <= 3.5 tonnes - gazole
+VG_LE3P5_LPG	Véhicules de marchandises <= 3.5 tonnes - GPL
+VG_LE3P5_CNG	Véhicules de marchandises <= 3.5 tonnes - GNV
+VG_LE3P5_OTH	Véhicules de marchandises <= 3.5 tonnes - autres carburants
+VG_GT3P5	Véhicules de marchandises > 3.5 tonnes
+VG_GT3P5_PET	Véhicules de marchandises > 3.5 tonnes - essence
+VG_GT3P5_DIE	Véhicules de marchandises > 3.5 tonnes - gazole
+VG_GT3P5_OTH	Véhicules de marchandises > 3.5 tonnes - autres carburants
+VG_3P5-15	Véhicules de marchandises > 3.5 et <= 15 tonnes
+VG_GT3P5-6	Véhicules de marchandises > 3.5 à <= 6 tonnes
+VG_GT3P5-6_PET	Véhicules de marchandises > 3.5 à <= 6 tonnes - essence
+VG_GT3P5-6_DIE	Véhicules de marchandises > 3.5 à <= 6 tonnes - gazole
+VG_GT3P5-6_OTH	Véhicules de marchandises > 3.5 à <= 6 tonnes - autres carburants
+VG_GT3P5-15	Véhicules de marchandises > 3.5 à <= 15 tonnes
+VG_LE6	Véhicules de marchandises <= 6 tonnes
+VG_GT6	Véhicules de marchandises > 6 tonnes
+VG_GT6_DIE	Véhicules de marchandises > 6 tonnes - gazole
+VG_GT6_OTH	Véhicules de marchandises > 6 tonnes - autres carburants
+VG_GT6-12	Véhicules de marchandises > 6 à <= 12 tonnes
+VG_GT12	Véhicules de marchandises > 12 tonnes
+VG_GT15	Véhicules de marchandises > 15 tonnes
+MOTO_MOP	Motocycles et cyclomoteurs
+MOP	Cyclomoteurs
+MOTO	Motocycles
+MOTO_GT50	Motocycles > 50cm3
+MOTO_LE125	Motocycles <= 125 cm3
+MOTO_GT125	Motocycles >125 cm3
+MOTO_NSP	Motocycles non spécifiés
+MOTO_2WH	Véhicules automobiles à deux roues (motocycles)
+QUA_LE50	Quads <= 50 cm3
+QUA_GT50	Quads  > 50 cm3
+CAR	Voitures particulières
+CAR_PET	Voitures particulières - essence
+CAR_PET_HYB	Voitures particulières - essence hybride (rechargeable ou conventionnel)
+CAR_DIE	Voitures particulières - gazole
+CAR_DIE_HYB	Voitures particulières - gazole hybride (rechargeable ou conventionnel)
+CAR_ELC	Voitures particulières - électrique
+CAR_HG	Voitures particulières - hydrogène
+CAR_LPG	Voitures particulières - GPL
+CAR_MULTI	Voitures particulières - multi-carburant et autre carburant (carburants avec code désignés exclus)
+CAR_CNG	Voitures particulières - GNV
+CAR_PET_FLX	Voitures particulières - carburants multiples: essence/éthanole (E85)
+CAR_DIE_FLX	Voitures particulières - carburants multiples: gazole/bio-gazole
+CAR_PET_HYD	Voitures particulières - bi-carburant: essence ou hydrogène
+CAR_PET_LPG	Voitures particulières - bi-carburant: essence ou GPL
+CAR_PET_CNG	Voitures particulières - bi-carburant: essence ou GNV
+CAR_OTH	Voitures particulières - autres carburants
+BUS_TOT	Autocars, autobus et trolley bus
+BUS_MCO	Autocars et autobus
+BUS_MCO_DIE	Autocars et autobus - gazole
+BUS_MCO_PET	Autres autocars et autobus - essence
+BUS_MCO_LPG	Autres autocars et autobus - GPL
+BUS_MCO_CNG	Autres autocars et autobus - GNV
+BUS_MCO_MIN	Minibus et autocars privatives
+BUS_MIN	Minibus
+BUS_MCO_OTH	Autres autocars et autobus
+BUS	Autobus
+BUS_DIE	Autobus - gazole
+BUS_DIE_HYB	Autobus - gazole-hybride
+BUS_ELC	Autobus - électrique
+BUS_LPG	Autobus - GPL
+BUS_CNG	Autobus - GNV
+BUS_OTH	Autobus - autres carburants
+BUS_TRO	Trolley bus
+TRM_LR	Trams et véhicules ferroviaires légers
+MCO	Autocars
+MCO_DIE	Autocars - gazole
+MCO_OTH	Autocars - autres carburants
+BIKE	Bicyclettes
+SPE	Vehicules spéciaux
+MTZ_OTH	Autres véhicules motorisés
+MTZ_OTH_PET	Autres véhicules motorisés - essence
+MTZ_OTH_DIE	Autres véhicules motorisés - gazole
+MTZ_OTH_LPG	Autres véhicules motorisés - GPL
+MTZ_OTH_CNG	Autres véhicules motorisés - GNV
+MTZ_OTH_OTH	Autres véhicules motorisés - autres carburants
+NMTZ_OTH	Autres véhicules non-motorisés
+ANI_RD	Animaux de selle
+OTH	Autre
+UNK	Inconnu

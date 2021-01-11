@@ -1,0 +1,146 @@
+D0000	Lait, fromage et oeufs
+D0100	Produits laitiers
+D0100AD	Produits laitiers fermiers livrés aux laiteries
+D0110	Produits frais
+D0120	Produits fabriqués
+D0200	Produits laitiers, autres que
+D0210D	Produits laitiers, autres que lait de consommation, crème, beurre et fromage, livrés aux laiteries
+D0220D	Produits laitiers, autres que lait et crème, livrés aux laiteries
+D0230D	Autres produits laitiers (autre que lait, crème, lait écrémé et babeurre) livrés aux laiteries
+D1000	Lait cru et crème
+D1100	Lait ou lait cru
+D1100A	Lait cru, total disponible dans les exploitations agricoles
+D1100DU	Lait cru, total disponible en laiterie (=total utilisé)
+D1100D	Lait cru livré aux laiteries
+D1100F	Lait cru pour l'alimentation animale
+D1100DLA	Lait cru, différences et pertes dans les exploitations agricoles
+D1100DLD	Lait cru, différences et pertes dans les laiteries
+D1100OUD	Lait cru, autres utilisations par les laiteries
+D1110	Lait cru de vache
+D1110D	Lait cru de vache livré aux laiteries
+D1110A	Lait de vache cru fermier
+D1111A	Lait de vaches cru fermier
+D1112A	Lait de vaches cru fermier, autres que de vaches laitières
+D1120	Lait de brebis
+D1120D	Lait de brebis livré aux laiteries
+D1120A	Lait de brebis fermier
+D1130	Lait de chèvre
+D1130D	Lait de chèvre livré aux laiteries
+D1130A	Lait de chèvre fermier
+D1140D	Lait de bufflonne livré aux laiteries
+D1140A	Lait de bufflonne fermier
+D1190	Lait cru d'autres espèces
+D1200A	Crème crue fermière
+D1200D	Crème crue fermière livrée aux laiteries
+D1200DME	Crème crue livrée aux laiteries (en équivalent lait)
+D2000	Lait et crème, non-concentrés ni additionnés de sucre ou d'autres édulcorants
+D2000X	Lait et crème en gros: Exportations
+D2000Y	Lait et crème en gros: Exportations intra-EU
+D2100	Lait de consommation
+D2110	Lait cru de consommation
+D2110V	Lait de consommation - Ventes directes
+D2110H	Lait de consommation - Autoconsommation
+D2120	Lait entier
+D2120I	Importation de lait entier (y compris de lait cru)
+D2120J	Importation (intra-UE) de lait entier (y compris de lait cru)
+D2121	Lait entier pasteurisé
+D2122	Lait entier stérilisé
+D2123	Lait entier upérisé
+D2130	Lait demi-écrémé
+D2131	Lait demi-écrémé pasteurisé
+D2132	Lait demi-écrémé stérilisé
+D2133	Lait demi-écrémé upérisé
+D2140_4200A	Lait écrémé et babeurre, total disponible dans les exploitations agricoles
+D2140_4200RD	Lait écrémé et babeurre rétrocédé par les laiteries
+D2140_4200BC	Lait écrémé et babeurre : Solde de la livraison de crème
+D2140_4200AB	Lait écrémé et babeurre provenant de la production de beurre et de crème
+D2140_4200D	Lait écrémé et babeurre livrés aux laiteries
+D2140	Lait écrémé
+D2140RA	Lait écrémé - rétrocédé à la ferme
+D2140I	Importation de lait écrémé
+D2140J	Importation (intra-UE) de lait ecrémé
+D2141	Lait écrémé pasteurisé
+D2142	Lait écrémé sterilisé
+D2143	Lait écrémé upérisé
+D2200_6110A	Beurre et crème fermiers
+D2200	Crème
+D2200V	Crème de consommation
+D2201	Crème d'une teneur en poids de matières grasses inférieure ou égale à 29 %
+D2202	Crème d'une teneur en poids de matières grasses supérieure à 29 %
+D2200IME	Importation de crème (en équivalent lait)
+D2200JME	Importation (intra-UE) de crème (en équivalent lait)
+D3000	Lait et crème, concentrés ou additionnés de sucre ou d'autres édulcorants
+D3100	Produits en poudre
+D3100_X_3113	Lait et crème en poudre, excepté lait écrémé en poudre
+D3110	Lait en poudre
+D3111	Lait entier en poudre
+D3112	Lait partiellement écrémé en poudre
+D3113	Lait écrémé en poudre
+D3120	Crème de lait en poudre
+D3130	Babeurre en poudre
+D3190	Autres produits en poudre
+D3200	Lait concentré
+D3210	Lait concentré non sucré
+D3220	Lait concentré sucré
+D4000	Babeurre, lait et crème caillés, yaourt, képhir et autres laits et crèmes fermentés ou acidifiés
+D4100	Laits acidifiés (yaourts et autres)
+D4110	Laits acidifiés avec additif
+D4120	Laits acidifiés sans additif
+D4200	Babeurre
+D5000	Lactoserum
+D5100	Lactoserum (liquide)
+D5200	Lactoserum (concentré)
+D5300	Lactoserum (en poudre ou en blocs)
+D5400	Lactose (sucre de lait)
+D5500	Lactalbumine
+D6000	Beurre, inclus beurre déshydraté et beurre clarifié, et autres matières grasses et huiles dérivées du lait; pâtes à tartiner
+D6100	Beurre
+D6100A	Beurre fermier
+D6100AD	Beurre fermier livré aux laiteries
+D6110	Beurre traditionnel
+D6120	Beurre recombiné
+D6130	Beurre de lactoserum
+D6200	Beurre fondu et huile de beurre
+D6900	Autres produits laitiers à matière grasse jaune
+D6910	Beurre allégé
+D6990	Autres produits laitiers à matière grasse jaune (sans beurre allégé)
+D7000	Fromage et lait caillé
+D7100	Fromage
+D7100A	Fromage fermier
+D7100AD	Fromage fermier livré aux laiteries
+D7110	Tout type de fromage
+D7111	Fromage à pâte molle
+D7112	Fromage à pâte demi molle
+D7113	Fromage à pâte demi dure
+D7114	Fromage à pâte dure
+D7115	Fromage à pâte extra dure
+D7116	Fromage frais
+D7120	Fromage d'origine animale
+D7121	Fromage de lait de vache (pur)
+D7122	Fromage de lait de brebis (pur)
+D7123	Fromage de lait de chèvre (pur)
+D7129	Autres (fromage de lait de bufflonne (pur) ou mélanges)
+D7200	Fromage fondu
+D8000	Oeufs
+D8000H	Oeufs de consommation
+D8100	Oeufs fertilisés d'espèces domestiques, pour incubation
+D8110	Oeufs de poules
+D8120	Oeufs de canes
+D8130	Oeufs d'oies
+D8140	Oeufs de dindes
+D8150	Oeufs de pintades
+D8190	Oeufs d'autres espèces
+D8200	Oeufs en coquille d'espèces domestiques, pas pour incubation
+D8210	Oeufs de poules
+D8290	Oeufs d'autres espèces
+D8300	Oeufs dépourvus de coquille
+D9000	Autres produits laitiers
+D9000I	Importation d'autres produits
+D9000J	Importation (intra-UE) d'autres produits
+D9100	Boissons à base de lait
+D9200	Autres produits frais (desserts à base de lait, crème glacée)
+D9300	Caséine et caséinates
+D9400	Miettes de chocolat
+D9500	Autres produits laitiers biologique
+D9900A	Autres produits collectés auprès des exploitations agricoles
+D9910	Miel

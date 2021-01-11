@@ -1,0 +1,15 @@
+TOTAL	Insgesamt
+FRW	Oberflächen- und Grundwasser (Süsswasser)
+FSW	Oberflächenwasser (Süsswasser)
+FGW	Grundwasser (Süsswasser)
+NFW	Salz- und Brackwasser
+DSW	Entsalztes Wasser
+RUW	Wiederverwendetes Wasser
+NRGW	Nicht erneuerbares Grundwasser (Süsswasser)
+IMP	Wasserimporte
+EXP	Wasserexporte
+WAU	Für die Nutzung verfügbares Wasser
+PRECIP	Niederschlag
+RFW_RES	Erneuerbare Süsswasserressourcen
+REW	Zurückgeleitetes Wasser (vor oder ohne Nutzung)
+WW	Abwasser

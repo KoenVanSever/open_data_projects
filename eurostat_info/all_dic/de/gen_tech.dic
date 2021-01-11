@@ -1,0 +1,16 @@
+THCV	Konventionell thermisch
+THCV_STM	Dampf
+THCV_INCOMB	Verbrennungskraftmaschine
+THCV_GTURB	Gasturbine
+THCV_CCYCLE	Kombikraftwerke
+THCV_OTH	Andere Art von Produktion
+SGLFF	Mit einzelnem Brennstoff gefeuert
+SGLFF_COAL	Mit einzelnem Brennstoff gefeuert - Kohle und Kohleprodukte
+SGLFF_LIQF_RG	Mit einzelnem Brennstoff gefeuert - Flüssige Brennstoffe und Raffineriegas
+SGLFF_NG_GWG	Mit einzelnem Brennstoff gefeuert - Erdgas und Ortsgas
+SGLFF_PEAT	Mit einzelnem Brennstoff gefeuert - Torf
+SGLFF_BIOF_WST	Mit einzelnem Brennstoff gefeuert - Biobrennstoffe und Abfälle
+MLTFF_SLD_LIQ	Mit mehreren Brennstoffen gefeuert - fest und flüssig
+MLTFF_LIQ_NG	Mit mehreren Brennstoffen befeuert - flüssig und Erdgas
+MLTFF_SLD_NG	Mit mehreren Brennstoffen befeuert - fest und Erdgas
+MLTFF_SLD_LIQ_NG	Mit mehreren Brennstoffen befeuert - fest, flüssig und Erdgas

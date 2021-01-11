@@ -1,0 +1,23 @@
+TOTAL	Gesamte Rebfläche (im Ertrag stehend/noch nicht im Ertrag stehend) 
+WI	Reben für Keltertrauben - insgesamt
+WI_PDO	Reben für Weine mit g.U.
+WI_PGI	Reben für Weine mit g.g.A.
+WI_NP	Reben für Weine ohne g.U./g.g.A.
+WI_DP	Reben für Trauben mit doppeltem Verwendungszweck
+DRI	Reben für Rosinen
+IN	Im Ertrag stehende Reben - insgesamt
+IN_WI	Im Ertrag stehende Reben - Keltertrauben - insgesamt
+IN_WI_PDO	Im Ertrag stehende Reben - Keltertrauben für Weine mit g.U.
+IN_WI_PGI	Im Ertrag stehende Reben - Keltertrauben für Weine mit g.g.A.
+IN_WI_NP	Im Ertrag stehende Reben - Keltertrauben für Weine ohne g.U./g.g.A.
+IN_WI_DP	Im Ertrag stehende Reben - Trauben mit doppeltem Verwendungszweck
+IN_DRI	Im Ertrag stehende Reben - Rosinen
+NIN	Noch nicht im Ertrag stehende Reben - insgesamt
+NIN_WI	Noch nicht im Ertrag stehende Reben - Keltertrauben - insgesamt
+NIN_WI_PDO	Noch nicht im Ertrag stehende Reben - Keltertrauben für Weine mit g.U.
+NIN_WI_PGI	Noch nicht im Ertrag stehende Reben - Keltertrauben für Weine mit g.g.A.
+NIN_WI_NP	Noch nicht im Ertrag stehende Reben - Keltertrauben für Weine ohne g.U./g.g.A.
+NIN_WI_DP	Noch nicht im Ertrag stehende Reben - Trauben mit doppeltem Verwendungszweck
+NIN_DRI	Noch nicht im Ertrag stehende Reben - Rosinen
+MAT_VP	Reben zur Erzeugung von vegetativem Vermehrungsgut für Reben
+OTH	Andere Reben a.n.g.

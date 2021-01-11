@@ -1,0 +1,89 @@
+S1_S2	Volkswirtschaft und Übrige Welt
+S1	Volkswirtschaft
+S1_X_S13	Gesamte Volkswirtschaft, ohne Staat
+S1D	Nicht-bildungsbezogener Privatsektor 
+S1D_OTH	Andere nicht-bildungsbezogene Einheiten 
+S1N	Keinem Sektor zugerechnet
+PRIVATE	Privater Sektor (S11, S12, S14, S15)
+S11_S14_S15	Nichtfinanzielle Kapitalgesellschaften; private Haushalte; private Organisationen ohne Erwerbszweck
+S11_S12	Kapitalgesellschaften
+S11_S123_TO_S125	Nichtmonetäre finanzielle Kapitalgesellschaften
+S11	Nichtfinanzielle Kapitalgesellschaften
+S11001	Öffentliche nichtfinanzielle Kapitalgesellschaften
+S11002	Private nichtfinanzielle Kapitalgesellschaften
+S11003	Ausländische nichtfinanzielle Kapitalgesellschaften
+S12	Finanzielle Kapitalgesellschaften
+S12001	Öffentliche finanzielle Kapitalgesellschaften
+S121_S122	Zentralbank; Kreditinstitute
+S121_S122_S123	Zentralbank/Kreditinstitute
+S121	Zentralbank
+S122	Kreditinstitute ohne die Zentralbank
+S12201	Öffentlich kontrollierten finanziellen Kapitalgesellschaften 
+S12202	Private Kreditinstitute
+S12203	Ausländische Kreditinstitute
+S122_S123	Kreditinstitute (ohne Zentralbank) und Geldmarktfonds
+S123_TO_S125	Sonstige Finanzinstitute, Kredit- und Versicherungshilfstätigkeiten und Versicherungsgesellschaften und Pensionskassen
+S125_S126_S127	Sonstige Finanzinstitute (ohne Versicherungsgesellschaften und Alterssicherungssysteme), Kredit- und Versicherungshilfstätigkeiten sowie firmeneigene Finanzinstitute und Kapitalgeber
+S123	Geldmarktfonds
+S12301	Öffentliche Finanzinstitute
+S12302	Private Finanzinstitute
+S12303	Ausländische Finanzinstitute
+S124	Investmentfonds (ohne Geldmarktfonds)
+S12401	Öffentliche Kredit- und Versicherungshilfstätigkeiten
+S12402	Private Kredit- und Versicherungshilfstätigkeiten
+S12403	Ausländische Kredit- und Versicherungshilfstätigkeiten
+S124_TO_S127	Sonstige Finanzinstitute (Finanzielle Kapitalgesellschaften ohne Zentralbank/Kreditinstitute, Versicherungsgesellschaften und Altersabsicherungssysteme)
+S125	Sonstige Finanzinstitute (ohne Versicherungsgesellschaften und Alterssicherungssysteme) 
+S12501	Öffentliche Versicherungsgesellschaften und Pensionskassen
+S12502	Private Versicherungsgesellschaften und Pensionskassen
+S12503	Ausländische Versicherungsgesellschaften und Pensionskassen
+S126	Kredit- und Versicherungshilfstätigkeiten
+S127	Firmeneigene Finanzierungseinrichtungen und Kapitalgeber
+S128	Versicherungsgesellschaften
+S128_S129	Versicherungsgesellschaften und Pensionskassen
+S129	Altersvorsorgeeinrichtungen
+S13_TO_S15	Staat; private Haushalte; private Organisationen ohne Erwerbszweck
+S13_S212	Staat; Institutionen der Europäischen Union
+S13	Staat
+S1311_TO_S1313	Zentralstaat, Gemeinden und Länder
+S1311_S1312	Zentralstaat und Länder
+S1311	Zentralstaat
+S1312_TO_S1314	Gemeinden und Länder; Sozialversicherung
+S1312_S1313	Gemeinden und Länder
+S1312	Länder
+S1313	Gemeinden
+S1314	Sozialversicherung
+S13_S15	Staat; private Organisationen ohne Erwerbszweck
+S13_BC	Basisfall
+S13_SC1	Basisfall minus eine Änderung im Diskontsatz von 1%
+S13_SC2	Basisfall plus eine Änderung im Diskontsatz von 1%
+S14_S15	Private Haushalte; private Organisationen ohne Erwerbszweck
+S14	Private Haushalte
+S141_S142	Selbständigenhaushalte (mit und ohne Arbeitnehmer)
+S143	Arbeitnehmerhaushalte
+S1441	Haushalte von Vermögenseinkommensempfängern
+S1442	Haushalte von Renten und Pensionsempfängern
+S1443	Sonstige Nichterwerbstätigenhaushalte
+S145	Sonstige private Haushalte
+S15	Private Organisationen ohne Erwerbszweck
+S2	Übrige Welt
+S2I	Mitgliedstaaten, deren Währung der Euro ist, die EZB und andere Organe und Einrichtungen des Euro-Währungsgebiets 
+S21	Europäische Union
+S211	Mitgliedstaaten der Europäischen Union
+S2111	Mitgliedstaaten der Währungsunion
+S2112	Nicht-Mitgliedstaaten der Währungsunion
+S212	Institutionen der Europäischen Union
+S2111_S2121	Intra Euroraum (12)
+S22	Drittländer und internationale Organisationen
+S2X	Drittländer (und internationale Organisationen) vis-à-vis dem Euroraum: 'Extra-EZ'
+MFI	Monetäre finanzielle Kapitalgesellschaften (einschließlich Zentralbanken)
+NONMFC	Nicht-monetäre finanzielle Kapitalgesellschaften
+INTLORG	Internationale Organisationen
+PUBSEC	Öffentlicher Sektor
+SOTH	Sonstige Sektoren
+SN	Unsortiert
+TOT_SEC	Insgesamt
+PUBL	Öffentliche Institutionen
+PRIV	Private Institutionen
+PRIV_DEP	Vom Staat abhängige private Institutionen
+PRIV_IND	Vom Staat unabhängige private Institutionen

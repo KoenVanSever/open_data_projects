@@ -1,0 +1,27 @@
+TOTAL	Total
+PER_PHY	Personne physique
+PER_NTL	Personne individuelle
+PER_LEG_HLD_GRP	Personne morale ou groupement d'exploitations
+PER_LEG	Personne morale
+PER_LEG_EG	Personne morale faisant partie d’un groupe d'entreprises
+PER_LEG_NEG	Personne morale ne faisant pas partie d’un groupe d'entreprises
+ENT_SOLE	Entreprise individuelle
+ENT_PA	Partenariat, coopératives, associations, etc.
+ENT_COOP	Coopérative
+ENT_MUT	Sociétés mutuelles
+ENT_LL	Entreprise à responsabilité limitée
+ENT_LL_NP	Entreprise à responsabilité limitée non cotée
+ENT_LL_P	Entreprise à responsabilité limitée cotée en bourse
+ENT_PLAW	Entreprise de droit public
+ENT_BR_NEEA	Succursales d'entreprise de l'Espace économique non européen (EEE)
+HLD_GRP	Exploitation en groupement
+FARM_HLD	Ferme gérée par l'exploitant individuel
+FARM_SPOU	Ferme gérée par le conjoint de l'exploitant
+FARM_FAM	Ferme gérée par un membre de la famille (sauf le conjoint) de l'exploitant
+FARM_NFAM	Ferme non gérée par un membre de la famille de l'exploitant
+FARM_HLD_SPOUFAM	Ferme co-gérée par l'exploitant et son conjoint ou un autre membre de la famille
+FARM_HLD_SPOU	Ferme co-gérée par l'exploitant et son conjoint
+FARM_HLD_FAM	Ferme co-gérée par l'exploitant et un membre de la famille (sauf le conjoint)
+UNIT_CML	Unité de terres communales
+OTH	Autre
+UNK	Inconnu

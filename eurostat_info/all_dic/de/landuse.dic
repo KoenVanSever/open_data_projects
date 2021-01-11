@@ -1,0 +1,157 @@
+TOTAL	Gesamtfläche
+LAND	Landfläche
+U100	Primärer Sektor
+U110	Landwirtschaft
+U111	Landwirtschaft (ausgenommen landwirtschaftliche Brachen, Haus- und Nutzgärten)
+U112	Landwirtschaftliche Brache
+U113	Haus- und Nutzgärten
+U120	Forstwirtschaft
+U130	Fischerei und Aquakultur
+HENVI	Bodennutzung mit starken Umweltauswirkungen
+U140	Bergbau und Abbauflächen
+U150	Primärer Sektor - andere Nutzungen
+U200	Sekundärer Sektor
+U210	Energieerzeugung
+U220	Industrie und verarbeitendes Gewerbe
+U221	Herstellung von Nahrungs- und Futtermitteln, Getränken und Tabak
+U222	Herstellung von Textilerzeugnissen
+U223	Verarbeitung von Kohle, Mineralöl und Metallen
+U224	Herstellung anderer nichtmetallischer, mineralischer Güter
+U225	Chemische und artverwandte Industrie
+U226	Herstellung von Maschinen und Geräten
+U227	Herstellung von Holzerzeugnissen und artverwandten Produkten
+U228	Druck und Vervielfältigung
+U300	Tertiärer Sektor, Transport, Versorgung und Wohngebiete
+U310	Transport, Telelommunikation, Energieverteilung, Lagerwesen, Schutzinfrastruktur
+U311	Bahnverkehr
+U312	Straßenverkehr
+U313	Schiffsverkehr
+U314	Flugverkehr
+U315	Transport durch Pipelines
+U316	Telekommunikation
+U317	Logistik und Lagerwesen
+U318	Schutzinfrastruktur
+U319	Verteilung von Elektrizität, Gas und Thermalenergie
+U320	Wasser- und Abfallwirtschaft
+U321	Wasserversorgung und Abwasserreinigung
+U322	Abfallwirtschaft
+U330	Baustelle
+U340-370	Dienstleistungen, Wohngebiete
+U340	Handel, Finanzdienstleistungen, professionelle- und Informationsdienstleitungen
+U341	Handel
+U342	Finanzdienstleistungen, professionelle- und Informationsdienstleistungen
+U350	Öffentliche Einrichtungen
+U360	Kunst, Unterhaltung und Erholung
+U361	Kunst und Unterhaltung
+U362	Sport
+U370	Wohngebiet
+U400	Ungenutzte Flächen und Brachflächen (ausgenommen landwirtschaftliche Brachen)
+U410	Brachflächen (ausgenommen landwirtschaftliche Brachen)
+U411	Industriebrache
+U412	Gewerbebrache
+U413	Verkehrsbrache
+U414	Wohnbrache
+U415	Andere Brachflächen
+U420	Halbnatürliche und natürliche, ungenutzte Flächen
+L0000	Gebiet - Insgesamt
+L0008	Landfläche - Insgesamt
+L0005	Landwirtschaftlich genutzte Fläche
+L0001	Ackerland
+L1050	Getreide zur Körnergewinnung (einschließlich Saatgut)
+L1250	Reis
+L1300	Hülsenfrüchte und Eiweißpflanzen zur Körnergewinnung (einschließlich Saatgut und Gemenge von Getreide mit Hülsenfrüchten)
+L1350	Hackfrüchte
+L1360	Kartoffeln/Erdäpfel (einschließlich Früh- und Pflanzkartoffeln/-erdäpfel)
+L1370	Zuckerrüben (ohne Saatgut)
+L1380	Andere Hackfrüchte a.n.g.
+L1400	Handelsgewächse
+L2610	Pflanzen zur Grünernte
+L1600	Gemüse, Melonen und Erdbeeren
+L3001	Blumen und Zierpflanzen (ohne Baumschulen)
+L3310	Saat und Pflanzguterzeugung
+L2690	Andere Kulturen auf dem Ackerland
+L2695	Übrige Felderzeugnisse a.n.g.
+L2696	Brache / Brachland
+L0002	Dauergrünland
+L0003	Dauerkulturen
+L2002	Frischobst (einschließlich Wein und Oliven)
+L0011	Obst- und Beerenobstanlagen
+L2300	Zitrusplantagen
+L2450	Olivenanlagen
+L2410	Rebflächen
+L2810	Baumschulen
+L2960	Flechtgewächse
+L2980	Andere Dauerkulturen a.n.g.
+L0004	Hausgärten
+L2990	Andere landwirtschaftlich genutzte Fläche a.n.g.
+L0900	Pflanzliche Erzeugung unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L1112	Gemüse, Melonen und Erdbeeren unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L1113	Blumen und Zierpflanzen unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L1114	Dauerkulturen unter Glas oder anderen hohen (begehbaren) Schutzeinrichtungen
+L0006	Forstfläche
+L0016	Waldfläche
+L0007	Übrige Flächen
+L0009	Binnengewässer
+LU	Bodennutzung insgesamt
+LUA	Landwirtschaft
+LUB	Forstwirtschaft
+LUC	Fischerei und Aquakultur
+LUD	Bodennutzung mit starken Umweltauswirkungen
+LUE	Dienstleistungen, Wohngebiete
+LUF	Ungenutzte Flächen und Brachflächen (ausgenommen landwirtschaftliche Brachen)
+LUG	Primärer Sektor - andere Nutzungen
+LUA1	Landwirtschaft
+LUB1	Forstwirtschaft
+LUC1	Fischerei und Aquakultur
+LUC2	Jagd
+LUD1	Bergbau und Abbauflächen
+LUD2	Energieerzeugung
+LUD3	Industrie und verarbeitendes Gewerbe
+LUD4	Wasser- und Abfallwirtschaft
+LUD5	Baustelle
+LUD6	Transport, Telelommunikation, Energieverteilung, Lagerwesen, Schutzinfrastruktur
+LUE1	Handel, Finanzdienstleistungen, professionelle- und Informationsdienstleitungen
+LUE2	Öffentliche Einrichtungen
+LUE3	Kunst, Unterhaltung und Erholung
+LUE4	Wohngebiet
+LUE5	Naturschutzgebiete
+LUF1	Ungenutzte Flächen und Brachflächen (ausgenommen landwirtschaftliche Brachen)
+LUA11	Landwirtschaft (ausgenommen landwirtschaftliche Brachen, Haus- und Nutzgärten)
+LUA12	Landwirtschaftliche Brache
+LUA13	Haus- und Nutzgärten
+LUB10	Forstwirtschaft
+LUC10	Fischerei und Aquakultur
+LUC20	Jagd
+LUD10	Bergbau und Abbauflächen
+LUD20	Energieerzeugung
+LUD31	Herstellung von Nahrungs- und Futtermitteln, Getränken und Tabak
+LUD32	Herstellung von Textilerzeugnissen
+LUD33	Verarbeitung von Kohle, Mineralöl und Metallen
+LUD34	Herstellung anderer nichtmetallischer, mineralischer Güter
+LUD35	Chemische und artverwandte Industrie
+LUD36	Herstellung von Maschinen und Geräten
+LUD37	Herstellung von Holzerzeugnissen und artverwandten Produkten
+LUD41	Wasserversorgung und Abwasserreinigung
+LUD42	Abfallwirtschaft
+LUD51	Baustelle
+LUD61	Bahnverkehr
+LUD62	Straßenverkehr
+LUD63	Schiffsverkehr
+LUD64	Flugverkehr
+LUD65	Transport durch Pipelines
+LUD66	Telekommunikation
+LUD67	Logistik und Lagerwesen
+LUD68	Schutzinfrastruktur
+LUE10	Handel, Finanzdienstleistungen, professionelle- und Informationsdienstleitungen
+LUE20	Öffentliche Einrichtungen
+LUE31	Kunst und Unterhaltung
+LUE32	Sport
+LUE33	Ferienanlagen
+LUE40	Wohngebiet
+LUF10	Ungenutzte Flächen und Brachflächen (ausgenommen landwirtschaftliche Brachen)
+LUF11	Brachflächen (ausgenommen landwirtschaftliche Brachen)
+LUF12	Halbnatürliche und natürliche, ungenutzte Flächen
+AGRIAREA	Landwirtschaftlich genutzte Fläche
+ARABLAND	Ackerland
+GRASLAND	Dauergrünland
+PERMCROP	Dauerkulturen

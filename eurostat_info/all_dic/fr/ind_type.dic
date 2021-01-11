@@ -1,0 +1,148 @@
+TOTAL	Total
+IND_TOTAL	Tous les particuliers
+Y0_15	Particuliers, 15 ans ou moins
+Y15_29	Particuliers ayant de 15 à 29 ans
+Y16_19	Particuliers ayant de 16 à 19 ans 
+Y16_24	Particuliers ayant de 16 à 24 ans
+Y16_29	Particuliers ayant de 16 à 29 ans
+Y20_24	Particuliers ayant de 20 à 24 ans
+Y25_29	Particuliers ayant de 25 à 29 ans
+Y25_34	Particuliers ayant de 25 à 34 ans
+Y25_54	Particuliers ayant de 25 à 54 ans
+Y25_64	Particuliers ayant de 25 à 64 ans
+Y35_44	Particuliers ayant de 35 à 44 ans
+Y45_54	Particuliers ayant de 45 à 54 ans
+Y55_64	Particuliers ayant de 55 à 64 ans
+Y55_74	Particuliers ayant de 55 à 74 ans
+Y65_74	Particuliers ayant de 65 à 74 ans
+Y75_MAX	Particuliers, 75 ans ou plus
+Y16_24LO	Particuliers, de 16 à 24 ans, ayant reçu une éducation scolaire formelle limitée
+Y16_24ME	Particuliers, de 16 à 24 ans, ayant reçu une éducation scolaire formelle moyenne
+Y16_24HI	Particuliers, de 16 à 24 ans, ayant reçu une éducation scolaire formelle élevée
+Y25_54LO	Particuliers, de 25 à 54 ans, ayant reçu une éducation scolaire formelle limitée
+Y25_54ME	Particuliers, de 25 à 54 ans, ayant reçu une éducation scolaire formelle moyenne
+Y25_54HI	Particuliers, de 25 à 54 ans, ayant reçu une éducation scolaire formelle élevée
+Y25_64LO	Particuliers, de 25 à 64 ans, ayant reçu une éducation scolaire formelle limitée
+Y25_64ME	Particuliers, de 25 à 64 ans, ayant reçu une éducation scolaire formelle moyenne
+Y25_64HI	Particuliers, de 25 à 64 ans, ayant reçu une éducation scolaire formelle élevée
+Y55_74LO	Particuliers, de 55 à 74 ans, ayant reçu une éducation scolaire formelle limitée
+Y55_74ME	Particuliers, de 55 à 74 ans, ayant reçu une éducation scolaire formelle moyenne
+Y55_74HI	Particuliers, de 55 à 74 ans, ayant reçu une éducation scolaire formelle élevée
+Y25_64_SALSELFFAM	Particuliers, de 25 à 64 ans, qui sont salariés, travailleurs indépendants ou travailleurs familiaux
+Y25_64_UNE	Particuliers, de 25 à 64 ans, qui sont sans emploi
+Y25_64_EMPL_UNE	Particuliers, de 25 à 64 ans, qui sont économiquement actifs (salariés et sans emploi)
+Y25_64_RETIROTH	Particuliers, de 25 à 64 ans, qui sont retraités ou autres inactifs
+M_Y16_19	Hommes ayant de 16 à 19 ans
+F_Y16_19	Femmes ayant de 16 à 19 ans
+M_Y16_24	Hommes ayant de 16 à 24 ans
+F_Y16_24	Femmes ayant de 16 à 24 ans
+M_Y16_29	Hommes ayant de 16 à 29 ans
+F_Y16_29	Femmes ayant de 16 à 29 ans
+M_Y16_74	Hommes ayant de 16 à 74 ans
+F_Y16_74	Femmes ayant de 16 à 74 ans
+M_Y20_24	Hommes ayant de 20 à 24 ans
+F_Y20_24	Femmes ayant de 20 à 24 ans
+M_Y25_29	Hommes ayant de 25 à 29 ans
+F_Y25_29	Femmes ayant de 25 à 29 ans
+M_Y25_34	Hommes ayant de 25 à 34 ans
+F_Y25_34	Femmes ayant de 25 à 34 ans
+M_Y25_54	Hommes ayant de 25 à 54 ans
+F_Y25_54	Femmes ayant de 25 à 54 ans
+M_Y25_64	Hommes ayant de 25 à 64 ans
+F_Y25_64	Femmes ayant de 25 à 64 ans
+M_Y35_44	Hommes ayant de 35 à 44 ans
+F_Y35_44	Femmes ayant de 35 à 44 ans
+M_Y45_54	Hommes ayant de 45 à 54 ans
+F_Y45_54	Femmes ayant de 45 à 54 ans
+M_Y55_64	Hommes ayant de 55 à 64 ans
+F_Y55_64	Femmes ayant de 55 à 64 ans
+M_Y55_74	Hommes ayant de 55 à 74 ans
+F_Y55_74	Femmes ayant de 55 à 74 ans
+M_Y65_74	Hommes ayant de 65 à 74 ans
+F_Y65_74	Femmes ayant de 65 à 74 ans
+M_I0_2	Hommes ayant reçu une éducation scolaire formelle limitée
+F_I0_2	Femmes ayant reçu une éducation scolaire formelle limitée
+M_I3_4	Hommes ayant reçu une éducation scolaire formelle moyenne
+F_I3_4	Femmes ayant reçu une éducation scolaire formelle moyenne
+M_I5_8	Hommes ayant reçu une éducation scolaire formelle élevée
+F_I5_8	Femmes ayant reçu une éducation scolaire formelle élevée
+I0_2	Particuliers ayant reçu une éducation scolaire formelle limitée ou nulle
+I3_4	Particuliers ayant reçu une éducation scolaire formelle moyenne
+I5_8	Particuliers ayant reçu une éducation scolaire formelle élevée
+CB_EU_FOR	Particuliers nés dans un autre pays de l'UE
+CB_EXT_EU	Particuliers nés dans un pays hors UE
+CB_FOR	Particuliers nés à l'étranger
+CB_NAT	Particuliers nés dans le pays
+CC_EU_FOR	Citoyens d'un autre pays de l'UE
+CC_EXT_EU	Citoyens d'un pays hors UE
+CC_FOR	Etrangers
+CC_NAT	Nationaux
+EMPL_UNE	Population économiquement active (salariés et sans emploi)
+FAM	Famille
+FAM_HLD_BLUE	Membre de la famille d'un titulaire d'une Carte Bleue européenne
+PRT_INT	Partenaire intime
+FRD	Amis
+HHI_Q1	Particuliers vivant dans des ménages dans le premier quartile de revenu
+HHI_Q2	Particuliers vivant dans des ménages dans le deuxième quartile de revenu
+HHI_Q3	Particuliers vivant dans des ménages dans le troisième quartile de revenu
+HHI_Q4	Particuliers vivant dans des ménages dans le quatrième quartile de revenu
+IND_DEG1	Particuliers habitant dans les villes
+IND_DEG2	Particuliers habitant dans les villes moins peuplées et dans les banlieues
+IND_DEG3	Particuliers habitant dans les zones rurales
+IND_DEV_L	Particuliers vivant dans des régions moins développées
+IND_DEV_M	Particuliers vivant dans des régions plus développées
+IND_DEV_T	Particuliers vivant dans des régions en transition
+IND_O1	Particuliers vivant dans une région de l'objectif 1 / Région de 'convergence'
+IND_NO1	Particuliers vivant dans une région hors objectif 1 / Régions relevant des objectifs de 'compétitivité et d'emploi'
+IND_BROAD	Particuliers qui habitent dans un ménage avec un Internet accès à large bande
+IND_BROADX	Particuliers qui habitent dans un ménage avec un accès à Internet mais pas à large bande
+ISCO_ICT	Spécialistes TIC
+ISCO_ICTX	Spécialistes non-TIC
+ISCO0_5	Travailleurs non manuels, y compris les forces armées
+ISCO6_9	Travailleurs manuels
+IREG	Particuliers utilisant Internet regulièrement (au moins une fois par semaine)
+IREGX	Particuliers n'utilisant pas Internet regulièrement (moins qu'une fois par semaine)
+OTHER	Autre sans activité
+RETIR	Retraités
+RETIR_OTHER	Retraités et autres inactifs
+RF_LE1	Particuliers avec aucun ou un facteur de risque 
+RF_GE1	Particuliers avec au moins une des 3 caracteristiques suivantes: ayant 55 à 74 ans; éducation scolaire limitée; sans emploi ou inactifs ou retraités
+RF_GE2	Particuliers avec au moins deux des 3 caracteristiques suivantes: ayant 55 à 74 ans; éducation scolaire limitée; sans emploi ou inactifs ou retraités
+SAL	Salariés
+SAL_SELF_FAM	Salariés, travailleurs indépendants, travailleurs familiaux
+SAL_PERM	Salariés avec un emploi permanent
+SELF	Travailleurs indépendants
+SELF_FAM	Travailleurs indépendants, travailleurs familiaux
+EMP_FT	Personnes occupées à plein temps
+EMP_JOB1	Personnes occupées ayant un seul emploi
+STUD	Étudiants
+UNE	Sans emploi
+HLDR	Titulaire d'une carte bleue européenne
+HLD_BLUE	Titulaire d'une Carte Bleue européenne
+IND_DCH	Particuliers vivant dans des ménages avec enfants
+IND_NO_DCH	Particuliers vivant dans des ménages sans enfants
+MD	Utilisateurs d'internet mobile
+MDX	Personnes qui n'utilisent pas l'internet mobile
+Y16_29LO	Particuliers, de 16 à 29 ans, ayant reçu une éducation scolaire formelle limitée
+Y16_29ME	Particuliers, de 16 à 29 ans, ayant reçu une éducation scolaire formelle moyenne
+Y16_29HI	Particuliers, de 16 à 29 ans, ayant reçu une éducation scolaire formelle élevée
+ARP	Individus menacés de pauvreté 
+NARP	Individus non menacés de pauvreté 
+IND_HH_NHH	Particuliers vivant et ne vivant pas dans le ménage
+IND_HH	Particuliers vivant dans le ménage
+IND_NHH	Particuliers ne vivant pas dans le ménage
+NONE	Pas de particuliers
+EMP_WKT_FT	Salariés travaillant à temps complet
+EMP_WKT_PT	Salariés travaillant à temps partiel ou incomplet
+EMP_CON_PRM	Salariés avec un emploi permanent ou un contrat à durée indeterminée
+EMP_CON_TMP	Salariés avec un emploi temporaire ou un contrat à durée determinée
+EMP_SECT_AFF	Salariés dans le secteur de l'agriculture, de la sylviculture et de la pêche
+EMP_SECT_MQM	Salariés dans les secteurs de l'industrie extractive, manufacturière ou autre
+EMP_SECT_CON	Salariés dans le secteur de la construction
+EMP_SECT_TTAFS	Salariés dans les secteurs du commerce, du transport, de l'hébergement et de la restauration
+EMP_SECT_IC	Salariés dans le secteur de l'informatin et de la communication
+EMP_SECT_FIN	Salariés dans les activités financières et d'assurance
+EMP_SECT_RE	Salariés dans les activités immobilières
+EMP_SECT_BS	Salariés dans les activités spécialisées, scientifiques, techniques, de services administratifs et de soutien
+EMP_SECT_ADM	Salariés dans les secteurs de l'administration publique, de la défence, de l'enseignement, de la santé humaine et de l'action sociale
+EMP_SECT_OTH	Salariés dans d'autres activités de service

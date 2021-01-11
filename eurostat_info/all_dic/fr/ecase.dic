@@ -1,0 +1,14 @@
+TOTAL	Total
+P1_NCH_AW50	Célibataire sans enfant gagnant 50% du salaire moyen
+P1_NCH_AW67	Célibataire sans enfant gagnant 67% du salaire moyen
+P1_NCH_AW80	Célibataire sans enfant gagnant 80% du salaire moyen
+P1_NCH_AW100	Célibataire sans enfant gagnant 100% du salaire moyen
+P1_NCH_AW125	Célibataire sans enfant gagnant 125% du salaire moyen
+P1_NCH_AW167	Célibataire sans enfant gagnant 167% du salaire moyen
+P1_CH2_AW67	Célibataire avec 2 enfants gagnant 67% du salaire moyen
+CPL_CH2_AW100	Couple avec deux enfants gagnant un salaire unique de 100% du salaire moyen
+CPL_CH2_AW100_33	Couple avec deux enfants disposant de deux salaires, l'un gagnant 100% et l'autre 33% du salaire moyen
+CPL_CH2_AW100_67	Couple avec deux enfants disposant de deux salaires, l'un gagnant 100% et l'autre 67% du salaire moyen
+CPL_CH2_AW100_100	Couple avec deux enfants disposant de deux salaires, chacun correspondant à 100% du salaire moyen
+CPL_NCH_AW100_33	Couple sans enfant disposant de deux salaires, l'un gagnant 100% et l'autre 33% du salaire moyen
+CPL_NCH_AW100_100	Couple sans enfant disposant de deux salaires, chacun correspondant à 100% du salaire moyen

@@ -1,0 +1,187 @@
+O_GDS	Erzeugung forstwirtschaftlicher Güter
+O_NAI	Jahreszuwachs an Holz auf dem Stamm
+O_SL	Säge- und Furnierrundholz
+OC_SL_TI	Industrienadelholz
+OC_SL_LTI	Nadellangholz
+OC_SL_STA	Nadelfaserholz und Nadelschichtholz
+OC_SL_TIO	Industrienadelholz: sonstige
+ON_SL_TI	Industrielaubholz
+ON_SL_LTI	Laublangholz
+ON_SL_STA	Laubfaserholz und Laubschichtholz
+ON_SL_TIO	Industrielaubholz: sonstige
+O_FUEL	Brennholz
+O_PULP	Faserholz
+O_SMALL	Äste und Baumstümpfe
+O_OWNREV	Pflanzungen in Eigenregie zur Erzielung eines regelmäßigen Einkommens
+O_OTH	Sonstige Forsterzeugnisse
+O_OCORK	Kork
+O_OPLAN	In Baumschulen erzeugte Forstpflanzen
+O_OOTH	Sonstige Erzeugnisse
+O_SER	Forstwirtschaftliche Dienstleistungen
+O_SREV	Pflanzungen zur Erzielung eines regelmäßigen Einkommens
+O_STREE	Sonstige Dienstleistungen, Pflanzungen für die Holzgewinnung
+O_BP	Forstwirtschaftliche Erzeugung zu Herstellerpreisen
+O_NFS	Nichtforstwirtschaftliche Nebentätigkeiten (nicht trennbar)
+O_NFST	Forstwirtschaftliche Verarbeitungserzeugnisse
+O_NFSO	Sonstige nicht trennbare Nebentätigkeiten (Waren und Dienstleistungen)
+O_TOT	Gesamterzeugung der Forstwirtschaft zu Herstellungspreisen
+C_TOT	Vorleistungen insgesamt
+C_REM	Gefälltes Holz
+C_PLAN	Pflanzgut
+C_NRG	Energie; Schmierstoffe
+C_NRGE	Energie; Schmierstoffe - Strom
+C_NRGG	Energie; Schmierstoffe - Gas
+C_NRGF	Energie; Schmierstoffe - sonstige Brenn- und Treibstoffe
+C_NRGO	Energie; Schmierstoffe - Energie; Schmierstoffe: sonstige
+C_FERT	Dünge- und Bodenverbesserungsmittel
+C_PPP	Pflanzenbehandlungsmittel und Pestizide
+C_MAT	Instandhaltung von Maschinen und Geräten
+C_BLD	Instandhaltung von Bauten
+C_SER	Forstwirtschaftliche Dienstleistungen
+C_FISIM	Unterstellte Bankgebühr (FISIM)
+C_OTH	Sonstige Waren und Dienstleistungen
+GVA	Bruttowertschöpfung zu Herstellungspreisen
+FCC	Abschreibungen
+F_TRE	Abschreibungen an Bäumen
+F_EQBLD	Abschreibungen an Maschinen und Gebäuden
+F_EQ	Abschreibungen: Ausrüstungsgüter
+F_BLD	Abschreibungen: Bauten
+F_OTH	Sonstige Abschreibungen
+NVA	Nettowertschöpfung zu Herstellungspreisen
+TAX_PDN	Sonstige Produktionsabgaben
+SUB_PDN	Sonstige Subventionen für die Erzeugung
+CE	Arbeitnehmerentgelt
+OS	Nettobetriebsüberschuss / Selbständigeneinkommen
+R_PA	Gezahlte Pachten
+INT_PA	Gezahlte Zinsen
+INT_RE	Empfangene Zinsen
+EI	Nettounternehmensgewinn
+GFCF	Bruttoanlageinvestitionen (ohne abziehbare MwSt)
+G_NF	Bruttoanlageinvestitionen in nichtforstwirtschaftliche Güter
+G_MAT	BAI in Maschinen, Geräte und Fahrzeuge
+G_MAC	BAI in Maschinen und sonstige Ausrüstungsgüter
+G_TRA	BAI in Fahrzeuge
+G_BLD	BAI in Wirtschaftsgebäude
+G_OFIX	BAI in immaterielle Anlagegüter (Software usw.)
+G_ONON	Werterhöhung nichtproduzierter Anlagegüter
+G_OIMP	BAI in größere Bodenverbesserungen
+G_OCOS	Kosten der Eigentumsübertragung von Grund und Boden und von Produktionsrechten
+NFCF	Nettoanlageinvestitionen (ohne abziehbare MwSt)
+CI	Bestandsveränderungen
+CI_PRO	Bestandsveränderungen, darunter unfertige Erzeugnisse
+CT	Vermögenstransfers
+CT_INV	Investitionszuschüsse
+CT_OTH	Sonstige Vermögenstransfers
+P1_TOT	Produktionswert
+P2_TOT	Vorleistungen
+B1G_GVA	Bruttowertschöpfung
+P51C_FCC	Abschreibungen
+B1N_NVA	Nettowertschöpfung
+D29_TAX_PDN	Sonstige Produktionsabgaben
+D39_SUB_PDN	Empfangene sonstige Subventionen
+D1_CE	Arbeitnehmerentgelt
+B2A3N_OS	Nettobetriebsüberschuss und -selbständigeneinkommen
+D4_PI_RE	Empfangene Vermögenseinkommen
+D41_INT_RE	Empfangene Zinsen
+D42_CPIN_RE	Ausschüttungen und Entnahmen
+D43_IV_RE	Reinvestierte Gewinne aus Direktinvestitionen
+D44_IVO_RE	Sonstige Kapitalerträge
+D45_R_RE	Pachteinkommen
+D4_PI_PA	Geleistete Vermögenseinkommen
+D41_INT_PA	Gezahlte Zinsen
+D45_R_PA	Gezahlte Pachten
+B4N_EI	Nettounternehmensgewinn
+P51G_GFCF	Bruttoanlageinvestitionen
+G_TRE	BAI in Pflanzungen zur Erzielung eines regelmäßigen Einkommens
+G_EQBLD	BAI in Maschinen und Gebäuden
+G_OTH	Sonstige BAI
+P51N_NFCF	Nettoanlageinvestitionen
+P52_CI	Vorratsveränderungen
+AN1221_CI_PRO	Bestandsveränderungen der unfertigen Erzeugnisse
+CI_OTH	Sonstige Bestandsveränderungen
+D9_CT	Vermögenstransfers
+P1	Produktion der Forstwirtschaft und  verbundener sekundärer Tätigkeiten
+P11	Marktproduktion
+P12	Produktion für die Eigenverwendung
+P13	Sonstige  Nichtmarktproduktion
+P1_S14	Produktion der Haushalte
+P1_GD_SERV	Produktion typisch forstwirtschaftlicher Waren und Dienstleistungen
+P1_GD	Typisch forstwirtschaftliche Waren
+P1_TR_PL	Bäume, Pflanzgut und Forstsamen
+P1_PL	Jungbäume und Forstsamen
+P1_TR	Waldbäume
+P1_RW	Rundholz (Rohholz)
+P1_RWFW	Brennholz
+P1_RWFW_C	Brennholz - Nadelholz
+P1_RWFW_NC	Brennholz - Laubholz
+P1_RWIN	Industrierundholz
+P1_RWIN_C	Industrierundholz - Nadelholz
+P1_RWIN_LT_C	Industrierundholz - Langholz, Nadelholz
+P1_RWIN_ST_C	Industrierundholz - Faser- und Schichtholz, Nadelholz
+P1_RWIN_O_C	Industrierundholz - sonstiges Holz, Nadelholz
+P1_RWIN_NC	Industrierundholz - Laubholz
+P1_RWIN_LT_NC	Industrierundholz - Langholz, Laubholz
+P1_RWIN_ST_NC	Industrierundholz - Faser- und Schichtholz, Laubholz
+P1_RWIN_O_NC	Industrierundholz - sonstiges Holz, Laubholz
+P1_RWIN_TNC	Industrierundholz - Tropenholz, Laubholz
+P1_NW	Nicht-Holz Produkte
+P1_NW_CO	Nicht-Holz Produkte - Kork
+P1_NW_FN	Nicht-Holz Produkte - in Baumschulen erzeugte Forstpflanzen
+P1_NW_O	Nicht-Holz Produkte - sonstige Erzeugnisse
+P1_SERV	Typisch forstwirtschaftliche Dienstleistungen
+P1_PTR	Baumpflanzungen zur Erzielung eines regelmäßigen Einkommens
+P1_SEC	Produkte verbundener Nebentätigkeiten der örtlichen FE
+P1_SECTRF	Verarbeitung von Produkten verbundener  Nebentätigkeiten
+P1_OSEC	Sonstige nicht trennbare Nebentätigkeiten (Waren und Dienstleistungen)
+P1_O	Sonstige Produkte
+P2	Vorleistungen
+P2_GD	Als Vorleistungen verbrauchte Waren
+P2_TR_PL	Bäume, Pflanzgut und Forstsamen
+P2_NRG	Energie, Schmierstoffe
+P2_NRG_E	Energie, Schmierstoffe - Strom
+P2_NRG_G	Energie, Schmierstoffe - Gas
+P2_NRG_OFP	Energie, Schmierstoffe - sonstige Brenn- und Treibstoffe
+P2_NRG_O	Energie, Schmierstoffe - sonstige
+P2_FERT	Dünge- und Bodenverbesserungsmittel
+P2_PPP	Pflanzenbehandlungsmittel und Pestizide
+P2_SERV	Als Vorleistungen verbrauchte Dienstleistungen
+P2_FL	Als Vorleistungen verbrauchte typisch forstwirtschaftliche Dienstleistungen
+P2_MREQ	Laufende Instandhaltung und Reparatur von Geräten
+P2_MBL	Instandhaltung von Bauten
+P2_FISIM	Unterstellte Bankgebühren (FISIM)
+P2_O	Sonstige als Vorleistungen verbrauchte Produkte
+B1G	Bruttowertschöpfung
+P51C	Abschreibungen
+P51C_EQ	Abschreibungen - Ausrüstungsgüter
+P51C_BL	Abschreibungen - Bauten
+B1N	Nettowertschöpfung
+D29	Sonstige Produktionsabgaben
+D39	Sonstige Subventionen für die Erzeugung
+FI	Faktoreinkommen
+D1	Arbeitnehmerentgelte
+B2A3N	Nettobetriebsüberschuss und Selbständigeneinkommen
+D4	Nettovermögenseinkommen
+D4_RENT_PA	Gezahlte Pachten
+D4_INT_PA	Gezahlte Zinsen
+D4_INT_RE	Empfangene Zinsen
+B4N	Nettounternehmensgewinn
+P51G	Bruttoanlageinvestitionen (ohne abziehbare MwSt)
+P51G_PTR	BAI - Pflanzungen zur Erzielung eines regelmäßigen Einkommens
+P51G_NF	BAI - nichtforstwirtschaftliche Güter
+P51G_EQBL	BAI - Geräte und Bauten
+P51G_BL	BAI - Wirtschaftsgebäude
+P51G_MAT	BAI - Geräte
+P51G_MAC	BAI - Maschinen und sonstige Ausrüstungen
+P51G_TRA	BAI - Fahrzeuge
+P51G_FIX	BAI -  Immaterielle Anlagegüter (Computersoftware usw.)
+P51G_NFP	BAI - Werterhöhung nichtproduzierter Anlagegüter
+P51G_IMP	BAI - Umfassende Bodenverbesserungen
+P51G_COS	BAI - Kosten der Eigentumsübertragung von Grund und Boden und von Produktionsrechten
+P51G_O	Sonstige Bruttoanlageinvestitionen
+P51N	Nettoanlageinvestitionen (ohne abziehbare MwSt)
+P52	Bestandsveränderungen
+P52_PRO	Bestandsveränderungen unfertiger Erzeugnisse
+P52_O	Sonstige Bestandsveränderungen
+D9	Vermögenstransfers (netto)
+D9_INV	Investitionszuschüsse
+D9_O	Sonstige Vermögenstransfers

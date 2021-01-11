@@ -1,0 +1,19 @@
+ENT_INT	Entreprises au sein du même groupe d'entreprises
+MKT_SUPPL	Fournisseurs d'équipements, matériels, composants ou logiciels
+MKT_CLCU	Clients ou consommateurs
+MKT_PRV_CLCU	Clients ou consommateurs du secteur privé
+MKT_PUB_CLCU	Clients ou consommateurs du secteur public
+MKT_COMP	Concurrents ou autres entreprises du même secteur
+MKT_CN_PRV_RI	Consultants, laboratoires commerciaux, instituts de recherche privés
+MKT_CN	Consultants ou laboratoires commerciaux
+UNIV	Universités ou autres établissements d'enseignement supérieur
+GOV_PUB_RI	Gouvernement ou instituts de recherche publics 
+PRV_RI	Instituts de recherche privés
+CONF_TRDF_EXHIB	Conférences, foires commerciales ou expositions
+JRNST_TRDP	Revues scientifiques/techniques ou publications spécialisées
+ASS_PROF_IND	Associations professionnelles ou industrielles
+PAT_PUBL	Brevets publiés
+DOC_STD_COM	Documents de standardisation ou comités
+WEB_NET_CDS	Réseaux basés sur le Web sociaux ou externalisation ouverte
+B2B_OS	Plateformes interentreprises ouvertes ou logiciels libres
+RE	Ingénierie inverse

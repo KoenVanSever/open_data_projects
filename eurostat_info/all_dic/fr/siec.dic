@@ -1,0 +1,218 @@
+TOTAL	Total
+CF	Carburants combustibles
+CF_R	Carburants combustibles - renouvelables
+CF_NR	Carburants combustibles - non-renouvelables
+CF_NR_OTH	Carburants combustibles - non-renouvelables - autre
+FF	Combustibles fossiles
+SFF_P1000	Combustibles fossiles solides et tourbe
+SFF_P1000_S2000	Combustibles fossiles solides, tourbe, produits dérivés de la tourbe, schistes bitumineux et sables bitumineux
+C0000	Charbon et gaz manufacturés
+C0000X0350-0370	Combustibles fossiles solides
+C0100	Houille
+C0110	Anthracite
+C0120	Charbon bitumineux
+C0121	Charbon à coke
+C0129	Autre charbon bitumineux
+C0200	Charbon brun
+C0210	Charbon sous-bitumineux
+C0220	Lignite
+C0300	Produits houilleux
+C0310	Charbon coke
+C0311	Coke de four à coke
+C0312	Coke de gaz
+C0313	Poussier de coke
+C0314	Semi-cokes
+C0320	Aggloméré
+C0330	Briquettes de lignite
+C0340	Goudron de houille
+C0350-0370	Gaz manufacturés
+C0350	Gaz de four à coke
+C0360	Gaz d'usine à gaz
+C0370	Gaz récupérés
+C0371	Gaz de haut-fourneau
+C0372	Gaz de convertisseur à l'oxygène
+C0379	Autres gaz récupérés
+C0390	Autres produits houilleux
+P1000	Tourbe et produits dérivés de la tourbe
+P1100	Tourbe
+P1110	Tourbe en granulés
+P1120	Tourbe broyée
+P1200	Produits dérivés de la tourbe
+P1210	Briquettes de tourbe
+P1290	Autres produits dérivés de la tourbe
+S2000	Schistes bitumineux et sables bitumineux
+SFF_OTH	Autres combustibles fossiles solides
+G3000_C0350-370	Gaz
+G3000_C0360	Gaz naturel et gaz d'usine à gaz
+G3000	Gaz naturel
+G3100	Gaz naturel compressé
+G3200	Gaz naturel liquéfié
+O4000	Pétrole et produits pétroliers
+O4000XBIO	Pétrole et produits pétroliers (part de biocarburant non comprise)
+O4100_TOT_4200-4500	Pétrole brut, LGN, produits d'alimentation et autres hydrocarbures
+O4100_TOT_4200-4500XBIO	Pétrole brut, LGN, produits d'alimentation et autres hydrocarbures (part de biocarburant non comprise)
+O4100_TOT	Pétrole brut
+O4100	Pétrole brut conventionnel
+NO4100	Pétrole brut non conventionnel
+O4200	Liquides du gaz naturel
+O4300	Produits d'alimentation des raffineries
+O4400X4410	Additifs et composés oxygénés (part de biocarburant non comprise)
+O4400	Additifs et composés oxygénés
+O4410	Biocarburants pour mélanges
+O4500	Autres hydrocarbures
+O4110_4300-4500	Autres produits pétroliers primaires
+O4200-4500	Autre prétrole primaire
+O4600	Produits pétroliers
+O4600XBIO	Produits pétroliers (part de biocarburant non comprise)
+O4610	Gaz de raffinerie
+O4620	Éthane
+O4630	Gaz de pétrole liquéfiés
+O4640	Naphta
+O4650	Essences
+O4651	Essence d'aviation
+O4652	Essence moteur
+O4652XR5210B	Essence moteur (part de biocarburant non comprise)
+O4653	Carburéacteur type essence
+O4660	Kérosènes
+O4661	Carburéacteur type kérosène
+O4661XR5230B	Carburéacteur type kérosène (part de biocarburant non comprise)
+O4669	Autre kérosène
+O4670	Gazole et carburant diesel et gazole lourd
+O4671	Gazole et carburant diesel
+O4671XR5220B	Gazole et carburant diesel (part de biocarburant non comprise)
+O46711	Diesel routier
+O46712	Fioul domestique et autres gazoles
+O4672	Gazole lourd
+O4680	Fioul
+O4681	Fioul (faible teneur en soufre <1%)
+O4682	Fioul (haute teneur en soufre >=1%)
+O4690	Autres produits pétroliers
+O4690XO4694	Autres produits pétroliers (part de coke de pétrole non comprise)
+O4691	White spirit et essences industrielles à point de début d'ébullition spécial
+O4692	Lubrifiants
+O4693	Cires de paraffine
+O4694	Coke de pétrole
+O4695	Bitume
+O4699	Autres produits pétroliers n.c.a.
+ROIL	Produits pétroliers raffinés
+PP_OTH	Autres produits pétroliers
+RA000	Renouvelables et biocarburants
+RA100	Hydraulique
+RA110	Énergie hydraulique pure
+RA110ROR	Énergie hydraulique au fil de l'eau
+RA120	Énergie hydraulique mixte
+RA120P	Énergie hydraulique mixte - pompage
+RA130	Énergie hydraulique par pompage
+RA200	Géothermique
+RA300	Éolien
+RA310	Éolien sur terre
+RA320	Éolien en mer
+RA400	Solaire
+RA410	Solaire thermique
+RA420	Solaire photovoltaïque
+RA420KW_LT20	Solaire photovoltaïque (< 20 kW)
+RA420KW20-1000	Solaire photovoltaïque (20 kW - 1000 kW)
+RA420MW_GT1	Solaire photovoltaïque (1+ MW)
+RA420OG	Solaire photovoltaïque (hors réseau)
+RA500	Énergie hydrocinétique, houlomotrice, marémotrice
+RA600	Chaleur ambiante (pompes à chaleur)
+R5000	Biocarburants
+R5100	Biocarburants solides
+R5100F	Biocarburants solides - co-combustion
+R5110-5150_W6000RI	Biocarburants solides primaires
+R5110	Bois de chauffage, résidus de bois et sous-produits
+R5111	Granulés de bois
+R5119	Autres bois de chauffage, résidus de bois et sous-produits
+R5120	Bagasse
+R5130	Déchets animaux
+R5140	Liqueur noire
+R5150	Autres matières et résidus végétaux
+W6000RI	Proportion renouvelable des déchets industriels
+R5160	Charbon de bois
+R5200	Biocarburants liquides
+R5210	Bioessence
+R5210P	Bioessence pure
+R5210B	Bioessence mélangée
+R5210E	Bioéthanol
+R5220	Biodiesels
+R5220P	Biodiesels purs
+R5220B	Biodiesels mélangés
+R5230	Biokérosène
+R5230P	Biokérosène pur
+R5230B	Biokérosène mélangé
+R5250S	Biocarburants durables
+R5251S	Biocarburants durables Annexe IX
+R5252S	Biocarburants durables Annexe IX, Partie A
+R5253S	Biocarburants durables Annexe IX, Partie A (a) - algues
+R5254S	Biocarburants durables Annexe IX, Partie A (b) - biomasse dans les déchets municipaux en mélange
+R5255S	Biocarburants durables Annexe IX, Partie A (c) - biodéchets
+R5256S	Biocarburants durables Annexe IX, Partie A (d) - biomasse dans les déchets industriels
+R5257S	Biocarburants durables Annexe IX, Partie A (e) - paille
+R5258S	Biocarburants durables Annexe IX, Partie A (f) - fumier et boues d'épuration
+R5259S	Biocarburants durables Annexe IX, Partie A (g) - effluents d'huileries de palme et rafles
+R5260S	Biocarburants durables Annexe IX, Partie A (h) - brai de tallol
+R5261S	Biocarburants durables Annexe IX, Partie A (e) - glycérine brute
+R5262S	Biocarburants durables Annexe IX, Partie A (j) - bagasse
+R5263S	Biocarburants durables Annexe IX, Partie A (k) - marcs de raisins et lies de vin
+R5264S	Biocarburants durables Annexe IX, Partie A (l) - coques
+R5265S	Biocarburants durables Annexe IX, Partie A (m) - balles (enveloppes)
+R5266S	Biocarburants durables Annexe IX, Partie A (n) - râpes
+R5267S	Biocarburants durables Annexe IX, Partie A (o) - fraction de la biomasse correspondant aux déchets et résidus provenant de la sylviculture et de la filière bois
+R5268S	Biocarburants durables Annexe IX, Partie A (p) - autres matières cellulosiques non alimentaires - article 2 deuxième alinéa point s)
+R5269S	Biocarburants durables Annexe IX, Partie A (q) - autres matières ligno-cellulosiques - article 2 deuxième alinéa point r) à l'exception des grumes de sciage et de placage
+R5270S	Biocarburants durables Annexe IX, Partie A (r) - carburants liquides et gazeux renouvelables destinés au secteur du transport, d'origine non biologique
+R5271S	Biocarburants durables Annexe IX, Partie A (s) - Captage et utilisation du dioxyde de carbone à des fins de transport, si la source d'énergie est renouvelable - article 2 deuxième alinéa point a)
+R5272S	Biocarburants durables Annexe IX, Partie A (t) - bactéries, si la source d'énergie est renouvelable - article 2 deuxième alinéa point a)
+R5273S	Biocarburants durables Annexe IX, Partie B
+R5274S	Biocarburants durables Annexe IX, Partie B (a) - huiles de cuisson usagées
+R5275S	Biocarburants durables Annexe IX, Partie B (b) - graisses animales classées dans les catégories 1 et 2 (Règlement (CE) no 1069/2009)
+R5276S	Biocarburants durables 3(4)d premier alinéa - à partir de céréales et d'autres plantes riches en amidon, sucrières et oléagineuses et à partir de cultures cultivées en tant que cultures principales essentiellement à des fins de production d'énergie sur des terres agricoles
+R5277S	Biocarburants durables 3(4)d troisième alinéa sous-section (i) et (ii)
+R5278S	Biocarburants durables - autres
+R5279S	Biocarburants - droits-acquis
+R5290	Autres biocarburants liquides
+R5292	Bioliquides
+R5292P	Bioliquides pures
+R5292B	Bioliquides mélangés (seulement part de biocarburant)
+R5292S	Bioliquides durables
+R5292SP	Bioliquides durables pures
+R5292SB	Bioliquides durables mélangés (seulement part de biocarburant)
+R5293S	Bioliquides durables provenant de sources non alimentaires
+R5293SP	Bioliquides durables pures provenant de sources non alimentaires
+R5293SB	Bioliquides durables mélangés (seulement part de biocarburant) provenant de sources non alimentaires
+R5300	Biogaz
+R5300B	Biogaz mélangés
+R5310	Biogaz issus de la fermentation anaérobique
+R5311	Gaz de décharge
+R5312	Gaz de digestion des boues
+R5319	Autres biogaz issus de la fermentation anaérobique
+R5320	Biogaz issus de procédés thermiques
+RA500_5160	Autres énergies renouvelables
+W6000	Déchets
+W6100	Déchets industriels (non-renouvelables)
+W6100F	Déchets industriels (non-renouvelables) - co-combustion
+W6200	Déchets municipaux
+W6200F	Déchets municipaux - co-combustion
+W6210	Déchets municipaux renouvelables
+W6210F	Déchets municipaux renouvelables - co-combustion
+W6220	Déchets municipaux non-renouvelables
+W6220F	Déchets municipaux non-renouvelables - co-combustion
+W6100_6220	Déchets non-renouvelables
+N9000	Combustibles nucléaires et autres combustibles n.c.a.
+N900H	Chaleur nucléaire
+N9100	Uranium, plutonium et thorium
+N9110	Minerais d'uranium et de thorium
+N9190	Autres uranium, plutonium et thorium
+N9200	Autres combustibles nucléaires
+E7000	Électricité
+E7100	Électricité - renouvelable
+E7200	Électricité - non renouvelable
+H8000	Chaleur
+X9900R	Autres combustibles n.c.a. - renouvelables
+X9900NR	Autres combustibles n.c.a. - non-renouvelables
+X9900H	Autres combustibles n.c.a. - chaleur de sources chimiques
+X9900	Autres combustibles n.c.a.
+BIOE	Bioénergie
+FE	Énergie fossile
+RHYD	Hydrogène produit à partir de sources d’énergie renouvelables
+RSYNF	Carburants d'origine non-biologique produit à partir de sources d’énergie renouvelables

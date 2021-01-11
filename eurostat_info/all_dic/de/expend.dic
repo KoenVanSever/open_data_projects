@@ -1,0 +1,120 @@
+TOTAL	Insgesamt
+TRA	Ausgabenkategorie: Verkehr
+SHOP	Ausgabenkategorie: Einkäufe
+REST	Ausgabenkategorie: Restaurant-/Cafébesuche
+ACC	Ausgaben für Unterkunft
+DUR	Ausgaben für Gebrauchsgüter und Güter mit hohem Wert
+IW_VES	Ausgaben für die Schiffe in den Binnenschiffahrtsunternehmen
+IW_INF	Ausgaben für die Binnenschiffahrtsinfrastruktur
+RD_VEH	Ausgaben  für die Güterkraftfahrzeuge
+RD_INF	Ausgaben für die Straßeninfrastruktur
+RL_RSTK	Ausgaben für den Fahrzeugsbestand in HEU
+RL_INF	Ausgaben für die Infrastruktur in HEU
+INSTR	Ausgaben für Bildung (ohne Hilfsdienste und FuE)
+ASERV	Ausgaben für Hilfsdienste
+RD	Ausgaben für FuE Aktivitäten
+INIT	Ausgaben des Staates vor innerstaatlichen Transfers
+FINL	Ausgaben des Staates nach innerstaatlichen Transfers
+AVG_TRP	Durchschnittliche Ausgaben pro Reise
+AVG_NGT	Durchschnittliche Ausgaben pro Übernachtung
+ADJ	Anpassung der Unterschiede im Kapitalgleichgewicht
+INV	Investition
+INV_IW_VES	Investition in die Binnenschiffahrtsunternehmen
+INV_IW_INF	Investition in die Binnenschiffahrtsinfrastruktur
+INV_RD_VEH	Investition in die Güterkraftfahrzeuge
+INV_RD_INF	Investition in die Straßeninfrastruktur
+INV_RL_RSTK	Investition in den Fahrzeugsbestand in HEU
+INV_RL_INF	Investition in die Infrastruktur in HEU
+INV_PT	Investition in die Behandlung der Umweltverschmutzung
+INV_PP	Investition in die Vermeidung der Umweltverschmutzung
+INV_PP_PC	Investition in die Vermeidung der Umweltverschmutzung in % der gesamten Umweltschutzinvestitionen
+INV_TRD	Investition in handelbare Rechte
+INV_ICT	Investition in IKT (Informations- und Kommunikationstechnologien)
+INV_EARL	Investition in der Frühphase
+INV_VEN	Investition in das Risikokapital (Vorbereitungs-, Gründungs- und Nachgründungsphase)
+INV_VEN_SEED	Investition in der Vorbereitungsphase
+INV_VEN_STAR	Investition in der Gründungsphase
+INV_VEN_LATE	Investition in die Nachgründungsphase 
+INV_EXRE	Investition für Erweiterung und Erneuerung
+INV_GROW	Investition in der Wachstumsphase
+INV_RESC	Investition für  Rettung/Restrukturierung
+INV_REPL	Investition für Ersatz
+INV_BUY	Investition für den Aufkauf
+TRF_PAY	Transfers und Zahlungen
+TRF	Subventionen/Transfers
+TRF_IND	Transfers an Einzelpersonen
+TRF_IPER	Transfers an Einzelpersonen - regelmäßige Geldleistungen
+TRF_ILUMP	Transfers an Einzelpersonen - einmalige Pauschalleistungen
+TRF_IREIM	Transfers an Einzelpersonen - Erstattungen
+TRF_ISOC	Transfers an Einzelpersonen - Senkung von Sozialbeiträgen
+TRF_ITAX	Transfers an Einzelpersonen - Senkung von Steuern
+TRF_EMP	Transfers an Arbeitgeber
+TRF_EPER	Transfers an Arbeitgeber - regelmäßige Geldleistungen
+TRF_ELUMP	Transfers an Arbeitgeber - einmalige Pauschalleistungen
+TRF_EREIM	Transfers an Arbeitgeber - Erstattungen
+TRF_ESOC	Transfers an Arbeitgeber - Senkung von Sozialbeiträgen
+TRF_ETAX	Transfers an Arbeitgeber - Senkung von Steuern
+TRF_SERV	Transfers an Dienstleistungsanbieter
+TRF_NET	Nettotransfers
+TRF_NSP	Nicht spezifizierte Transfers
+MNT	Wartung
+MNT_IW_VES	Wartung der Schiffe in Binnenschiffahrtsunternehmen
+MNT_IW_INF	Wartung der Binnenschiffahrtsinfrastruktur
+MNT_RD_VEH	Wartung der Güterkraftfahrzeuge
+MNT_RD_INF	Wartung der Straßeninfrastruktur
+MNT_RL_RSTK	Wartung des Fahrzeugsbestandes in HEU
+MNT_RL_INF	Wartung der Infrastruktur in HEU
+CUR	Laufende Ausgaben
+CUR_LC	Laufende Ausgaben - Arbeitskosten
+CUR_COMP	Ausgaben zur Bezahlung von Personal
+CUR_COMPT	Ausgaben zur Bezahlung von Lehrkräften (mit aktiver Lehrverantwortlichkeit)
+CUR_COMPO	Ausgaben zur Bezahlung von anderem pädagogischem, verwaltungstechnischem und fachlichem Personal und Hilfspersonal
+CUR_RET	Ausgaben für Ruhegehälter
+CUR_NLC	Ausgaben für andere nicht gehaltsbezogene Zahlungen
+CUR_OTH	Laufende Ausgaben - Sonstige
+CAP	Kapitalbezogene Ausgaben
+CAP_LAND	Kapital - Grundstücke und Gebäude
+CAP_INST	Kapital - Instrumente und Ausrüstungen
+BC_RD	Kapitalisierte Kosten für Investitionen in Forschung, Entwicklung und ähnliche Kosten
+BC_MKT	Kapitalisierte Kosten für Marketing-und Handelsdiensleistungen
+BC_OSERV	Sonstige Kapitalisierte Kosten bezüglich Dienstleistungen
+FA	Finanzhilfen für Haushalte und Studenten
+FA_GRNT	Stipendien und andere Beihilfen für Studenten/Haushalte
+FA_LOAN	Studentendarlehen
+DIR	Direktausgaben
+PAY	Zahlungen
+PAY_NET	Nettozahlungen
+PAY_SEA	Zahlungen für spezifische Bildungsaktivitäten
+DW_ACQ	Erwerb von Wohnraum
+DW_ACQ_NEW	Neuer Wohnraum
+DW_ACQ_NEWP	Erwerb von neuem Wohnraum
+DW_ACQ_NEWSB	Selbstgebauter Wohnraum und größere Renovierungen
+DW_ACQ_EXST	Bestehender Wohnraum, neu für die Haushalte
+DW_ACQ_OTH	Sonstige Dienstleistungen im Zusammenhang mit dem Erwerb von Wohnraum
+DW_OWN	Eigentum von Wohnraum
+DW_OWN_RMNT	Größere Reparaturen und Instandhaltung
+DW_OWN_INS	Versicherungen im Zusammenhang mit Wohnraum
+DW_OWN_OTH	Sonstige Dienstleistungen im Zusammenhang mit dem Eigentum von Wohnraum
+INN	Ausgaben für Innovation
+INN_XRND_CONTR_OUT	Ausgaben für Innovation ohne Ausgaben für von Dritten durchgeführte Forschung und Entwicklung (externe FuE-Aufträge)
+INNXRND_CONTR_OUT	Ausgaben für Innovation ohne Ausgaben für von Dritten durchgeführte Forschung und Entwicklung (externe FuE-Aufträge)
+RND	Ausgaben für FuE Aktivitäten
+RND_IH	Ausgaben für unternehmensintern durchgeführte Forschung und Entwicklung
+RND_CONTR_OUT	Ausgaben für von Dritten durchgeführte Forschung und Entwicklung (Vergabe von FuE-Aufträgen)
+INN_XRND	Andere Innovationsausgaben (ohne Ausgaben für Forschung und Entwicklung)
+INNXRND	Andere Innovationsausgaben (ohne Ausgaben für Forschung und Entwicklung)
+INN_XRND_OWN_PER	Eigenes Personal mit Innovationsaktivitäten
+INNXRND_OWN_PER	Eigenes Personal mit Innovationsaktivitäten
+INN_XRND_CAP_GD	Investitionsgüter für Innovationen (Anschaffung von Maschinen, Ausrüstung, Software, Schutzrechte des intellektuellen Eigentums, Gebäude, usw.)
+INNXRND_CAP_GD	Investitionsgüter für Innovationen (Anschaffung von Maschinen, Ausrüstung, Software, Schutzrechte des intellektuellen Eigentums, Gebäude, usw.)
+INN_XRND_SMSP	Für Innovationen gekaufte Dienstleistungen, Material, Zulieferungsgüter
+INNXRND_SMSP	Für Innovationen gekaufte Dienstleistungen, Material, Zulieferungsgüter
+ACQ_MEBTA	Anschaffung von Maschinen, Ausrüstung, Gebäuden und anderen materiellen Vermögensgegenständen
+ACQ_MES	Anschaffung von Maschinen, Ausrüstung, Software
+SOFT_DBA_DA	Softwareentwicklung, Datenbankverwaltung und Datenanalyse (einschließlich interne Kosten und Kosten für erworbene Dienstleistungen)
+RFM_IPR_PUR_LIC	Registrierung, Verwaltung und Monitoring eigener Schutzrechte des intellektuellen Eigentums, und Erwerb oder Lizenzierung solcher Rechte von Dritten
+ACQ_EKNOW	Erwerb anderen technischen Wissens
+MKTG_BB_ADV	Marketing, Markenentwicklung, Werbung (einschließlich interne Kosten und Kosten für erworbene Dienstleistungen)
+TNG_STAFF	Aus- und Weiterbildung eigenen Personals (einschließlich interne Kosten wie Löhne und Gehälter während der Aus- oder Weiterbildung, und Kosten für von Dritten erworbene Dienstleistungen)
+PRD_DESG	Produktdesign (einschließlich interne Kosten und Kosten für erworbene Dienstleistungen)
+OTH	Sonstige Ausgaben

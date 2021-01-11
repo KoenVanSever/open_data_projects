@@ -1,0 +1,23 @@
+TOTAL	Toutes les entreprises (groupe d'entreprises ou non)
+EG	Groupe d'entreprises
+PEG	Partie d'un groupe d'entreprises
+HD_EG	Tête de groupe
+HD_EGG	Tête de groupe mondial
+HD_NAT	Siège d'un groupe d'entreprises dans le pays
+HD_FOR	Siège d'un groupe d'entreprises à l'étranger
+ENT_EG_NAT	Toutes les entreprises du groupe d'entreprises dans le pays
+HD_LCT	Localisation du siège
+ENEWSUB_IEUR	Entreprises ayant établi de nouvelles filiales dans le pays ressortissant et/ou pays européen
+ENEWSUB_XEUR	Entreprises ayant établi de nouvelles filiales hors de l'Europe
+ENEWSUBXEUR	Entreprises ayant établi de nouvelles filiales hors de l'Europe
+MRG_ENT	Entreprises ayant fusionné avec / reprenant une autre entreprise
+SELL_CL_OUTSRC_TSK	Entreprises ayant vendu / fermé / externalisé des tâches ou fonctions
+SUB	Filiale
+SUB_NAT	Filiale avec tête de groupe mondial dans son propre pays
+SUB_EU27_2020	Filiale avec tête de groupe mondial dans l'UE27 (à partir de 2020)
+SUB_EU28	Filiale avec tête de groupe mondial dans l'UE28 (2013-2020)
+SUB_EU27_2007	Filiale avec tête de groupe mondial dans l'UE27 (2007-2013)
+SUB_XEU27_2020	Filiale avec tête de groupe mondial hors de l'UE27 (à partir de 2020)
+SUB_XEU28	Filiale avec tête de groupe mondial hors de l'UE28 (2013-2020)
+SUB_XEU27_2007	Filiale avec tête de groupe mondial hors de l'UE27 (2007-2013)
+NEG	Pas de groupe d'entreprises

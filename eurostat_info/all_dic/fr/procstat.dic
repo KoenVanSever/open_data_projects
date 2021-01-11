@@ -1,0 +1,27 @@
+PEN	En attente
+REG	Enregistré
+REG_END	Enregistrés à la fin de l'année
+REG_NEW	Nouveaux enregistrés dans l'année
+REG_WDN	Enregistrements retirés pendant l'année
+ERR	Erreur absolue
+INVPEN	Procédure de nullité en cours
+INVDEC	Déclaré nul
+EXPLEG	Dessin ou modèle arrivé à expiration légale
+EXPDAT	Date d'expiration du dessin ou modèle dépassée sans renouvellement
+REGPUB	Enregistré et publié
+REGWPUB	Enregistré et en attente de publication
+SURR	Renonciation
+EXAM	À examiner
+PUBDEF	Publication ajournée
+PUBNDEF	Publication non ajournée
+OPEN	Demande ouverte
+EXP	Expiré
+CANCPEN	Annulation en attente
+CANC	Annulé
+DEEMNF	Jugé non classé
+REF	Refusé
+WDN	Retiré
+DEL	Supprimé
+OPP	Opposé
+APPLBL	Susceptible d'appel
+APP	Appelé

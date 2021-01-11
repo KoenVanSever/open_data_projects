@@ -1,0 +1,187 @@
+TOTAL	Insgesamt
+CRE_DEB_AVG	Durchschnitt von Einnahmen und Ausgaben
+CRE_DEB_SUM	Summe von Einnahmen und Ausgaben
+CRE	Einnahmen
+DEB	Ausgaben
+LOAN	Darlehen
+DPT	Einlage
+NET	Netto
+PRD	Erzeugung
+PRD_U	Verwendbare Erzeugung
+RESASS_MAU	Währungsreserven einschließlich Währungsgold
+ASS	Forderungen
+AD	Bruttoveräußerungen von Vermögenswerten
+AI	Bruttoerwerb von Vermögenswerten
+LIAB	Verbindlichkeiten
+LD	Bruttoabnahme von Verbindlichkeiten
+LI	Bruttozugang an Verbindlichkeiten
+IMP	Einfuhren
+IMP_IEU27_2020	Einfuhren Intra-EU27 (ab 2020)
+IMP_IEU28	Einfuhren Intra-EU28 (2013-2020)
+IMP_XEU	Einfuhren aus nicht-EU Staaten
+IMP_XEU27_2020	Einfuhren Extra-EU27 (ab 2020)
+IMP_XEU28	Einfuhren Extra-EU28 (2013-2020)
+EXP	Ausfuhren
+EXP_IEU27_2020	Ausfuhren Intra-EU27 (ab 2020)
+EXP_IEU28	Ausfuhren Intra-EU28 (2013-2020)
+EXP_XEU	Ausfuhren nach nicht-EU Staaten
+EXP_XEU27_2020	Ausfuhren Extra-EU27 (ab 2020)
+EXP_XEU28	Ausfuhren Extra-EU28 (2013-2020)
+BAL	Saldo
+BAL_RT	Saldo für Werte / Quotient für Indizes
+BAL_TRD	Handelssaldo
+DOM	Inländisch
+DOM_HCN	Inländisch - menschlicher Verzehr
+DOM_IND	Inländisch - industrielle Verwendung
+DOM_IND_BIO	Inländisch - Verwendung als industrielles Bioethanol oder Biokraftstoff
+DOM_ANF	Inländisch - Tierfutter
+DOM_CRU	Inländisch - Pressen
+DOM_SEED	Inländisch - Saatgut
+DOM_LOSS	Inländisch - Verluste
+ADJ	Sonstige Bereinigungen
+TRN	Transaktionen
+M1	Bargeldumlauf und die täglich fälligen Einlagen
+M2	Bargeldumlauf und die täglich fälligen Einlagen (M1) plus Einlagen mit einer vereinbarten Laufzeit von bis zu zwei Jahren und Einlagen mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten
+M3	Bargeldumlauf und die täglich fälligen Einlagen (M1) plus Einlagen mit einer vereinbarten Laufzeit von bis zu zwei Jahren und Einlagen mit einer vereinbarten Kündigungsfrist von bis zu drei Monaten (M2) plus Repogeschäfte und Geldmarktfondsanteile (GMF) und Schuldverschreibungen bis zu zwei Jahren
+STK	Bestand
+STK_OP	Anfangsbestand
+STK_CL	Schlussbestand
+STKCL_CG	Endbestände - Gaspolster
+STKOP_EUE	Anfangsbestände - EU Sicherheitsvorräte
+STKCL_EUE	Endbestände - EU Sicherheitsvorräte
+STKOP_NAT	Anfangsbestände - Hoheitsgebiet des Staates
+STKCL_NAT	Endbestände - Hoheitsgebiet des Staates
+STKOP_JAN_NAT	Endbestände - Hoheitsgebiet des Staates
+STKCL_DEC_NAT	Endbestände - Dezember - Hoheitsgebiet des Staates
+STKOP_EUE_NAT	Anfangsbestände - EU Sicherheitsvorräte - Hoheitsgebiet des Staates
+STKCL_EUE_NAT	Endbestände - EU Sicherheitsvorräte - Hoheitsgebiet des Staates
+STKOP_C_OTH_OA	Anfangsbestände - Im Rahmen von Regierungsvereinbarungen für andere Staaten gelagerte Bestände
+STKCL_C_OTH_OA	Endbestände - Im Rahmen von Regierungsvereinbarungen für andere Staaten gelagerte Bestände
+STKOP_EUE_EU_OTH_OA	Anfangsbestände - EU Sicherheitsvorräte - Im Rahmen von Regierungsvereinbarungen für andere EU-Mitgliedstaaten gelagerte Bestände
+STKCL_EUE_EU_OTH_OA	Endbestände - EU Sicherheitsvorräte - Im Rahmen von Regierungsvereinbarungen für andere EU-Mitgliedstaaten gelagerte Bestände
+STKCL_C_OTH_OA_TKT	Endbestände -  Im Rahmen von Regierungsvereinbarungen für andere Staaten gelagerte Bestände - davon Delegationen
+STKOP_KFD	Anfangsbestände - mit bekannter ausländischer Bestimmung
+STKCL_KFD	Endbestände - mit bekannter ausländischer Bestimmung
+STKOP_EUE_KFDEU	Anfangsbestände - EU Sicherheitsvorräte - mit bekannter EU Auslandsbestimmung
+STKCL_EUE_KFDEU	Endbestände - EU Sicherheitsvorräte - mit bekannter EU Auslandsbestimmung
+STKOP_BAXC_OTH_OA_KFD	Anfangsbestände - unter Zollverschluss ohne im Rahmen von Regierungsvereinbarungen für andere EU-Mitgliedstaaten gelagerte Bestände und Bestände mit bekannter ausländischer Bestimmung
+STKCL_BAXC_OTH_OA_KFD	Endbestände - unter Zollverschluss ohne im Rahmen von Regierungsvereinbarungen für andere EU-Mitgliedstaaten gelagerte Bestände und Bestände mit bekannter ausländischer Bestimmung
+STKOP_MCL	Anfangsbestände - von Großverbrauchern aufgrund gesetzlicher Verpflichtungen gehaltene Bestände
+STKCL_MCL	Endbestände - von Großverbrauchern aufgrund gesetzlicher Verpflichtungen gehaltene Bestände
+STKOP_OV	Anfangsbestände - an Bord einlaufender Hochseeschiffe im Hafen oder auf Reede
+STKCL_OV	Endbestände - an Bord einlaufender Hochseeschiffe im Hafen oder auf Reede
+STKOP_NAT_GOV	Anfangsbestände - von staatlichen Stellen auf dem Hoheitsgebiet des Staates gelagerte Bestände
+STKCL_NAT_GOV	Endbestände - von staatlichen Stellen auf dem Hoheitsgebiet des Staates gelagerte Bestände
+STKOP_EUE_NAT_GOV	Anfangsbestände - EU Sicherheitsvorräte - von staatlichen Stellen auf dem Hoheitsgebiet des Staates
+STKCL_EUE_NAT_GOV	Endbestände - EU Sicherheitsvorräte - von staatlichen Stellen auf dem Hoheitsgebiet des Staates
+STKOP_NAT_SHO	Anfangsbestände - auf dem Hoheitsgebiet des Staates befindliche Bestände von Lagerunternehmen
+STKCL_NAT_SHO	Endbestände - auf dem Hoheitsgebiet des Staates befindliche Bestände von Lagerunternehmen
+STKOP_EUE_NAT_CSE	Anfangsbestände - EU Sicherheitsvorräte - Bestände der Zentralen Bevorratungseinrichtung (ZBE) auf dem Hoheitsgebiet des Staates
+STKCL_EUE_NAT_CSE	Endbestände - EU Sicherheitsvorräte - Bestände der Zentralen Bevorratungseinrichtung (ZBE) auf dem Hoheitsgebiet des Staates
+STKOP_NAT_OTH	Anfangsbestände - alle anderen auf dem Hoheitsgebiet des Staates lagernden Bestände
+STKCL_NAT_OTH	Endbestände - alle anderen auf dem Hoheitsgebiet des Staates lagernden Bestände
+STKOP_EUE_NAT_EO	Anfangsbestände - EU Sicherheitsvorräte - von Wirtschaftsbeteiligten auf dem Hoheitsgebiet des Staates gehaltene Bestände
+STKCL_EUE_NAT_EO	Endbestände - EU Sicherheitsvorräte - von Wirtschaftsbeteiligten auf dem Hoheitsgebiet des Staates gehaltene Bestände
+STKOP_EUE_NAT_CEO_DIR	Anfangsbestände - EU Sicherheitsvorräte - von Wirtschaftsbeteiligten auf dem Hoheitsgebiet des Staates gemäß Richtlinie 2009/119/EG gehaltene kommerzielle Vorräte
+STKCL_EUE_NAT_CEO_DIR	Endbestände - EU Sicherheitsvorräte - von Wirtschaftsbeteiligten auf dem Hoheitsgebiet des Staates gemäß Richtlinie 2009/119/EG gehaltene kommerzielle Vorräte
+STKOP_ABR	Anfangsbestände - im Ausland gelagert
+STKCL_ABR	Endbestände - im Ausland gelagert
+STKCL_ABR_GOV_CSE	Endbestände - im Ausland gelagert - davon im Auftrag der Regierung - Zentralen Bevorratungseinrichtung
+STKOP_ABR_OA	Anfangsbestände - im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände
+STKCL_ABR_OA	Endbestände - im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände
+STKCL_ABR_OA_TKT	Endbestände - für andere Staaten gelagerte Bestände mit Regierungsvereinbarung - davon Delegationen
+STKOP_EUE_ABR_EU_OTH_OA	Anfangsbestände - EU Sicherheitsvorräte - im Ausland in anderen Mitgliedstaaten im Rahmen von Regierungsvereinbarungen lagernde Bestände
+STKCL_EUE_ABR_EU_OTH_OA	Endbestände - EU Sicherheitsvorräte - im Ausland in anderen Mitgliedstaaten im Rahmen von Regierungsvereinbarungen lagernde Bestände
+STKOP_ABR_OA_GOV	Anfangsbestände - im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände staatlicher Stellen
+STKCL_ABR_OA_GOV	Endbestände - im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände staatlicher Stellen
+STKOP_ABR_OA_SHO	Anfangsbestände - im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände von Lagerunternehmen
+STKCL_ABR_OA_SHO	Endbestände - im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände von Lagerunternehmen
+STKOP_ABR_OA_OTH	Anfangsbestände - sonstige im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände
+STKCL_ABR_OA_OTH	Endbestände - sonstige im Ausland im Rahmen von Regierungsvereinbarungen lagernde Bestände
+STKOP_ABR_IMP	Anfangsbestände - im Ausland lagernde Bestände - die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+STKCL_ABR_IMP	Endbestände - im Ausland lagernde Bestände - die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+STKOP_EUE_EU_OTH_IMP	Anfangsbestände - EU Sicherheitsvorräte - im EU-Ausland lagernde Bestände, die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+STKCL_EUE_EU_OTH_IMP	Endbestände - EU Sicherheitsvorräte - im EU-Ausland lagernde Bestände, die endgültig für die Einfuhr in Ihr Land vorgesehen sind
+STKOP_BA	Anfangsbestände - sonstige Bestände unter Zollverschluss
+STKCL_BA	Endbestände - sonstige Bestände unter Zollverschluss
+STKOP_PF	Anfangsbestände - Pipelineinhalt
+STKCL_PF	Endbestände - Pipelineinhalt
+STK_EUE_MTH	Methode des Mitgliedstaats für die Lagerung von Sicherheitsbeständen
+STK_EUE_DIR	Vom Mitgliedstaat gemäß EU-Richtlinie gehaltene Sicherheitsbestände (in Tagesäquivalenten)
+STK_EUE_DNY_MTH	Methode des Abzuges der Naphta  Ausbeute - EU Sicherheitsvorräte
+STK_EUE_MIN_MTH	Methode zur Berechnung der Mindestvorräte -  EU Sicherheitsvorräte
+IMP_DNC	Tägliche Nettoeinfuhren gemäß Richtlinie
+IC_DC	Tägliche Inlandsverbrauch gemäß Richtlinie
+NETIMP_ICC_CAL	Tägliche Nettoeinfuhren oder Inlandsverbrauch gemäß Richtlinie - berechnet
+OBL_MTH_CAL	Methode zur Berechnung der Verpflichtung - berechnet
+STK_MIN_CAL	Mindestvorräte gemäß Richtlinie - berechnet
+MRGO	Bruttoraffinerieaustoß (Summe der monatlichen Zahlen)
+MRF	Rafffineriebrennstoffe (Summe der monatlichen Zahlen)
+MIMP	Einfuhren (Summe der monatlichen Zahlen)
+MEXP	Ausfuhren (Summe der monatlichen Zahlen)
+MRI_CAL	Raffinerieeingang - berechnet (Summe der monatlichen Zahlen)
+MINTMARB	Internationale Bunker (Summe der monatlichen Zahlen)
+MGID_OBS	Bruttoinlandslieferungen (Summe der monatlichen Zahlen)
+MBKFLOW	Raffinerierückflüsse (Summe der monatlichen Zahlen)
+STK_BMY	Bestand zu Beginn des Vermarktungsjahres
+STK_EMY	Bestand am Ende des Vermarktungsjahres
+STK_CHG	Bestandsveränderungen
+STK_GRS	Bruttobestand
+STK_NET	Nettobestand
+FLOW_GRS	Bruttoaufkommen
+FLOW_NET	Nettoaufkommen
+EXPN	Ausgaben
+INC	Einkommens
+SAV	Ersparnisse
+WLTH_NET	Nettovermögen
+INCR	Zunahme
+DECR	Abnahme
+NAI	Nettojahreszuwachs
+RMOV	Entnahmen
+LOSS	Verluste
+LOSS_MEUR	Verluste - Millionen Euro
+LOSS_MET	Verluste durch meteorologische Ereignisse
+LOSS_MET_MEUR	Verluste durch meteorologische Ereignisse - Millionen Euro
+LOSS_HYD	Verluste durch hydrologische Ereignisse
+LOSS_HYD_MEUR	Verluste durch hydrologische Ereignisse - Millionen Euro
+LOSS_CLIM	Verluste durch klimatologische Ereignisse
+LOSS_CLIM_MEUR	Verluste durch klimatologische Ereignisse - Millionen Euro
+LOSS_AVG30Y_MEUR	Durchschnittliche Verluste über 30 Jahre - Millionen Euro
+LOSS_AVG30Y_EUR_HAB	Durchschnittliche Verluste über 30 Jahre - Euro pro Kopf
+ENT	Zugänge
+EXIT	Abgänge
+IN	Eingänge
+OUT	Ausgänge
+PAID	Bezahlt
+RECV	Erhalten
+SUP	Aufkommen
+USE	Verwendung
+USE_TRS	Umwandlungsverwendung
+USE_END	Endverwendung
+ER_USE	Emissionsrelevante Verwendung
+BL	Rückwärtsverflechtungen
+FL	Vorwärtsverflechtungen
+REVAL	Wertberichtigung
+RCLAS	Statistische Neuzuordnung
+II	Nettoeträge aus ausländischen Direktinvestitionen im Inland
+IO	Nettoerträge aus inländischen Direktinvestitionen im Ausland
+NI	Ausländische Netto-Direktinvestitionen im Inland
+NO	Inländische Netto-Direktinvestitionen in das Ausland
+K3-K6	Sonstige Ströme: Katastrophenschäden, Enteignungsgewinne/-verluste, sonstige Volumenänderungen und Änderungen der Zuordnung
+K7	Nominale Umbewertungsgewinne/ -verluste
+A_LE	Aktiva - Bestände am Ende des Zeitraums
+A_K7A	Aktiva - Neubewertungen aufgrund von Wechselkursänderungen
+A_K7B	Aktiva - Neubewertungen aufgrund sonstiger Preisveränderungen
+A_KA	Aktiva - sonstige Volumenänderungen von Aktiva/Passiva
+L_LE	Passiva - Bestände am Ende des Zeitraums
+L_K7A	Passiva  - Neubewertungen aufgrund von Wechselkursänderungen
+L_K7B	Passiva - Neubewertungen aufgrund sonstiger Preisveränderungen
+L_KA	Passiva - sonstige Volumenänderungen von Aktiva/Passiva
+N_LE	Netto-Bestände am Ende des Zeitraums
+N_K7A	Netto-Neubewertungen aufgrund von Wechselkursveränderungen
+N_K7B	Netto-Neubewertungen aufgrund sonstiger Preisveränderungen
+N_KA	Sonstige Netto-Volumenänderungen von Aktiva/Pasiva
+NE_LE	Netto-Passiva (Passiva minus Aktiva)
+HUMD_PC	Feuchtigkeitsgehalt (%)
+NSP	Nicht angegeben
+UNK	Unbekannt

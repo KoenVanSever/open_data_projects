@@ -1,0 +1,16 @@
+THCV	Thermique conventionnel
+THCV_STM	Vapeur
+THCV_INCOMB	Combustion interne
+THCV_GTURB	Turbine à gaz
+THCV_CCYCLE	Cycle combiné
+THCV_OTH	Autre type de production
+SGLFF	Alimenté en monocombustible
+SGLFF_COAL	Alimenté en monocombustible - charbon et produits houilleux
+SGLFF_LIQF_RG	Alimenté en monocombustible - carburants liquides et gaz de raffinerie
+SGLFF_NG_GWG	Alimenté en monocombustible - gaz naturel et gaz d'usine à gaz
+SGLFF_PEAT	Alimenté en monocombustible - tourbe
+SGLFF_BIOF_WST	Alimenté en monocombustible - biocarburants et déchets
+MLTFF_SLD_LIQ	Alimenté en pluricombustible - solide et liquide
+MLTFF_LIQ_NG	Alimenté en pluricombustible - liquide et gaz naturel
+MLTFF_SLD_NG	Alimenté en pluricombustible - solide et gaz naturel
+MLTFF_SLD_LIQ_NG	Alimenté en pluricombustible - solide, liquide et gaz naturel

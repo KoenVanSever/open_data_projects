@@ -1,0 +1,15 @@
+TOTAL	Insgesamt
+PAS	Passagierflugzeuge
+PAS_ST_LE50	Passagierflugzeuge mit 50 oder weniger Sitzen
+PAS_ST51-150	Passagierflugzeuge mit 51 bis 150 Sitzen
+PAS_ST151-250	Passagierflugzeuge mit 151 bis 250 Sitzen
+PAS_ST_GT250	Passagierflugzeuge mit mehr als 250 Sitzen
+CARGO	Frachtflugzeuge
+CARGO_LBS_LT100000	Frachtflugzeuge mit einem Starthöchstgewicht von weniger als 100 000 lbs
+CARGO_LBS_GT100000	Frachtflugzeuge mit einem Starthöchstgewicht von mehr als 100 000 lbs
+SPE_AMB_BSN	Spezial-, Ambulanz- und Geschäftsflugzeuge
+SPE_AMB	Spezial- und Ambulanzflugzeuge
+BSN_CRP_EXE	Geschäftsflugzeuge
+COMBI	Kombi-Flugzeuge
+QUICK	Schnell umrüstbare Flugzeuge
+OTH	Sonstige

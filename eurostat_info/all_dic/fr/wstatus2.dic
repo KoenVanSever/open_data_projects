@@ -1,0 +1,73 @@
+TOTAL	Total
+POP	Population
+ACT_INAC	Personnes actives et inactives
+ACT	Personnes actives
+EMP_W	Personnes employées actuellement et auparavant 
+EMP	Personnes occupées
+EMP_FT	Personnes occupées à plein temps
+EMP_PT	Personnes occupées à temps partiel
+LEAV	Personnes occupées en congé temporaire
+SAL_SCTR	Salariés et sous-traitants
+SAL	Salariés
+SAL_PERM	Salariés avec un emploi permanent
+SAL_TEMP	Salariés avec un emploi temporaire
+MW_IS	Ouvriers dans l'industrie et les services
+NMW_IS	Employés dans l'industrie et les services
+NSAL	Personnes occupées sauf salariés
+SELF_COWN	Travailleurs indépendants et copropriétaire
+SELF	Travailleurs indépendants
+SELF_S	Travailleurs indépendants avec salariés (employeurs)
+SELF_NS	Travailleurs indépendants sans salariés 
+SELF_I_NS	Independent self-employed without employees (own-account workers)
+SELF_D_NS	Dependent self-employed without employees (own-account workers)
+SELF_NS_D_UNK	Self-employed without employees (own-account workers), dependency not known
+CFAM_COOP	Travailleurs familiaux collaborant à l'entreprise familiale et membres de coopératives de producteurs
+CFAM	Travailleurs familiaux collaborant à l'entreprise familiale
+NCFAM	Personnes occupées sauf travailleurs familiaux collaborant à l'entreprise familiale
+COOP	Membres de coopératives de producteurs
+EMP_OTH	Autres personnes occupées
+EMP_UNK	Personnes occupées - inconnu
+FLF_D	Main-d'oeuvre agricole, directement employée par l'exploitation agricole régulièrement ou non régulièrement
+FLF_D_R	Main-d'oeuvre agricole, directement employée par l'exploitation agricole de manière régulière
+FLF_D_RFAM	Main-d'oeuvre agricole familiale directement employée par l'exploitation agricole
+FLF_D_RFAM_HLD	Exploitant individuel directement employé par l'exploitation agricole
+FLF_D_RFAMXHLD	Membres de la famille de l'exploitant individuel, sauf l'exploitant, directement employés par l'exploitation agricole
+FLF_D_RFAM_SPOU	Conjoint de l'exploitant individuel directement employé par l'exploitation agricole
+FLF_D_RFAM_OTH	Autres membres de la famille de l'exploitant individuel directement employés par l'exploitation agricole
+FLF_D_NFAM	Main-d'oeuvre agricole non-familiale directement employée par l'exploitation agricole
+FLF_D_RNFAM	Main-d'oeuvre agricole non-familiale,  directement employée par l'exploitation agricole de manière régulière
+FLF_D_NR	Main-d'oeuvre agricole,  directement employée par l'exploitation agricole de manière non régulière
+FLF_ND	Main-d'oeuvre agricole, non directement employée par l'exploitation agricole
+FLF_GRP	Groupement d'exploitants
+FLF_MANXGRP	Chefs d'exploitations agricoles, sauf groupement d'exploitations
+NEMP	Personnes non occupées
+UNE	Chômeurs
+UNE_W	Chômeurs ayant travaillé auparavant
+UNE_NW	Chômeurs n'ayant jamais travaillé auparavant
+ACT_UNK	Population active - inconnu
+INAC	Personnes inactives
+LT_MWA	Personnes en dessous de lâge minimal requis pour travailler
+INAC_GE65	Personnes inactives - 65 ans ou plus
+EDUC	Étudiants
+ARM	Personnes effectuant le service militaire obligatoire ou le service civil
+HOME_IO	Personnes s'occupant du foyer et autres personnes inactives
+HOME	Personnes s'occupant du foyer
+DIS	Personnes invalides
+INC	Retraités et rentiers
+RET	Retraités
+INAC_OTH	Autres personnes inactives
+INAC_UNK	Personnes inactives - inconnu
+COWN	Copropriétaire
+CLIENT	Clients
+SCTR	Sous-traitants
+NONE	Aucun
+NCHG	Aucun changement
+OTH	Autres
+NAP	Non applicable
+NRP	Sans réponse
+UNK	Inconnu
+WANT	Personnes souhaitant travailler (cherchant ou non un emploi)
+NWANT	Personnes ne voulant pas travailler
+PRACT	Exerçant leur profession
+PACT	Professionnellement actifs
+LIC	Habilité à exercer

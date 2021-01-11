@@ -1,0 +1,16 @@
+S1	Volkswirtschaft
+S121	Zentralbank
+S12T	Kreditinstitute (ohne Zentralbank) und Geldmarktfonds
+S122	Kreditinstitute (ohne Zentralbank)
+S123	Geldmarktfonds
+S13	Staat
+S1P	Übrige Sektoren als MFI und Staat
+S12M	Finanzielle Kapitalgesellschaften andere als Kreditinstitute und Geldmarktfonds
+S1V	Nichtfinanzielle Kapitalgesellschaften; private Haushalte; private Organisationen ohne Erwerbszweck
+S1A	Tochtergesellschaften
+S1W	Sonstige Sektoren als Staat
+S1Z	Sonstige Sektoren als Kreditinstitute und Staat
+S1X	Währungsbehörden
+S12R	Sonstige Finanzielle Kapitalgesellschaften
+S1N	Unsortiert
+S12K	Kreditinstitute und Geldmarktfonds

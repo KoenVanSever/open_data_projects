@@ -1,0 +1,104 @@
+RW	Bois rond (bois brut)
+RW_C	Bois rond industriel, bois de chauffage - conifères
+RW_NC	Bois rond industriel, bois de chauffage - feuillus
+RW_FW	Bois de chauffage (y compris le bois de carbonisation)
+RW_FW_C	Bois de chauffage - conifères
+RW_FW_NC	Bois de chauffage - feuillus
+RW_IN	Bois rond industriel
+RW_IN_C	Bois rond industriel - conifères
+RW_IN_NC	Bois rond industriel - feuillus
+RW_IN_TNC	Bois rond industriel - tropicaux, feuillus
+RW_IN_LG	Grumes de sciage et de placage
+RW_IN_LG_C	Grumes de sciage et de placage - conifères
+RW_IN_LG_NC	Grumes de sciage et de placage - feuillus
+RW_IN_PW_O	Bois de trituration, rondins et quartiers et autres bois ronds industriels
+RW_IN_PW	Bois de trituration, rondins et quartiers
+RW_IN_PW_C	Bois de trituration, rondins et quartiers - conifères
+RW_IN_PW_NC	Bois de trituration, rondins et quartiers - feuillus
+RW_IN_O	Autres bois ronds industriels
+RW_IN_O_C	Autres bois ronds industriels - conifères
+RW_IN_O_NC	Autres bois ronds industriels - feuillus
+CHA	Charbon de bois
+CHP_RES	Plaquettes, particules et résidus de bois
+CHP	Plaquettes et particules de bois
+RES	Résidus de bois (y compris le bois pour agglomérés)
+RCW	Bois valorisé
+PEL_AGG	Granulés de bois et autres agglomérés
+PEL	Granulés de bois
+AGG	Autres agglomérés
+SN	Sciages (y compris les traverses)
+SN_C	Sciages (y compris les traverses) - conifères
+SN_NC	Sciages (y compris les traverses) - feuillus
+SN_TNC	Sciages (y compris les traverses) - tropicaux. feuillus
+PN	Panneaux dérivés du bois
+PN_VN	Feuilles de placage
+PN_VN_C	Feuilles de placage - conifères
+PN_VN_NC	Feuilles de placage - feuillus
+PN_VN_TNC	Feuilles de placage - tropicaux, feuillus
+PN_PY	Contreplaqués
+PN_PY_C	Contreplaqués - conifères
+PN_PY_NC	Contreplaqués - feuillus
+PN_PY_TNC	Contreplaqués - tropicaux, feuillus
+PN_PB	Panneaux de particules, panneaux structuraux orientés (OSB) et autres panneaux similiares
+PN_PB_OSB	Panneaux structuraux orientés (OSB)
+PN_FB	Panneaux de fibres
+PN_FB_HB	Panneaux durs
+PN_FB_MDF	Panneaux de fibres de densité moyenne/élevée (MDF/HDF)
+PN_FB_O	Autres panneaux de fibres
+GLT	Bois lamellé-collé
+CLT	Bois contre-collé
+PL	Pâtes de bois
+PL_MC_SCH	Pâtes de bois mécaniques et mi-chimiques
+PL_MC_SCH_NW	Pâtes de bois mécaniques, mi-chimiques et pâtes obtenues à partir de fibres autres que de bois
+PL_MC	Pâtes de bois mécaniques
+PL_SCH	Pâtes de bois mi-chimiques
+PL_CH_DS	Pâtes de bois chimiques et à dissoudre
+PL_CH	Pâtes de bois chimiques
+PL_CH_SA	Pâtes de bois au sulfate
+PL_CH_SANB	Pâtes de bois au sulfate écrues
+PL_CH_SAB	Pâtes de bois au sulfate blanchies
+PL_CH_SI	Pâtes de bois au bisulfite
+PL_CH_SINB	Pâtes de bois au bisulfite écrues
+PL_CH_SIB	Pâtes de bois au bisulfite blanchies
+PL_DS	Pâtes de bois à dissoudre
+PLO	Autres pâtes
+PLO_NW	Pâtes obtenues à partir de fibres autres que de bois
+PLO_RC	Pâte de fibres récupérées
+RCP	Papiers de récupération
+PP	Papiers et cartons
+PP_GR	Papiers graphiques
+PP_GR_NP	Papier journal
+PP_GR_CO_NCO	Papiers graphiques, d'impression et d'écriture
+PP_GR_MC	Papiers non couchés fabriqués mécaniquement
+PP_GR_NW	Papiers non couchés sans bois
+PP_GR_CO	Papiers couchés
+PP_HS	Papiers domestiques et hygiéniques
+PP_PK	Matériaux d'emballage
+PP_PK_CS	Caisses
+PP_PK_CB	Planches de carton
+PP_PK_WR	Papiers d'emballage
+PP_PK_O	Autres papiers, surtout d'empaquetage
+PP_O	Autres papiers et cartons n.d.a.
+SW	Ouvrages en bois transformés
+SW_SN	Sciages transformés
+SW_SN_C	Sciages transformés - conifères
+SW_SN_NC	Sciages transformés - feuillus
+SW_SN_TNC	Sciages transformés - tropicaux, feuillus
+SW_WR	Matériel d'emballage en bois
+SW_DM	Produits de bois pour utilisation domestique/décorative
+SW_O	Autres produits de bois fabriqués
+SW_JN	Menuiserie et charpenterie de construction en bois
+SW_FU	Meubles en bois
+SW_BL	Bâtiments préfabriqués
+SW_BL_W	Bâtiments préfabriqués en bois
+SP	Articles en papier transformés
+SP_CM	Papiers et cartons composites
+SP_SCO	Papiers couchés et articles en pâte à papier spéciaux
+SP_CC	Papier carbone et papier à copier prêts à l'emploi
+SP_HS	Papiers domestiques et hygiéniques prêts à l'emploi
+SP_PK	Cartons, boîtes, etc. d'emballage
+SP_O	Autres articles en papier ou carton, prêts à l'emploi
+SP_O_PR	Autres articles en papier ou carton, papiers d'impression et d'écriture prêts à l'emploi
+SP_O_AR	Autres articles en papier ou carton, articles moulés ou pressés en pâte à papier
+SP_O_FL	Autres articles en papier ou carton, papiers et cartons filtrés prêts à l'emploi
+SP_PR	Papiers d'impression

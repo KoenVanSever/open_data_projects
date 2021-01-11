@@ -1,0 +1,26 @@
+TOT_GJ	Verbrauch in GJ - alle Verbrauchsgruppen
+GJ_LT20	Verbrauch weniger als 20 GJ - Gruppe D1
+GJ20-199	Verbrauch von 20 GJ bis 199 GJ - Gruppe D2
+GJ_GE200	Verbrauch von 200 GJ oder mehr - Gruppe D3
+GJ_LE3999999	Verbrauch weniger als 3 999 999 GJ - Gruppe I1 bis I5
+GJ_LT1000	Verbrauch weniger als 1 000 GJ - Gruppe I1
+GJ1000-9999	Verbrauch von 1 000 GJ bis 9 999 GJ - Gruppe I2
+GJ10000-99999	Verbrauch von 10 000 GJ bis 99 999 GJ - Gruppe I3
+GJ100000-999999	Verbrauch von 100 000 GJ bis 999 999 GJ - Gruppe I4
+GJ1000000-3999999	Verbrauch von 1 000 000 GJ bis 3 999 999 GJ - Gruppe I5
+GJ_GE4000000	Verbrauch von 4 000 000 GJ oder mehr - Gruppe I6
+TOT_KWH	Verbrauch in kWh - alle Verbrauchsgruppen
+KWH_LT1000	Verbrauch weniger als 1 000 kWh - Gruppe DA
+KWH1000-2499	Verbrauch von 1 000 kWh bis 2 499 kWh - Gruppe DB
+KWH2500-4999	Verbrauch von 2 500 kWh bis 4 999 kWh - Gruppe DC
+KWH5000-14999	Verbrauch von 5 000 kWh bis 14 999 kWh - Gruppe DD
+KWH_LE15000	Verbrauch von 15 000 kWh oder mehr - Gruppe DE
+TOT_MWH	Verbrauch in MWh - alle Verbrauchsgruppen
+MWH_LE149999	Verbrauch weniger als 149 999 MWh - Gruppe IA bis IF
+MWH_LT20	Verbrauch weniger als 20 MWh - Gruppe IA
+MWH20-499	Verbrauch von 20 MWh bis 499 MWh - Gruppe IB
+MWH500-1999	Verbrauch von 500 MWh bis 1 999 MWh - Gruppe IC
+MWH2000-19999	Verbrauch von 2 000 MWh bis 19 999 MWh - Gruppe ID
+MWH20000-69999	Verbrauch von 20 000 MWh bis 69 999 MWh - Gruppe IE
+MWH70000-149999	Verbrauch von 70 000 MWh bis 149 999 MWh - Gruppe IF
+MWH_GE150000	Verbrauch von 150 000 MWh oder mehr - Gruppe IG

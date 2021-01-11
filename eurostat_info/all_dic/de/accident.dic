@@ -1,0 +1,26 @@
+TOTAL	Ingesamt
+SRS	Schwere Unfälle
+SRS_F	Schwere Unfälle - Frauen
+SRS_M	Schwere Unfälle - Männer
+FATAL	Tödliche Unfälle
+COLLIS	Kollisionen von Zügen einschließlich Kollisionen mit Hindernissen innerhalb des Lichtraumprofils
+COLLIS_X_LVLCROS	Zusammenstösse (ausgenommen Unfälle an Bahnübergängen)
+DERAIL	Zugentgleisungen
+DGD	Unfälle im Zusammenhang mit der Beförderung gefährlicher Güter
+NDGD	Unfälle, in denen der Transport von gefährlichen Gütern nicht verwickelt ist
+DGD_RL	Unfälle, bei denen gefährliche Güter freigesetzt werden
+DGD_NRL	Unfälle, bei denen gefährliche Güter nicht freigesetzt werden
+LVLCROS	Unfälle auf Bahnübergängen
+RSTK_MOT	Unfälle mit Personenschäden die von in Bewegung befindlichen Eisenbahnfahrzeugen verursacht wurden
+RD_TRF	Strassenverkehr
+HOM_SCH	Unfall zu Hause / in der Schule / in der Freizeit
+HOM_LEIS	Hause und Freizeit
+HOM	Hause
+LEIS	Freizeit
+RSTK_FIRE	Fahrzeugbrände
+FAT_NT	Zahl der Todesfälle bei Unfällen auf einem Hoheitsgebiet unabhängig von der Nationalität der Fluggesellschaften
+ACC_NT	Zahl der Unfälle mit Verletzten auf einem Hoheitsgebiet unabhängig von der Nationalität der Fluggesellschaften
+FAT_NC	Zahl der Todesfälle bei Unfällen mit Beteiligung einer inländischen Gesellschaft unabhängig davon, auf wessen Hoheitsgebiet der Unfall stattfand
+ACC_NC	Zahl der Unfälle mit Verletzten mit Beteiligung einer inländischen Gesellschaft unabhängig davon, auf wessen Hoheitsgebiet der Unfall stattfand
+OTH	Sonstige
+UNK	Unbekannt

@@ -1,0 +1,78 @@
+TOTAL	Insgesamt
+AC0	Körperpflege
+AC0A	Körperpflege ohne Essen
+AC01	Schlafen
+AC02	Essen
+AC03	Andere und/oder nicht spezifizierte Körperpflege 
+AC1_2_TR	Arbeit und Aus- und Weiterbildung
+AC1_TR	Erwerbstätigkeit und damit verbundene Aktivitäten und Wege als Teil/während der Haupt- und Nebentätigkeit
+AC1A	Haupt- und Nebentätigkeit und verbundene Wege
+AC1B	Tätigkeiten im Zusammenhang mit der Erwerbstätigkeit und unspezifizierte Erwerbstätigkeit
+AC2	Aus- und Weiterbildung
+AC21A	Schule und Universität ohne Hausaufgaben
+AC212	Hausaufgaben
+AC22	Aus- und Weiterbildung in der Freizeit
+AC3_X_38	Haushaltsführung und Familienversorgung ohne Kinderbetreuung
+AC3	Haushaltsführung und Familienversorgung
+AC3_TR	Haushaltsführung und Familienversorgung und verbundene Wege
+AC31A	Essenszubereitung ohne Geschirr spülen
+AC313	Geschirr spülen
+AC321	Reinigung der Wohnung
+AC32A	Haushalt instand halten ohne Reinigen der Wohnung
+AC331	Wäsche waschen
+AC332	Wäsche bügeln
+AC33A	Handarbeiten und Herstellung von Kleidung und andere Textilpflege
+AC34A	Gartenarbeit; andere Tierpflege
+AC342	Haustiere hüten
+AC343	Haustierpflege
+AC344	Mit dem Hund spazieren gehen
+AC35	Bau und Reparaturen
+AC36	Einkaufen und Dienstleistungen
+AC38	Kinderbetreuung, inklusive lernen, lesen und sprechen mit dem Kind 
+AC38A	Kinderbetreuung ohne mit dem Kind lernen, vorlesen und sprechen
+AC38B	Mit dem Kind lernen, vorlesen und sprechen
+AC37_39	Haushaltsplanung und -organisation und Hilfe für Familienmitglieder
+AC4-8	Freizeit, soziale und Vereinsaktivitäten
+AC4-8A	Freizeit, soziale und Vereinsaktivitäten ohne Fernsehen und Video
+AC41	Arbeit für eine Organisation
+AC41A	Formellen freiwilligen Aktivitäten
+AC42	Informelle Hilfe für andere Haushalte
+AC42A	Informellen freiwilligen Aktivitäten
+AC43	Teilnehmende Aktivitäten
+AC43A	Bürgerinitiativen
+AC511	Ausgehen mit der Familie
+AC51A	Besuche und Feste
+AC51B	Anderes Sozialleben
+AC52	Unterhaltung und Kultur
+AC52A	Kulturelle Aktivitäten (Kino, Live-Veranstaltungen oder Kulturstätten)
+AC521	Kino
+AC522	Theater und Konzerte
+AC522A	Live-Veranstaltungen  (Theater, Konzerte, Ballett)
+AC523H	Kulturstätten (Baudenkmäler, Museen, Kunstgalerien oder archäologische Stätten)
+AC525	Sportereignisse
+AC53	Ruhen
+AC611	Spazieren gehen und wandern
+AC6A	Sport und Aktivitäten im Freien ohne Spazieren gehen und wandern
+AC733	Computerspiele
+AC7A	Aktivitäten am Computer
+AC7B	Hobbys und Spiele ohne Aktivitäten am Computer und Computerspiele
+AC81	Lesen
+AC812	Bücher lesen
+AC811	Lesen, außer Bücher 
+AC82	Fernsehen und Video
+AC83	Radio und Musik
+AC4-8NSP	Unspezifizierte Freizeitaktivität
+AC9A	Wege ohne mit der Erwerbstätigkeit verbundene Wege
+AC913	Wege zur/von der Arbeit
+AC9B	Wege - Aus- und Weiterbildung
+AC936	Wege - Einkaufen und Dienstleistungen
+AC938	Wege - Kind
+AC9C	Wege - andere Haushaltsaktivitäten
+AC9D	Wege - Freizeit und soziale und Vereinsaktivitäten
+AC90NSP	Unspezifizierte Wege
+AC99NSP	Unspezifizierte Zeitverwendung
+AC9E	Wege zur/von der Arbeit/Aus- und Weiterbildung
+NSP	Unspezifizierte Zeitverwendung und Wege
+AC_PNP_MAIN	Bezahlte und unbezahlte produktive Hauptaktivitäten
+AC_NP_MAIN	Produktive unbezahlte Hauptaktivitäten
+AC_NP_SEC	Produktive unbezahlte Nebentätigkeiten

@@ -1,0 +1,24 @@
+TOT_HF	Finanzierungssysteme insgesamt
+HF1	Staatliche Systeme und Finanzierungssysteme der Gesundheitsversorgung mit Pflichtbeiträgen
+HF11	Staatliche Systeme
+HF12_13	Obligatorische beitragspflichtige Krankenversicherungen und obligatorische Sparkonten für Gesundheitsleistungen (CMSA)
+HF121	Systeme der sozialen Krankenversicherung
+HF122	Systeme der Privatpflichtversicherung
+HF13	Obligatorische Sparkonten für Gesundheitsleistungen (CMSA)
+HF2	Freiwillige Zahlungssysteme für Gesundheitsversorgung
+HF21	Freiwillige Krankenversicherungen
+HF22	Finanzierungssysteme von Einrichtungen ohne Erwerbszweck
+HF23	Finanzierungssysteme von Unternehmen
+HF3	Selbstzahlungen der Haushalte
+HF31	Selbstzahlungen ohne Kostenteilung
+HF32	Kostenteilung mit Dritten
+HF4	Ausländische Finanzierungssysteme (nicht ansässig)
+HF41	Obligatorische Systeme (nicht ansässig)
+HF42	Freiwillige Systeme (nicht ansässig)
+HF_UNK	Finanzierungssysteme (nicht bekannt)
+HFRI1	Finanzierungssysteme verwaltende institutionelle Einheiten
+HFRI11	Staat
+HFRI12-14	Unternehmen, Haushalte und POOE
+HFRI15	Übrige Welt
+HFRI2	Staatliche Systeme und Finanzierungssysteme der Gesundheitsversorgung mit Pflichtbeiträgen zusammen mit Kostenteilung (HF.1 + HF.3.2.1)
+HFRI3	Freiwillige Krankenversicherungen zusammen mit Kostenteilung (HF.2.1 + HF.3.2.2)

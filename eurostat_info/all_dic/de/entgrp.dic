@@ -1,0 +1,23 @@
+TOTAL	Alle Unternehmen (Unternehmensgruppe + keine Unternehmensgruppe)
+EG	Unternehmensgruppe
+PEG	Teil einer Unternehmensgruppe
+HD_EG	Gruppenoberhaupt
+HD_EGG	Gruppenoberhaupt der weltweiten Gruppe
+HD_NAT	Sitz der Unternehmensgruppe im Inland
+HD_FOR	Sitz der Unternehmensgruppe im Ausland
+ENT_EG_NAT	Alle Unternehmen der Unternehmensgruppe im Inland
+HD_LCT	Ort des Sitzes
+ENEWSUB_IEUR	Unternehmen, die Zweigstellen im Inland und/oder einem europäischen Land eingerichtet haben
+ENEWSUB_XEUR	Unternehmen, die neue Zweigstellen außerhalb Europas eingerichtet haben
+ENEWSUBXEUR	Unternehmen, die neue Zweigstellen außerhalb Europas eingerichtet haben
+MRG_ENT	Unternehmen, die mit einem anderen Unternehmen fusioniert haben / übernommne wurden
+SELL_CL_OUTSRC_TSK	Unternehmen, die Aufgaben oder Fuktionen verkauft/geschlossen/outgesourced haben
+SUB	Tochterunternehmen
+SUB_NAT	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe im eigenen Land
+SUB_EU27_2020	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe in der EU27 (ab 2020)
+SUB_EU28	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe in der EU28 (2013-2020)
+SUB_EU27_2007	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe in der EU27 (2007-2013)
+SUB_XEU27_2020	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe außerhalb der EU27 (ab 2020)
+SUB_XEU28	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe außerhalb der EU28 (2013-2020)
+SUB_XEU27_2007	Tochterunternehmen mit Gruppenoberhaupt der weltweiten Gruppe außerhalb der EU27 (2007-2013)
+NEG	Keine Unternehmensgruppe

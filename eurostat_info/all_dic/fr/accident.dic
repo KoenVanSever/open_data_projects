@@ -1,0 +1,26 @@
+TOTAL	Total
+SRS	Accidents graves
+SRS_F	Accidents graves - femmes
+SRS_M	Accidents graves - hommes
+FATAL	Accidents mortels
+COLLIS	Collisions de trains, y compris les collisions avec des obstacles à l'intérieur du gabarit
+COLLIS_X_LVLCROS	Collisions (à l'exception des accidents survenant à un  passage à niveau)
+DERAIL	Déraillements des trains
+DGD	Accidents lors du transport de marchandises dangereuses
+NDGD	Accidents n'impliquant pas un transport de matières dangereuses
+DGD_RL	Accidents entraînant la liberation de sunbstances dangereuses
+DGD_NRL	Accidents n'entraînant pas la liberation de substances dangereuses
+LVLCROS	Accidents aux passages à niveau
+RSTK_MOT	Accidents de personnes causés par le matériel roulant en mouvement
+RD_TRF	Trafic routier
+HOM_SCH	Accident domestique / à l'école / loisir
+HOM_LEIS	Domicile et loisir
+HOM	Domicile
+LEIS	Loisir
+RSTK_FIRE	Incendies dans le matériel roulant
+FAT_NT	Décès dans des accidents sur le territoire national quelle que soit la nationalité du transporteur aérien
+ACC_NT	Accidents sur le territoire national quelle que soit la nationalité du transporteur aérien
+FAT_NC	Décès dans des accidents impliquant une compagnie nationale quel que soit le territoire sur lequel l'accident s'est produit
+ACC_NC	Accidents impliquant une compagnie nationale quel que soit le territoire sur lequel l'accident s'est produit
+OTH	Autres
+UNK	Inconnu

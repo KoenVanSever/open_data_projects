@@ -1,0 +1,613 @@
+B1GQ	Bruttoinlandsprodukt zu Marktpreisen
+B1G	Bruttowertschöpfung
+P1	Produktionswert
+P2	Vorleistungen
+P3	Konsumausgaben
+P31	Konsumausgaben für den Individualverbrauch
+P32	Konsumausgaben für den Kollektivverbrauch
+P4	Konsum nach dem Verbrauchskonzept
+P3_S13	Konsumausgaben des Staates
+P31_S13	Konsumausgaben des Staates, für den Individualverbrauch
+P32_S13	Konsum ausgaben des Staates für den Kollektivverbrauch
+P31_S14_S15	Konsumausgaben der privaten Haushalte und POoE
+P31_S14	Konsumausgaben der privaten Haushalte
+P31_S15	Konsumausgaben der POoE
+P41	Individualkonsum
+P5G	Bruttoinvestitionen
+P5	Bruttoinvestitionen
+P51G	Bruttoanlageinvestitionen
+P51G_S14_S15	Bruttoanlageinvestitionen der privaten Haushalte und POoE
+P52_P53	Vorratsveränderungen und Nettozugang an Wertsachen
+P52	Vorratsveränderungen
+P53	Nettozugang an Wertsachen
+P6	Exporte
+P61	Warenexporte
+P62	Dienstleistungsexporte
+P7	Importe
+P71	Warenimporte
+P72	Dienstleistungsimporte
+B11	Aussenbeitrag
+B111	Aussenbeitrag - Güter
+B112	Aussenbeitrag - Dienstleistungen
+D1	Arbeitnehmerentgelt
+D11	Bruttolöhne und ?gehälter
+D12	Sozialbeiträge der Arbeitgeber
+D1_D61NET	Arbeitnehmerentgelt und Nettosozialbeiträge (RECV-PAID)
+B2A3G	Bruttobetriebsüberschuß und Bruttoselbständigeneinkommen
+D2X3	Produktions- und Importabgaben abzgl. Subventionen
+D2	Produktions- und Importabgaben
+D3	Subventionen
+D21X31	Gütersteuern abzüglich Subventionen
+D21	Gütersteuern
+D31	Gütersubventionen
+P2_D29_D5_D8	"Vorleistungen; Sonstige Produktionsabgaben; Einkommen- und Vermögensteuern; zunahme betrieblicher Versorgungsansprüche"
+D29_D5_D8	"Sonstige Produktionsabgaben; Einkommen- und Vermögensteuern; zunahme betrieblicher Versorgungsansprüche"
+D4	Vermögenseinkommen
+D4_S1311	Vermögenseinkommen, davon zu leistende an den Teilsektor S1311
+D4_S1312	Vermögenseinkommen, davon zu leistende an den Teilsektor S1312
+D4_S1313	Vermögenseinkommen, davon zu leistende an den Teilsektor S1313
+D4_S1314	Vermögenseinkommen, davon zu leistende an den Teilsektor S1314
+D62_D632	Geleistete monetäre Sozialleistungen und geleistete soziale Sachleistungen
+D62	Monetäre Sozialleistungen
+D632	Soziale Sachleistungen - gekaufte Marktproduktion
+D7	Sonstige laufende Transfers
+D7_S1311	Sonstige laufende Transfers, davon zu leistende an den Teilsektor S1311
+D7_S1312	Sonstige laufende Transfers, davon zu leistende an den Teilsektor S1312
+D7_S1313	Sonstige laufende Transfers, davon zu leistende an den Teilsektor S1313
+D7_S1314	Sonstige laufende Transfers, davon zu leistende an den Teilsektor S1314
+D9	Vermögenstransfers
+D92	Investitionszuschüsse
+D9_S1311	Vermögenstransfers,  davon zu leistende an den Teilsektor S1311
+D9_S1312	Vermögenstransfers,  davon zu leistende an den Teilsektor S1312
+D9_S1313	Vermögenstransfers,  davon zu leistende an den Teilsektor S1313
+D9_S1314	Vermögenstransfers,  davon zu leistende an den Teilsektor S1314
+OP5ANP	Bruttoinvestitionen und Nettozugang an nicht produzierten Vermögensgütern
+NP	Nettozugang an nichtproduzierten nichtfinanziellen Vermögensgütern
+IN	Primäreinkommen und laufende Transfers
+IN1	Primäreinkommen
+IN2	Sekundäreinkommen
+IN21	Sekundäreinkommen: Laufende Transfers
+TE	Gesamtausgaben des Staates
+P51C	Abschreibungen
+B2A3N	Nettobetriebsüberschuß und Nettoselbständigeneinkommen
+D29X39	Sonstige produktionsabgaben abzüglich sonstiger Subventionen
+YA1	Statistische Diskrepanz: Produktionsansatz
+YA0	Statistische Diskrepanz: Ausgabenansatz
+YA2	Statistische Diskrepanz: Einkommensansatz
+P311_S14	Konsumausgaben der privaten Haushalte, langlebige Güter
+P312_S14	Konsumausgaben der privaten Haushalte, mittellebige Güter
+P313_S14	Konsumausgaben der privaten Haushalte, kurzlebige Güter
+P314_S14	Konsumausgaben der privaten Haushalte, Dienstleistungen
+P312N_S14	Konsumausgaben der privaten Haushalte, mittellebige und kurzlebige Güter und Dienstleistungen
+P6_S21	Exporte von Waren und Dienstleistungen in die Europäische Union
+P6_S211	Exporte von Waren und Dienstleistungen in die Europäische Union
+P6_S2111	Exporte von Waren und Dienstleistungen in Mitglieder der Währungsunion
+P6_S2112	Exporte von Waren und Dienstleistungen in Nichtmitglieder der Währungsunion
+P6_S212	Exporte von Waren und Dienstleistungen in EU-Institutionen
+P6_S22	Exporte von Waren und Dienstleistungen in Drittländer und internationale Organisationen
+P7_S21	Importe von Waren und Dienstleistungen aus der Europäischen Union
+P7_S211	Importe von Waren und Dienstleistungen aus EU-Mitgliedstaaten
+P7_S2111	Importe von Waren und Dienstleistungen aus Mitgliedern der Währungsunion
+P7_S2112	Importe von Waren und Dienstleistungen aus Währungsunion nicht-Staaten
+P7_S212	Importe von Waren und Dienstleistungen aus EU-Institutionen
+P7_S22	Importe von Waren und Dienstleistungen aus Drittländern und internationalen Organisationen
+P31_S14_NC	Konsumausgaben der privaten Haushalte (Inländerkonzept)
+P33	Konsumausgaben der gebietsansässigen privaten Haushalte in der Übrigen Welt - insgesamt
+P34	Konsumausgaben der gebietsfremden privaten Haushalte im Inland - insgesamt
+P31_S14_DC	Konsumausgaben der privaten Haushalte (Inlandskonzept)
+EMP_NC	Erwerbstätigkeit insgesamt - Nationalkonzept
+POP_NC	Bevölkerung insgesamt - Nationalkonzept
+SAL_NC	Arbeitnehmer - Nationalkonzept
+SELF_NC	Selbständige - Nationalkonzept
+EMP_DC	Erwerbstätigkeit insgesamt - Inlandskonzept
+SAL_DC	Arbeitnehmer - Inlandskonzept
+SELF_DC	Selbständige - Inlandskonzept
+F	Insgesamt finanzielle Forderungen/Verbindlichkeiten
+F_TR	Nettozugang an Forderungen/ Nettozugang an Verbindlichkeiten
+F1	Währungsgold und Sonderziehungsrechte (SZR)
+F11	Währungsgold
+F12	Sonderziehungsrechte (SZR)
+F2	Bargeld und Einlagen
+F21	Bargeld
+F22	Sichteinlagen
+F29	Sonstige Einlagen
+F2_F8	Verbindlichkeiten des Sektors finanzielle (ohne SZR)
+F3	Schuldverschreibungen
+F31	Kurzfristige Schuldverschreibungen
+F32	Langfristige Schuldverschreibungen
+F3_F4	Wertpapiere (ohne Anteilsrechte) und Finanzderivate, Kredite
+F4	Kredite
+F41	Kurzfristige Kredite
+F42	Langfristige Kredite
+F5	Anteilsrechte und Anteile an Investmentfonds
+F51	Anteilsrechte
+F511	Börsennotierte Aktien
+F512	Nicht börsennotierte Aktien
+F519	Sonstige Anteilsrechte
+F52	Anteile an Investmentfonds
+F521	Anteile an Geldmarktfonds
+F522	Anteile an Investmentfonds ohne Geldmarktfonds
+F6	Versicherungs-, Alterssicherungs- und Standardgarantie-Systeme
+F61	Ansprüche privater Haushalte aus Rückstellungen bei Nichtlebensversicherungen
+F61_F66	Ansprüche privater Haushalte aus Rückstellungen bei Nichtlebensversicherungen, und Rückstellungen für Forderungen im Rahmen standardisierter Garantien
+F62	Ansprüche privater Haushalte aus Rückstellungen bei Lebensversicherungen
+F63	Ansprüche privater Haushalte aus Rückstellungen bei Alterssicherungssystemen
+F63_LS	Pensionsansprüche in der Bilanz am Jahresanfang
+F63_F64_F65	Ansprüche privater Haushalte aus Rückstellungen bei Alterssicherungssystemen, Ansprüche von Alterssicherungssystemen an die Träger von Alterssicherungssystemen und Ansprüche auf andere Leistungen als Alterssicherungsleistungen
+F64	Ansprüche von Alterssicherungssystemen an die Träger von Alterssicherungssystemen
+F65	Ansprüche auf andere Leistungen als Alterssicherungsleistunge
+F66	Rückstellungen für Forderungen im Rahmen standardisierter Garantien
+F7	Finanzderivate und Mitarbeiteraktienoptionen
+F71	Finanzderivate
+F72	Mitarbeiteraktienoptionen
+F8	Übrige Forderungen/Verbindlichkeiten
+F81	Handelskredite und Anzahlungen
+F89	Übrige Forderungen (ohne Handelskredite und Anzahlungen)
+B9F	Finanzielle Transaktionen (netto)
+B9FX9	Abweichung der Finanzierungssaldo
+BF90	Finanzielles Reinvermögen
+B102	Reinvermögensänderung durch sonstige reale Vermögensänderungen
+B103	Reinvermögensänderung durch Umbewertung
+D1_SAL_PER	Entgelt pro Arbeitnehmer
+D1_SAL_HW	Arbeitnehmerentgelt per Entgelt pro Arbeitsstunde
+NLPR_PER	Nominale Arbeitsproduktivität je Erwerbstätigen
+NLPR_HW	Nominale Arbeitsproduktivität je Arbeitsstunde
+RLPR_PER	Reale Arbeitsproduktivität je Erwerbstätigen
+RLPR_HW	Reale Arbeitsproduktivität je Arbeitsstunde
+NULC_PER	Nominale Lohnstückkosten (auf Basis von Personen)
+NULC_HW	Nominale Lohnstückkosten (auf Basis von Arbeitsstunden)
+RULC_PER	Reale Lohnstückkosten (auf Basis von Personen)
+RULC_HW	Reale Lohnstückkosten (auf Basis von Arbeitsstunden)
+B1N	Nettowertschöpfung
+B2N	Nettobetriebsüberschuß
+B5N	Primäreeinkommen/Nationaleinkommen, netto
+B6N	Verfügbares Einkommen (Ausgabenkonzept), netto
+B8G	Sparen, brutto
+B8N	Sparen, netto
+B9	Finanzierungsüberschuss (+) / Finanzierungsdefizit (-)
+D1PAY	Arbeitnehmerentgelt, zu leistendes
+D2_D5_D91	Steuereinnahmen insgesamt
+D2_D5_D91_D61_M_D611V_D612_M_M_D613V_D614_M_D995	Gesamteinnahmen aus Steuern und Pflichtsozialbeiträgen nach Abzug der veranlagten Beträge, deren Einziehung unwahrscheinlich ist
+D2_D5_D91_D61_M_D612_M_D614_M_D995	Gesamteinnahmen aus Steuern und Sozialbeiträgen nach Abzug der veranlagten Beträge, deren Einziehung unwahrscheinlich ist
+D2_D5_D91_D61_M_D995	Gesamteinnahmen aus Steuern und Sozialbeiträgen (einschliesslich unterstellter Sozialbeiträge) nach Abzug der veranlagten Beträge, deren Einziehung unwahrscheinlich ist
+D211	Mehrwertsteuer (MwSt.)
+D211REC	Empfangene Mehrwertsteuer
+D212	Importabgaben
+D2121	Einfuhrzölle
+D2122	Importsteuern ohne MwSt und Einfuhrzölle
+D2122A	Abschöpfungsbeträge auf importierte landwirtschaftliche Erzeugnisse
+D2122B	Währungsausgleichsbeträge, die beim Import erhoben werde
+D2122C	Verbrauchsabgaben auf importierte Güter
+D2122D	Allgemeine Umsatzsteuern auf den Import
+D2122E	Abgaben auf spezifische Dienstleistungen
+D2122F	Gewinne von Unternehment mit Importmonopol
+D214	Sonstige Gütersteuern
+D214A	Verbrauchsabgaben und -steuern
+D214B	Stempelgebühren
+D214C	Steuern auf finanzielle und Vermögenstransaktionen
+D214D	Kraftfahrzeugzulassungssteuern
+D214E	Vergnügungssteuern
+D214F	Wett-, Spiel- und Lotteriesteuern
+D214G	Steuern auf Versicherungsprämien
+D214H	Sonstige Steuern auf bestimmte Dienstleistungen
+D214I	Allgemeine Steuern auf Verkäufe oder den Umsatz
+D214J	Gewinne von Staatsmonopolen
+D214K	Exportabgaben und beim Export erhobene Währungsausgleichsbeträge
+D214L	Sonstige Gütersteuern a.n.g.
+D21REC	Empfangene Gütersteuern
+D29	Sonstige Produktionsabgaben
+D29A	Steuern auf Grudstücke, Gebäude und andere unbewegliche Anlagegüter
+D29B	Steuern auf die Benutzung von Anlagen
+D29C	Steuern auf die Lohnsumme oder die Erwerbstätigenzahl
+D29D	Steuern auf internationale Transaktionen
+D29E	Abgaben für Berechtigungen zur Ausübung einer gewerblichen oder freiberuflichen Tätigkeit
+D29F	Abgaben auf Umweltverschmutzung
+D29G	MwSt.-Unterkompensation (infolge des Pauschalisierungssystems)
+D29H	Sonstige Produktionsabgaben a.n.g.
+D29PAY	Sonstige Produktionsabgaben, zu leistende
+D29REC	Empfangene sonstige Produktionsabgaben
+D2REC	Produktions- und Importabgaben, zu empfangende
+D31PAY	Geleistete Gütersubventionen
+D39PAY	Geleistete sonstige Subventionen
+D39REC	Sonstige Subventionen, zu empfangende
+D3PAY	Subventionen, zu leistende
+D41PAY	Zinsen, zu leistende
+D41REC	Empfangene Zinsen
+D42_TO_D45PAY	Geleistete sonstige Vermögenseinkommen
+D42_TO_D45REC	Empfangene sonstige Vermögenseinkommen
+D4CO	Vermögenseinkommen, konsolidiert
+D4PAY	Vermögenseinkommen, zu leistende
+D4PAY_S1311	Vermögenseinkommen, zu leistende, davon zu leistende an den Teilsektor S1311
+D4PAY_S1312	Vermögenseinkommen, zu leistende, davon zu leistende an den Teilsektor S1312
+D4PAY_S1313	Vermögenseinkommen, zu leistende, davon zu leistende an den Teilsektor S1313
+D4PAY_S1314	Vermögenseinkommen, zu leistende, davon zu leistende an den Teilsektor S1314
+D4REC	Vermögenseinkommen, zu empfangende
+D5	Einkommen- und Vermögensteuern
+D51	Einkommensteuern
+D51A	Steuern auf das Einkommen von natürlichen Personen und privaten Haushalten
+D51A_C1	Steuern auf das Einkommen und auf die Umbewertungsgewinne von privaten Haushalten
+D51B	Steuern auf das Einkommmen oder die Gewinne von Kapitalgesellschaften
+D51B_C2	Steuern auf das Einkommen oder die Gewinne und auf die Umbewertungsgewinne von Kapitalgesellschaften
+D51C	Steuern auf Umbewertungsgewinne
+D51C1	Steuern auf die Umbewertungsgewinne von privaten Haushalten
+D51C2	Steuern auf die Umbewertungsgewinne von Kapitalgesellschaften
+D51C3	Sonstige Steuern auf die Umbewertungsgewinne
+D51D	Steuern auf Lotterie- und Spielgewinne
+D51E	Sonstige Einkommensteuern a.n.g.
+D51REC	Einkommensteuern, zu empfangende
+D59	Sonstige direkte Steuern und Abgaben
+D59A	Laufende Abgaben auf das Vermögen
+D59B	Kopfsteuern
+D59C	Ausgabensteuern
+D59D	Zahlungen von privaten Haushalten für Berechtigungen (Lizenzen)
+D59E	Abgaben auf internationale Transaktionen
+D59F	Sonstige direkte Steuern und Abgaben a.n.g.
+D59REC	Sonstige laufende Abgaben, zu emfangende
+D5PAY	Einkommen- und Vermögensteuern, zu leistende
+D5REC	Einkommen- und Vermögensteuern, zu empfangende
+D61	Nettosozialbeiträge
+D61_P	Nettosozialbeiträge zur Alterssicherung
+D611	Tatsächliche Sozialbeiträge der Arbeitgeber
+D6111	Tatsächliche Sozialbeiträge der Arbeitgeber zur Alterssicherung
+D6112	Tatsächliche Sozialbeiträge der Arbeitgeber ohne Beiträge zur Alterssicherung
+D611C	Tatsächliche Pflichtsozialbeiträge der Arbeitgeber
+D611REC	Empfangene tatsächliche Sozialbeiträge der Arbeitgeber
+D611V	Tatsächliche freiwillige Sozialbeiträge der Arbeitgeber
+D612	Unterstellte Sozialbeiträge der Arbeitgeber
+D6121	Unterstellte Sozialbeiträge der Arbeitgeber zur Alterssicherung
+D6122	Unterstellte Sozialbeiträge der Arbeitgeber ohne Beiträge zur Alterssicherung
+D612REC	Unterstellte Sozialbeiträge, zu empfangende
+D6131	Tatsächliche Sozialbeiträge der privaten Haushalte zur Alterssicherung
+D6132	Tatsächliche Sozialbeiträge der privaten Haushalte ohne Beiträge zur Alterssicherung
+D613CE	Tatsächliche Pflichtsozialbeiträge der Arbeitnehmer
+D613CN	Tatsächliche Pflichtsozialbeiträge der Nichterwerbstätigen
+D613C	Tatsächliche Pflichtsozialbeiträge der privaten Haushalte
+D613CS	Tatsächliche Pflichtsozialbeiträge der Selbständigen
+D613REC	Empfangene tatsächliche Sozialbeiträge der privaten Haushalte
+D613V	Tatsächliche freiwillige Sozialbeiträge der privaten Haushalte
+D6141	Sozialbeiträge aus Kapitalerträgen der privaten Haushalte aus Alterssicherungssystemen
+D6142	Sozialbeiträge aus Kapitalerträgen der privaten Haushalte aus Systemen der sozialen Sicherung
+D614REC	Sozialbeiträge aus Kapitalerträgen der privaten Haushalte aus Systemen der sozialen Sicherung
+D61REC	Empfangene Nettosozialbeiträge
+D61SC	Dienstleistungsentgelte der Sozialversicherungsträger
+D61SC_P	Abzüglich: Dienstleistungsentgelte der Träger der Alterssicherungssysteme
+D619	Sonstige (versicherungsmathematische) Veränderung von Alterssicherungsansprüchen in der Sozialversicherung
+D62_P	Leistungen der Sozialversicherung zur Alterssiche¬rung
+D62_D632PAY	Geleistete monetäre Sozialleistungen und geleistete soziale Sachleistungen ? gekaufte Marktproduktion
+D62PAY	Monetäre Sozialleistungen, zu leistende
+D632PAY	Geleistete soziale Sachleistungen ? gekaufte Marktproduktion
+D7CO	Sonstige laufende Transfers, konsolidiert
+D7PAY	Sonstige laufende Transfers, zu leistende
+D7PAY_S1311	Sonstige laufende Transfers, zu leistende, davon zu leistende an den Teilsektor S1311
+D7PAY_S1312	Sonstige laufende Transfers, zu leistende, davon zu leistende an den Teilsektor S1312
+D7PAY_S1313	Sonstige laufende Transfers, zu leistende, davon zu leistende an den Teilsektor S1313
+D7PAY_S1314	Sonstige laufende Transfers, zu leistende, davon zu leistende an den Teilsektor S1314
+D7REC	Sonstige laufende Transfers, zu empfangende
+D4_D7	Vermögenseinkommen und Sonstige laufende Transfers
+D8	Zunahme betrieblicher Versorgungsansprüche
+D81	Anwartschaftsübertragungen Zwischen Alterssicherungssystemen
+D82	Veränderung der Anwartschaften aufgrund verhandelter Änderungen des Alterssicherungssystems
+D91	Vermögenswirksame Steuern
+D91A	Steuern auf Vermögenstransfers
+D91B	Vermögensabgaben
+D91C	Sonstige vermögenswirksame Steuern a.n.g.
+D91REC	Vermögenswirksame Steuern, zu empfangende
+D92_D99REC	Investitionszuschüsse und sonstige Vermögenstransfers, zu empfangende
+D92AREC	- Investitionszuschüsse, zu empfangende von den Institutionen der EU
+D92PAY	Geleistete Investitionszuschüsse
+D995	Vermögenstransfers des Staates an hierfür in Betracht kommende Sektoren für veranlagte Steuern und Sozialbeiträge, deren Einziehung unwahrscheinlich ist
+D995A	Veranlagte Gütersteuern, deren Einziehung unwahrscheinlich ist (2)
+D995B	Sonstige veranlagte Produktionsabgaben, deren Einziehung unwahrscheinlich ist
+D995C	Veranlagte Einkommensteuern, deren Einziehung unwahrscheinlich ist
+D995D	Sonstige veranlagte direkte Steuern und Abgaben, deren Einziehung unwahrscheinlich ist
+D995E	Veranlagte tatsächliche Sozialbeiträge der Arbeitgeber, deren Einziehung unwahrscheinlich ist
+D995F	Veranlagte tatsächliche Sozialbeiträge der privaten Haushalte, deren Einziehung unwahrscheinlich ist
+D995FE	Veranlagte tatsächliche Sozialbeiträge der Arbeitnehmer, deren Einziehung unwahrscheinlich ist
+D995FN	Veranlagte tatsächliche Sozialbeiträge der Nichterwerbstätigen, deren Einziehung unwahrscheinlich ist
+D995FS	Veranlagte tatsächliche Sozialbeiträge der Selbständigen, deren Einziehung unwahrscheinlich ist
+D995G	Veranlagte vermögenswirksame Steuern, deren Einziehung unwahrscheinlich ist
+D995REC	Vermögenstransfers des Staates an die relevanten Sektoren für veranlagte Steuern und Sozialbeiträge, deren Einziehung unwahrscheinlich ist
+D9CO	Vermögenstransfers, konsolidiert
+D9PAY	Vermögenstransfers, zu leistende
+D9PAY_S1311	Vermögenstransfers, zu leistende, davon zu leistende an den Teilsektor S1311
+D9PAY_S1312	Vermögenstransfers, zu leistende, davon zu leistende an den Teilsektor S1312
+D9PAY_S1313	Vermögenstransfers, zu leistende, davon zu leistende an den Teilsektor S1313
+D9PAY_S1314	Vermögenstransfers zu leistende, davon zu leistende an den Teilsektor S1314
+D9REC	Vermögenstransfers, zu empfangende
+K5	Veränderung aufgrund sonstiger Volumenänderungen
+K7	Veränderung aufgrund von Umbewertungen
+F22_F29	"Sichteinlagen; sonstige Einlagen"
+F63_LE	Pensionsansprüche in der Bilanz am Jahresende
+GD	Bruttoschuldenstand des Staates (konsolidiert)
+IGL_F4_EA19	Zwischenstaatliches Darlehen innerhalb der EA19 (ab 2015)
+IGL_F4_EA18	Zwischenstaatliches Darlehen innerhalb der EA18 (2014)
+IGL_F4_EA17	Zwischenstaatliches Darlehen innerhalb der EA17 (2011-2013)
+IGL_F4_EA16	Zwischenstaatliches Darlehen innerhalb der EA16 (2009-2010)
+IGL_F4_EU27_2020	Zwischenstaatliches Darlehen innerhalb der EU27 (ab 2020)
+IGL_F4_EU28	Zwischenstaatliches Darlehen innerhalb der EU28 (2013-2020)
+IGL_F4_EU27_2007	Zwischenstaatliches Darlehen innerhalb der EU27 (2007-2013)
+IGL_F4_EU25	Zwischenstaatliches Darlehen innerhalb der EU25 (2004-2006)
+ITR_CAP_INC	Impliziter Steuersatz auf Kapital, davon auf Kapitalerträge und Geschäftseinkommen
+ITR_CAP_INCO	Impliziter Steuersatz auf Kapital, davon auf Kapitalerträge und Geschäftseinkommen von Unternehmen
+ITR_CAP_INHOSE	Impliziter Steuersatz auf Kapital, davon auf Kapitalerträge und Geschäftseinkommen von privaten Haushalten und Selbstständigen
+ITR_CAP_TOT	Impliziter Steuersatz auf Kapital - insgesamt
+ITR_CONS	Impliziter Steuersatz auf Konsum
+ITR_LAB_EMPD	Impliziter Steuersatz auf Arbeit
+P11_P12	Marktproduktion und Nichtmarktproduktion für die Eigenverwendung
+P11_P12_P131	Marktproduktion, Nichtmarktproduktion für die Eigenverwendung und Zahlungen für Nichtmarktproduktion
+P13	Andere nichtmarktproduktion
+P131	Zahlungen für Nichtmarktproduktion
+P132	Übrige Nichtmarktproduktion
+PTC	Zahlbare Steuergutschriften insgesamt
+TC	Zahlbare Steuergutschriften, die über die Steuerschuld des betreffenden Steuerzahlers hinausgehen
+TR	Gesamteinnahmen des Staates
+TX_CAP_INC	Besteuerung von Kapitalerträgen und Geschäftseinkommen
+TX_CAP_INCO	Kapitalbesteuerung, davon auf Kapitalerträge und Geschäftseinkommen von Unternehmen
+TX_CAP_INHO	Kapitalbesteuerung, davon auf Kapitalerträge und Geschäftseinkommen von Haushalten
+TX_CAP_INSE	Kapitalbesteuerung, davon auf Kapitalerträgen und Geschäftseinkommen von Selbständigen
+TX_CAP_STO	Kapitalbesteuerung, davon auf Kapitalbestand (Vermögen)
+TX_CAP_TOT	Kapitalbesteuerung - Insgesamt
+TX_CONS	Verbrauchsbesteuerung
+TX_LAB_EMPE	Besteuerung der Arbeit, davon für abhängig Beschäftigte von Arbeitnehmern gezahlt
+TX_LAB_EMPR	Besteuerung der Arbeit, davon für abhängig Beschäftigte von Arbeitgebern gezahlt
+TX_LAB_NEMP	Besteuerung der Arbeit, davon für Nicht-Erwerbstätige gezahlt
+TX_LAB_TOT	Besteuerung der Arbeit - Insgesamt
+TX_X_AT	Struktur der Steuern nach Wirtschaftsfunktion - Besteuerung von Alkohol und Tabak
+TX_X_T	Struktur der Steuern nach Wirtschaftsfunktion - Besteuerung von Transport
+TX_X_E	Struktur der Steuern nach Wirtschaftsfunktion - Besteuerung von Energie
+TX_X_P	Struktur der Steuern nach Wirtschaftsfunktion - Besteuerung von Umweltschmutzung
+TX_X_RS	Struktur der Steuern nach Wirtschaftsfunktion - Besteuerung von natürlichen Ressourcen
+TX_X_RP	Struktur der Steuern nach Wirtschaftsfunktion - Wiederkehrende Steuern auf unbewegliches Eigentum
+TX_X_O	Struktur der Steuern nach Wirtschaftsfunktion - Andere Steuern auf Eigentum
+B1NQ	Nettoinlandsprodukt zu Marktpreisen
+B3G	Bruttoselbständigeneinkommen
+B4G	Unternehmensgewinn, brutto
+B4N	Unternehmensgewinn, netto
+B5G	Nationaleinkommen/Primaereeinkommen, brutto
+B6G	Verfügbares Einkommen (Ausgabenkonzept), brutto
+B7G	Verfügbares Einkommen (Verbrauchskonzept), brutto
+B7G_N_HAB	Verfügbares Brutto-Einkommen (Verbrauchskonzept) der Haushalte in nominal Größen pro Kopf
+B7G_N_HAB_GR	Verfügbares Brutto-Einkommen (Verbrauchskonzept) der Haushalte in nominal Größen pro Kopf (Prozentveränderung gegenüber der Vorperiode)
+B7N	Verfügbares Einkommen (Verbrauchskonzept), netto
+B12	Saldo der laufenden Aussentransaktionen
+B101	Reinvermögensänderung durch Sparen und Vermögenstransfers
+P1O	Marktproduktion, Produktion für die Eigenverwendung und Zahlungen für Andere nichtmarktproduktion
+P3F	Konsumausgaben
+P62F	FISIM-Export
+P72F	FISIM-Import
+D39	Sonstige Subventionen
+D4_R	Vermögenseinkommen, zu empfangendes (ressourcen)
+D4_U	Vermögenseinkommen, zu leistendes (Verwendung)
+D41	Zinsen
+D41G	Zinsen insgesamt vor FISIM-Aufgliederung
+D42_TO_D45	Vermögenseinkommen ausser Zinsen
+D42	Ausschüttungen und Entnahmen
+D43	Reinvestierte Gewinne aus Direktinvestitionen
+D43S2I	Reinvestierte Gewinne aus Direktinvestitionen Intra-Euroraum
+D43S2X	Reinvestierte Gewinne aus Direktinvestitionen Extra-Euroraum
+D43S21	Reinvestierte Gewinne aus Direktinvestitionen Intra-EU
+D43S22	Reinvestierte Gewinne aus Direktinvestitionen Extra-EU
+D44	Sonstige Kapitalerträge
+D45	Pachteinkommen
+D5_U	Einkommen- und Vermögensteuern (Verwendung)
+D6	Sozialbeiträge und Sozialleistungen
+D61NET	Nettosozialbeiträge (RECV-PAID)
+D62NET	Netto Monetäre Sozialleistungen (RECV-PAID)
+D63	Soziale Sachleistungen
+D631	Soziale Sachleistungen - Nichtmarktproduktion
+D63NET	Netto Soziale Sachleistungen (RECV-PAID)
+D7_R	Sonstige laufende Transfers, zu empfangendes (ressourcen)
+D7_U	Sonstige laufende Transfers, zu leistendes (Verwendung)
+D71	Nettoprämien für Nichtlebensversicherungen
+D72	Nichtlebensversicherungsleistungen
+D74_TO_D76	Sonstige laufende Transfers ausser laufende Transfers innerhalb des Staates
+D74	Laufende Transfers im Rahmen internationaler Zusammenarbeit
+D74_EUI	Laufende Transfers im Rahmen internationaler Zusammenarbeit an die Organe der Europäischen Union
+D75	Übrige laufende Transfers
+D76	MwST.- und BNE-basierte EU-Eigenmittel
+D8NET	Netto Zunahme betrieblicher Versorgungsansprüche (RECV-PAID)
+D92_TO_D99	Investitionszuschüsse und sonstige Vermögenstransfers
+D99	Sonstige Vermögenstransfers
+OTE	Ausgaben des Staates, total
+OTR	Einnahmen des Staates, total
+P31_CLV2000	Konsumausgaben - verkettete Volumen Referenzjahr 2000
+P51G_CLV2000	Bruttoanlageinvestitionen - verkettete Volumen Referenzjahr 2000
+B1G_CLV2000	Bruttowertschöpfung - verkettete Volumen Referenzjahr 2000
+P31_CLV2010	Konsumausgaben - verkettete Volumen Referenzjahr 2010
+P51G_CLV2010	Bruttoanlageinvestitionen - verkettete Volumen Referenzjahr 2010
+B1G_CLV2010	Bruttowertschöpfung - verkettete Volumen Referenzjahr 2010
+EMP_PS_DC	Gesamterwerbstätigkeit (Tausende v. Personen)
+EMP_HW_DC	Gesamterwerbstätigkeit (Tausende v. Arbeitsstunden)
+N111G	Bruttovermögensgegenstände - Wohnbauten
+N211G	Bruttovermögensgegenstände - Grund und Boden
+P51G_N111G	Bruttovermögensgegenstände - wohnbauten
+P51G_N112G	Bruttovermögensgegenstände - nichtwohnbauten
+P51G_N1121G	Bruttovermögensgegenstände - nichtwohngebäude
+P51G_N1122G	Bruttovermögensgegenstände - sonstige bauten
+P51G_N11G_CLV2010	Bruttovermögensgegenstände - anlagegüter - verkettete volumen referenzjahr 2010
+P51G_N111G_CLV2010	Bruttovermögensgegenstände - wohnbauten - verkettete volumen referenzjahr 2010
+P51G_N112G_CLV2010	Bruttovermögensgegenstände - nichtwohnbauten - verkettete volumen referenzjahr 2010
+P51G_N1121G_CLV2010	Bruttovermögensgegenstände - nichtwohngebäude -  verkettete volumen referenzjahr 2010
+P51G_N1122G_CLV2010	Bruttovermögensgegenstände - sonstige bauten - verkettete volumen referenzjahr 2010
+B6G_R_HAB	Verfügbares Brutto-Einkommen (Ausgabenkonzept) der Haushalte  pro Kopf
+B6G_R_HAB_2008	Verfügbares Brutto-Einkommen (Ausgabenkonzept) der Haushalte  pro Kopf (2008=100)
+B7G_R_HAB	Verfügbares Brutto-Einkommen (Verbrauchskonzept) der Haushalte in realen Größen pro Kopf
+B7G_R_HAB_2008	Verfügbares Brutto-Einkommen (Verbrauchskonzept) der Haushalte in realen Größen pro Kopf (2008=100)
+B7G_R_HAB_GR	Verfügbares Brutto-Einkommen (Verbrauchskonzept) der Haushalte in realen Größen pro Kopf (Prozentveränderung gegenüber der Vorperiode)
+P4_R_HAB	Konsum (Verbrauchskonzept) der Haushalte in realen Größen pro Kopf
+P4_R_HAB_GR	Konsum (Verbrauchskonzept) der Haushalte in realen Größen pro Kopf (Prozentveränderung gegenüber der Vorperiode)
+SRG_S14_S15	Brutto-Sparquote der Haushalte (B8G/(B6G+D8Netto)*100)
+IRG_S14_S15	Brutto-Investitionsrate der Haushalte (P51/(B6G+D8Net)*100)
+IRG_S11	Brutto-Investitionsrate der nichtfinanziellen Kapitalgesellschaften (P51/B1G*100)
+B2G_B3G_RAT_S11	Bruttogewinnquote nichtfinanzieller Kapitalgesellschaften (B2G_B3G/B1Q*100)
+P51G_RAT_GDP_S1	Ratio gesamte Investitionen/BIP zu Marktpreisen (S1_P51G/B1GQ*100)
+P51G_RAT_GDP_BUS	Ratio Unternehmensinvestitionen/BIP zu Marktpreisen (S11_S12_P51G/B1GQ*100)
+P51G_RAT_GDP_S13	Ratio Investitionen des Staats/BIP zu Marktpreisen (S13_P51G/B1GQ*100)
+P51G_RAT_GDP_S1M	Ratio Investitionen der Haushalte/BIP zu Marktpreisen (S14_S15_P51G/B1GQ*100)
+ROCE_S11	Brutto Kapitalrendite, vor Steuern, der nichtfinanziellen Kapitalgesellschaften: B2G_B3G/(AF2+AF33+AF4+AF5, passiva - activa)
+DIR_S11	Netto-Schulden-Einkommensquotient, nach Steuern, der nichtfinanziellen Kapitalgesellschaften: (AF2+AF33+AF4, passiva - activa)/(B4N-D5PAY)
+ROE_S11	Netto-Eigenkapitalrendite, nach Steuern, der nichtfinanziellen Kapitalgesellschaften: (B4N-D5PAY)/(AF5, passiva - activa)
+DIR_S14_S15	Brutto-Schulden-Einkommensquotient der privaten Haushalte: (AF4, liab)/(B6G+D8net)
+NFW_S14_S15	Nettogeldvermögensquote der Haushalte (BF90/(B6G+D8net))
+B2G	Bruttobetriebsüberschuß
+B5GQ	Bruttonationaleinkommen zu Marktpreisen
+B5NQ	Nettonationaleinkommen zu Marktpreisen
+P11	Marktproduktion
+P12	Produktion für die Eigenverwendung
+D11PAY	Geleistete Bruttolöhne und -gehälter
+D12PAY	Geleistete Sozialbeiträge der Arbeitgeber
+D3REC_S212	Subventionen empfangen von den Organe und Einrichtungen der Europäischen Union
+D51A_C1REC	Empfangene Steuern auf das Einkommen von natürlichen Personen oder privaten Haushalten einschließlich Steuern auf Umbewertungsgewinne
+D51B_C2REC	Empfangene Steuern auf das Einkommen oder die Gewinne von Kapitalgesellschaften einschließlich Steuern auf Umbewertungsgewinne
+D7REC_S212	Sonstige laufende Transfers empfangen von den Organe und Einrichtungen der Europäischen Union
+D71REC	Empfangene Nettoprämien für Nichtlebensversicherungen
+D72REC	Empfangene Nichtlebensversicherungsleistungen
+D73REC	Empfangene laufende Transfers innerhalb des Staates
+D74REC	Empfangene laufende Transfers im Rahmen internationaler Zusammenarbeit
+D74REC_S212	Laufende Transfers im Rahmen internationaler Zusammenarbeit Empfangen von den  Organe und Einrichtungen der Europäischen Union
+D75REC	Empfangene übrige laufende Transfers
+D76REC	Empfangene MwSt.- und BNE-basierte EU-Eigenmittel
+D71PAY	Geleistete Nettoprämien für Nichtlebensversicherungen
+D72PAY	Geleistete Nichtlebensversicherungsleistungen
+D73PAY	Geleistete laufende Transfers innerhalb des Staates
+D74PAY	Geleistete laufende Transfers im Rahmen internationaler Zusammenarbeit
+D74PAY_S212	Laufende Transfers im Rahmen internationaler Zusammenarbeit geleistet  von den  Organe und Einrichtungen der Europäischen Union
+D75PAY	Geleistete übrige laufende Transfers
+D76PAY	Geleistete MwSt.- und BNE-basierte EU-Eigenmittel
+D9PAY_S2	Geleistete Vermögenstransfers
+D9REC_S2	Empfangene Vermögenstransfers
+D9PAY_S212	Geleistete Vermögenstransfers
+D9REC_S212	Empfangene Vermögenstransfers
+D92REC	Empfangene Investitionszuschüsse
+D99REC	Empfangene sonstige Vermögenstransfers
+D99PAY	Geleistete sonstige Vermögenstransfers
+D41GREC	Empfangene Zinsen vor FISIM Zuweisung
+D42REC	Empfangene Ausschüttungen und Entnahmen
+D43REC	Empfangene reinvestierte Gewinne aus Direktinvestitionen
+D44REC	Empfangene sonstige Kapitalerträge
+D45REC	Empfangene Pachteinkommen
+D41GPAY	Geleistete Zinsen vor FISIM Zuweisung
+D42PAY	Geleistete Ausschüttungen und Entnahmen
+D43PAY	Geleistete reinvestierte Gewinne aus Direktinvestitionen
+D44PAY	Geleistete sonstige Kapitalerträge
+D45PAY	Geleistete Pachteinkommen
+D62PAY_GF1002	Geleistete monetäre Sozialleistungen COFOG Gruppe 10.02 hohes Alter
+D62PAY_GF1003	Geleistete monetäre Sozialleistungen COFOG Gruppe 10.03 Überlebende
+D62PAY_GF1005	Geleistete monetäre Sozialleistungen COFOG Gruppe 10.05 Arbeitslosigkeit
+P3_P5	Konsumausgaben und Bruttoinvestitionen
+P3_P6	Konsumausgaben, Bruttoinvestitionen und Exporte von Waren und Dienstleistungen
+D421	Ausschüttungen
+D422	Gewinnentnahmen
+D441	Kapitalerträge aus Versicherungsverträgen
+D442	Kapitalerträge aus Ansprüchen gegenüber Alterssicherungssystemen
+D443	Kapitalerträge aus Investmentfondsanteilen
+D613	Tatsächliche Sozialbeiträge der privaten Haushalte
+D614	Sozialbeiträge aus Kapitalerträgen der privaten Haushalte aus Systemen der sozialen Sicherung
+B6G_R	Verfügbares Brutto-Einkommen der Haushalte in realen Größen (Prozentveränderung gegenüber der Vorperiode)
+GD_F2	Bruttoschuldenstand des Staates zum Nennwert (konsolidiert) - Bargeld und Einlagen
+GD_F3	Bruttoschuldenstand des Staates zum Nennwert (konsolidiert) - Schuldverschreibungen
+GD_F31	Bruttoschuldenstand des Staates zum Nennwert (konsolidiert) - Kurzfristige Schuldverschreibungen
+GD_F32	Bruttoschuldenstand des Staates zum Nennwert (konsolidiert) - Langfristige Schuldverschreibungen
+GD_F4	Bruttoschuldenstand des Staates zum Nennwert (konsolidiert) - Kredite
+GD_F41	Bruttoschuldenstand des Staates zum Nennwert (konsolidiert) - Kurzfristige Kredite
+GD_F42	Bruttoschuldenstand des Staates zum Nennwert (konsolidiert) - Langfristige Kredite
+AF_81L	Handelskredite und Anzahlungen - Verbindlichkeiten
+ORWB	Arbeitssaldo
+FT	Im Arbeitssaldo enthaltene finanzielle Transaktionen
+F4_ORWB	Im Arbeitssaldo enthaltene finanzielle Transaktionen - Kredite (+/-)
+F5_ORWB	Im Arbeitssaldo enthaltene finanzielle Transaktionen - Anteilsrechte und Anteile an Investmentfonds (+/-)
+F4_ACQ_ORWB	"Im Arbeitssaldo enthaltene finanzielle Transaktionen - Kredite; Erwerb/Anstieg (+)"
+F4_DIS_ORWB	"Im Arbeitssaldo enthaltene finanzielle Transaktionen - Kredite; Veräußerung/Rückgang (-)"
+F5_ACQ_ORWB	"Im Arbeitssaldo enthaltene finanzielle Transaktionen - Anteilsrechte und Anteile an Investmentfonds; Erwerb/Anstieg (+)"
+F5_DIS_ORWB	"Im Arbeitssaldo enthaltene finanzielle Transaktionen - Anteilsrechte und Anteile an Investmentfonds; Veräußerung/Rückgang (-)"
+FNDX_ORWB	Im Arbeitssaldo enthaltene finanzielle Transaktionen - Sonstige finanzielle Transaktionen (+/-)
+FNDL_ORWB	Im Arbeitssaldo enthaltene finanzielle Transaktionen - Sonstige finanzielle Transaktionen, davon Transaktionen mit Schuldtiteln (+/-)
+F71K_ORWB	Im Arbeitssaldo enthaltene finanzielle Transaktionen - Sonstige finanzielle Transaktionen (+/-), davon: Ausgleichszahlungen aufgrund von Swapvereinbarungen (+/-)
+ORNF_ORWB	Im Arbeitssaldo nicht enthaltene nichtfinanzielle Transaktionen
+ORD41A_ORWB	Im Arbeitssaldo enthaltene Differenz zwischen gezahlten Zinsen (+) und aufgelaufenen Zinsen (D.41) (-)
+F8_ASS_ORWB	Im Arbeitssaldo enthaltene sonstige Forderungen (+)
+F8_LIAB_ORWB	Im Arbeitssaldo enthaltene sonstige Verbindlichkeiten (-)
+ORWB_E	Arbeitsergebnisse der Einheiten, die nicht Teil des Teilsektors sind
+B9_OB	Im Arbeitssaldo enthaltener Finanzierungssaldo der sonstigen Einheiten des Teilsektors
+OROA_ORWB	Im Arbeitssaldo enthaltene sonstige Korrekturen (+/-)
+B9_T3	Finanzierungsüberschuss (-)/-defizit (+) (umgekehrtes Vorzeichen)
+F_ASS	Nettozugang (+) an Forderungen
+F2_ASS	Nettozugang (+) an Forderungen - Bargeld und Einlagen
+F3_ASS	Nettozugang (+) an Forderungen - Schuldverschreibungen
+F4_ASS	Nettozugang (+) an Forderungen - Kredite
+F4_ACQ_ASS	"Nettozugang (+) an Forderungen - Kredite; Erwerb/Anstieg (+)"
+F4_DIS_ASS	"Nettozugang (+) an Forderungen - Kredite; Veräußerung/Rückgang (-)"
+F41_ASS	Nettozugang (+) an Forderungen - Kurzfristige Kredite
+F42_ASS	Nettozugang (+) an Forderungen - Langfristige Kredite
+F42_ACQ_ASS	"Nettozugang (+) an Forderungen - langfristige Kredite; Erwerb/Anstieg (+)"
+F42_DIS_ASS	"Nettozugang (+) an Forderungen - langfristige Kredite; Veräußerung/Rückgang (-)"
+F5_ASS	Nettozugang (+) an Forderungen - Anteilsrechte und Anteile an Investmentfonds
+F5PN_ASS	Nettozugang (+) an Forderungen - Anteilsrechte und Anteile an Investmentfonds - Nettoportfolioinvestitionen
+F5OP_ASS	Nettozugang (+) an Forderungen - Anteilsrechte und Anteile an Investmentfonds außer Portfolioinvestitionen
+F5OP_ACQ_ASS	"Nettozugang (+) an Forderungen - Anteilsrechte und Anteile an Investmentfonds außer Portfolioinvestitionen; Erwerb/Anstieg (+)"
+F5OP_DIS_ASS	"Nettozugang (+) an Forderungen - Anteilsrechte und Anteile an Investmentfonds außer Portfolioinvestitionen; Veräußerung/Rückgang (-)"
+F71_ASS	Nettozugang (+) an Forderungen - Finanzderivate
+F8_ASS	Nettozugang (+) an Forderungen - sonstige Forderungen (+)
+FN_ASS	Nettozugang (+) an Forderungen - sonstige Forderungen (F.1, F.6)
+ORADJ	Korrekturen insgesamt
+F71_ADJ_LIAB	Korrekturen: Nettozugang (-) an Verbindlichkeiten aus Finanzderivaten
+F8_ADJ_LIAB	Korrekturen: Nettozugang (-) an sonstigen Verbindlichkeiten
+FV_ADJ_LIAB	Korrekturen: Nettozugang (-) an sonstigen Verbindlichkeiten (F.1, F.5, F.6  and F.72)
+ORINV	Korrekturen: Emissionen über (-)/unter Pari (+)
+ORD41A_ADJ	Korrekturen: Differenz zwischen aufgelaufenen Zinsaufwendungen (D.41) und gezahlten Zinsen (+)
+ORRNV	Korrekturen: Tilgung/Rückkauf von Verbindlichkeiten über (+)/unter (-) Pari
+ORFCD	Korrekturen: Aufwertung (+)/Abwertung (-) von Fremdwährungsschulden
+K61	Korrekturen: Änderung der Sektorzuordnung und der institutionellen Einheiten (+/-)
+KX	Korrekturen: Sonstige Volumenänderungen an Verbindlichkeiten (-)
+YA3	Statistische Diskrepanzen insgesamt
+YA3O	Statistische Diskrepanzen: sonstige statistische Diskrepanzen (+/-)
+GD_CH	Veränderung des Bruttoschuldenstands (konsolidiert)
+GD_CTB	Beitrag zum öffentlichen Bruttoschuldenstand (absoluter Wert)
+GD_HOLD	Forderungen an Schuldenstandsinstrumenten gegenüber anderen Teilsektoren des Staates
+FGT	gesamter Bestand an Garantien des Staatssektors
+FGO_T	Einmalige Bürgschaften - gesamter Bestand an Garantien des Staatssektors, mit Ausnahme von Schulden, die vom Staatssektor übernommen wurden
+FGO_PC	Einmalige Bürgschaften - gesamter Bestand an Garantien des Staatssektors, mit Ausnahme von Schulden, die vom Staatssektor übernommen wurden: davon: öffentliche Kapitalgesellschaften
+FGO_FC	Einmalige Bürgschaften - gesamter Bestand an Garantien des Staatssektors, mit Ausnahme von Schulden, die vom Staatssektor übernommen wurden: davon: finanzielle Kapitalgesellschaften
+FGST	Standardisierte Garantien - gesamter Bestand an Garantien des Staatssektors
+TLGCE	Bestand an Verbindlichkeiten von Einheiten, die nicht im Sektor Staat klassifiziert sind, aber vom Staatssektor kontrolliert werden
+LIFA	Bestand an Verbindlichkeiten von Einheiten, die nicht im Sektor Staat klassifiziert sind, aber vom Staatssektor kontrolliert werden, davon Einheiten mit finanziellen Aktivitäten
+LIOA	Bestand an Verbindlichkeiten von Einheiten, die nicht im Sektor Staat klassifiziert sind, aber vom Staatssektor kontrolliert werden, davon Einheiten mit anderen Aktivitäten
+LIOALM	Bestand an Verbindlichkeiten von Einheiten, die nicht im Sektor Staat klassifiziert sind, aber vom Staatssektor kontrolliert werden, davon nicht-finanzielle Einheiten mit Verlusten
+OFF_PPP	Angepasster Kapitalwert öffentlich-private Partnerschaften (ÖPP/PPP), die nicht in der Bilanz des Staatssektors inkludiert sind
+F4M2	Bestand an notleidenden Krediten des Staatssektors
+PPP_EU27_2020	Kaufkraftparitäten (EU27_2020=1)
+PPP_EU28	Kaufkraftparitäten (EU28=1)
+PPP_EU27_2007	Kaufkraftparitäten (EU27_2007=1)
+PPP_EU15	Kaufkraftparitäten (EU15=1)
+PLI_EU27_2020	Preisniveauindizes (EU27_2020=100)
+PLI_EU28	Preisniveauindizes (EU28=100)
+PLI_EU27_2007	Preisniveauindizes (EU27_2007=100)
+PLI_EU15	Preisniveauindizes (EU15=100)
+EXP_NAC	Nominale Ausgaben in Landeswährungseinheiten
+EXP_NAC_PC_GDP	Nominale Ausgaben in BIP-Prozentpunkten (BIP=100)
+EXP_EUR	Nominale Ausgaben (Euro)
+EXP_EUR_HAB	Nominale Pro-Kopf-Ausgaben (Euro)
+EXP_PPS_EU27_2020	Reale Ausgaben (PPS_EU27_2020)
+EXP_PPS_EU28	Reale Ausgaben (PPS_EU28)
+EXP_PPS_EU27_2007	Reale Ausgaben (PPS_EU27_2007)
+EXP_PPS_EU15	Reale Ausgaben (PPS_EU15)
+EXP_PPS_EU27_2020_HAB	Reale Ausgaben Pro-Kopf (PPS_EU27_2020)
+EXP_PPS_EU28_HAB	Reale Ausgaben Pro-Kopf (PPS_EU28)
+EXP_PPS_EU27_2007_HAB	Reale Ausgaben Pro-Kopf (PPS_EU27_2007)
+EXP_PPS_EU15_HAB	Reale Ausgaben Pro-Kopf (PPS_EU15)
+VI_PPS_EU27_2020_HAB	Volumenindex der realen Pro-Kopf Ausgaben ( in PPS_EU27_2020=100)
+VI_PPS_EU28_HAB	Volumenindex der realen Pro-Kopf Ausgaben (in PPS_EU28=100)
+VI_PPS_EU27_2007_HAB	Volumenindex der realen Pro-Kopf Ausgaben in (PPS_EU27_2007=100)
+VI_PPS_EU15_HAB	Volumenindex der realen Pro-Kopf Ausgaben (in PPS_EU15=100)
+CV_VI_HAB	Variationskoeffizient der Volumenindizes der Pro-Kopf Ausgaben (Prozent)
+GD_NAC	Öffentlicher Schuldenstand (Bruttoschuldenstand des Staatssektors), davon in Landeswährung
+GD_FOR	Öffentlicher Schuldenstand (Bruttoschulden des Staates), davon in ausländischer Währung
+GD_S1	Öffentlicher Schuldenstand (Bruttoverschuldung des Staates), davon inländische Pendants
+GD_S2	Öffentlicher Schuldenstand (Bruttoverschuldung des Staates), davon nicht-einheimische Pendants
+GD_LL	Öffentlicher Schuldenstand (Bruttoschulden des Staates), langfristige Ursprungslaufzeit, deren Zahlung in mehr als einem Jahr fällig ist
+GD_TS	Öffentlicher Schuldenstand (Bruttoschulden des Staates), kurzfristige Ursprungslaufzeit, deren Zahlung in weniger als einem Jahr fällig ist
+SRG_S14	Brutto-Sparquote der Haushalte (B8G/(B6G+D8Netto)*100)
+IRG_S14	Brutto-Investitionsrate der Haushalte (P51G/(B6G+D8Net)*100)
+P51G_RAT_GDP_S14	Ratio Investitionen der Haushalte/BIP zu Marktpreisen (S14_S15_P51/B1GQ*100)
+DIR_S14	Brutto-Schulden-Einkommensquotient der privaten Haushalte: (AF4, liab)/(B6G+D8net)
+NFW_S14	Nettogeldvermögensquote der Haushalte (BF90/(B6G+D8net))

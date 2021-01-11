@@ -1,0 +1,12 @@
+SOURINT	Internet
+SOURFAM	Membre famille, voisin, collègue de travail,
+SOUREMPL	Employeur
+SOURGUID	Service d'orientation professionnelle (inclus le bureau de service d'orientation professionnelle)
+SOURSCH	Une institution de l'enseignement ou de la formation (école, collège, université, centre de formation)
+SOURTV	Médias (télévision, radio, journals, affiches)
+SOURBOOK	Livres
+SOUROTHER	Autre
+NLK	Pas de recherche d'information sur les possibilités existantes pour se former
+LK_FD	Recherche d'information fructueuse sur les possibilités existantes pour se former 
+LK_NFD	Recherche d'information infructueuse sur les possibilités existantes pour se former
+NRESP	Sans réponse

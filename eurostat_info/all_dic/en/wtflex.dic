@@ -1,0 +1,9 @@
+TOTAL	Total
+GEN	Generally possible
+RAR	Rarely possible
+PER_FUL	Person can fully decide
+PER_RSTR	Person can decide with certain restrictions
+EMPL_MAIN	Employer or organisation mainly decides
+NONE	No working time flexibility
+NAP	Not applicable
+NRP	No response

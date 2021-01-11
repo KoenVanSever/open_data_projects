@@ -1,0 +1,12 @@
+HE_Y0	Gesunde Lebenserwartung bei der Geburt
+HE_Y50	Gesunde Lebenserwartung im Alter von 50 Jahren
+HE_Y65	Gesunde Lebenserwartung im Alter von 65 Jahren
+LE_Y0	Lebenserwartung bei der Geburt
+LE_Y50	Lebenserwartung im Alter von 50 Jahren
+LE_Y65	Lebenserwartung im Alter von 65 Jahren
+HLY_Y0	Gesunde Lebensjahre bei der Geburt
+HLY_Y50	Gesunde Lebensjahre im Alter von 50 Jahren
+HLY_Y65	Gesunde Lebensjahre im Alter von 65 Jahren
+HLY_LE_Y0_PC	Gesunde Lebensjahre bei der Geburt - Anteil an der Lebenserwartung
+HLY_LE_Y50_PC	Gesunde Lebensjahre im Alter von 50 Jahren - Anteil an der Lebenserwartung
+HLY_LE_Y65_PC	Gesunde Lebensjahre im Alter von 65 Jahren - Anteil an der Lebenserwartung

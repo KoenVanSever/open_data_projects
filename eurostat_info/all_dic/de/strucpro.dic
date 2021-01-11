@@ -1,0 +1,12 @@
+AR	Anbaufläche/Erntefläche/Produktionsfläche (1000 ha)
+PR	Erntemenge (1000 t)
+PR_HU_EU	Erntemenge in Standard-EU- Feuchtigkeitsgehalt (1000 t)
+YI	Ertrag (Tonne/ha)
+YI_HU_EU	Ertrag in Standard-EU- Feuchtigkeitsgehalt (Tonne/ha)
+HOL	Zahl der Tierhalter (1000)
+ANI	Zahl der Tiere (1000)
+HA	Anbaufläche (1 000 ha)
+MC	Feuchtigkeitsgehalt
+MA	Hauptanbaufläche (1000 ha)
+HU	Feuchtigkeitsgehalt (%)
+HU_EU	Standard-EU- Feuchtigkeitsgehalt (%)

@@ -1,0 +1,21 @@
+TOTAL	Insgesamt
+D0-3	Null bis 3 Tage
+D_LT1	Weniger als 1 Tag
+D1-3	1 bis 3 Tage
+D4-6	4 bis 6 Tage
+D_GE4	4 Tage und mehr
+D7-13	7 bis 13 Tage
+D14-20	14 bis 20 Tage
+D14-29	14 bis 29 Tage
+D_GE14	14 Tage und mehr
+D21-M1	21 Tage bis1 Monat
+D_GE183_PI	Dauerhaft unfähig oder 183 Tage und mehr
+M1-3	1 bis 3 Monate
+M_GE1	1 Monat und mehr
+M3-6	3 bis 6 Monate
+M_GE3	3 Monate und mehr
+M_GE6	6 Monate und mehr
+FAT	Tödlich
+NSP	Nicht spezifiziert
+OTH	Sonstige
+UNK	Unbekannt

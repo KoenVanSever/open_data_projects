@@ -1,0 +1,229 @@
+TOTAL	Total
+F00	Programmes et certifications génériques
+F000	Programmes et certifications génériques sans autre spécification
+F0000	Programmes et certifications génériques sans autre spécification
+F001	Programmes et certifications de base
+F0011	Programmes et certifications de base
+F002	Compétences en lecture et en calcul
+F0021	Alphabétisation et apprentissage du calcul
+F003	Compétences personnelles
+F0031	Compétences et développement personnels
+F009	Programmes et certifications génériques non classifié ailleurs
+F0099	Programmes et certifications génériques non classifié ailleurs
+F01	Éducation
+F011	Éducation
+F0110	Éducation sans autre spécification
+F0111	Sciences de l¿éducation
+F0112	Formation des enseignants au niveau préscolaire
+F0113_0114	Formation des enseignants sans spécialisation et avec spécialisation
+F0113	Formation des enseignants sans spécialisation
+F0114	Formation des enseignants avec spécialisation
+F0119	Formation des enseignants avec spécialisation non classifié ailleurs
+F018	Programmes et certifications interdisciplinaires dans le domaine 'Éducation'
+F0188	Programmes et certifications interdisciplinaires dans le domaine 'Éducation'
+F02	Lettres et arts
+F020	Lettres et arts sans autre spécification
+F0200	Lettres et arts sans autre spécification
+F021	Arts
+F0210	Arts sans autre spécification
+F0211	Techniques audiovisuelles et production multimédia
+F0212	Stylisme, décoration et design industriel
+F0213	Beaux-arts
+F0214	Artisanat
+F0215	Musique, théâtre, danse, cirque
+F0219	Arts non classifié ailleurs
+F022_023	Lettres
+F022	Lettres (à l'exception des langues)
+F0220	Lettres (à l'exception des langues) sans autre spécification
+F0221	Religion et théologie
+F0222	Histoire et archéologie
+F0223	Philosophie et morale
+F0229	Lettres (à l'exception des langues) non classifié ailleurs
+F023	Langues
+F0230	Langues sans autre spécification
+F0231	Acquisition d¿une langue
+F0232	Littérature et linguistique
+F0239	Langues non classifié ailleurs
+F028	Programmes et certifications interdisciplinaires dans le domaine 'Lettres et arts'
+F0288	Programmes et certifications interdisciplinaires dans le domaine 'Lettres et arts'
+F029	Lettres et arts non classifié ailleurs
+F0299	Lettres et arts non classifié ailleurs
+F03_04	Sciences sociales, journalisme, information, commerce, administration et droit
+F03	Sciences sociales, journalisme et information
+F030	Sciences sociales, journalisme et information sans autre spécification
+F0300	Sciences sociales, journalisme et information sans autre spécification
+F031	Sciences sociales et du comportement
+F0310	Sciences sociales et du comportement sans autre spécification
+F0311	Économie
+F0312	Sciences politiques et éducation civique
+F0313	Psychologie
+F0314	Sociologie et études culturelles
+F0319	Sciences sociales et du comportement non classifié ailleurs
+F032	Journalisme et information
+F0320	Journalisme et information sans autre spécification
+F0321	Journalisme et reportage
+F0322	Formation aux bibliothèques, à la documentation et à l¿archivisme
+F0329	Journalisme et information non classifié ailleurs
+F038	Programmes et certifications interdisciplinaires dans le domaine 'Sciences sociales, journalisme et information'
+F0388	Programmes et certifications interdisciplinaires dans le domaine 'Sciences sociales, journalisme et information'
+F039	Sciences sociales, journalisme et information non classifié ailleurs
+F0399	Sciences sociales, journalisme et information non classifié ailleurs
+F04	Commerce, administration et droit
+F040	Commerce, administration et droit sans autre spécification
+F0400	Commerce, administration et droit sans autre spécification
+F041	Commerce et administration
+F0410	Commerce et administration sans autre spécification
+F0411	Comptabilité et fiscalité
+F0412	Finance, banque et assurances
+F0413	Gestion et administration
+F0414	Marketing et publicité
+F0415	Travail de secrétariat et de bureau
+F0416	Vente en gros et au détail
+F0417	Compétences professionnelles
+F0419	Commerce et administration non classifié ailleurs
+F042	Droit
+F0421	Droit
+F048	Programmes et certifications interdisciplinaires dans le domaine 'Commerce, administration et droit'
+F0488	Programmes et certifications interdisciplinaires dans le domaine 'Commerce, administration et droit'
+F049	Commerce, administration et droit non classifié ailleurs
+F0499	Commerce, administration et droit non classifié ailleurs
+F05	Sciences naturelles, mathématiques et statistiques
+F050	Sciences naturelles, mathématiques et statistiques sans autre spécification
+F0500	Sciences naturelles, mathématiques et statistiques sans autre spécification
+F051	Sciences biologiques et apparentées
+F0510	Sciences biologiques et apparentées sans autre spécification
+F0511_0512	Biologie et biochimie
+F0511	Biologie
+F0512	Biochimie
+F0519	Sciences biologiques et apparentées non classifié ailleurs
+F052	Environnement
+F0520	Environnement sans autre spécification
+F0521	Sciences environnementales
+F0522	Environnements naturels et faune et flore
+F0529	Environnement non classifié ailleurs
+F053	Sciences physiques
+F0530	Sciences physiques sans autre spécification
+F0531	Chimie
+F0532	Sciences de la Terre
+F0533	Physique
+F0539	Sciences physiques non classifié ailleurs
+F054	Mathématiques et statistiques
+F0540	Mathématiques et statistiques sans autre spécification
+F0541	Mathématiques
+F0542	Statistiques
+F058	Programmes et certifications interdisciplinaires dans le domaine 'Sciences naturelles, mathématiques et statistiques'
+F0588	Programmes et certifications interdisciplinaires dans le domaine 'Sciences naturelles, mathématiques et statistiques'
+F059	Sciences naturelles, mathématiques et statistiques non classifié ailleurs
+F0599	Sciences naturelles, mathématiques et statistiques non classifié ailleurs
+F06	Technologies de l¿information et de la communication (TIC)
+F061	Technologies de l¿information et de la communication (TIC)
+F0610	Technologies de l¿information et de la communication (TIC) sans autre spécification
+F0611	Utilisation d¿un ordinateur
+F0612_0613	Conception et administration de bases de données et de réseau, développement et analyse de logiciels et d¿applications
+F0612	Conception et administration de bases de données et de réseau
+F0613	Développement et analyse de logiciels et d¿applications
+F0619	Technologies de l¿information et de la communication (TIC) non classifié ailleurs
+F068	Programmes et certifications interdisciplinaires dans le domaine 'Information et de la communication (TIC)'
+F0688	Programmes et certifications interdisciplinaires dans le domaine 'Information et de la communication (TIC)'
+F07	Ingénierie, industries de transformation et construction
+F070	Ingénierie, industries de transformation et construction sans autre spécification
+F0700	Ingénierie, industries de transformation et construction sans autre spécification
+F071	Ingénierie et techniques apparentées
+F0710	Ingénierie et techniques apparentées sans autre spécification
+F0711	Ingénierie chimique et processus
+F0712	Technologie de la protection de l¿environnement
+F0713	Électricité et énergie
+F0714	Électronique et automatisation
+F0715	0715 Mécanique et techniques apparentées
+F0716	Véhicules à moteur, bateaux et aéronefs
+F0719	Ingénierie et techniques apparentées non classifié ailleurs
+F072	Industries de transformation et de traitement
+F0720	Industries de transformation et de traitement sans autre spécification
+F0721	Traitement des aliments
+F0722	Matériaux (verre, papier, plastique et bois)
+F0723	Textiles (vêtements, chaussures et cuir)
+F0724	Exploitation minière et extraction
+F0729	Industries de transformation et de traitement non classifié ailleurs
+F073	Architecture et bâtiment
+F0730	Architecture et bâtiment sans autre spécification
+F0731	Architecture et urbanisme
+F0732	Construction et génie civil
+F078	Programmes et certifications interdisciplinaires dans le domaine 'Ingénierie, industries de transformation et construction'
+F0788	Programmes et certifications interdisciplinaires dans le domaine 'Ingénierie, industries de transformation et construction'
+F079	Ingénierie, industries de transformation et construction non classifié ailleurs
+F0799	Ingénierie, industries de transformation et construction non classifié ailleurs
+F08	Agriculture, sylviculture et halieutique et sciences vétérinaires
+F080	Agriculture, sylviculture et halieutique et sciences vétérinaires sans autre spécification
+F0800	Agriculture, sylviculture et halieutique et sciences vétérinaires sans autre spécification
+F081-083_088	Agriculture, sylviculture et halieutique
+F081	Agriculture
+F0810	Agriculture sans autre spécification
+F0811	Culture et élevage
+F0812	Horticulture
+F0819	Agriculture non classifié ailleurs
+F082	Sylviculture
+F0821	Sylviculture
+F083	Halieutique
+F0831	Halieutique
+F084	Sciences vétérinaires
+F0841	Sciences vétérinaires
+F088	Programmes et certifications interdisciplinaires dans le domaine 'Agriculture, sylviculture et halieutique et sciences vétérinaires'
+F0888	Programmes et certifications interdisciplinaires dans le domaine 'Agriculture, sylviculture et halieutique et sciences vétérinaires'
+F089	Agriculture, sylviculture et halieutique et sciences vétérinaires non classifié ailleurs
+F0899	Agriculture, sylviculture et halieutique et sciences vétérinaires non classifié ailleurs
+F09	Santé et protection sociales
+F090	Santé et protection sociales sans autre spécification
+F0900	Santé et protection sociales sans autre spécification
+F091	Santé
+F0910	Santé sans autre spécification
+F0911	Études dentaires
+F0912_0915_0917	Médecine, thérapie et rééducation
+F0912	Médecine
+F0913_0921	Soins infirmiers, formation de sages femmes et soins gérontologiques et aux adultes handicapés
+F0913	Soins infirmiers et formation de sages femmes
+F0914	Diagnostic médical et technologie de traitement
+F0915	Thérapie et rééducation
+F0916	Pharmacie
+F0917	Médecine et thérapies traditionnelles et complémentaires
+F0919	Santé non classifié ailleurs
+F092	Protection sociale
+F0920	Protection sociale sans autre spécification
+F0921	Soins gérontologiques et aux adultes handicapés
+F0922	Soins aux enfants et à la jeunesse
+F0923	Travail social et orientation
+F0929	Protection sociale non classifié ailleurs
+F098	Programmes et certifications interdisciplinaires dans le domaine 'Santé et protection sociales'
+F0988	Programmes et certifications interdisciplinaires dans le domaine 'Santé et protection sociales'
+F099	Santé et protection sociales non classifié ailleurs
+F0999	Santé et protection sociales non classifié ailleurs
+F10	Services
+F100	Services sans autre spécification
+F1000	Services sans autre spécification
+F101	Services aux particuliers
+F1010	Services aux particuliers sans autre spécification
+F1011	Services domestiques
+F1012	Services de soins de beauté et de coiffure
+F1013	Hôtellerie et services de restauration
+F1014	Sports
+F1015	Voyage, tourisme et loisirs
+F1019	Services aux particuliers non classifié ailleurs
+F102	Hygiène et services de santé au travail
+F1020	Hygiène et services de santé au travail sans autre spécification
+F1021	Salubrité publique
+F1022	Santé et sécurité au travail
+F1029	Hygiène et services de santé au travail non classifié ailleurs
+F103	Services de sûreté
+F1030	Services de sûreté sans autre spécification
+F1031	Sécurité militaire et défense
+F1032	Protection des biens et des personnes
+F1039	Services de sûreté non classifié ailleurs
+F104	Services de transport
+F1041	Services de transport
+F108	Programmes et certifications interdisciplinaires dans le domaine 'Services'
+F1088	Programmes et certifications interdisciplinaires dans le domaine 'Services'
+F109	Services non classifié ailleurs
+F1099	Services non classifié ailleurs
+OTH	Autres
+NSP	Non spécifié
+NRP	Sans réponse
+UNK	Inconnu

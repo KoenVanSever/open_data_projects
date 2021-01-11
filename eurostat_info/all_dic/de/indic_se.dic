@@ -1,0 +1,89 @@
+ERN	Bruttoverdienst
+E_F_M_PC	Bruttoverdienst von Frauen als Prozentanteil von dem von Männern
+OPAY	Vergütung von Überstunden
+OP_E_PC	Vergütung von Überstunden als Prozentanteil vom Verdienst
+MEAN_B_SALC_EUR	Durchschnittlicher Jahresbonus pro betroffenem Arbeitnehmer in Euro
+MEAN_B_SALC_PPS	Durchschnittlicher Jahresbonus pro betroffenem Arbeitnehmer in KKS
+MEAN_H	Durchschnittliche Zahl der jährlichen Urlaubstage
+SPAY	Vergütung von Schichtarbeit
+SP_E_PC	Vergütung von Schichtarbeit als Prozentanteil vom normalen Verdienst
+BNS	Jahresprämien
+B_E_PC	Jahresprämien als Prozentanteil vom Jahresverdienst
+HPAID	Bezahlte Arbeitsstunden
+OHP	Bezahlte Überstunden
+OH_H_PC	Überstunden als Prozentanteil von Arbeitsstunden
+MMW_MEAN_ME_PP	Monatlicher Mindestlohn als Anteil des durchschnittlichen monatlichen Bruttoverdienstes
+MMW_MED_ME_PP	Monatlicher Mindestlohn als Anteil des Medians der monatlichen Bruttoverdienste
+HOL	Jährliche Urlaubstage
+SAL	Arbeitnehmer
+LOC_UNIT	Lokale Einheiten
+MEAN_E_EUR	Durchschnittlicher Verdienst in Euro
+MEAN_E_PPS	Durchschnittlicher Verdienst in KKS
+MED_E_EUR	Mittlerer Verdienst in Euro
+MED_E_PPS	Mittlerer Verdienst in KKS
+D1_E_EUR	Erstes Dezil vom Verdienst in Euro
+D1_E_PPS	Erstes Dezil vom Verdienst in KKS
+D9_E_EUR	Neuntes Dezil vom Verdienst in Euro
+D9_E_PPS	Neuntes Dezil vom Verdienst in KKS
+MEAN_OP_SAL_EUR	Durchschnittliche Überstundenvergütung pro Arbeitnehmer in Euro
+MEAN_OP_SAL_PPS	Durchschnittlliche Überstundenvergütung pro Arbeitnehmer in KKS
+MEAN_OP_SALC_EUR	Durchschnittliche Überstundenvergütung pro betreffenden Arbeitnehmer in Euro
+MEAN_OP_SALC_PPS	Durchschnittliche Überstundenvergütung pro betreffenden Arbeitnehmer in KKS
+MEAN_SP_SAL_EUR	Durchschnittliche Vergütung von Schichtarbeit pro Arbeitnehmer in Euro
+MEAN_SP_SAL_PPS	Durchschnittliche Vergütung von Schichtarbeit pro Arbeitnehmer in KKS
+MEAN_SP_SALC_EUR	Durchschnittliche Vergütung von Schichtarbeit pro betreffenden Arbeitnehmer in Euro
+MEAN_SP_SALC_PPS	Durchschnittliche Vergütung von Schichtarbeit pro betreffenden Arbeitnehmer in KKS
+MEAN_HP	Durchschnittliche Anzahl bezahlter Arbeitsstunden
+MEAN_OHP_SAL	Durchschnittliche Anzahl bezahlter Überstunden pro Arbeitnehmer
+MEAN_OHP_SALC	Durchschnittliche Anzahl bezahlter Überstunden pro betreffenden Arbeitnehmer
+MEAN_B_SAL_EUR	Durchschnittlicher Jahresbonus pro Arbeitnehmer in Euro
+MEAN_B_SAL_PPS	Durchschnittlicher Jahresbonus pro Arbeitnehmer in KKS
+HE	Stundenverdienst
+HE_FPCM	Stundenverdienst von Frauen in % von Männern
+HOVT	Stundenverdienst für Überstunden
+HEAOVT	Stundenverdienst für normale und Überstunden
+HEO_FPCM	Stundenverdienst für normale und Überstunden von Frauen in % von Männern
+HOVTPC	Stundenverdienst für Überstunden in % von normalen Stundenverdiensten
+ME	Monatsverdienst
+MOVT	Monatsverdienst für Überstunden
+MS	Monatsverdienst für Schichtarbeit
+MOVTPC	Monatsverdienst für Überstunden in % von normalen Monatsverdiensten
+MSPC	Monatsverdienst für Schichtarbeit in % von normalen Monatsverdiensten
+AE	Jahresverdienst
+AB	Jahresprämien
+ABPC	Jahresprämien in % vom Jahresverdienst
+MHP	Bezahlte Arbeitsstunden pro Monat
+MHPAOVT	Bezahlte monatliche Überstunden
+MHPOVTPC	Überstunden pro Monat in % von bezahlten Arbeitsstunden
+MW_MEAGE	Monatlicher Mindestlohn als Anteil des Mittelwerts der durchschnittlichen Monatsverdienste
+MW_MEDGE	Monatlicher Mindestlohn als Anteil des Medians der durchschnittlichen Monatsverdienste
+AH	Jährliche Urlaubstage
+SAL_NR	Zahl der Arbeitnehmer
+LOU_NR	Zahl der örtlichen Einheiten
+ERN_MN_EUR	Durchschnittlicher Verdienst in Euro
+ERN_MN_PPS	Durchschnittlicher Verdienst in KKS
+ERN_MD_EUR	Mittlerer Verdienst in Euro
+ERN_MD_PPS	Mittlerer Verdienst in KKS
+ERN_D1_EUR	Erstes Dezil vom Verdienst in Euro
+ERN_D1_PPS	Erstes Dezil vom Verdienst in KKS
+ERN_D9_EUR	Neuntes Dezil vom Verdienst in Euro
+ERN_D9_PPS	Neuntes Dezil vom Verdienst in KKS
+ERN_D10_EUR	Zehntes Dezil vom Verdienst in Euro
+ERN_D10_PPS	Zehntes Dezil vom Verdienst in KKS
+LWE_PC	Niedriglohnempfänger als Prozentsatz der gesamten Angestellten
+OVS_MN_EUR	Durchschnittlicher Monatsverdienst für Überstunden pro Arbeitnehmer in Euro
+OVS_MN_PPS	Durchschnittlicher Monatsverdienst für Überstunden pro Arbeitnehmer in KKS
+OVC_MN_EUR	Durchschnittlicher Monatsverdienst für Überstunden pro betroffenem Arbeitnehmer in Euro
+OVC_MN_PPS	Durchschnittlicher Monatsverdienst für Überstunden pro betroffenem Arbeitnehmer in KKS
+SHS_MN_EUR	Durchschnittlicher Monatsverdienst für Schichtarbeit pro Arbeitnehmer in Euro
+SHS_MN_PPS	Durchschnittlicher Monatsverdienst für Schichtarbeit pro Arbeitnehmer in KKS
+SHC_MN_EUR	Durchschnittlicher Monatsverdienst für Schichtarbeit pro betroffenem Arbeitnehmer in Euro
+SHC_MN_PPS	Durchschnittlicher Monatsverdienst für Schichtarbeit pro betroffenem Arbeitnehmer in KKS
+HP_MN_HR	Durchschnittliche Zahl bezahlter Arbeitsstunden
+OVHPS_MN_HR	Durchschnittliche Zahl bezahlter Überstunden pro Arbeitnehmer
+OVHPC_MN_HR	Durchschnittliche Zahl bezahlter Überstunden pro betroffenem Arbeitnehmer
+BS_MN_EUR	Durchschnittlicher Jahresbonus  pro Arbeitnehmer in Euro
+BS_MN_PPS	Durchschnittlicher Jahresbonus  pro Arbeitnehmer in KKS
+BC_MN_EUR	Durchschnittlicher Jahresbonus  pro  betroffenem Arbeitnehmer in Euro
+BC_MN_PPS	Durchschnittlicher Jahresbonus  pro  betroffenem Arbeitnehmer in KKS
+HDAY_MN	Durchschnittliche Zahl der jährlichen Urlaubstage

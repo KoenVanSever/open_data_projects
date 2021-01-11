@@ -1,0 +1,32 @@
+TOTAL	Transport total
+NAT_INTL_IEU27_2020	Transport national et transport international intra-UE27 (à partir de 2020)
+NAT_INTL_IEU28	Transport national et transport international intra-UE28 (2013-2020)
+NAT	Transport national
+NAT_OCC	Transport national - occasionnel
+NAT_REG	Transport national - régulier
+NAT_URB	Transport national - urbain
+NAT_IURB	Transport national - interurbain
+INTL	Transport international
+INTL_LD	Transport international - chargé
+INTL_NLD	Transport international - déchargé
+INTL_CTRD	Transport international - traffic tiers
+INTL_CAB	Transport international - cabotage
+INTL_IN	Transport international - entrant
+INTL_OUT	Transport international - sortant
+INTL_OCC	Transport international - occasionnel
+INTL_REG	Transport international - régulier
+INTL_IEU	Transport international intra-UE
+INTL_IEU27_2020	Transport international intra-UE27 (à partir de 2020)
+INTL_IEU28	Transport international intra-UE28 (2013-2020)
+INTL_IEU27_2007	Transport international intra-UE27 (2007-2013)
+INTL_IEU25	Transport international intra-UE25 (2004-2006)
+INTL_IEU15	Transport international intra-UE15 (1995-2004)
+INTL_XEU	Transport international extra-UE
+INTL_XEU27_2020	Transport international extra-UE27 (à partir de 2020)
+INTL_XEU28	Transport international extra-UE28 (2013-2020)
+INTL_XEU27_2007	Transport international extra-UE27 (2007-2013)
+INTL_XEU25	Transport international extra-UE25 (2004-2006)
+INTL_XEU15	Transport international extra-UE15 (1995-2004)
+TRS	Transit
+OVFL	Survolé
+UNK	Inconnu

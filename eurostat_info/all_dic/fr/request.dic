@@ -1,0 +1,17 @@
+TOTAL	Total des demandes (premières demandes et demandes de réexamen)
+REQ	Premières demandes
+RX_REQ	Demandes de réexamen
+INFO	Demandes d'information
+INFO_GEN	Demandes d'information : raisons générales (Article 34.5)
+INFO_UAM	Demandes d'information : famille de mineur non accompagné (Article 6.5 et 8.6)
+INFO_DEP	Demandes d'information :  personnes à charge (Article 16.4)
+RESP	Réponses aux demandes d'information
+RESP_GEN	Réponses aux demandes d'information : raisons générales (Article 34.5)
+RG_W1-5	Réponses aux demandes d'information reçues sous 5 semaines : raisons générales (Article 34.5)
+RG_W_GT5	Réponses aux demandes d'information reçues au-delà de 5 semaines : raisons générales (Article 34.5)
+RESP_UAM	Réponses aux demandes d'information : famille de mineur non accompagné (Article 6.5 et 8.6)
+RU_W1-5	Réponses aux demandes d'information reçues sous 5 semaines : famille de mineur non accompagné (Article 6.5 et 8.6)
+RU_W_GT5	Réponses aux demandes d'information reçues  au-delà de 5 semaines : famille de mineur non accompagné (Articles 6.5 et 8.6)
+RESP_DEP	Réponses aux demandes d'information : personnes à charge (Article 16.4)
+RD_W1-5	Réponses aux demandes d'information reçues sous 5 semaines : personnes à charge (Article 16.4)
+RD_W_GT5	Réponses aux demandes d'information reçues au-delà de 5 semaines : personnes à charge (Article 16.4)

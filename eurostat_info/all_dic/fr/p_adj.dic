@@ -1,0 +1,12 @@
+CP	Prix courant
+NP	Prix nominal
+RP	Prix réel
+NV	Valeur nominale
+RV	Valeur réelle
+NI	Index nominal
+RI	Indice réel
+VOL	Volume
+CLV00	Mesures de volume chaînées, année de référence 2000 (aux taux de change de 2000)
+CLV05	Mesures de volume chaînées, année de référence 2005 (aux taux de change de 2005)
+VW	Pondération en valeur
+NAP	Non applicable

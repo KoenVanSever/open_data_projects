@@ -1,0 +1,38 @@
+GEN	Abwasseraufkommen aus sämtlichen Quellen
+GEN_PS	Abwasseraufkommen - Punktquellen - insgesamt
+GEN_AGR	Abwasseraufkommen in Land-und Forstwirtschaft, Fischerei und Fischzucht
+GEN_IND	Abwasseraufkommen in der Industrie - insgesamt
+GEN_IND_XURB	Abwasseraufkommen in der Industrie ohne das in kommunalen Kläranlagen geklärte Abwasser
+GEN_MIN	Abwasseraufkommen im Bergbau
+GEN_MAN	Abwasseraufkommen im verarbeitenden Gewerbe
+GEN_FOOD	Abwasseraufkommen im Nahrungsmittelgewerbe
+GEN_MET	Abwasseraufkommen in der Metallerzeugung und -verarbeitung
+GEN_TRA	Abwasseraufkommen bei der Herstellung von Kraftwagen und Kraftwagenteilen und sonstigem Fahrzeugbau
+GEN_TEXT	Abwasseraufkommen in der  Textilindustrie
+GEN_PAP	Abwasseraufkommen bei der  Erzeugung von Papier und Papierprodukten
+GEN_CHEM	Abwasseraufkommen in der chemischen Industrie und Erdölraffinerien
+GEN_ELC	Abwasseraufkommen bei der Elektrizitätserzeugung und -verteilung (ausgenommen Kühlwasser)
+GEN_CON	Abwasseraufkommen im Baugewerbe
+GEN_DOM	Abwasseraufkommen im Haushaltsbereich
+GEN_SER	Abwasseraufkommen von Dienstleistungsbetrieben
+GEN_HH	Abwasseraufkommen von Privathaushalten
+GEN_NPS	Abwasseraufkommen aus diffusen Quellen
+GEN_URB	Kommunales Abwasseraufkommen - insgesamt
+TRT_IF	Behandlung von kommunalem Abwasser und Industrieabwasser - gesamter Zufluss zu Kläranlagen
+TRT_URB_IF	Behandlung von kommunalem Abwasser - gesamter Zufluss zu Kläranlagen
+TRT_URB_GE2	Behandlung von kommunalem Abwasser - mit mindestens zweiter Reinigungsstufe
+TRT_IND_IF	Behandlung von Industrieabwasser - gesamter Zufluss
+TRT_IND_GE2	Behandlung von Industrieabwasser - mit mindestens zweiter Reinigungsstufe
+DIS	Gesamtableitungen von Kläranlagen (kommunale und sonstige)
+DIS_URB	Kommunales Abwasser - Gesamtableitung
+DIS_URB_AT	Kommunales Abwasser - Ableitung nach Behandlung in kommunalen Kläranlagen
+DIS_URB_AIT	Kommunales Abwasser - Ableitung nach unabhängiger Behandlung
+DIS_URB_NT	Kommunales Abwasser - Ableitung ohne Behandlung
+DIS_IND	Abwasser aus der Industrie - Gesamtableitung
+DIS_IND_AT	Abwasser aus der Industrie - Ableitung nach Behandlung
+DIS_IND_NT	Abwasser aus der Industrie - Ableitung ohne Behandlung
+DIS_NT	Gesamtmenge des ohne Behandlung abgeleiteten Abwassers
+DIS_AGR	Landwirtschaftliches  Abwasser - Direktableitungen (inkl. Forstwirtschaft und Fischerei)
+DIS_NPS	Direkte Ableitungen aus diffusen Quellen
+DIS_IW	Ableitungen in Binnengewässer - insgesamt
+DIS_SEA	Ableitungen ins Meer -  insgesamt

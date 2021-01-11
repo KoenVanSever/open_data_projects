@@ -1,0 +1,13 @@
+TOTAL	Total
+CH_RELIC	De ses propres enfants ou de ceux du conjoint et de proches en état d'incapacité
+CH_IN_RELIC	De ses propres enfants ou de ceux du conjoint dans le ménage et de proches en état d'incapacité
+CH_OUT_RELIC	De ses propres enfants ou de ceux du conjoint en dehors du ménage et de proches en état d'incapacité
+CH_INOUT_RELIC	De ses propres enfants ou de ceux du conjoint dans le ménage et en dehors et de proches en état d'incapacité
+CH	De ses propres enfants ou de ceux du conjoint
+CH_IN	De ses propres enfants ou de ceux du conjoint dans le ménage
+CH_OUT	De ses propres enfants ou de ceux du conjoint en dehors du ménage
+CH_INOUT	De ses propres enfants ou de ceux du conjoint dans le ménage et en dehors
+RELIC	De proches en état d'incapacité
+NONE	Pas de responsabilité de garde ni de soin
+NAP	Non applicable
+NRP	Sans réponse

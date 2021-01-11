@@ -1,0 +1,12 @@
+TOTAL	Insgesamt
+ESU0	Null EGE
+ESU_LT1	Weniger als 1 EGE
+ESU1	1 bis 1.9 EGE
+ESU_LT2	Weniger als 2 EGE
+ESU2-3	2 bis 3.9 EGE
+ESU4-7	4 bis 7.9 EGE
+ESU8-15	8 bis 15.9 EGE
+ESU16-39	16 bis 39.9 EGE
+ESU40-99	40 bis 99.9 EGE
+ESU100-249	100 bis 249.9 EGE
+ESU_GE250	250 EGE und mehr

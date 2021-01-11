@@ -1,0 +1,186 @@
+A01	Culture et production animale, chasse et services annexes
+A02	Sylviculture et exploitation forestière
+A03	Pêche et aquaculture
+B	Industries extractives
+C	Industrie manufacturière
+C10-12	Industries alimentaires; fabrication de boissons et de produits à base de tabac
+C13-15	Fabrication de textiles, industrie de l'habillement, du cuir et de la chaussure
+C16	Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles; fabrication d'articles en vannerie et sparterie
+C17	Industrie du papier et du carton
+C18	Imprimerie et reproduction d'enregistrements
+C19	Cokéfaction et raffinage
+C20	Industrie chimique
+C21	Industrie pharmaceutique
+C22	Fabrication de produits en caoutchouc et en plastique
+C23	Fabrication d'autres produits minéraux non métalliques
+C24	Métallurgie
+C25	Fabrication de produits métalliques, à l'exception des machines et des équipements
+C26	Fabrication de produits informatiques, électroniques et optiques
+C27	Fabrication d'équipements électriques
+C28	Fabrication de machines et équipements n.c.a.
+C29	Industrie automobile
+C30	Fabrication d'autres matériels de transport
+C31_32	Fabrication de meubles; autres industries manufacturières
+C33	Réparation et installation de machines et d'équipements
+D	Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné
+E36	Captage, traitement et distribution d'eau
+E37-39	Collecte et traitement des eaux usées, gestion des déchets, dépollution
+F	Construction
+G45	Commerce et réparation d'automobiles et de motocycles
+G46	Commerce de gros, à l'exception des automobiles et des motocycles
+G47	Commerce de détail, à l'exception des automobiles et des motocycles
+H49	Transports terrestres et transport par conduites
+H50	Transports par eau
+H51	Transports aériens
+H52	Entreposage et services auxiliaires des transports
+H53	Activités de poste et de courrier
+I	Hébergement et restauration
+J58	Édition
+J59_60	Activités cinématographique, vidéo, production de programmes de télévision, activités de programmation et de diffusion
+J61	Télécommunications
+J62_63	Programmation, conseil en informatique et autres services d'information
+K64	Activités des services financiers, hors assurance et caisses de retraite
+K65	Assurance
+K66	Activités auxiliaires de services financiers et d'assurance
+L68B	Activités immobilières à l'exclusion des loyers imputés
+L68A	Loyers imputés des logements occupés par leur propriétaire
+M69_70	Activités juridiques et comptables; activités des sièges sociaux; conseil de gestion
+M71	Activités d'architecture et d'ingénierie; activités de contrôle et analyses techniques
+M72	Recherche-développement scientifique
+M73	Publicité et études de marché
+M74_75	Autres activités spécialisées, scientifiques et techniques, activités vétérinaires
+N77	Activités de location et location-bail
+N78	Activités liées à l'emploi
+N79	Activités des agences de voyage, voyagistes, services de réservation et activités connexes
+N80-82	Enquêtes et sécurité, activités administratives, services et aménagement paysager
+O	Administration publique et défense; sécurité sociale obligatoire
+P	Enseignement
+Q86	Santé humaine
+Q87_88	Hébergement médico-social et social et action sociale sans hébergement
+R90-92	Activités créatives, artistiques et de spectacle; bibliothèques, archives, musées et autres activités culturelles; organisation de jeux de hasard et d'argent
+R93	Activités sportives, récréatives et de loisirs
+S94	Activités des organisations associatives
+S95	Réparation d'ordinateurs et de biens personnels et domestiques
+S96	Autres services personnels
+T	Activités des ménages en tant qu'employeurs; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre
+U	Activités extra-territoriales
+A	Agriculture, sylviculture et pêche
+B-E	Industrie (sauf construction)
+G-I	Commerce, transport, hébergement et activités de restauration
+J	Information et communication
+K	Activités financières et d'assurance
+L	Activités immobilières
+M_N	Activités spécialisées, scientifiques et techniques; activités de services administratifs et de soutien
+O-Q	Administration publique, défense, éducation, santé humaine et action sociale
+R-U	Arts, spectacles et activités récréatives; autres activités de services; activités des ménages et extra-territoriales
+TOT_X_A02	Toutes activités de la NACE sauf la sylviculture et l'exploitation forestière
+CPA_A01	Produits de l'agriculture et de la chasse et services annexes
+CPA_A02	Produits sylvicoles et services annexes
+CPA_A03	Produits de la pêche et de l'aquaculture; services de soutien à la pêche
+CPA_B	Produits des industries extractives
+CPA_C10-12	Produits des industries alimentaires, boissons et produits à base de tabac
+CPA_C13-15	Produits de l'industrie textile, articles d'habillement, cuir et articles en cuir
+CPA_C16	Bois, articles en bois et en liège, à l'exclusion des meubles; articles de vannerie et de sparterie
+CPA_C17	Papier et carton
+CPA_C18	Travaux d'impression et de reproduction
+CPA_C19	Produits de la cokéfaction et du raffinage
+CPA_C20	Produits chimiques
+CPA_C21	Produits pharmaceutiques de base et préparations pharmaceutiques
+CPA_C22	Produits en caoutchouc et en plastique
+CPA_C23	Autres produits minéraux non métalliques
+CPA_C24	Produits métallurgiques
+CPA_C25	Produits métalliques, à l'exclusion des machines et équipements
+CPA_C26	Produits informatiques, électroniques et optiques
+CPA_C27	Équipements électriques
+CPA_C28	Machines et équipements n.c.a.
+CPA_C29	Véhicules automobiles, remorques et semi-remorques
+CPA_C30	Autres matériels de transport
+CPA_C31_32	Meubles et autres produits manufacturés
+CPA_C33	Réparation et installation de machines et d'équipements
+CPA_D	Électricité, gaz, vapeur et air conditionné
+CPA_E36	Eau naturelle; traitement et distribution d'eau
+CPA_E37-39	Collecte et traitement des eaux usées; boues d'épuration; collecte, traitement et élimination des déchets; récupération de matériaux; Dépollution et autres services de gestion des déchets
+CPA_F	Constructions et travaux de construction
+CPA_G45	Commerce et réparation d'automobiles et de motocycles
+CPA_G46	Commerce de gros, à l'exclusion des automobiles et des motocycles
+CPA_G47	Commerce de détail, à l'exclusion des automobiles et des motocycles
+CPA_H49	Transports terrestres et transports par conduites
+CPA_H50	Transport par eau
+CPA_H51	Transports aériens
+CPA_H52	Entreposage et services auxiliaires des transports
+CPA_H53	Services de poste et de courrier
+CPA_I	Services d'hébergement et de restauration
+CPA_J58	Édition
+CPA_J59_60	Production de films cinématographiques, de vidéos et de programmes de télévision; enregistrement sonore et édition musicale; programmation et diffusion
+CPA_J61	Services de télécommunications
+CPA_J62_63	Programmation, conseil et autres activités informatiques;Services d'information
+CPA_K64	Services financiers, hors assurances et caisses de retraite
+CPA_K65	Services d'assurance, de réassurance et de caisses de retraite, à l'exclusion de la sécurité sociale obligatoire
+CPA_K66	Services auxiliaires aux services financiers et aux assurances
+CPA_L68B	Services immobiliers à l'exclusion des loyers imputés
+CPA_L68A	Loyers imputés des logements occupés par leur propriétaire
+CPA_M69_70	Services juridiques et comptables; services des sièges sociaux; conseil de gestion
+CPA_M71	Services d'architecture et d'ingénierie; services de contrôle et analyses techniques
+CPA_M72	Services de recherche et développement scientifique
+CPA_M73	Services de publicité et d'études de marché
+CPA_M74_75	Autres services spécialisés, scientifiques et techniques et services vétérinaires
+CPA_N77	Location et location-bail
+CPA_N78	Services liés à l'emploi
+CPA_N79	Services des agences de voyage, des voyagistes et autres services de réservation et services connexes
+CPA_N80-82	Services de sécurité et d'enquête; services relatifs aux bâtiments et aménagement paysager; services administratifs et autres services de soutien aux entreprises
+CPA_O	Services d'administration publique et de défense; services de sécurité sociale obligatoire
+CPA_P	Services de l'enseignement
+CPA_Q86	Services de santé humaine
+CPA_Q87_88	Services d'hébergement médico-social et social; services d'action sociale sans hébergement
+CPA_R90-92	Services créatifs, artistiques, du spectacle, des bibliothèques, archives, musées et autres services culturels; jeux de hasard et d'argent
+CPA_R93	Services sportifs, récréatifs et de loisirs
+CPA_S94	Services fournis par des organisations associatives
+CPA_S95	Services de réparation d'ordinateurs et de biens personnels et domestiques
+CPA_S96	Autres services personnels
+CPA_T	Services des ménages en tant qu'employeurs; biens et services divers produits par les ménages pour leur usage propre
+CPA_U	Services extra-territoriaux
+CPA_A	Produits de l'agriculture, de la sylviculture et de la pêche
+CPA_B-E	Produits industriels (sauf travaux de construction)
+CPA_G-I	Commerce; services de transport et d'entreposage; d'hébergement et de restauration
+CPA_J	Services d'information et de communication
+CPA_K	Services financiers et assurances
+CPA_L	Services immobiliers
+CPA_M_N	Services professionnels, scientifiques et techniques; services administratifs et d'assistance
+CPA_O-Q	Services d'administration publique, défense, éducation, santé humaine et action sociale
+CPA_R-U	Services artistiques et du spectacle et services récréatifs; autres services; services des ménages et extra-territoriaux
+TOTAL	Total
+P7_B0	Importations de biens et services en provenance de l'Union Européenne
+P7_U2	Importations de biens et services en provenance de la zone euro
+P7_U3	Importations de biens et services en provenance de l'Union Européenne hors zone euro
+P7_D0	Importations de biens et services en provenance des pays hors Union Européenne
+P7	Importations de biens et services
+TS	Total des offres
+TS_BP	Total des offres aux prix de base
+D21X31	Impôts moins les subventions sur les produits
+OTTM	Marges commerciales et de transport
+TS_PP	Total des offres aux prix d'achat                                                                          
+P3_S14	Dépenses de consommation finale par les ménages
+P3_S15	Dépense de consommation finale par organisations sans but lucratif en service de ménages
+P3_S13	Dépenses de consommation finale par les administrations publiques
+P3	Dépense de consommation finale
+P3_P5	Dépense de consommation finale et Formation brute de capital
+P51G	Formation brute de capital fixe
+P53	Acquisitions moins cessions d'objets de valeur
+P52	Variation des stocks
+P5M	Variation des stocks et acquisitions moins cessions d'objets de valeur
+P5	Formation brute de capital
+P6_B0	Exportations de biens et services à destination de l'Union Européenne
+P6_U2	Exportations de biens et services à destination de la zone euro
+P6_U3	Exportations de biens et services à destination de l'Union Européenne hors zone euro
+P6_D0	Exportations de biens et servicesà destination des pays hors Union Européenne
+P6	Exportations de biens et services
+TFU	Total des emplois finaux
+TU	Total des emplois
+TU_PP	Total des emplois aux prix d'achat
+NAP	Non applicable
+ITTM	Marges internationales commerciales et de transport
+TS_PF	Total des ressources aux prix d¿acquisition et FOB
+DISC	Ecart
+P6D	Biens quittant le pays
+MCH	Négoce international de marchandises
+OP	Achats

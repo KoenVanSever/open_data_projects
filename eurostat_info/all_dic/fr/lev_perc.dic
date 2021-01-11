@@ -1,0 +1,25 @@
+STR	Fort
+VG_FG	Très bon ou assez bon
+VGOOD	Très bon
+GOOD	Bon
+VG_G	Très bon ou bon
+FGOOD	Assez bon
+FAIR	Moyen
+INT	Moyen
+MOD	Modéré
+VMILD	Très faible
+MILD	Faible
+M_VM	Faible ou très faible
+NONE_MIN	Aucun ou minimum
+POOR	Faible
+BAD	Mauvais
+VB_FB	Très mauvais ou assez mauvais
+VBAD	Très mauvais
+FBAD	Assez mauvais
+B_VB	Mauvais ou très mauvais
+SEV	Grave
+MODS	Moyennement grave
+MOD_MODS_SEV	Modéré, moyennement grave ou grave
+S_VS	Grave ou très grave
+NONE	Aucune
+UNK	Inconnu

@@ -1,0 +1,104 @@
+RW	Rundholz (Rohholz)
+RW_C	Industrierundholz, Brennholz  - Nadelholz
+RW_NC	Industrierundholz, Brennholz  - Laubholz
+RW_FW	Brennholz (auch zur Erzeugung von Holzkohle)
+RW_FW_C	Brennholz - Nadelholz
+RW_FW_NC	Brennholz - Laubholz
+RW_IN	Industrierundholz
+RW_IN_C	Industrierundholz - Nadelholz
+RW_IN_NC	Industrierundholz - Laubholz
+RW_IN_TNC	Industrierundholz - Tropenholz, Laubholz
+RW_IN_LG	Stammholz und Furnierholz
+RW_IN_LG_C	Stammholz und Furnierholz  - Nadelholz
+RW_IN_LG_NC	Stammholz und Furnierholz  - Laubholz
+RW_IN_PW_O	Faserholz und sonstiges Industrierundholz
+RW_IN_PW	Faserholz
+RW_IN_PW_C	Faserholz  - Nadelholz
+RW_IN_PW_NC	Faserholz  - Laubholz
+RW_IN_O	Sonstiges Industrierundholz
+RW_IN_O_C	Sonstiges Industrierundholz - Nadelholz
+RW_IN_O_NC	Sonstiges Industrierundholz - Laubholz
+CHA	Holzkohle
+CHP_RES	Hackschnitzel und Holzreste
+CHP	Hackschnitzel
+RES	Holzreste (einschließlich Holz für Presslinge)
+RCW	Aufbereitetes Altholz
+PEL_AGG	Holzpellets und sonstige Presslinge
+PEL	Holzpellets
+AGG	Sonstige Presslinge
+SN	Schnittholz (einschließlich Bahnschwellen)
+SN_C	Schnittholz (einschließlich Bahnschwellen) - Nadelholz
+SN_NC	Schnittholz (einschließlich Bahnschwellen) - Laubholz
+SN_TNC	Schnittholz (einschließlich Bahnschwellen) - Tropenholz, Laubholz
+PN	Holzplatten
+PN_VN	Furniere
+PN_VN_C	Furniere - Nadelholz
+PN_VN_NC	Furniere - Laubholz
+PN_VN_TNC	Furniere - Tropenholz, Laubholz
+PN_PY	Sperrholz
+PN_PY_C	Sperrholz - Nadelholz
+PN_PY_NC	Sperrholz - Laubholz
+PN_PY_TNC	Sperrholz - Tropenholz, Laubholz
+PN_PB	Spanplatten, OSB und sonstige
+PN_PB_OSB	Spanplatten, darunter OSB
+PN_FB	Faserplatten
+PN_FB_HB	Hartfaserplatten
+PN_FB_MDF	Faserplatten mittlerer/hoher Dichte (MDF/HDF)
+PN_FB_O	Sonstige Faserplatten
+GLT	Lamellenholz
+CLT	Kreuzlagenholz
+PL	Holzzellstoffe
+PL_MC_SCH	Mechanische und halbchemische Zellstoffe
+PL_MC_SCH_NW	Mechanische und halbchemische Zellstoffe und sonstige Zellstoffe, nicht aus Holzfasern
+PL_MC	Mechanische Zellstoffe
+PL_SCH	Halbchemische Zellstoffe
+PL_CH_DS	Chemische Zellstoffe und Edelzellstoffe
+PL_CH	Chemische Zellstoffe
+PL_CH_SA	Sulfatzellstoff
+PL_CH_SANB	Sulfatzellstoff, ungebleicht
+PL_CH_SAB	Sulfatzellstoff, gebleicht
+PL_CH_SI	Sulfitzellstoff
+PL_CH_SINB	Sulfitzellstoff, ungebleicht
+PL_CH_SIB	Sulfitzellstoff, gebleicht
+PL_DS	Edelzellstoffe
+PLO	Sonstige Zellstoffe
+PLO_NW	Sonstige Zellstoffe, nicht aus Holzfasern
+PLO_RC	Zellstoffe aus Recyclingfasern
+RCP	Altpapier
+PP	Papier, Karton und Pappe
+PP_GR	Grafische Papiere
+PP_GR_NP	Zeitungsdruckpapier
+PP_GR_CO_NCO	Druck- und Schreibpapiere
+PP_GR_MC	Ungestrichene, mechanisch aufbereitete Papiere
+PP_GR_NW	Ungestrichene holzfreie Papiere
+PP_GR_CO	Gestrichene Papiere
+PP_HS	Haushalts- und Hygienepapiere
+PP_PK	Verpackungsmaterial
+PP_PK_CS	Pack- und Wellpappenpapiere
+PP_PK_CB	Faltschachtelkarton
+PP_PK_WR	Packpapiere
+PP_PK_O	Sonstige Verpackungspapiere, hauptsächlich Wickelpappe
+PP_O	Sonstiges Papier, Karton und Pappe, a.n.g
+SW	Weiterverarbeitete Holzwaren
+SW_SN	Verarbeitetes Schnittholz
+SW_SN_C	Verarbeitetes Nadelschnittholz
+SW_SN_NC	Verarbeitetes Laubschnittholz
+SW_SN_TNC	Verarbeitetes Laub- und Tropenschnittholz
+SW_WR	Verpackungsmaterial aus Holz
+SW_DM	Holzwaren für Innenausstattung/Dekor
+SW_O	Sonstige verarbeitete Holzwaren
+SW_JN	Bautischler- und Zimmerarbeiten
+SW_FU	Holzmöbel
+SW_BL	Fertighäuser
+SW_BL_W	Fertighäuser überwiegend aus Holz
+SP	Weiterverarbeitete Papierwaren
+SP_CM	Verbundpapier und -pappe
+SP_SCO	Oberflächenbehandelte Papiere
+SP_CC	Kohle- und Vervielfältigungspapier, gebrauchsfertig
+SP_HS	Haushalts- und Hygienepapiere, gebrauchsfertig
+SP_PK	Verpackungsschachteln, -kartons, usw.
+SP_O	Sonstige Papier- und Pappewaren, gebrauchsfertig
+SP_O_PR	Druck- und Schreibpapier, gebrauchsfertig
+SP_O_AR	Geschöpfte oder gepresste Zellstofferzeugnisse
+SP_O_FL	Filterpapier und Pappe, gebrauchsfertig
+SP_PR	Druckpapier

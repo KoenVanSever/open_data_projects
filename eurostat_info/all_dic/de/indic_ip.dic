@@ -1,0 +1,58 @@
+TIPSBP10	Leistungsbilanz - % des BIP, 3 Jahre Durchschnitt
+TIPSBP20	Leistungsbilanz - % des BIP
+TIPSII10	Nettoauslandsvermögensstatus - % des BIP
+TIPSER10_1	Realer effektiver Wechselkurs, 42 Handelspartner - % Veränderung über 1 Jahr
+TIPSER10_2	Realer effektiver Wechselkurs, 42 Handelspartner - % Veränderung über 3 Jahre
+TIPSEX10	Exportmarktanteile - % Veränderung über 5 Jahre
+TIPSEX20	Exportmarktanteile - % Veränderung über 1 Jahr
+TIPSLM10	Nominale Lohnstückkosten - % Veränderung über 3 Jahre
+TIPSLM20	Nominale Lohnstückkosten - % Veränderung über 1 Jahr
+TIPSHO10	HauspreisIndizes - bereinigt - % Veränderung über 1 Jahr
+TIPSPC20	Kreditstrom des privaten Sektors, konsolidiert - % des BIP
+TIPSPC10	Kreditstrom des privaten Sektors, nicht konsolidiert, % des BIP
+TIPSPD20	Schuldenstand des privaten Sektors, konsolidiert - % des BIP
+TIPSGO10	Öffentlicher Schuldenstand - % des BIP
+TIPSFS10_1	Verbindlichkeiten des gesamten Finanzsektors, nicht konsolidiert - % Veränderung über 1 Jahr
+TIPSFS10_2	Verbindlichkeiten des gesamten Finanzsektors, nicht konsolidiert - Millionen Landeswährung
+TIPSUN10	Arbeitslosenquoten - 3 Jahre Durchschnitt
+TIPSUN20	Arbeitslosenquoten - %
+TIPSNA10	Reales Bruttoinlandsprodukt (BIP) - % Veränderung über 1 Jahr
+TIPSNA20	Bruttoanlageinvestitionen - % des BIP
+TIPSST10	Bruttoinlandsaufwendungen für FuE - % des BIP
+TIPSBP70	Finanzierungssaldo - Leistungsbilanz und Vermögensbildungskonto - % des BIP
+TIPSII20	Netto Auslandsschuld - % des BIP
+TIPSBP90	Direktinvestitionen im Meldeland (ströme) - % des BIP
+TIPSBP100	Direktinvestitionen im Meldeland (Bestände) - % des BIP
+TIPSEN10	Nettohandelsbilanz der Energieprodukte - % des BIP
+TIPSER20	Realer effektiver Wechselkurs, Handelspartner Euroraum - % Veränderung über 3 Jahre
+TIPSBP60	Anteil an den OECD Exporten - % Veränderung über 5 Jahre
+TIPSNA30	Terms of Trade (Güter und Dienstleistungen) - % Veränderung über 5 Jahre
+TIPSEX_V	Exportmarktanteile, volumen - % Veränderung über 1 Jahr
+TIPSNA70	Arbeitsproduktivität - % Veränderung über 1 Jahr
+TIPSNA40	Nominale Lohnstückkosten - % Veränderung über 10 Jahre
+TIPSLM50	Entwicklung der Lohnstückkosten im Hinblick auf den Euroraum - % Veränderung über 10 Jahre
+TIPSHO20	Nominaler Hauspreisindex - % Veränderung über 3 Jahre
+TIPSNA50	Privater Wohnungsbau - % des BIP
+TIPSPD10	Schuldenstand des privaten Sektors, nicht konsolidiert - % des BIP
+TIPSFS20	Verschuldungsgrad der finanziellen Kapitalgesellschaften - %
+TIPSNA60	Erwerbstätigkeit - % Veränderung über 1 Jahr
+TIPSLM60_1	Erwerbsquote (15 -64 Jährige) - % der Bevölkerung derselben Altersgruppe
+TIPSLM60_2	Erwerbsquote (15 -64 Jährige) - 3 Jahre % Punkten Veränderung
+TIPSLM70_1	Langzeitarbeitslosenquote - % der Erwerbspersonen derselben Altersgruppe
+TIPSLM70_2	Langzeitarbeitslosenquote - % der Erwerbspersonen derselben Altersgruppe, 3 Jahre % Punkten Veränderung
+TIPSLM80_1	Jugendarbeitslosenquote - % der Erwerbspersonen derselben Altersgruppe
+TIPSLM80_2	Jugendarbeitslosenquote - % der Erwerbspersonen derselben Altersgruppe, 3 Jahre % Punkten Veränderung
+TIPSLM90_1	Jugendliche, weder beschäftigt noch in Ausbildung oder Weiterbildung - % der Gesamtbevölkerung
+TIPSLM90_2	Jugendliche, weder beschäftigt noch in Ausbildung oder Weiterbildung - % der Gesamtbevölkerung, 3 Jahre % Punkten Veränderung
+TIPSLC10_1	Von Armut oder sozialer Ausgrenzung bedrohte Personen - % der Gesamtbevölkerung
+TIPSLC10_2	Von Armut oder sozialer Ausgrenzung bedrohte Personen - % der Gesamtbevölkerung, 3 Jahre % Punkten Veränderung
+TIPSLC20_1	Von Armut bedrohte Personen, nach Sozialleistungen - % der Gesamtbevölkerung
+TIPSLC20_2	Von Armut bedrohte Personen, nach Sozialleistungen - % der Gesamtbevölkerung, 3 Jahre % Punkten Veränderung
+TIPSLC30_1	Unter erheblicher materieller Deprivation leidende Personen - % der Gesamtbevölkerung
+TIPSLC30_2	Unter erheblicher materieller Deprivation leidende Personen - % der Gesamtbevölkerung, 3 Jahre % Punkten Veränderung
+TIPSLC40_1	In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen (Prozent von der Bevölkerung im Alter zwischen 0 und 59)
+TIPSLC40_2	In Haushalten mit sehr niedriger Erwerbstätigkeit lebende Personen - % Von der Bevölkerung im Alter zwischen 0 und 59, 3 Jahre % Punkten Veränderung
+TIPSBD10	Brutto-notleidende Kredite, in- und ausländische Unternehmen - % der Bruttokredite
+TIPSBD20	Konsolidierter Bankenhebel, in- und ausländische Unternehmen (Vielfaches Aktiva-zu-Eigenkapital)
+TIPSII50	Netto-Auslandsvermögensstatus mit Ausnahme nicht ausfallgefährdeter Instrumente - % des BIP
+TIPSPD22	Haushaltsschulden, konsolidiert inklusive Private Organisationen ohne Erwerbszweck - % des BIP

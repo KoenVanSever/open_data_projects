@@ -1,0 +1,9 @@
+REG	Registrierte Arbeitssuchende
+REG_UNE	Registrierte Arbeitslose
+REG_UNE_LT	Registrierte Langzeitarbeitslose (>12 Monate)
+REG_UNE_BEN	Registrierte Arbeitslose mit Leistungsbezug
+REG_UNE_NBEN	Registrierte Arbeitslose ohne Leistungsbezug
+REG_OTH	Sonstige registrierte Arbeitssuchende
+NREG_UNE_BEN	Nicht registrierte Arbeitslose jedoch mit Leistungsbezug
+NREG_UNE_NBEN	Nicht registrierte Arbeitslose ohne Leistungsbezug
+UNK	Unbekannt

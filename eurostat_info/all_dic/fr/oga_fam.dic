@@ -1,0 +1,11 @@
+MOGA_FAM	Membres de la famille exerçant d'autres activités lucratives comme activité principale
+MOGA_FAM_RH	Membres de la famille exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité principale
+MOGA_FAM_NRH	Membres de la famille exerçant d'autres activités lucratives (non liées à l'exploitation agricole) comme activité principale
+MOGA_NFAM_RH	Main-d'œuvre non familiale travaillant régulièrement sur l'exploitation agricole et exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité principale
+SOGA_FAM	Membres de la famille exerçant d'autres activités lucratives comme activité secondaire
+SOGA_FAM_RH	Membres de la famille exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité secondaire
+SOGA_FAM_NRH	Membres de la famille exerçant d'autres activités lucratives (non liées à l'exploitation agricole) comme activité secondaire
+SOGA_NFAM_RH	Main-d'œuvre non familiale travaillant régulièrement sur l'exploitation agricole et exerçant d'autres activités lucratives (liées à l'exploitation agricole) comme activité secondaire
+NOGA_FAM	Membres de la famille n'exerçant pas d'autres activités lucratives
+NOGA_FAM_RH	Membres de la famille n'exerçant pas d'autres activités lucratives (liées à l'exploitation agricole)
+NOGA_FAM_NRH	Membres de la famille n'exerçant pas d'autres activités lucratives (non liées à l'exploitation agricole)

@@ -1,0 +1,164 @@
+F	Fungizide und Bakterizide
+F01	Anorganische Fungizide
+F01_01	Kupferverbindungen
+F01_02	Anorganischer Schwefel
+F01_99	Sonstige anorganische Fungizide
+F02	Carbamaten und Dithiocarbamaten abgeleitete Fungizide
+F02_01	Carbanilatfungizide
+F02_02	Carbamatfungizide
+F02_03	Dithiocarbamatfungizide
+F02_99	Sonstige von Carbamaten und Dithiocarbamaten abgeleitete Fungizide
+F03	Benzimidazolen angeleitete Fungizide
+F03_01	Benzimidazol-Fungizide
+F03_99	Sonstige von Benzimidazolen abgeleitete Fungizide
+F04	Von Imidazolen und Triazolen abgeleitete Fungizide
+F04_01	Conazol-Fungizide
+F04_02	Imidazol-Fungizide
+F04_99	Sonstige von Imidazolen und Triazolen abgeleitete Fungizide
+F05	Von Morpholinen abgeleitete Fungizide
+F05_01	Morpholin-Fungizide
+F05_99	Sonstige von Morpholinen abgeleitete Fungizide
+F06	Fungizide mikrobiologischen oder pflanzlichen Ursprungs
+F06_01	Mikrobiologische Fungizide
+F06_02	Pflanzliche Fungizide
+F06_99	Sonstige Fungizide mikrobiologischen oder pflanzlichen Ursprungs
+F07	Bakterizide
+F07_01	Anorganische Bakterizide
+F99	Sonstige Fungizide und Bakterizide
+F99_01	Aliphatische Stickstoff-Fungizide
+F99_02	Amidfungizide
+F99_03	Anilidfungizide
+F99_05	Aromatische Fungizide
+F99_06	Dicarboximid-Fungizide
+F99_07	Dinitroanilin-Fungizide
+F99_08	Dinitrophenol-Fungizide
+F99_09	Organophosphor-Fungizide
+F99_10	Oxazol-Fungizide
+F99_11	Phenylpyrrol-Fungizide
+F99_12	Phthalimid-Fungizide
+F99_13	Pyrimidin-Fungizide
+F99_14	Chinolin-Fungizide
+F99_15	Chinon-Fungizide
+F99_16	Strobilurin-Fungizide
+F99_17	Harnstoff-Fungizide
+F99_99	Nicht zugeordnete Fungizide
+H	Herbizide, krautabtötende Mittel und Moosvernichter
+H01	Von Phenoxy-Phytohormonen abgeleitete Herbizide
+H01_01	Phenoxyherbizide
+H01_99	Sonstige von Phenoxy-Phytohormonen abgeleitete Herbizide
+H02	Von Triazinen und Triazinonen abgeleitete Herbizide
+H02_02	Triazin-Herbizide
+H02_03	Triazinon-Herbizide
+H02_99	Sonstige von Triazinen oder Triazinonen abgeleitete Herbizide
+H03	Von Amiden und Aniliden abgeleitete Herbizide
+H03_01	Amid-Herbizide
+H03_02	Anilid-Herbizide
+H03_03	Chloroacetanilid-Herbizide
+H03_99	Sonstige von Amiden und Aniliden abgeleitete Herbizide
+H04	Von Carbamaten und Biscarbamaten abgeleitete Herbizide
+H04_01	Biscarbamat-Herbizide
+H04_02	Carbamat-Herbizide
+H04_99	Sonstige von Carbamaten und Biscarbamaten abgeleitete Herbizide
+H05	Von Dinitroanilinderivaten abgeleitete Herbizide
+H05_01	Dinitroanilin-Herbizide
+H05_99	Sonstige von Dinitroanilinderivaten abgeleitete Herbizide
+H06	Von Harnstoff-, Uracil- oder Sulfonylharnstoffderivaten abgeleitete Herbizide
+H06_01	Sulfonylharnstoff-Herbizide
+H06_02	Uracil-Herbizide
+H06_03	Harnstoff-Herbizide
+H06_99	Sonstige von Harnstoff-, Uracil- oder Sulfonylharnstoffderivaten abgeleitete Herbizide
+H99	Sonstige Herbizide
+H99_01	Aryloxyphenoxypropion-Herbizide
+H99_02	Benzofuran-Herbizide
+H99_03	Benzoesäure-Herbizide
+H99_04	Bipyridylium-Herbizide
+H99_05	Cyclohexandion-Herbizide
+H99_06	Diazin-Herbizide
+H99_07	Dicarboximid-Herbizide
+H99_08	Diphenylether-Herbizide
+H99_09	Imidazolinon-Herbizide
+H99_10	Anorganische Herbizide
+H99_11	Isoxatol-Herbizide
+H99_13	Nitril-Herbizide
+H99_14	Organophosphor-Herbizide
+H99_15	Phenylpyrazol-Herbizide
+H99_16	Pyridazinon-Herbizide
+H99_17	Pyridincarboxamid-Herbizide
+H99_18	Pyridincarboxyl-Herbizide
+H99_19	Pyridyloxyessigsäure-Herbizide
+H99_20	Chinolin-Herbizide
+H99_21	Thiadiazin-Herbizide
+H99_22	Thiocarbamat-Herbizide
+H99_23	Triazol-Herbizide
+H99_24	Triazolinon-Herbizide
+H99_25	Triazolon-Herbizide
+H99_26	Triketon-Herbizide
+H99_99	Nicht zugeordnete Herbizide
+I	Insektizide und Akarizide
+I01	Von Pyrethroiden abgeleitete Insektizide
+I01_01	Pyrethroid-Insektizide
+I01_99	Sonstige von Pyrethroiden abgeleitete Insektizide
+I02	Von chlorierten Kohlenwasserstoffen abgeleitete Insektizide
+I02_01	Anthranilamid-Insektizide
+I02_99	Sonstige von chlorierten Kohlenwasserstoffen abgeleitete Insektizide
+I03	Von Carbamaten und Oximcarbamaten abgeleitete Insektizide
+I03_01	Oximcarbamat-Insektizide
+I03_02	Carbamat-Insektizide
+I03_99	Sonstige von Carbamaten und Oximcarbamaten abgeleitete Insektizide
+I04	Von organischen Phosphaten abgeleitete Insektizide
+I04_01	Organophosphor-Insektizide
+I04_99	Sonstige von organischen Phosphaten abgeleitete Insektizide
+I05	Insektizide auf pflanzlicher oder mikrobieller Basis
+I05_01	Mikrobiogische Insektizide
+I05_02	Insektizide auf pflanzlicher Basis
+I05_99	Sonstige Insektizide auf pflanzlicher oder mikrobieller Basis
+I06	Akarizide
+I06_01	Pyrazol-Akarizide
+I06_02	Tetrazin-Akarizide
+I06_99	Sonstige Akarizide
+I99	Sonstige Insektizide
+I99_01	Durch Fermentierung erzeugte Insektizide
+I99_03	Benzoylharnstoff-Insektizide
+I99_04	Carbazat-Insektizide
+I99_05	Diazylhydrazin-Insektizide
+I99_06	Insektenwachstumsregler
+I99_08	Nitroguanidin-Insektizide
+I99_09	Organozinn-Insektizide
+I99_10	Oxadiazin-Insektizide
+I99_11	Phenylether-Insektizide
+I99_12	Pyrazol(phenyl-)-Insektizide
+I99_13	Pyridin-Insektizide
+I99_14	Pyridylmethylamin-Insektizide
+I99_15	Sulfit-Ester-Insektizide
+I99_17	Tetronsäure-Insektizide
+I99_18	Ködergift geradkettige Lepidopteran Pheromone (SCLP)
+I99_19	Andere Ködergifte
+I99_99	Nicht zugeordnete Insektizide/Akarizide
+M	Molluskizide
+M01	Molluskizide
+M01_01	Molluskizide
+PGR	Pflanzenwachstumsregler
+PGR01	Physiologisch wirkende Pflanzenwachstumsregler
+PGR01_01	Physiologisch wirkende Pflanzenwachstumsregler
+PGR01_99	Sonstige Physiologisch wirkende Pflanzenwachstumsregler
+PGR02	Keimhemmungsmittel
+PGR02_02	Keimhemmungsmittel
+PGR02_99	Sonstige Keimhemmungsmittel
+PGR03	Sonstige Pflanzenwachstumsregler
+PGR03_99	Sonstige Pflanzenwachstumsregler
+ZR	Sonstige Pflanzenschutzmittel
+ZR01	Mineralöle
+ZR01_01	Mineralöle
+ZR02	Pflanzenöle
+ZR02_01	Pflanzenöle
+ZR03	Bodenentseuchungsmittel (einschließlich Nematizide)
+ZR03_01	Methylbromid
+ZR03_02	Biologische Nematizide
+ZR03_03	Organophosphor-Nematizide
+ZR03_99	Sonstige Bodenentseuchungsmittel
+ZR04	Rodentizide
+ZR04_01	Rodentizide
+ZR99	Alle sonstigen Pflanzenschutzmittel
+ZR99_01	Desinfektionsmittel
+ZR99_02	Repellents
+ZR99_99	Sonstige Pflanzenschutzmittel

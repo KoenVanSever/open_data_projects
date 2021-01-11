@@ -1,0 +1,24 @@
+TOT_HF	Tous les mécanismes de financement
+HF1	Mécanismes publics et systèmes de financement de la santé à contribution obligatoire
+HF11	Mécanismes publics
+HF12_13	Systèmes d'assurance-santé à contribution obligatoire et comptes d'épargne médicale obligatoire (CMSA)
+HF121	Systèmes d'assurance-maladie
+HF122	Systèmes d'assurance privée obligatoire
+HF13	Comptes d'épargne médicale obligatoire (CMSA)
+HF2	Mécanismes volontaires de paiement des soins de santé
+HF21	Systèmes d'assurance-santé volontaire
+HF22	Institutions de financement sans but lucratif
+HF23	Mécanismes de financement par les entreprises
+HF3	Paiements directs par les ménages
+HF31	Paiements directs à l'exclusion du partage des coûts
+HF32	Partage des coûts avec des tiers payeurs
+HF4	Mécanismes de financement par le reste du monde (non-résidents)
+HF41	Mécanismes obligatoires (non-résidents)
+HF42	Mécanismes volontaires (non-résidents)
+HF_UNK	Mécanismes de financement inconnus
+HFRI1	Unités institutionnelles gérant des mécanismes de financement
+HFRI11	Administrations publiques
+HFRI12-14	Sociétés, ménages et ISBLSM
+HFRI15	Reste du monde
+HFRI2	Mécanismes publics et systèmes d'assurance-santé à contribution obligatoire ainsi que partage des coûts (HF.1 + HF.3.2.1)
+HFRI3	Systèmes d'assurance-santé volontaire ainsi que partage des coûts (HF.2.1 + HF.3.2.2)

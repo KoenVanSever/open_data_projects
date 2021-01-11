@@ -1,0 +1,102 @@
+TOTAL	Total
+AP_PE	Pommiers et poiriers
+AP	Pommiers
+APD	Pommiers produisant des pommes de table
+APD_BKP	Boskoop groupe
+APD_BRB	Braeburn groupe
+APD_COO	Cox Orange groupe
+APD_CRP	Cripps Pink groupe
+APD_ELR	Elstar groupe
+APD_FUJ	Fuji groupe
+APD_GAL	Gala groupe
+APD_GOD	Golden Delicious groupe
+APD_GRS	Granny Smith groupe
+APD_IDR	Idared groupe
+APD_JON	Jonagold/Jonagored groupe
+APD_MOD	Morgenduft groupe
+APD_RED	Red Delicious groupe
+APD_RBC	Reinette groupe
+APD_SHP	Shampion groupe
+APD_LOB	Lobo groupe
+APD_PIN	Pinova groupe
+APD_OTH	Autres pommes de table n.c.a.
+API	Pommiers dont les fruits sont destinés à la transformation industrielle
+PE	Poiriers
+PED	Poiriers produisant des poires de table
+PED_CFR	Conférence groupe
+PED_WIL	Williams groupe
+PED_ABT	Abate groupe
+PED_ROC	Rocha groupe
+PED_COE	Coscia-Ercolini groupe
+PED_GYT	Guyot groupe
+PED_BLQ	Blanquilla groupe
+PED_DCN	Decana groupe
+PED_KAS	Kaiser groupe
+PED_OTH	Autres poires de table n.c.a.
+PEI	Poiriers dont les fruits sont destinés à la transformation industrielle
+PC_APC	Pêchers, nectariniers et abricotiers
+PC	Pêchers et nectariniers
+PCD	Pêchers produisant des pêches et nectarines de table
+PCD_PEA	Pêches de consommation
+PCD_PEAY	Pêches à chair jaune
+PCD_PEAY_VE	Pêches à chair jaune très précoces
+PCD_PEAY_E	Pêches à chair jaune précoces
+PCD_PEAY_M	Pêches à chair jaune mi-précoces
+PCD_PEAY_L	Pêches à chair jaune tardives
+PCD_PEAW	Pêches à chair blanche
+PCD_PEAW_VE	Pêches à chair blanche très précoces
+PCD_PEAW_E	Pêches à chair blanche précoces
+PCD_PEAW_M	Pêches à chair blanche mi-précoces
+PCD_PEAW_L	Pêches à chair blanche tardives
+PCD_PEAD	Pêches plates
+PCD_NEC	Nectarines de consommation
+PCD_NECY	Nectarines à chair jaune
+PCD_NECY_VE	Nectarines à chair jaune très précoces 
+PCD_NECY_E	Nectarines à chair jaune précoces
+PCD_NECY_M	Nectarines à chair jaune mi-précoces
+PCD_NECY_L	Nectarines à chair jaune tardives
+PCD_NECW	Nectarines à chair blanche
+PCD_NECW_VE	Nectarines à chair blanche très précoces
+PCD_NECW_E	Nectarines à chair blanche précoces
+PCD_NECW_M	Nectarines à chair blanche mi-précoces
+PCD_NECW_L	Nectarines à chair blanche tardives
+PCI	Pêchers et nectariniers dont les fruits sont destinés à la transformation industrielle (y compris le groupe Pavie)
+APC	Abricotiers
+APC_VE	Abricots très précoces (récoltés jusqu'au 31 mai)
+APC_E	Abricots précoces (récoltés ente le 1 et le 30 juin)
+APC_M	Abricots mi-précoces (récoltés entre le 1 et le 31 juillet)
+APC_L	Abricots tardifs (récoltés après le 1 août)
+ORA_SCF_LEM	Orangers, agrumiers à petit fruits et citronniers
+ORA	Orangers
+ORA_NVL	Navel oranges
+ORA_NVL_E	Navel précoces
+ORA_NVL_M	Navel médium
+ORA_NVL_L	Navel tardives
+ORA_BLC	Blancas
+ORA_BLC_E	Blancas précoces
+ORA_BLC_L	Blancas tardives
+ORA_SGU	Sanguines
+ORA_OTH	Autres oranges n.c.a.
+SCF	Agrumiers à petits fruits
+SCF_STM	Satsumas
+SCF_STM_VE	Satsumas précoces
+SCF_STM_OTH	Autres satsumas
+SCF_CLM	Clémentines
+SCF_CLM_E	Clémentines précoces
+SCF_CLM_M	Clémentines médium
+SCF_CLM_L	Clémentines tardives
+SCF_OTH	Autres petits agrumes y compris les hybrides
+LEM	Citronniers
+LEM_WI	Variétés de citrons d'hiver
+LEM_SU	Variétés de citrons d'été
+OLI	Oliviers
+OLIT	Olives de table
+OLIO	Olives pour l'huile
+ODP	Olives à double usage
+GRV	Vignes à raisins de table
+GRV_W	Raisins de table blancs
+GRV_WSDL	Raisins de table blancs sans pépins
+GRV_WNML	Raisins de table blancs normaux
+GRV_R	Raisins de table rouges
+GRV_RSDL	Raisins de table rouges sans pépins
+GRV_RNML	Raisins de table rouges normaux

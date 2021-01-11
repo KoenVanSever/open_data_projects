@@ -1,0 +1,153 @@
+NFR1A1A	Öffentlichen Elektrizitäts- und Wärmeerzeugung
+NFR1A1B	Mineralölraffinerien
+NFR1A1C	Herstellung von festen Brennstoffen und sonstige Energieerzeuger
+NFR1A2A	Stationäre Verbrennung in der eisenschaffende Industrie
+NFR1A2B	Stationäre Verbrennung  in der Herstellung von Nichteisenmetalle
+NFR1A2C	Stationäre Verbrennung in der chemischen Industrie
+NFR1A2D	Stationäre Verbrennung in der Zellstoff und Papierindustrie
+NFR1A2E	Stationäre Verbrennung in der Lebensmittelverarbeitung, Getränke und Tabak
+NFR1A2F	Stationäre Verbrennung in der mineralischen Industrie
+NFR1A2G7	Mobile Verbrennung im Verarbeitenden Gewerbe und Bauwesen
+NFR1A2G8	Stationäre Verbrennung im sonstigen Verarbeitenden Gewerbe und Bauwesen
+NFR1A_TRA	Verkehr und sonstige mobile Quellen (NFR1A3A1_1-NFR1A3E2, 1A4A2, 1A5B)
+NFR1A3	Verkehr (Verbrennung von Brennstoffen)
+NFR1A3A1_1	Internationaler Luftverkehr (Landung und Start)
+NFR1A3A1_2	Internationaler Luftverkehr (Reiseflug)
+NFR1A3A2_1	Inländischer Luftverkehr (Landung und Start)
+NFR1A3A2_2	Inländischer Luftverkehr (Reiseflug)
+NFR1A3B1	Straßenverkehr: Personkraftwagen
+NFR1A3B2	Straßenverkehr: Personkraftwagen
+NFR1A3B3	Straßenverkehr: Leichte Lastkraftwagen
+NFR1A3B4	Straßenverkehr: Schwere Lastkraftwagen und Busse
+NFR1A3B5	Straßenverkehr: Verdunstung von Kraftstoffen
+NFR1A3B6	Straßenverkehr: Abnutzung Bremsen und Reifen
+NFR1A3B7	Straßenverkehr: Abnutzung Straßenbelag
+NFR1A3C	Schienenverkehr
+NFR1A3D1_1	Internationaler Schiffsverkehr zu See
+NFR1A3D1_2	Internationaler Schiffsverkehr Binnengewässer
+NFR1A3D2	Inländischer Schiffsverkehr
+NFR1A3E1	Pipelines
+NFR1A3E2	Sonstiger Verkehr
+NFR1A4A1	Stationäre Verbrennung in Gewerbe/Handel/Dienstleistungen
+NFR1A4A2	Mobile Verbrennung in Gewerbe/Handel/Dienstleistungen
+NFR1A4B1	Stationäre Verbrennung in Haushalten
+NFR1A4B2	Mobile Verbrennung in Haushalten
+NFR1A4C1	Stationäre Verbrennung in Landwirtschaft/Forstwirtschaft/Fischerei
+NFR1A4C2	Mobile Verbrennung in Landwirtschaft/Forstwirtschaft/Fischerei
+NFR1A4C3	Fischerei inländisch
+NFR1A5A	Sonstige stationäre Verbrennung (einschließlich Militär)
+NFR1A5B	Sonstige mobile Verbrennung (einschließlich Militär, Freizeitboote)
+NFR1A5C	Multilaterale Unternehmungen
+NFR1B1A	Diffuse Emissionen aus festen Brennstoffen: Kohlebergbau
+NFR1B1B	Diffuse Emissionen aus festen Brennstoffen: Umwandlung fester Brennstoffe
+NFR1B1C	Sonstige diffuse Emissionen aus festen Brennstoffen
+NFR1B2A1	Diffuse Emissionen aus Öl: Exploration, Gewinnung, Transport
+NFR1B2A4	Diffuse Emissionen aus Öl: Raffinerien, Lagerung
+NFR1B2A5	Verteilung von Ölprodukten
+NFR1B2B	Diffuse Emissionen aus Gas (Exploration, Gewinnung, Verarbeitung, Transport, Lagerung und sonstiges)
+NFR1B2C	Druckentlastung und Abfackelung (Öl, Gas)
+NFR1B2D	Sonstige diffuse Emissionen aus der Energieerzeugung
+NFR2A1	Zementklinkerproduktion
+NFR2A2	Kalkbrennen
+NFR2A3	Glasherstellung
+NFR2A5A	Bergbau ausser Kohle
+NFR2A5B	Baugewerbe
+NFR2A5C	Lagerung, Behandlung und Transport von mineralischen Produkten
+NFR2A6	Herstellung anderer mineralischer Produkte
+NFR2B1	Ammoniakproduktion
+NFR2B10A	Andere chemische Industrie
+NFR2B10B	Lagerung, Behandlung und Transport von chemischen Produkten
+NFR2B2	Salpetersäureproduktion
+NFR2B3	Adipinsäureproduktion
+NFR2B5	Carbidproduktion
+NFR2B6	Titandioxid-Produktion 
+NFR2B7	Soda-Herstellung
+NFR2C1	Eisen- und Stahlproduktion
+NFR2C2	Produktion von Ferrolegierungen
+NFR2C3	Aluminiumproduktion
+NFR2C4	Magnesiumproduktion
+NFR2C5	Bleiproduktion
+NFR2C6	Zinkproduktion
+NFR2C7A	Kupferproduktion
+NFR2C7B	Nickelproduktion
+NFR2C7C	Sonstige Metallproduktion
+NFR2C7D	Lagerung, Behandlung und Transport von Metallprodukten
+NFR2D3A	Lösemittelanwendung einschließlich Fungicide
+NFR2D3B	Asphaltierung von Straßen
+NFR2D3C	Asphaltierung von Dächern
+NFR2D3D	Beschichtungen
+NFR2D3E	Entfettung
+NFR2D3F	Trockenreinigung
+NFR2D3G	Chemische Produkte
+NFR2D3H	Drucken
+NFR2D3I	Sonstige Lösemittelanwendungen
+NFR2G	Sonstige Produktanwendungen
+NFR2H1	Andere industrielle Prozesse und Produktanwendungen: Zellstoff und Papierindustrie
+NFR2H2	Andere industrielle Prozesse und Produktanwendungen: Nahrungsmittelindustrie
+NFR2H3	Andere industrielle Prozesse und Produktanwendungen: Andere
+NFR2I	Holzverarbeitung
+NFR2J	Herstellung von langlebigen organischen Schadstoffen
+NFR2K	Verbrauch von langlebigen organischen Schadstoffen und Schwermetallen
+NFR2L	Sonstige Herstellung, Verbrauch, Lagerung, Transport und Behandlung von Massenprodukten
+NFR3_AGR	Landwirtschaft (NFR3)
+NFR3_MNR	Behandlung von Wirtschaftsdüngern, anorganische Stickstoffdünger, tierische Wirtschaftsdünger (NFR3B1A-NFR3B4H, 3DA1, 3DA2A, 3DA3)
+NFR3B1A	Behandlung von Wirtschaftsdüngern - Milchvieh
+NFR3B1B	Behandlung von Wirtschaftsdüngern - Nicht-Milchvieh
+NFR3B2	Behandlung von Wirtschaftsdüngern - Schafe
+NFR3B3	Behandlung von Wirtschaftsdüngern - Schweine
+NFR3B4A	Behandlung von Wirtschaftsdüngern - Büffel
+NFR3B4D	Behandlung von Wirtschaftsdüngern - Ziegen
+NFR3B4E	Behandlung von Wirtschaftsdüngern - Pferde
+NFR3B4F	Behandlung von Wirtschaftsdüngern - Esel
+NFR3B4G1	Behandlung von Wirtschaftsdüngern - Legehehnen
+NFR3B4G2	Behandlung von Wirtschaftsdüngern - Hähnchen
+NFR3B4G3	Behandlung von Wirtschaftsdüngern - Truthähne
+NFR3B4G4	Behandlung von Wirtschaftsdüngern - anderes Geflügel
+NFR3B4H	Behandlung von Wirtschaftsdüngern - andere Tiere
+NFR3DA1	Bewirtschaftung von Böden - anorganische Stickstoffdünger (einschließlich Hahnstoff Anwendung)
+NFR3DA2A	Bewirtschaftung von Böden - tierische Wirtschaftdünger
+NFR3DA2B	Bewirtschaftung von Böden - Klärschlamm
+NFR3DA2C	Bewirtschaftung von Böden - andere organische Dünger einschliesslich Kompost
+NFR3DA3	Bewirtschaftung von Böden - Ausscheidungen von Weidetieren
+NFR3DA4	Bewirtschaftung von Böden - Pflanzenrückstände
+NFR3DB	Indiekte Emissionen von bewirtschaften Böden
+NFR3DC	Anwendungen auf landwirtschaftlichen Betriebsstätten einschließlich Lagerung, Behandlung und Transport von landwirtschaftlichen Produkten
+NFR3DD	Lagerung, Behandlung, und Transport von landwirtschaftlichen Produkten abseits landwirtschaftlicher Betrienbsstätten
+NFR3DE	Kulturpflanzen
+NFR3DF	Nutzung von Pesticiden
+NFR3F	Verbrennen landwirtschaftlicher Rückstände
+NFR3I	Sonstige Emissions aus Landwirtschaft
+NFR5A	Biologische Behandlung von Abfällen - Deponierung von festen Abfällen
+NFR5B1	Biologische Behandlung von Abfällen - Kompostierung
+NFR5B2	Biologische Behandlung von Abfällen - Anaerobe Vergärung in Biogasanlagen
+NFR5C1A	Verbrennung hausmüllähnlicher Abfälle
+NFR5C1B1	Verbrennung von Industrieabfällen
+NFR5C1B2	Verbrennung von gefährlichen Abfällen
+NFR5C1B3	Verbrennung von Krankenhausabfällen
+NFR5C1B4	Verbrennung von Klärschlamm
+NFR5C1B5	Krematorien
+NFR5C1B6	Sonstige Abfallverbrennung
+NFR5C2	Offenes Verbrennen von Abfall
+NFR5D1	Kommunale Abwasserbehandlung
+NFR5D2	Industrielle Abwasserbehandlung
+NFR5D3	Sonstige Abwasserbehandlung
+NFR5E	Sonstige Bereiche der Abfallbehandlung
+NFR6A	Sonstige (enthalten in 'alle Sektoren auf dem Territorium')
+NFR6B	Sonstige (nicht enthalten in 'alle Sektoren auf dem Territorium')
+NFR11A	Vulkane
+NFR11B	Waldbrände
+NFR11C	Andere natürliche Emissionen
+NFR_ADJ	Summe der Abgleichungen (negative Werte) von Annex VII
+NFR_TOT_NAT	Alle Sektoren auf dem Territorium (basierend auf verkauften Brennstoffen)
+NFR_TOT_NAT_C	Alle Sektoren berücksichtigt bei der Bewertung der Einhaltung der Ziele
+SE_TOT_NAT	Gesamtheit der Emissionsbereiche des nationalen Hoheitsgebietes
+SE1_EPD	Energieerzeugung und -verteilung (NFR 1A1a, b, c, 1B1a, b, c, 1B2ai, aiv, av, b, c, d)
+SE1_EUI	Energieverbrauch in der Industrie (NFR 1A2a, b, c, d, e, f, gvii, gviii)
+SE1_RD	Straßenverkehr (NFR 1A3b)
+SE1_NRD	Nichtstraßenverkehr (NFR 1A3a, c, d und 1A4ciii)
+SE1_RD_NRD	Straßen- und Nichtstraßenverkehr (NFR 1A3a, b, c, d and 1A4ciii)
+SE1_CIH	Kommerziell, institutionell und Private Haushalte (NFR 1A4ai, aii, bi, bii, ci, cii, 1A5a, b)
+SE2_IPPU	Industrielle Prozesse und Verwendung von Erzeugnissen (NFR 2A1-6, 2B1-7, 2C1-7, 2D3, 2G, 2H, 2I, 2J, 2K, 2L)
+SE3_AGR	Landwirtschaft (NFR 3B1-4, 3D, 3F, 3I)
+SE5_WST	Abfall (NFR 5A, 5B, 5C1-2, 5D1-3, 5E)
+SE6_OTH	Sonstiges (NFR 6A)

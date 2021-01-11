@@ -1,0 +1,15 @@
+TOTAL	Total
+SRC	Sourcing
+SRC_IN	Sourcing within the enterprise group
+SRC_DOM	Domestic sourcing
+SRC_DOM_IN	Domestic sourcing within the enterprise group
+SRC_DOM_OUT	Domestic sourcing outside the enterprise group
+SRC_INTL	International sourcing
+SRC_INTL_IN	International sourcing within the enterprise group
+SRC_INTL_OUT	International sourcing outside the enterprise group
+NSRC	No sourcing
+SO	Function is sourced
+SO_DO	Function is sourced Domestically
+SO_IN	Function is sourced Internationally
+NO	Function is not sourced
+UNK	Unknown

@@ -1,0 +1,146 @@
+TOTAL	Insgesamt
+LEG_ADM	Rechtlich bzw. Administrativ
+CBT_NRLV	Grenzüberschreitender Handel nicht relevant
+C41	Unternehmensinterne Gegebenheiten (z.B. Leistungen die nicht exportierbar sind)
+E_COM_ABR	Errichtung einer kommerziellen Präsenz im Ausland
+C42	Die Errichtung einer Auslandspräsenz
+MV_STAF_TEMP	Vorübergehende Personalverlagerung
+C43	Die zeitweilige Abordnung von Personal
+TAX	Steuerliche Hindernisse
+C44	Besteuerungsfragen
+INS_GAR	Versicherungen, Garantiesysteme und sonstige Hindernisse
+C45	Versicherungen, Garantiesysteme und ähnliche Fragen
+LINTLSTD	Mangel an internationalen Standards
+C46	Fehlen von internationalen Standards für Dienstleistungen
+DIF_IDF_CLABR	Schwierigkeiten bei der Ermittlung potentieller Kunden im Ausland
+C47	Schwierigkeiten potentielle Kunden im Ausland zu identifizieren
+LANG_CLT	Sprache und Kultur
+C48	Sprache und Kultur
+TAR_TRD	Zölle und sonstige Handelshindernisse
+TARIF	Zölle
+UNC_INTLSTD	Ungewissheit bezüglich internationaler Standards
+INT_STAN	Ungewissheit bezüglich internationaler Standards
+CNC_SAL	Bedenken der Arbeitnehmer (einschließlich der Gewerkschaften)
+EMPL	Bedenken der Arbeitnehmer (einschließlich der Gewerkschaften)
+CNC_VLPAT_IPR	Bedenken hinsichtlich der Verletzung von Patentrechten und/oder von Rechten an geistigem Eigentum
+PAT_INT	Bedenken hinsichtlich der Verletzung von Patentrechten und/oder von Rechten an geistigem Eigentum
+CNF_SOCVAL	Widersprüche zu den sozialen Werten Ihres Unternehmens (z. B. Aspekten der sozialen Verantwortung der Unternehmen)
+CONFL	Widersprüche zu den sozialen Werten Ihres Unternehmens (z. B. Aspekten der sozialen Verantwortung der Unternehmen)
+DST_PRR	Entfernung zu den Herstellern
+DISTAN	Probleme aufgrund der Entfernung zu den Herstellern
+DST_CL	Entfernung zu vorhandenen Kunden
+PROX	Nähe zu vorhandenen Kunden erforderlich
+DIF_IDF_PROVABR	Schwierigkeiten, im Ausland geeignete Lieferanten zu finden
+PROV	Schwierigkeiten, im Ausland potenzielle/geeignete Lieferanten zu finden
+CNC_SRCOP_BEN	Bedenken, dass die Kosten der Beschaffung den erwarteten Nutzen übersteigen
+OVERALL	Allgemeine Bedenken im Hinblick auf den erwarteten Nutzen der Beschaffung
+FIN	Finanzielle Hindernisse
+UNC_QUALPRD_ABR	Unsicherheit über die Qualität der Produkte/Dienstleistungen die ins Ausland geliefert werden
+QPS	Die Unsicherheit über die Qualität der Produkte / Dienstleistungen ins Ausland geliefert werden
+LMNG_KH	Mangel an Managementressourcen und an Know-how
+MAN	Mangel an Managementressourcen und an Know-how (optional)
+MSSDOC_PRD	Fehlende Dokumentation der eigenen Produkte und Prozesse
+DOC	Fehlende Dokumentation der eigenen Produkte und Prozesse (optional)
+MOB	Mobilität
+TRA	Transport
+TRANSP	Hindernissen für Transport
+ACS_BLD	Zugang zu Gebäuden
+BUILD	Hindernisse für Zugang zu Gebäuden
+EDUC_TNG	Aus- und Weiterbildung
+EDUC	Hindernissen für Bildung und Ausbildung
+EMP	Beschäftigung
+U_INET	Internetnutzung
+INT	Hindernisse für Internetnutzung
+SOC	Soziale Kontakte
+SPEAK	Hindernisse für soziale Kontakte
+LEIS	Freizeit
+LEISURE	Hindernisse für Freizeitaktivitäten
+P_ESS	Bezahlung lebensnotwendiger Güter
+PAY	Hindernisse für Bezahlung der wesentlichen Dinge im Leben
+PERC_DCRIM	Wahrgenommene Diskriminierung
+DISCRIM	Hindernisse für faire Behandlung
+PTP_LD1	Teilnahme in 1 Lebensbereich
+LD1	Hindernisse für die Teilnahme in 1 Lebensbereich
+PTP_LD2-3	Teilnahme in 2 bis 3 Lebensbereichen
+LD2-3	Hindernisse für die Teilnahme in 2-3 Lebensbereichen
+PTP_LD_GE4	Teilnahme in 4 oder mehr Lebensbereichen
+LD_GE4	Hindernisse für die Teilnahme in 4 oder mehr Lebensbereichen
+LLANG	Mangelnde Sprachkenntnisse
+LANG	Mangelnde Sprachkenntnisse
+LREC_QLF	Mangelnde Anerkennung von Qualifikationen
+QUAL	Mangelnde Anerkennung von Qualifikationen
+CTZ_RPRM	Staatsangehörigkeit oder Aufenthaltsgenehmigung
+PERM	Staatsbürgerschaft oder Aufenthaltsgenehmigung
+ORI_REL_SOC	Herkunft, Religion oder soziale Herkunft
+ORELSOC	Herkunft, Religion oder soziale Herkunft
+LQLFLAB_ABR	Mangel an qualifizierten Arbeitskräften im Ausland
+ACS_FIN_OTH	Zugang zu Finanzmitteln oder sonstige finanzielle Hindernisse
+LFIN	Mangel an Finanzierung
+LFIN_IN	Mangel an internen Finanzierungsquellen
+LFIN_EXT	Mangel an externen Finanzierungsquellen (Kredite, Beteiligungskapital)
+LFUND_IN	Mangel an Finanzierungsquellen innerhalb der Unternehmensgruppe
+HCOST	Hohe Kosten
+HCOST_ACS_NEWMKT	Hohe Kosten des Zugangs zu neuen Märkten
+HCOST_MT_REGL	Hohe Kosten Gesetze umzusetzen
+LQLFSAL_IN	Mangel an geeignetem Fachpersonal im Unternehmen
+LCOLLPTN	Mangel an Kooperationspartnern
+DIF_SUB	Schwierigkeiten im Zugang zu Fördermitteln
+MKTDM_UNC	Unsicherheit über die Nachfrage im Markt
+MKTDM_LW	Geringe Nachfrage im Markt
+HCOMP	Starker Wettbewerb
+PRCCOMP_STR	Starker Preiswettbewerb
+INN_COMP	Innovation wurde von Wettbewerbern eingeführt
+MKTCOMP_LTL	Geringer Wettbewerb im Markt
+STRCOMP_PRDQUAL	Starker Qualitätswettbewerb
+LINFO_TEC	Mangel an Informationen über Technologie
+LINFO_MKT	Mangel an Informationen über Märkte
+LGIDEA	Mangel an guten Ideen
+MKT_EENT	Markt wird von etablierten Unternehmen dominiert
+NND	Kein Bedarf
+PREINN	Frühere Innovationen
+NDM	Keine Nachfrage
+ABD_CNC	In der Konzeptphase aufgegeben
+ABD_BG	Nach der Einführung aufgegeben
+D_SRL	Spürbar verspätet
+NCMPG	Kein überzeugender Hindernisgrund
+BRR_TL	Zu starke Hindernisse
+BUR_REGL	Belastung durch Gesetzgebung
+UNC_REGL	Unsicherheit durch Gesetzgebung
+LCSI_EU_REGL	Mangel an Einheitlichkeit der Gesetzgebung in der EU
+LACS_KNOW	Mangel an Zugang zu externem Wissen
+DIFFPRIOR_IN	Andere Prioritäten im Unternehmen
+BRR_GE1	Ein oder mehrere Hindernisse
+OUTSRC_LOG	An anderes Unternehmen ausgelagerte Logistik
+REGL	Regulatorische Hindernisse
+TECH	Technische Hindernisse
+WRKHR_LG	Lange Arbeitszeit
+DIF_WRKSCD	Arbeitszeiten sind schwer planbar oder liegen ungünstig
+COM_LG	Langer Weg zur Arbeit
+DMJOB	Arbeit ist anspruchsvoll oder anstrengend
+LSUPP_EMPL	Mangelnde Unterstützung durch Arbeitgeber und Kollegen
+RF	Beziehungen nur innerhalb der Unternehmensgruppe möglich
+L	Unternehmens-Standort
+SBS	Größe und Geschäftsbereich des Unternehmens
+ASP	Verfügbarkeit von geeigneten Partnern
+LRB	gesetzliche oder andere regelnde Bestimmungen
+CCI	Bedenken, Kernkompetenz oder Unabhängigkeit einzubüßen
+RIMF	Risiko von Fehlinvestitionen bei Arbeitskräften und/oder Finanzen
+NSCC	Bereits eingegangene Kooperationen brachten nicht den gewünschten Erfolg
+NWRI	Unabhängigkeit soll weiter bestehen bleiben
+OSOP	Andere strategische oder betriebsbedingte Optionen werden bevorzugt
+BEG	zu erwartender Gewinn deckt nicht die Lasten
+11	Standorthindernisse
+12	Sprachhindernisse
+13	Kultur- und Vertrauenshindernisse
+14	Wirtschaftliche Hindernisse
+15	Rechtliche Hindernisse
+16	Schwierigkeiten passende ausländische Dienstanbieter zu identifizieren
+20	Keine Hindernisse
+30	Die Dienstleistung is nicht relevant
+OTH	Sonstige
+OTHER	Sonstige Hindernisse
+NO	Kein Hindernis
+NONE	Keine
+NAP	Nicht anwendbar
+NRP	Keine Antwort
+UNK	Nicht bekannt

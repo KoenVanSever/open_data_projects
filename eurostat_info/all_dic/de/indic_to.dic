@@ -1,0 +1,22 @@
+A001	Betriebe
+A002	Zimmer
+A003	Schlafgelegenheiten
+B001	Ankünfte von Inländern
+B002	Ankünfte von Nichtinländern
+B272	Ankünfte von Nichtinländern aus der EU27 (2007-2013)
+B282	Ankünfte von Nichtinländern aus der EU28 (2013-2020)
+B003	Ankünfte, Insgesamt
+B004	Übernachtungen von Inländern
+B275	Übernachtungen von Nichtinländern aus der EU27 (2007-2013)
+B285	Übernachtungen von Nichtinländern aus der EU28 (2013-2020)
+B005	Übernachtungen von Nichtinländern
+B006	Übernachtungen, Insgesamt
+D001	Abfahrten von Inländern ins Ausland für Ferien oder geschäftliche Zwecken (eine Nacht oder länger)
+D271	Abfahrten von Inländern mit  Ziel ein Land im EU27-Raum (2007-2013), für Ferien oder geschäftliche Zwecken (eine Nacht oder länger)
+D281	Abfahrten von Inländern mit  Ziel ein Land im EU28-Raum (2013-2020), für Ferien oder geschäftliche Zwecken (eine Nacht oder länger)
+E001	Nettobelegungsrate des Schlafgelegenheiten
+E002	Belegung der Schlafgelegenheiten - brutto
+E003	Nettobelegungsrate der Zimmer
+J002	Ankünfte von Touristen an den Grenzen
+J272	Ankünfte von Touristen an den EU27-Grenzen (2007-2013)
+J282	Ankünfte von Touristen an den EU28-Grenzen (2013-2020)

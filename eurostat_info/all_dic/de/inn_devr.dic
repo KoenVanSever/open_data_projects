@@ -1,0 +1,14 @@
+TOTAL	Insgesamt
+ENT	Das Unternehmen selbst
+ENT_RND	Das Unternehmen selbst (Unternehmen mit Forschung und Entwicklungsaktivitäten)
+ENT_NRND	Das Unternehmen selbst (Unternehmen ohne Forschung und Entwicklungsaktivitäten)
+ENT_OTH	Das Unternehmen zusammen mit anderen Unternehmen oder Organisationen
+ENT_OTH_RND	Das Unternehmen zusammen mit anderen Unternehmen oder Organisationen (Unternehmen mit Forschung und Entwicklungsaktivitäten)
+ENT_OTH_NRND	Das Unternehmen zusammen mit anderen Unternehmen oder Organisationen (Unternehmen ohne Forschung und Entwicklungsaktivitäten)
+ENTOTH	Das Unternehmen selbst und/oder zusammen mit anderen Unternehmen oder Organisationen
+ENT_ADP_OTH	Das Unternehmen durch Anpassung oder Veränderung von Produkten und/oder Prozessen, die ursprünglich von anderen Unternehmen oder Organisationen entwickelt worden sind
+ENT_ADP_OTH_RND	Das Unternehmen durch Anpassung oder Veränderung von Produkten und/oder Prozessen, die ursprünglich von anderen Unternehmen oder Organisationen entwickelt worden sind (Unternehmen mit Forschung und Entwicklungsaktivitäten)
+ENT_ADP_OTH_NRND	Das Unternehmen durch Anpassung oder Veränderung von Produkten und/oder Prozessen, die ursprünglich von anderen Unternehmen oder Organisationen entwickelt worden sind (Unternehmen ohne Forschung und Entwicklungsaktivitäten)
+OTH	Andere Unternehmen oder Organisationen
+OTH_RND	Andere Unternehmen oder Organisationen (mit Forschung und Entwicklungsaktivitäten)
+OTH_NRND	Andere Unternehmen oder Organisationen (ohne Forschung und Entwicklungsaktivitäten)

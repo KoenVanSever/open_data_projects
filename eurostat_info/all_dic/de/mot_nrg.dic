@@ -1,0 +1,22 @@
+TOTAL	Ingesamt
+PET	Erdölprodukte
+LPG	Flüssiggas (LPG)
+DIE	Diesel
+GAS	Erdgas
+ELC	Elektrizität
+ALT	Alternative Energie
+PET_X_HYB	Benzin (ohne Hybride)
+ELC_PET_HYB_PI	Elektro-Benzin Hybrid und ansteckbarer Elektro-Benzin Hybrid
+ELC_PET_HYB	Elektro-Benzin Hybrid
+ELC_PET_PI	Aufladbarer Elektro-Benzin Hybrid
+DIE_X_HYB	Diesel (ohne Hybrid)
+ELC_DIE_HYB_PI	Elektro-Diesesl Hybrid und ansteckbarer Elektro-Diesel Hybrid
+ELC_DIE_HYB	Elektro-Diesel Hybrid
+ELC_DIE_PI	Aufladbarer Diesel-Elektro Hybrid
+HYD_FCELL	Wasser- und Brennstoff-Zellen
+BIOETH	Bioethanol
+BIODIE	Biodiesel
+BIFUEL	Bi-Brennstoff
+CNG	Komprimiertes Erdgas (CNG)
+LNG	Verflüssigtes Erdgas (LNG)
+OTH	Sonstige

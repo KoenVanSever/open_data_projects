@@ -1,0 +1,22 @@
+TOTAL	Total
+MV_WALK_CYCL_GET	Se rendre d'un endroit à l'autre à pied et à vélo 
+MV_WALK_GET	Se rendre d'un endroit à l'autre à pied
+MV_CYCL_GET	Se rendre d'un endroit à l'autre à vélo 
+MV_AERO_MSC	Aerobic and renforcement musculaire 
+MV_AERO	Aerobic 
+MV_AERO_SPRT	Sports aerobic 
+MV_MSC	Renforcement musculaire 
+MV_SITT	Position assise 
+MV_STD	Position debout
+MV_MOD_EFF	Effort physique modéré
+MV_HVY_EFF	Effort physique intense
+PHA_0	Pas d'information
+PHA_1	Opération de machine - Non précisé
+PHA_2	Travail avec des outils à main - Non précisé
+PHA_3	Conduite/présence à bord d'un moyen de transport - équipement de manutention - Non précisé
+PHA_4	Manipulation d'objets - Non précisé
+PHA_5	Transport manuel - Non précisé
+PHA_6	Mouvement - Non précisé
+PHA_7	Présence - Non précisé
+PHA_9	Autre Activité physique spécifique non listée dans cette classification
+NRP	Sans réponse

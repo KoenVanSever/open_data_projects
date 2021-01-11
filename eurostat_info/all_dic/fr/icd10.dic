@@ -1,0 +1,405 @@
+TOTAL	Total
+A-R_V-Y	Toutes causes de mortalité (A00-Y89) sauf S00-T98
+A-T_Z	Toutes maladies (A00-Z99) sauf V00-Y98
+A-T_Z_XNB	Toutes maladies (A00-Z99) sauf V00-Y98 et Z38
+A_B	Certaines maladies infectieuses et parasitaires (A00-B99)
+INFECT	Certaines maladies infectieuses  (A00-A40, A42-B99)
+BAC_PRO	Certaines maladies bactériennes ou dues à des protozoaires (A38-A41, A46, A481, B50-B54, G00, G03, J02, L03)
+A15-A19_B90_J65	Tuberculose (y compris pneumoconiose associée à la tuberculose)
+A15-A19_B90	Tuberculose
+A00-A08	Maladies intestinales infectieuses excepté la diarrhée
+A00-A09	Maladies intestinales infectieuses
+A00	Choléra
+A01	Fièvres typhoïde et paratyphoïde
+A02	Autres salmonelloses
+A03	Shigellose
+A06	Amibiase
+A09	Diarrhée et gastro-entérite d'origine présumée infectieuse
+A15	Tuberculose de l'appareil respiratoire, avec confirmation bactériologique et histologique
+A21	Tularémie
+A22	Charbon
+A23	Brucellose
+A26	Érysipéloïde
+A27	Leptospirose
+A33	Tétanos néonatal
+A34	Tétanos obstétrical
+A35-A36_A80	Diphtérie, Tétanos, Poliomyélite
+A35	Autres formes de tétanos
+A36	Diphtérie
+A37	Coqueluche
+A38	Scharlach
+A39	Infection à méningocoques
+A403_A413	Septicémie à streptococcus pneumoniae et à haemophilus influenzae
+SEPSIS	Septicémie (A40 (excepté A403), A41 (excepté A413))
+A40_A41	Septicémie
+A41	Autres septicémies
+A46_L03	Cellulite
+A46	Érysipèle
+A481	Légionellose
+A491	Infection à streptocoques, sans précision
+A492	Infection à Haemophilus influenzae, sans précision
+A50-A60_A63-A64	Maladies sexuellement transmissibles (excepté VIH/SIDA)
+A70	Infection à Chlamydia psittaci
+A78	Fièvre Q
+A79	Autres rickettsioses
+A80	Poliomyélite aiguë
+A82	Rage
+B01	Varicelle
+B05	Rougeole
+B06	Rubéole
+B15-B19_B942	Hépatite virale et séquelles d'hépatite virale
+B15-B19	Hépatites virales
+B15	Hépatite aiguë A
+B16	Hépatite aiguë B
+B171_B182	Hépatite C
+B180-B182	Hépatite virale chronique B and C
+B20-B24	Maladies dues au virus de l'immunodéficience humaine [VIH]
+B24	Immunodéficience humaine virale [VIH], sans précision
+B26	Oreillons
+B50-B54	Malaria
+B54	Paludisme, sans précision
+A_B_OTH	Autres certaines maladies infectieuses et parasitaires (partie restante de A00-B99)
+C00-D48	Tumeurs
+C	Tumeurs malignes (C00-C97)
+C00-C14	Tumeurs malignes de la lèvre, de la cavité buccale et du pharynx 
+C15	Tumeur maligne de l'oesophage
+C16	Tumeur maligne de l'estomac
+C18-C21	Tumeur maligne du côlon, de la jonction recto-sigmoïdienne, du rectum, de l'anus et du canal anal 
+C18	Tumeur maligne du côlon
+C19-C21	Tumeur maligne du rectum et de l'anus
+C22	Tumeur maligne du foie et des voies biliaires intrahépatiques
+C25	Tumeur maligne du pancréas
+C31	Tumeur maligne des sinus de la face
+C32-C34	Tumeur maligne du larynx, de la trachée, des bronches et du poumon
+C32	Tumeur maligne du larynx
+C33_C34	Tumeur maligne de la trachée et des bronches et du poumon
+C33	Tumeur maligne de la trachée
+C34	Tumeur maligne des bronches et du poumon
+C34_C45	Certains cancers professionnels
+C43_C44	Tumeurs malignes de la peau
+C43	Mélanome malin de la peau
+C44	Autres tumeurs malignes de la peau
+C45	Mésothéliome
+C50	Tumeur maligne du sein
+C50_FEM_ONL	Tumeur maligne du sein (seulement les femmes)
+C53-C55	Tumeur maligne de l'utérus
+C53	Tumeur maligne du col de l'utérus
+C54_C55	Tumeur maligne d'autres parties de l'utérus
+C54-C55	Tumeur maligne du corps de l'utérus ou de l'utérus, partie non précisée
+C54	Tumeur maligne du corps de l'utérus
+C56	Tumeur maligne de l'ovaire
+C61	Tumeur maligne de la prostate
+C62	Tumeur maligne du testicule
+C64	Tumeur maligne du rein, à l'exception du bassinet
+C67	Tumeur maligne de la vessie
+C70-C72	Tumeur maligne du cerveau et du système nerveux central
+C71	Tumeur maligne du cerveau
+C73	Tumeur maligne de la thyroïde
+C81-C96	Tumeurs malignes primitives ou présumées primitives des tissus lymphoïde, hématopoïétique et apparentés
+C81-C86	Maladie de Hodgkin et lymphomes
+C81	Maladie de Hodgkin
+C88_C90_C96	Autre tumeurs malignes des tissus lymphoïde, hématopoïétique et apparentés
+C91-C95	Leucémie
+C910-911	Leucémie lymphoblastique aiguë et leucémie lymphoïde chronique
+C91_C920	Leucémie lymphoïde et leucémie myéloïde aiguë
+C95	Leucémie à cellules non précisées
+C_OTH	Autres tumeurs malignes (partie restante de C00-C97)
+D00-D48	Tumeurs non malignes (bénignes et incertaines)
+D00-D09	Tumeurs in situ
+D04	Carcinome in situ de la peau
+D10-D36	Tumeurs bénignes
+D12	Tumeur bénigne du côlon, du rectum, de l'anus et du canal anal
+D25	Léïomyome de l'utérus
+D00-D48_OTH	Autres tumeurs in situ, bénignes et tumeurs à évolution imprévisible ou inconnue (partie restante de D00-D48)
+D50-D53	Anémies nutritionnelles
+D50-D89	Maladies du sang et des organes hématopoïétiques et certains troubles du système immunitaire
+D50-D64	Anémies
+D59	Anémie hémolytique acquise
+D64	Autres anémies
+D65-D89	Autres maladies du sang et des organes hématopoïétiques et certains anomalies du système immunitaire
+D70	Agranulocytose
+E	Maladies endocriniennes, nutritionnelles et métaboliques (E00-E90)
+E00-E07	Affections de la glande thyroïde
+E10-E14	Diabète sucré
+ADR	Anomalies surrénaliennes
+E_OTH	Autres maladies endocriniennes, nutritionnelles et métaboliques (partie restante de E00-E90)
+ALC_POIS	Maladies et empoisonnements liés à l'alcool (E244, F10, G312, G621, G721, I426, K292, K70,K852, K860, Q860, R780, X45, X65, Y15)
+ALC_XEXT	Maladies liées à l'alcool, causes externes exclues (F10, G312, G621, I426, K292, K70, K73, K740-K742, K746, K860)
+ALC_OTH	Autres maladies liées à l'alcool (K73, K740-K742, K746)
+F01_F03_G30	Démence, maladie d'Alzheimer inclus
+DRUG_POIS	Maladies et empoisonnements liés à la drogue (F11-F16, F18-F19, X40-X44, X85, Y10-Y14)
+F	Troubles mentaux et du comportement (F00-F99)
+F00-F03	Démence
+F00_F03	Démence
+F01_F03	Démence
+F10	Troubles mentaux et du comportement liés à l'utilisation d'alcool
+F11-F19	Troubles mentaux et du comportement liés à l'utilisation d'autres substances psycho-actives
+TOXICO	Pharmacodépendance, toxicomanie (F11-F16, F18-F19)
+F20-F29	Schizophrénie, trouble schizotypiques et troubles délirants  
+F20	Schizophrénie
+F30-F39	Troubles de l'humeur [affectifs]
+F31	Trouble affectif bipolaire
+F32_F33	Troubles dépressifs
+F_OTH	Autres troubles mentaux et du comportement (partie restante de F00-F99)
+INFECT_OTH	Autres maladies infectieuses (G00, G03-G04, G06, G08-G09, H00-H01, H10, H16, H20, H30, H46, H60, H65-H66, H68, H70, I00-I02, I30, I33, I38, I40, I80, J00-J16, J20-J22, J31-J32, J36-J37, J40-J42, J85-J86, K04-K05, K20, K29, K35-K37, K61, K65, K73, K75, K81, K85, L00-L08, M00, M02, N10-N12, N15, N30, N34, N39, N41, N45, N49, N61, N70-N73, N75-N76, O23, O85-O86, O91, O98, P35-P39, R50)
+G_H	Maladies du système nerveux et des organes des sens (G00-H95)
+G	Maladies du système nerveux (G00-G99)
+G000-G001	Méningite à haemophilus et à pneumocoques
+G00-G03	Méningites
+G03	Méningite due à des causes autres et non précisées
+MENING_OTH	Autres  méningites
+G20	Maladie de Parkinson
+G30	Maladie d'Alzheimer
+G35	Sclérose en plaques
+G40_G41	Epilepsie, statut epileptique 
+G40-G41	Epilepsie et statut épileptique
+G40	Épilepsie
+G45	Accidents ischémiques cérébraux transitoires et syndromes apparentés
+G50	Affections du nerf trijumeau
+G56	Mononévrite du membre supérieur
+G92	Encéphalopathie toxique
+G_OTH	Autres maladies du système nerveux (partie restante de G00-G99)
+H	Affections des organes sensoriels (H00-H95)
+H00-H59	Maladies de l'oeil et de ses annexes
+H10	Conjonctivite
+H25_H26_H28	Cataracte
+H00-H59_OTH	Autres maladies de l'oeil et de ses annexes (partie restante de H00-H59)
+H60-H95	Maladie de l'oreille et de l'apophyse mastoïde
+H83	Autres maladies de l’oreille interne
+G_H_OTH	Autres maladies du système nerveux et des organes des sens (partie restante de G00-H95)
+I	Maladies de l'appareil circulatoire (I00-I99)
+I00-I09	Rhumatisme articulaire aigu et cardiopathies rhumatismales chroniques
+I01-I09	Rhumatisme et autres valvulopathies
+I10-I15	Maladies hypertensives
+I10-I13_I15	Maladies hypertensives
+I20-I25	Cardiopathies ischémiques
+I20	Angine de poitrine
+I21_I22	Infarctus aigu du myocarde et infarctus du myocarde à répétition
+I21	Infarctus aigu du myocarde
+I20_I23-I25	Autres cardiopathies ischémiques
+I23-I25	Autres cardiopathies ischémiques
+THROM_PU_EMB	Thrombose avec embolie pulmonaire (I26, I801-I803, I809, I829)
+I26-I28	Affections cardiopulmonaires et maladies de la circulation pulmonaire
+I26_I80_I829	Thromboembolie veineuse
+I30-I51	Autres maladies cardiovasculaires
+HEART_OTH	Autres maladies cardiovasculaires (I30-I33, I39-I52)
+I44-I49	Troubles de la conduction et arythmies cardiaques
+I50	Insuffisance cardiaque
+I60-I69	Maladies cérébrovasculaires
+I70	Athérosclérose
+I70_I739	Autres athéroscléroses
+I71	Anévrisme aortique et dissection
+I73	Autres maladies vasculaires périphériques
+I83	Varices des membres inférieurs
+I_OTH	Autres maladies de l'appareil circulatoire (partie restante de I00-I99)
+J	Maladies de l'appareil respiratoire (J00-J99)
+J00-J06_J30-J39	Infections des voies respiratoires supérieures
+LUNG_EXT	Maladies du poumon dues à des agents externes
+J00-J11	Affections aiguës des voies respiratoires supérieures et grippe
+J09-J11	Grippe (grippe porcine incluse)
+J10_J11	Grippe
+J12-J18	Pneumonie
+J12_J15-J18	Pneumonie, non classées ailleurs ou à micro-organisme non précisé
+J13-J14	Pneumonie due à streptococcus pneumoniae ou à haemophilus influenzae
+J18	Pneumopathie à micro-organisme non précisé
+J20-J22	Autres affections aiguës des voies respiratoires inférieures
+J35	Maladies chroniques des amygdales et des végétations adénoïdes
+UPRESPIR_OTH	Autres maladies des voies respiratoires supérieures (J30-J34, J36-J39)
+J40-J44	Maladie pulmonaire obstructive chronique
+J41-J44	Bronchites chroniques, emphysèmes, autres maladies pulmonaires obstructives chroniques
+J40-J47	Maladies chroniques des voies respiratoires inférieures
+J44	Autres maladies pulmonaires obstructives chroniques
+J45_J46	Asthme et état de mal asthmatique
+J45-J47	Asthme et bronchectasie
+J45	Asthme
+J40-J44_J47	Autres maladies des voies respiratoires inférieures
+J60-J99	Autres maladies de l'appareil respiratoire
+J60	Pneumoconiose des mineurs de charbon
+J61_J62	Pneumoconiose
+J61	Pneumoconiose due à l'amiante et à d'autres fibres minérales
+J62	Pneumoconiose due à la poussière de silice
+J65	Pneumoconiose associée à la tuberculose
+J67	Pneumopathie par hypersensibilité aux poussières organiques
+J80	Syndrome de détresse respiratoire de l'adulte
+J81	Œdème pulmonaire
+J85_J86	Maladies suppurées et nécrotiques des voies respiratoires inférieures
+J90_J93-J94	Autres affections de la plèvre
+J90	Épanchement pleural, non classé ailleurs
+J92	Plaque pleurale
+J_OTH	Autres maladie de lappareil respiratoire (partie restante de J00-J99)
+K	Maladies de l'appareil digestif (K00-K93)
+K00-K08	Affections des dents et du parodonte
+K09-K14	Autres maladies de la cavité buccale, des glandes salivaires et des maxillaires 
+K20-K23	Maladies de l'oesophage
+K25-K28	Ulcère digestif et ulcère gastro-duodénal
+K29-K31	Dyspepsie et autres maladies de l'estomac et du duodénum
+ACUTE_INTEST	Abdomen aigu, appendicite, occlusion intestinale, cholécystite / lithiase, pancréatite, hernie (K35-K38, K40-K46, K80-K83, K85, K861-K869, K915)
+K35-K38	Maladies de l'appendice
+K40	Hernie inguinale
+K40-K46	Hernies
+K41-K46	Autres hernies abdominales
+K50_K51	Maladie de Crohn et recto-colite hémorragique
+K52	Autres gastro-entérites et colites non infectieuses
+K56	Iléus paralytique et occlusion intestinale sans hernie
+K57	Diverticulose de l'intestin
+K60-K62	Maladies de l'anus et du rectum
+INTESTINE_OTH	Autres maladies de l'intestin (K55, K58-K59, K63)
+K70_K73_K74	Maladie chronique du foie
+K70	Maladie alcoolique du foie
+K71-K77	Autres maladies du foie
+K71	Maladie toxique du foie
+K72-K75	Maladies chroniques du foie non liées à l'alcool ou à la drogue
+K80	Cholélithiase
+K80-K81	Cholélithiase et cholécystite
+K81-K83	Autres maladies de la vésicule biliaire et des voies biliaires
+K82-K83	Autres maladies de la vésicule biliaire ou des voies biliaires
+K85-K87	Maladies du pancréas
+K_OTH	Autres maladies de l'appareil digestif (partie restante de K00-K93)
+ACUTE_PANC	Pancréatite aiguë
+PANC_OTH	Autres maladies du pancréas
+L	Maladies de la peau et du tissu cellulaire sous-cutané (L00-L99)
+L00-L08	Infections de la peau et du tissu cellulaire sous-cutané
+L20-L45	Dermatoses, eczémas et lésions papulo-squameuses 
+L23_L24	Dermite de contact
+L23	Dermite allergique de contact
+L24	Dermite irritante de contact
+L_OTH	Autres maladies de la peau et du tissu celluaire sous-cutané (partie restante de L00-L99)
+M	Maladies du système ostéo-articulaire, des muscles et du tissu conjonctif (M00-M99)
+RHEUM_ARTHRO	Arthrite rhumatoïde et ostéo-arthrite (M05-M06, M15-M19)
+M16	M16 Coxarthrose [arthrose de la hanche]
+M17	M17 Gonarthrose [arthrose du genou]
+M23	Lésion interne du genou
+ARTHROPAT_OTH	Autres arthropathies (M00-M15, M18-M22, M24-M25)
+M30-M36	Affections disséminées du tissu conjonctif
+M40-M49	Dorsopathies avec déformation et spondylopathies
+M50_M51	Atteintes des disques intervertébraux
+MSK	Certaines affections du système ostéo-articulaire et des muscles (M51, M65, M70, M75, M77, G56, I73)
+M51	Autres atteintes des disques intervertébraux
+M54	Dorsalgies
+M60-M79	Affections des tissus mous
+M53_M80-M99	Autres maladies du système ostéo-articulaire, des muscles et du tissu conjonctif 
+M65	Synovite et ténosynovite
+M70	Affections des tissus mous par sollicitation excessive de l’articulation
+M75	Lésions de l’épaule
+M77	Autres enthésopathies
+M_OTH	Autres maladies du système ostéo-articulaire, des muscles et du tissu conjonctif (partie restante de M00-M99)
+N	Maladies de l'appareil génito-urinaire (N00-N99)
+N00-N07	Syndrome néphritique et néphropathie
+N00-N29	Maladies du rein et de l'uretère
+N00-N16	Glomérulopathies et maladies rénales tubulo-interstitielles
+NEPHR	Néphrite et néphropathie (N00-N07, N17-N19, N25-N27)
+URO_PROST	Uropathie obstructive et hyperplasie de la prostate (N13, N20-N21, N35, N40, N991)
+N13_N20-N21_N35	Uropathie obstructive
+N14	Atteintes tubulo-interstitielles et tubulaires dues à des médicaments et des métaux lourds
+N17-N19	Insuffisance rénale
+N18	Insuffisance rénale chronique
+N20-N23	Lithiases urinaires
+N25-N39	Autres maladies de l'appareil urinaire
+N23	Colique néphrétique, sans précision
+N25	Affections dues à une tubulopathie
+N26-N27	Rein scléreux, sans précision, et petit rein de cause inconnue
+N40	Hyperplasie de la prostate
+N41-N51	Autres maladies des organes génitaux de l'homme
+N60-N64	Affections du sein
+N70-N77	Affections inflammatoires des organes pelviens de la femme
+N91-N95	Affections de la menstruation, de la ménopause et autres affections des organes génitaux féminins 
+INFLM_GENITUR	Maladies inflammatoires de l'appareil génito-urinaire
+N_OTH	Autres maladies de l'appareil génito-urinaire (partie restante de N00-N99)
+O	Complications de grossesse, accouchement et puerpéralité (O00-O99)
+O04	Avortement médical
+ABORT_OTH	Autres grossesses se terminant par un avortement (O00-O03, O05-O08)
+O10-O48	Complications principalement liées à la grossesse
+O60-O75	Complications principalement liées au travail et à l'accouchement
+O80	Accouchement unique et spontané
+O81-O84	Autres accouchements
+O85-O92	Complications principalement liées à la puerpéralité
+O95-O99	Autres problèmes obstétricaux
+P	Certaines affections dont l'origine se situe dans la période périnatale (P00-P96)
+P00-P96_A33	Complications de la période périnatale
+P00-P04	Ftus et nouveau-né affectés par des troubles maternels et par des complications de la grossesse, du travail et de l'accouchement
+P05-P08	Anomalies liées à la durée de la gestation et à la croissance du ftus
+P07	Anomalies liées à une brièveté de la gestation et d'un poids insuffisant à la naissance, non classées ailleurs
+PERINAT_OTH	Autres affections périnatales (P10-P15, P70-P74, P76-P78, P80-P83, P90-P96)
+P20-P29	Affections respiratoires et cardio-vasculaires spécifiques de la période périnatale
+P20-P21	Hypoxie intra-utérine et asphyxie obstétricale
+P22	Détresse respiratoire du nouveau-né
+P23-P29	Autres affections respiratoires spécifiques de la période périnatale
+P35-P39	Infections spécifiques de la période périnatale
+P50-P61	Affections hémorragiques et hématologiques du ftus et du nouveau-né
+P_OTH	Autres affections dont l'origine se situe dans la période périnatale (partie restante de P00-P96)
+Q	Malformations congénitales et anomalies chromosomiques (Q00-Q99)
+Q00-Q01_Q05	Certaines malformations congénitales (du système nerveux)
+Q00-Q07	Malformations congénitales du système nerveux
+MALFORM_OTH	Autres malformations (Q10-Q18, Q30-Q89)
+Q20-Q28	Malformations congénitales de l'appareil circulatoire
+Q30-Q34	Malformations congénitales de l'appareil respiratoire
+Q60-Q64	Malformations congénitales de l'appareil urinaire
+Q65-Q79	Malformations congénitales du système ostéo-articulaire et des muscles
+Q90-Q99	Anomalies chromosomiques, non classées ailleurs
+Q_OTH	Autres malformations congénitales et anomalies chromosomiques
+R	Symptômes, signes et résultats anormaux d'examens cliniques et de laboratoire, non classés ailleurs (R00-R99)
+R07	Douleur au niveau de la gorge et du thorax
+R10	Douleur abdominale et pelvienne
+R69	Causes inconnues et non spécifiées de morbidité
+R95	Syndrome de la mort subite du nourrisson
+R96-R99	Causes inconnues ou non précisées de mortalité
+R_OTH	Autres symptômes, signes et résultats anormaux d'examens cliniques et de laboratoire (partie restante de R00-R99)
+S_T	Lésions traumatiques, empoisonnements et certaines autres conséquences de causes externes (S00-T98)
+INJ_OTH	Autres lésions traumatiques (S10-S51, S53-S71, S73-S81, S83-T14, T79)
+S06	Lésion traumatique intracrânienne
+INJ_HEAD_OTH	Autres lésions traumatiques de la tête (S00-S05, S07-S09)
+S52	Fracture de l'avant-bras
+S72	Fracture du fémur
+S82	Fracture de la jambe, y compris la cheville
+S93	Luxation, entorse et foulure des articulations et des ligaments au niveau de la cheville et du pied
+T20-T32	Brûlures et corrosions
+T36-T65	Intoxications par des médicaments et des substances biologiques et effets toxiques de substances d'origine essentiellement non médicale
+T80-T88	Complications de soins chirurgicaux et médicaux, non classées ailleurs 
+T90-T98	Séquelles de lésions traumatiques, d'empoisonnements et d'autres conséquences de causes externes 
+S_T_OTH	Effets de causes externes, autres et sans précision (partie restante de S00-T98)
+V01-Y89	Causes externes de morbidité et mortalité (V01-Y89)
+ACC	Accidents  (V01-X59, Y85, Y86)
+V_Y85	Accidents de transport (V01-V99, Y85)
+V01-X59	Accidents
+V	Accidents de transport (V01-V99)
+V01-V09	Piéton blessé dans un accident de transport
+V10-V19	Cycliste blessé dans un accident de transport
+V20-V29	Motocycliste blessé dans un accident de transport
+V30-V39	Occupant d'un véhicule à trois roues blessé dans un accident de transport
+V40-V49	Occupant d'une automobile blessé dans un accident de transport
+V50-V59	Occupant d'une camionnette blessé dans un accident de transport
+V60-V69	Occupant d'un véhicule lourd blessé dans un accident de transport
+V70-V79	Occupant d'un autobus blessé dans un accident de transport
+ACC_TRA_OTH	Autres accidents de transport terrestre et autres accidents de transport sans précision (V80-V89, V98-V99)
+ACC_TRNS_OTH	Autres accidents de transport terrestre et autres accidents de transport sans précision (V80-V89, V98-V99)
+W00-X59	Autres causes externes de lésion traumatique accidentelle
+ACC_OTH	Autres accidents (W20-W64, W75-X39, X50-X59, Y86)
+W00-W19	Chutes
+W65-W74	Noyade et submersion accidentelles
+W00-X39_X46-X59	Lésions accidentelles
+SUIC_SELFINJ	Suicides et  lésions auto-infligées (X60-X84, Y10-Y34)
+X60-X84_Y870	Suicides
+X40-X49	Intoxication accidentelle par des substances nocives et exposition à ces substances
+X60-X64	Lésions auto-infligées liées  à la drogue
+X60-X84	Suicides
+X66-X84	Lésions auto-infligées (non liées à l'alcool ou à la drogue)
+X85-Y09_Y871	Homicides
+X85-Y09	Homicides
+X86-Y09	Homicides (non liées à l'alcool, à la drogue ou aux substances biologiques)
+Y10-Y34_Y872	Evénements dont l'intention n'est pas déterminée
+Y10-Y34	Événements dont l'intention n'est pas déterminée
+Y16-Y34	Evénements dont l'intention n'est pas déterminée (non liés à l'alcool ou à la drogue)
+Y40-Y59	Médicaments et substances biologiques ayant provoqué des effets indésirables au cours de leur usage thérapeutique
+Y60-Y69_Y83-Y84	Accidents et complications au cours d'actes médicaux et chirurgicaux
+Y70-Y82	Appareils médicaux associés à des accidents au cours d'actes diagnostiques et thérapeutiques
+SURG_MED_MIS	Accidents et complications au cours d'actes médicaux et chirurgicaux (Y60-Y69, Y83-Y84)
+V01-Y89_OTH	Autres causes externes de morbidité et mortalité (partie restante de V01-Y89)
+Z	Facteurs influant sur l'état de santé et motifs de recours aux services de santé (Z00-Z99)
+Z03	Mise en observation et examen médical pour suspicion de maladies
+Z30	Prise en charge d'une contraception
+Z38	Enfants nés vivants, selon le lieu de naissance
+Z51	Autres soin médicaux
+Z_OTH	Autres facteurs influant sur l'état de santé et motifs de recours aux services de santé (partie restante de Z00-Z99)
+U	Codes pour certains cas spéciaux (U00-U99)
+OTH	Toutes les catégories non classées ailleurs
+UNK	Inconnu

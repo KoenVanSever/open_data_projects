@@ -1,0 +1,12 @@
+TOTAL	Total
+VAT	Taxe sur la valeur ajoutée (TVA)
+X_TAX	Hors taxes et prélèvements
+X_VAT	Hors TVA et autres taxes et prélèvements récupérables
+I_TAX	Toutes taxes et prélèvements compris
+LAB	Taxes sur le travail
+ENV	Total des écotaxes
+NRG	Taxes sur l'énergie
+POL	Taxes sur la pollution
+RES	Taxes sur les ressources
+TRA	Taxes sur les transports
+POL_RES	Taxes sur la pollution / les ressources

@@ -1,0 +1,37 @@
+TOTAL	Total des ressources énergétiques naturelles, produits énergétiques et résidus énergétiques
+NEI	Ressources énergétique naturelles
+NEI_NRFOSS	Ressources énergétiques naturelles fossiles non renouvelables
+NEI_NRNUC	Ressources naturelles non renouvelables de l'énergie nucléaire
+NEI_RHYD	Ressources énergétiques naturelles renouvelables issues de l'eau
+NEI_RWND	Ressources énergétiques naturelles renouvelables issues du vent
+NEI_RSOL	Ressources énergétiques naturelles renouvelables issues du soleil
+NEI_RBIOM	Ressources naturelles renouvelables issues du biomasse
+NEI_ROTH	Autres ressources énergétiques naturelles renouvelables
+EPRD	Produits énergétiques
+EPRD_HCOAL	Houille
+EPRD_BCOAL_PEAT	Lignite et tourbe
+EPRD_DGAS	Gaz dérivés (gaz manufacturés sauf biogaz)
+EPRD_SECCOAL	Produits dérivés du charbon (coke, goudron, agglomérés de houille, briquettes de lignite (BKB) et produits dérivés de la tourbe)
+EPRD_HYDCXBIO	Pétrole brut, liquides de gaz naturel (LGN) et autres hydrocarbures (sans biocomposants)
+EPRD_NATGASXBIO	Gaz naturel (sauf biocomposants)
+EPRD_MOTSPXBIO	Essence (sauf biocomposants)
+EPRD_KJFXBIO	Pétrole lampant et carburéacteur (sauf biocomposants)
+EPRD_NPH	Naphta
+EPRD_TRADIEXBIO	Diesel de transport (sauf biocomposants)
+EPRD_HEAT_GOIL_OTHXBIO	Fioul domestique et autres gazoles (sauf biocomposants)
+EPRD_RES_OILF	Fioul résiduel
+EPRD_REFGAS_ETH_LPG	Gaz de raffinerie, éthane et gaz de pétrole liquéfié (GPL)
+EPRD_OTH_PET	Autres produits pétroliers incluant additifs/composés oxygénés et produits d'alimentation des raffineries
+EPRD_NUCF	Combustibles nucléaire
+EPRD_SBIOM	Bois de chauffage, résidus de bois et autre biomasse solide, charbon de bois
+EPRD_LIQBIOF	Biocarburants liquides
+EPRD_BIOGAS	Biogaz
+EPRD_ELC	Électricité
+EPRD_HEAT	Chaleur
+EPRD_OUSE	Produits énergétiques pour usage propre
+ERES	Résidus énergétiques
+ERES_RW	Déchets renouvelables
+ERES_NRW	Déchets non renouvelables
+ERES_LOSS	Pertes énergétiques pendant l'extraction, la distribution, le stockage et la transformation, et la dissipation de chaleur provenant de l'utilisation finale
+ERES_INC	Énergie contenue dans les produits d'utilisation non énergétique
+INP_OUT_DSP	Écart statistique entre entrées et sorties pour l'ensemble des flux d'énergie

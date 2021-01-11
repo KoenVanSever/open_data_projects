@@ -1,0 +1,25 @@
+TOTAL	Total
+YES	Oui
+YES_OD	Handicapé
+YES_DIS	Handicapé
+YES_ARP	Menacé de pauvreté
+YES_DIF_BACT	Difficulté à accomplir des activités de la vie quotidienne
+YES_DIF_PCARE	Difficulté pour effectuer des soins personnels
+YES_DIF_HCARE	Difficulté à accomplir des activités domestiques
+YES_WLIM_HLTH	Limitation dans le travail causée par un problème de santé ou une difficulté à accomplir des activités de la vie quotidienne
+YES_LHCILL	Problème de santé, maladie ou pathologie de longue durée
+YES_SDIF_TADL	Difficulté grave à la fois pour effectuer des soins personnels ainsi que d'accomplir des activités domestiques - toutes les activités de la vie quotidienne (TAVQ)
+YES_SDIF_ADL	Difficulté grave uniquement pour effectuer des soins personnels - activités de la vie quotidienne (AVQ)
+YES_SDIF_IADL	Difficulté grave uniquement pour accomplir des activités domestiques - activités instrumentales de la vie quotidienne (AIVQ)
+NO	Non
+NO_OD	Non handicapé
+NO_DIS	Non handicapé
+NO_ARP	Non menacé de pauvreté
+NO_DIF_BACT	Aucune difficulté à accomplir des activités de la vie quotidienne
+NO_DIF_PCARE	Aucune difficulté pour effectuer des soins personnels
+NO_DIF_HCARE	Aucune difficulté à accomplir des activités domestiques
+NO_WLIM_HLTH	Aucune limitation dans le travail causée par un problème de santé ou une difficulté à accomplir des activités de la vie quotidienne
+NO_LHCILL	Aucun problème de santé, ni maladie ou pathologie de longue durée
+NO_SDIF	Aucune difficulté grave
+UNK	Inconnu
+NRP	Sans réponse

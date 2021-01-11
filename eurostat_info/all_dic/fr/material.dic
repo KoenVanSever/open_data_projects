@@ -1,0 +1,228 @@
+TOTAL	Total
+MF1	Biomasse
+MF11	Cultures (à l'exclusion des cultures fourragères)
+MF111	Céréales
+MF112	Racines, tubercules
+MF113	Cultures sucrières
+MF114	Légumineuses
+MF115	Noix
+MF116	Cultures oléagineuses
+MF117	Légumes
+MF118	Fruits
+MF119	Fibres
+MF11A	Autres cultures (à l'exclusion des cultures fourragères) n.c.a.
+MF1110	Autres cultures n.c.a.
+MF12	Résidus de cultures (utilisés), cultures fourragères et biomasse pâturée
+MF121	Résidus de cultures (utilisés)
+MF1211	Paille
+MF1212	Autres résidus de cultures (feuilles de betterave à sucre et de betterave fourragère, etc.)
+MF122	Cultures fourragères et biomasse pâturée
+MF1221	Cultures fourragères (y compris récolte de biomasse à partir d'herbages)
+MF1222	Biomasse pâturée
+MF13	Bois
+MF131	Bois (ronds industriels)
+MF132	Bois de chauffage et autre extraction
+MF13MEMO	Accroissement net du stock de bois sur pied (memo item)
+MF14	Captures de poisson sauvage, animaux/plantes aquatiques, chasse et cueillette
+MF141	Captures de poisson sauvage
+MF142	Autres animaux/plantes aquatiques
+MF143	Chasse et cueillette
+MF15	Animaux vivants et produits animaux (autres que poisson sauvage, animaux/plantes aquatiques, chasse et cueillette)
+MF151	Animaux vivants (autres que poisson sauvage, animaux/plantes aquatiques, chasse et cueillette)
+MF152	Viandes et préparations de viande
+MF153	Produits laitiers, oeufs d'oiseaux et miel
+MF154	Autres produits d'animaux (fibres animales, peaux, fourrures, cuir, etc.)
+MF16	Produits essentiellement à base de biomasse
+MF2	Minerais métalliques (minerais bruts)
+MF21	Fer
+MF22	Métaux non ferreux
+MF221	Cuivre
+MF221MEMO	Cuivre - teneur en métal
+MF222	Nickel
+MF222MEMO	Nickel - teneur en métal
+MF223	Plomb
+MF223MEMO	Plomb - teneur en métal
+MF224	Zinc
+MF224MEMO	Zinc - teneur en métal
+MF225	Étain
+MF225MEMO	Étain - teneur en métal
+MF226	Or, argent, platine et autres métaux précieux
+MF2261	Or
+MF2262	Argent
+MF2263	Platine et d'autres métaux précieux
+MF227	Bauxite et autre aluminium
+MF228	Uranium et thorium
+MF229	Autres métaux non ferreux
+MF2291	Tungstène
+MF2292	Tantale
+MF2293	Magnésium
+MF2294	Titane
+MF2295	Manganèse
+MF2296	Chrome
+MF2297	Autres métaux non ferreux n.c.a.
+MF23	Produits principalement à base de métaux
+MF3	Minerais non métalliques
+MF31	Marbre, granit, grès, porphyre, basalte, autres pierres ornementales ou de construction (sauf ardoise)
+MF32	Craie et dolomie
+MF33	Ardoise
+MF34	Minéraux pour l'industrie chimique et engrais naturels
+MF35	Sel
+MF36	Pierre calcaire et gypse
+MF37	Argiles et kaolin
+MF38	Sable et gravier
+MF39	Autres minerais non métalliques n.c.a.
+MF3A	Excavation de terre (y compris sol), seulement quand utilisé (optionnel)
+MF3B	Produits principalement à base de minerais non métalliques
+MF4	Matières/vecteurs énergétiques fossiles
+MF41	Charbon et autres matières énergétiques solides et produits dérivés
+MF411	Lignite
+MF412	Houille
+MF413	Schistes et sables bitumineux
+MF414	Tourbe
+MF42	Matières/vecteurs énergétiques liquides et gazeux
+MF421	Pétrole brut, condensat et liquides de gaz naturel (LGN)
+MF422	Gaz naturel
+MF423	Carburant importé par des unités résidentes en déplacement à l'étranger ou exporté par des unités non résidentes présentes sur le territoire économique
+MF4231	Carburant pour transport terrestre
+MF4232	Carburant pour transport par eau
+MF4233	Carburant pour transport aérien
+MF43	Produits essentiellement à base de produits énergétiques fossiles
+MF5	Autres produits
+MF6	Déchets pour traitement et élimination définitifs
+MF71	Émissions atmosphériques
+MF711	Dioxyde de carbone
+MF7111	Dioxyde de carbone à partir de biomasse utilisé comme combustible
+MF7112	Dioxyde de carbone hors biomasse utilisé comme combustible
+MF712	Méthane
+MF713	Oxyde nitreux
+MF714	Oxydes d'azote
+MF715	Hydrofluorocarbones
+MF716	Perfluorocarbones
+MF717	Hexafluorure de soufre
+MF718	Monoxyde de carbone
+MF719	Composés organiques volatils autres que le méthane
+MF71A	Oxydes de soufre
+MF71B	Ammoniac
+MF71C	Métal lourd
+MF71D	Polluants organiques persistents (POPs)
+MF71E	Particules
+MF71F	Autres émissions atmosphériques
+MF72	Élimination de déchets vers la nature
+MF72MEMO	Mise en décharge de déchets (memo item)
+MF721	Élimination de déchets municipaux vers la nature
+MF721MEMO	Mise en décharge de déchets municipaux (memo item)
+MF722	Dépôt de déchets industriels dans l'environnement
+MF722MEMO	Dépôt de déchets industriels dans des décharges contrôlées (memo item)
+MF73	Emissions dans l'eau
+MF731	Azote
+MF732	Phosphore
+MF733	Métal lourd
+MF734	Autres substances et matières (organiques)
+MF735	Rejet de matières en mer
+MF74	Utilisation dissipative de produits
+MF741	Engrais biologiques (fumier, lisier)
+MF742	Engrais minéraux
+MF743	Boues d'égoût
+MF744	Compost
+MF745	Pesticide
+MF746	Graine
+MF747	Sel et autres matériaux de dégel (y compris gravillons)
+MF748	Solvents, gaz hilarants et autres
+MF75	Pertes disspatives
+MF81	Éléments d'équilibrage - entrée
+MF811	Oxygène pour les procédés de combustion
+MF812	Oxygène pour la respiration humaine et le bétail ; respiration bactérienne issue de déchets solides et d'eaux usées
+MF813	Azote pour le procédé Haber-Bosch
+MF814	Besoins en eau pour la production intérieure de boissons exportées
+MF82	Éléments d'équilibrage - sortie
+MF821	Vapeur d'eau pour la combustion
+MF8211	Vapeur d'eau issue de la teneur en eau de combustibles
+MF8212	Vapeur d'eau issue de composants hydrogènes oxydés de combustibles
+MF822	Gaz issus de la respiration humaine et du bétail (CO2 et H2O), et de de la respiration bactérienne à partir de déchets solides et des eaux usées (H2O)
+MF8221	Dioxyde de carbone (CO2)
+MF8222	Vapeur d'eau (H2O)
+MF823	Eau évaporée à partir de produits de la biomasse
+SM_FIN	Degré de finition - Produits finis
+SM_SFIN	Degré de finition - Produits semi-finis
+SM_RAW	Degré de finition - Matières premières
+CROC	Agrégats - pierre concassée, autres sables (non siliceux), cailloux, graviers, additifs pour bitume
+AL	Aluminium
+SB	Antimoine
+BRT	Barytine
+BAUX	Bauxite
+BENT	Bentonite
+BE	Béryllium
+BI	Bismuth
+BOR	Borate
+CE	Cérium
+CR	Chrome
+CO	Cobalt
+COCO	Charbon à coke
+CU	Cuivre
+DIAT	Diatomite
+DY	Dysprosium
+ER	Erbium
+EU	Europium
+FSP	Feldspath
+FL	Fluorite
+GD	Gadolinium
+GA	Gallium
+GE	Germanium
+AU	Or
+GP	Gypse
+HF	Hafnium
+HE	Hélium
+HO	Holmium
+IN	Indium
+IR	Iridium
+FEOR	Minerai de fer
+FE	Fer
+KAOL	Argile kaolin
+LA	Lanthane
+PB	Plomb
+LST	Calcaire
+LI	Lithium
+LU	Lutécium
+MGS	Magnésite
+MG	Magnésium
+MN	Manganèse
+MO	Molybdène
+CORK	Liège naturel
+GR	Graphite naturel
+RUBB	Caoutchouc naturel
+TEAK	Bois de teck naturel
+ND	Néodyme
+NI	Nickel
+NB	Niobium
+PD	Palladium
+PERL	Perlite
+PHOR	Roche phosphatée
+P	Phosphore
+PT	Platine
+PTSH	Potasse
+K	Potassium
+PR	Praséodyme
+RE	Rhénium
+RH	Rhodium
+RU	Ruthénium
+SM	Samarium
+SAPE	Bois de sapele
+SC	Scandium
+SE	Sélénium
+SLCA	Sable siliceux
+SIME	Silicium métal
+SI	Silicium
+AG	Argent
+S	Soufre
+TALC	Talc
+TA	Tantale
+TE	Tellure
+TB	Terbium
+TM	Thulium
+SN	Etain
+TI	Titane
+W	Tungstène
+V	Vanadium
+YB	Ytterbium
+Y	Yttrium
+ZN	Zinc

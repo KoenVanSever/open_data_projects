@@ -1,0 +1,43 @@
+EPS_EPE	Umweltschutzausgaben
+EPS_P1	Produktionswert
+EPS_P11	Marktproduktion
+EPS_P11_MA	Marktproduktion aus der Haupttätigkeit (spezialisierte produzierende Einheiten)
+EPS_P11_SA	Marktproduktion aus Nebentätigkeiten (nicht-spezialisierte produzierende Einheiten)
+EPS_P13	Nchtmarktproduktion
+EPS_P1_ANC	Produktion aus Umweltschutzhilfstätigkeiten
+EPS_P1_ANCESA	Produktion aus Umweltschutzhilfstätigkeiten (ESVG-kompatibel)
+EPS_P2	Vorleistungen
+EPS_P2_EPS	Vorleistungsverbrauch in Form von Umweltschutzdienstleistungen
+EPS_P2_EPS_SP	Vorleistungsverbrauch der Kapitalgesellschaften als spezialisierte produzierende Einheiten in Form von Umweltschutzdienstleistungen
+EPS_P2_NEPS	Vorleistungsverbrauch von Gütern (ohne Umweltschutzdienstleistungen)
+TOT_P2_EPS	Vorleistungsverbrauch in Form von Umweltschutzdienstleistungen für die Produktion von Umweltschutzdienstleistungen und für andere Produktion
+P3_EPS	Konsumausgaben für Umweltschutzdienstleistungen
+P3_ACP	Konsumausgaben für umweltfreundliche und verbundene Güter
+EPS_P51G_NP	Bruttoanlageinvestitionen und Nettozugang an nichtproduzierten nichtfinanziellen Vermögensgütern
+EPS_INV	Investitionen
+EPS_INV_PT	Umweltschutzspezifische  Bruttoanlageinvestitionen (nachsorgende Technologien)
+EPS_INV_PP	Bruttoanlageinvestitionen in umweltfreundlichere Anlagegütern (integrierte Technologien)
+EPS_INV_PP_PC_INV	Investitionen in die Vermeidung der Umweltverschmutzung in % der gesamten Umweltschutzinvestitionen
+EPS_INV_PC_P51G	Umweltschutzinvestitionen in % der Bruttoanlageinvestitionen
+EPS_D1	Arbeitnehmerentgelt
+EPS_CUR	Laufende Ausgaben
+EPS_CUR_IN	Interne laufende Ausgaben
+EPS_CUR_FEE	Gebühren und Käufe
+EPS_CUR_PC_P1	Laufende Ausgaben in % des Produktionswert
+EPS_D29X39	Sonstige Produktionsabgaben abzüglich sonstiger Subventionen
+EPS_P51C	Abschreibungen
+EPS_B2N	Nettobetriebsüberschuß
+EPS_REC_BYPR	Zugehörige Produktion die nicht den Umweltschutz betrifft
+EPS_EMP	Beschäftigung
+P7_EPS	Import von Umweltschutzdienstleistungen
+P6_EPS	Export von Umweltschutzdienstleistungen
+EPS_D21X31	Gütersteuern abzüglich Gütersubventionen
+EPS_SUP_NU	Aufkommen zu Anschaffungspreisen verfügbar für die inländische Verwendung
+EP_D3_7_92_99_P	Geleistete laufende Transfers und Vermögenstransfers für den Umweltschutz
+EP_D3_7_92_99_R	Empfangene laufende Transfers und Vermögenstransfers für den Umweltschutz
+EP_D3_7_R	Empfangene laufende Transfers für den Umweltschutz
+EP_D92_99_R	Empfangene Investitionszuschüsse und sonstige Vermögenstransfers für den Umweltschutz
+EP_TAXEM_P	Geleistete zweckgebundene Steuern für den Umweltschutz
+EPS_NEGB2N_MP	Negative Nettobetriebsüberschuß der Marktproduzenten im Staatssektor
+EP_TRF	Umweltschutzsubventionen und -transfers
+EPS_REV_SLS	Einnahmen aus Verkäufe

@@ -1,0 +1,44 @@
+TOTAL	Total
+NONE	Aucun revenu
+Q1	Premier quartile
+Q2	Second quartile
+Q3	Troisième quartile
+Q4	Quatrième quartile
+QU1	Premier quintile
+QU2	Second quintile
+QU3	Troisième quintile
+QU4	Quartième quintile
+QU5	Cinquième quintile
+D1	Premier décile
+D2	Second décile
+D3	Troisième décile
+D4	Quatrième décile
+D5	Cinquième décile
+D6	Sixième décile
+D7	Septième décile
+D8	Huitième décile
+D9	Neuvième décile
+D10	Dixième décile
+P1	Premier percentile
+P2	Second percentile
+P3	Troisième percentile
+P4	Quatrième percentile
+P5	Cinquième percentile
+P10	Dixième percentile
+P25	Vingt-cinquième percentile
+MED	Médiane
+S2	Second sextile
+P75	Soixante-quinzième percentile
+P90	Quatre-vingt-dizième percentile
+P95	Quatre-vingt-quinzième percentile
+P96	Quatre-vingt-seizième percentile
+P97	Quatre-vingt-dix-septième percentile
+P98	Quatre-ving-dix-huitième percentile
+P99	Quatre-vingt-dix-neuvième percentile
+P100	Centième percentile
+QUINTILE1	Premier quintile
+QUINTILE2	Second quintile
+QUINTILE3	Troisième quintile
+QUINTILE4	Quartième quintile
+QUINTILE5	Cinquième quintile
+UNK	Inconnu

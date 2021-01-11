@@ -1,0 +1,69 @@
+TOTAL	Total
+LIFE	Entreprises d'assurance vie
+NLIFE	Entreprises d'assurance non-vie
+CMP	Entreprises d'assurance mixte
+RINS	Entreprises de réassurance spécialisées
+CMP_LIFE	Activités d'assurance-vie des entreprises mixtes
+CMP_NLIFE	Activités d'assurance non-vie des entreprises mixtes (y compris les acceptations en réassurance)
+AVIA	Entreprises aéroportuaires
+AIRP	Entreprises d'aviation
+RL_OPER	Entreprise de transport ferroviaire
+RL_INFR	Gestionnaire d'infrastructure
+RL_INTG	Société intégrée
+DOM	Entreprises avec sourçage local
+DOMC	Entreprises contrôlées par des propriétaires nationaux 
+DOMC_ABR	Entreprises contrôlées par des propriétaires nationaux, avec ses propres filiales à l'étranger 
+DOMC_NABR	Entreprises contrôlées par des propriétaires nationaux, sans ses propres filiales à l'étranger 
+FORC	Entreprises contrôlées par des propriétaires étrangers 
+INTL	Entreprises avec sourçage international
+NINTL_PL	Entreprises sans sourçage international, mais avec des projets de sourçage international
+NINTL_NPL	Entreprises sans sourçage international, sans projet de sourçage international
+BACK	Entreprises avec relocalisation
+NBACK	Entreprises sans relocalisation
+RLC	Entreprises ayant relocalisé
+NRLC	Entreprises n'ayant pas relocalisé
+CTRL	Entreprises ayant contrôlé des filiales étrangères
+NCTRL	Entreprises n'ayant pas contrôlé de filiales étrangères
+CCLOSE_ABR	Entreprises ayant complètement fermé l'activité à l'étranger
+PCLOSE_ABR	Entreprises ayant transféré la fonction tout en fermant partiellement l'activité à l'étranger
+SAME_ABR	Entreprises ayant transféré la fonction tout en laissant l'activité à l'étranger la même
+INCR_ABR	Entreprises ayant transféré la fonction tout en augmentant leur activité à l'étranger
+SPEC	Entreprises spécialisées
+NSPEC	Entreprises non spécialisées
+HG	Entreprises à forte croissance
+YHG	Jeunes entreprises à forte croissance (gazelles)
+INN	Entreprises innovantes
+INN_ITR	Entreprises ayant introduit une innovation (tous types confondus)
+INN_ACT	Entreprises ayant des activités d'innovation indépendamment du fait qu'elles aient introduit des activités d'innovation (y compris entreprises ayant des activités d'innovation abandonnées/suspendues ou en cours)
+PRDPCS_ONL	Entreprises innovantes en termes de produit et/ou de procédé uniquement (y compris entreprises ayant des activités d'innovation abandonnées/suspendues ou en cours)
+PRDPCS_ORGMKTG_ONL	Entreprises innovantes en termes de produits et/ou de procédés et en termes d'organisation et/ou de marketing uniquement (y compris entreprises ayant des activités d'innovation abandonnées/suspendues ou en cours)
+PRDPCS_XABDONGO	Entreprises innovantes en termes de produits et/ou de procédés à l'exception de celles qui ont seulement des activités en cours et/ou abandonnées
+PRDPCSXABDONGO	Entreprises innovantes en termes de produits et/ou de procédés à l'exception de celles qui ont seulement des activités en cours et/ou abandonnées
+PRDPCS	Entreprises innovantes en termes de produits et/ou de procédés (y compris entreprises ayant des activités d'innovation abandonnées/suspendues)
+PRD_ONL	Entreprises innovantes en termes de produits uniquement
+PRD	Entreprises innovantes en termes de produits (indépendamment d'autres types d'innovation)
+PRD_PCS_ONL	Entreprises innovantes en termes de produits et de procédés uniquement
+PCS_ONL	Entreprises innovantes en termes de procédés uniquement
+PCS	Entreprises innovantes en termes de procédés (indépendamment d'autres types d'innovation)
+PRDBPCS	Entreprises innovantes en termes de produits et/ou de procédés d'affaires (y compris entreprises ayant des activités d'innovation abandonnées/suspendues)
+BPCS_ONL	Entreprises innovantes en termes de procédés d'affaires uniquement
+PRD_BPCS_ONL	Entreprises innovantes en termes de produits et de procédés d'affaires uniquement
+END	Entreprises ayant des activités d'innovation terminées
+ABD	Entreprises ayant des activités d'innovation abandonnées/suspendues
+ABD_ONL	Entreprises ayant des activités d'innovation abandonnées/suspendues uniquement
+ONGO	Entreprises ayant des activités d'innovation en cours
+ONGO_ONL	Entreprises ayant des activités d'innovation en cours uniquement
+ABD_ONGO	Entreprises ayant des activités d'innovation abandonnées/suspendues et en cours
+ABD_ONGO_ONL	Entreprises ayant des activités d'innovation abandonnées/suspendues et en cours uniquement
+ORGMKTG_ONL	Entreprises innovantes en termes d'organisation et/ou de marketing uniquement
+ORGMKTG	Entreprises innovantes en termes d'organisation et/ou de marketing, indépendamment d'innovation en termes de produits ou de procédés
+ORG_MKTG_ONL	Entreprises innovantes en termes d'organisation et de marketing uniquement
+ORG_ONL	Entreprises innovantes en termes d'organisation uniquement 
+ORG	Entreprises innovantes en termes d'organisation (indépendamment d'autres types d'innovation)
+MKTG_ONL	Entreprises innovantes en termes de marketing uniquement 
+MKTG	Entreprises innovantes en termes de marketing (indépendamment d'autres types d'innovation)
+NINN	Entreprises non innovantes
+NINN_ITR	Entreprises n'ayant pas introduit d'innovation (indépendamment du fait qu'elles aient une activité d'innovation)
+NINN_ACT	Entreprises n'ayant pas d'activités d'innovation (indépendamment du fait qu'elles aient introduit une innovation)
+OTH	Autres entreprises
+UNK	Inconnu

@@ -1,0 +1,187 @@
+TOTAL	Total
+LHC_DIF_BACT	A la fois un problème de santé de longue durée et une difficulté à accomplir des activités de la vie quotidienne
+LHC_ILL	Problème de santé, maladie ou pathologie de longue durée
+NLHC_ILL	Aucun problème de santé, ni maladie ou pathologie de longue durée
+LHC_ONL	Seulement un problème de santé de longue durée
+DIF_BACT	Difficulté à accomplir des activités de la vie quotidienne
+DIF_BACT_ONL	Seulement une difficulté à accomplir des activités de la vie quotidienne
+NDIF_BACT	Aucune difficulté à accomplir des activités de la vie quotidienne
+NLHC_DIF_BACT	Aucun problème de santé de longue durée ou de difficulté à accomplir des activités de la vie quotidienne
+LTD_LHC_DIF_BACT	Limité à la fois en raison d'un problème de santé de longue durée et d'une difficulté à accomplir des activités de la vie quotidienne
+LTD_LHC	Limité seulement en raison d'un problème de santé de longue durée
+LTD_DIF_BACT	Limité seulement en raison d'une difficulté à accomplir des activités de la vie quotidienne
+MUSC_SKE	Troubles musculo-squelettiques
+ARMS_HANDS	Problèmes au niveau des bras ou des mains
+LEGS_FEET	Problèmes au niveau des jambes ou des pieds
+ARTHRO	Arthrose
+BACK_NECK	Problèmes au niveau du dos ou du cou
+LW_CHR_BACK	Trouble lombaire ou autre anomalie chronique au dos
+NECK	Trouble au cou ou autre anomalie chronique au cou
+SEE	Vision
+HEAR	Audition
+SPCH_IMPED	Trouble du langage
+SKIN	Problèmes de peau
+CHST_BRTH	Problèmes pulmonaires ou respiratoires
+ASTHMA	Asthme
+CHR_LW_RES	Maladies chroniques des voies respiratoires inférieures (sauf l'asthme)
+CARDIO_VASC	Troubles cardio-vasculaires
+HRT_BLPR	Problèmes cardiaques, de tension artérielle ou de circulation sanguine
+HRT_CHR_ATK	Crise cardiaque ou conséquences chroniques d'une crise cardiaque
+CHRT_ANGPEC	Maladie coronarienne ou angine de poitrine
+PULMO	Troubles pulmonaires
+HBLPR	Tension artérielle élevée
+STRK_CHR	Accident vasculaire cérébral (AVC) ou conséquences chroniques d'un AVC
+STOMACH	Problèmes d'estomac, de foie, de rein ou digestifs
+CIRRHOSIS	Cirrhose du foie
+URIN	Incontinence urinaire, problèmes de contrôle de la vessie
+KIDNEY	Problèmes rénaux
+INFECT	Maladies infectieuses
+DIAB	Diabète
+ALLGY	Allergie
+EPILEP	Epilepsie
+MENT_NRV_EMO	Problèmes mentaux, nerveux ou émotionnels
+CHR_ANX	Anxiété chronique
+DPR	Symptômes dépressifs
+DPR_CHR	Dépression chronique
+DPR_MJR	Symptômes dépressifs majeurs
+DPR_OTH	Autres symptômes dépressifs
+STRESS	Stress, dépression, anxiété
+LEARN	Difficultés d'apprentissage
+MNE_OTH	Autres problèmes mentaux, nerveux ou émotionnels
+PILL_OTH	Autres maladies évolutives
+HEAD_EYE	Maux de tête, fatigue visuelle, migraines
+SHEAD	Maux de tête intenses (comme la migraine)
+CANCER	Cancer
+LH_OTH	Autres problèmes de santé de longue durée
+WALK	Marcher
+CLMB	Monter des marches
+REME_CONC	Se souvenir ou se concentrer
+COMM	Communiquer
+TBTL	Lever une bouteille de 2 litres d'eau depuis la taille jusqu'au niveau des yeux
+HLD_GRP_TRN	Tenir, saisir ou tourner
+SITT_STD	S'asseoir ou se mettre debout
+REAC_STRT	Chercher à atteindre ou s'étirer
+LI_CARY	Soulever et porter
+BND	Se pencher
+VIDIF_COR_NREH	Difficulté de vision  corrigée sans problème de santé oculaire
+COR_VDIF_NEPB	Difficulté de vision  corrigée sans problème de santé oculaire
+VIDIF_COR_REH	Difficulté de vision  corrigée avec problème de santé oculaire restant
+COR_VDIF_EPB	Difficulté de vision  corrigée avec le problème de santé oculaire restant
+VIDIFXCOR	Difficulté de vision sans correction
+NCOR_VDIF	Difficulté de vision sans correction
+NVIDIF	Pas de difficulté de vision
+NVDIF	Pas de difficulté de vision
+U_VIAID	Utilisation d'aides visuelles
+U_VAID	Utilisation d'aides visuelles
+NU_VIAID	Pas d'utilisation d'aides visuelles
+NU_VAID	Pas d'utilisation d'aides visuelles
+FD_OSELF	Se nourrir seul
+IN_OUT_G_BED	Se coucher et se lever d'un lit ou s'asseoir et se relever d'une chaise
+DRS_UNDRS	S'habiller et se déshabiller
+USE_TOIL	Utiliser les toilettes
+BATH_SHOW	Prendre un bain ou une douche
+PRPM	Préparer les repas
+USE_TLF	Utiliser le téléphone
+SHOP	Faire les courses
+MNG_MED	Gérer la prise de médicaments
+LGHT_HWRK	Effectuer des tâches ménagères légères
+OH_HWRK	Effectuer occasionnellement des tâches ménagères lourdes
+TCF_EADM	Gérer les finances et les tâches administratives quotidiennes
+OTH	Autre(s)
+NRP	Sans réponse
+NSP	Non spécifié
+PB0000	Handicapé
+PB0001	Non handicapé
+PB1000	Problème de santé, maladie ou pathologie de longue durée
+PB1001	Aucun problème de santé, ni maladie ou pathologie de longue durée
+PB1010	Uniquement un problème de santé de longue durée
+PB1020	Uniquement une difficulté à accomplir certaines activités de la vie quotidienne
+PB1030	A la fois un problème de santé de longue durée et une difficulté à accomplir certaines activités de la vie quotidienne
+PB1031	Aucun problème de santé de longue durée ni de difficulté à accomplir les activités de la vie quotidienne
+PB1040	Difficulté à accomplir certaines activités de la vie quotidienne
+PB1041	Aucune difficulté à accomplir les activités de la vie quotidienne
+PB1050	Difficulté pour effectuer les soins personnels
+PB1051	Aucune difficulté pour effectuer les soins personnels
+PB1060	Difficulté dans les activités domestiques
+PB1061	Aucune difficulté dans les activités domestiques
+PB1070	Limitation dans le travail en raison d'un problème de santé de longue durée ou d'une difficulté à accomplir une activité de la vie quotidienne
+PB1071	Aucun limitation dans le travail en raison d'un problème de santé de longue durée ou d'une difficulté à accomplir une activité de la vie quotidienne
+PB1080	Limité uniquement par un problème de santé de longue durée
+PB1090	Limité uniquement par une difficulté à accomplir une activité de la vie quotidienne
+PB1100	Limité à la fois en raison d'un problème de santé de longue durée et d'une difficulté à accomplir une activité de la vie quotidienne
+PB2010	Problèmes au niveau des bras ou des mains
+PB2020	Problèmes au niveau des jambes ou des pieds
+PB2021	Arthroses
+PB2030	Problèmes au niveau du dos ou du cou
+PB2031	Affection lombaire ou autre anomalie chronique au dos
+PB2032	Affection du cou ou autre anomalie chronique au cou
+PB2110	Voir
+PB2120	Entendre
+PB2121	Entendre dans une pièce calme
+PB2122	Entendre dans une pièce bruyante
+PB2130	Trouble du langage
+PB2210	Affections de la peau
+PB2310	Problèmes pulmonaires ou respiratoires
+PB2311	Asthme
+PB2312	Maladies chroniques des voies respiratoires inférieures (sauf l'asthme) 
+PB2410	Problèmes cardiaques, de tension artérielle ou de circulation sanguine
+PB2411	Crise cardiaque ou conséquences chroniques d'une crise cardiaque
+PB2412	Maladie coronarienne ou angine de poitrine
+PB2413	Tension artérielle élevée
+PB2414	Accident vasculaire cérébral ou conséquences chroniques d'un AVC
+PB2420	Problèmes d'estomac, de foie, de rein ou digestifs
+PB2421	Cirrhose du foie
+PB2422	Incontinence urinaire, problèmes de contrôle de la vessie
+PB2423	Problèmes rénaux
+PB2430	Diabète
+PB2440	Allergie
+PB2510	Épilepsie
+PB2610	Problèmes mentaux, nerveux ou émotionnels
+PB2620	Anxiété chronique
+PB2630	Dépression chronique
+PB2640	Difficultés d'apprentissage
+PB2690	Autres problèmes mentaux, nerveux ou émotionnels
+PB2710	Autres maladies évolutives
+PB2720	Maux de tête intenses (comme les migraines)
+PB2730	Cancer
+PB2790	Autres problèmes de santé de longue durée
+PB3010	Marcher
+PB3011	Marcher ou monter des marches
+PB3012	Monter des marches
+PB3110	Se souvenir ou se concentrer
+PB3120	Communiquer
+PB3210	Lever une bouteille de 2 litres d'eau depuis la taille jusqu'au niveau des yeux
+PB3310	Tenir, saisir ou tourner
+PB3320	S'asseoir ou se mettre debout
+PB3330	Chercher à prendre ou s'étirer
+PB3340	Soulever et porter
+PB3350	Se pencher
+PB4010	Se nourrir seul
+PB4020	Se coucher et se lever du lit ou s'asseoir et se relever d'une chaise
+PB4030	S'habiller et se déshabiller
+PB4040	Utiliser les toilettes
+PB4050	Prendre un bain ou une douche
+PB5010	Préparer les repas
+PB5020	Utiliser le téléphone
+PB5030	Faire les courses
+PB5040	Gérer la prise de médicaments
+PB5050	Effectuer des tâches ménagères
+PB5051	Effectuer des tâches ménagères légères
+PB5052	Effectuer occasionnellement des tâches ménagères lourdes
+PB5060	Gérer les finances et les tâches administratives quotidiennes
+ALLERGIC	Effets allergiques
+CARDIO_V	Troubles cardio-vasculaires
+DENTAL	Problèmes dentaires
+EYE	Lésions oculaires
+GASTROIN	Troubles gastriques
+HEMATOLO	Troubles hématologiques
+HEARING	Troubles auditifs
+HEPATIC	Troubles hépatiques
+IRRI_SKI	Effets irritants de la peau ou des muqueuses
+NEUROLOG	Troubles neurologiques
+PULMONAR	Troubles pulmonaires
+INFECTIO	Maladies infectieuses
+SKIN_DIS	Problèmes de peau
+OTHER	Autre non mentionné ailleurs
+UNK	Non connu
+NDPR	Aucun symptômes dépressifs

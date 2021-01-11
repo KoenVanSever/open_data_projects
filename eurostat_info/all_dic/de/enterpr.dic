@@ -1,0 +1,69 @@
+TOTAL	Insgesamt
+LIFE	Lebensversicherungsunternehmen
+NLIFE	Nicht-Lebensversicherungsunternehmen
+CMP	Kompositversicherungsunternehmen
+RINS	Rückversicherungsunternehmen
+CMP_LIFE	Lebensversicherungsgeschäft von Kompositversicherungsunternehmen
+CMP_NLIFE	Nicht-Lebensversicherungsgeschäft von Kompositversicherungsunternehmen (einschließlich das in Rückdeckung übernommene Geschäft)
+AVIA	Flughafenunternehmen
+AIRP	Luftfahrtunternehmen
+RL_OPER	Betreiber im Eisenbahnverkehr
+RL_INFR	Fahrwegbetreiber
+RL_INTG	Integriertes Unternehmen
+DOM	Unternehmen mit Beschaffung im Inland
+DOMC	Unternehmen vom Hausbesitzer kontrolliert 
+DOMC_ABR	Unternehmen von Hausbesitzern kontrolliert, mit eingenen Niederlassungen im Ausland 
+DOMC_NABR	Unternehmen von Hausbesitzern kontrolliert, ohne eingenen Niederlassungen im Ausland 
+FORC	Unternehmen von ausländischen Eigentümern kontrolliert 
+INTL	Unternehmen mit internationaler Beschaffung
+NINTL_PL	Unternehmen, die keine internationale Beschaffung durchführen, dies aber planen
+NINTL_NPL	Unternehmen, die keine internationale Beschaffung durchführen und dies auch nicht planen
+BACK	Unternehmen mit Backsourcing
+NBACK	Unternehmen mit keinem Backsourcing
+RLC	Unternehmen, die Aktivitäten rückverlagerten
+NRLC	Unternehmen, die keine Aktivitäten rückverlagerten
+CTRL	Unternehmen, die ausländische Tochtergesellschaften beherrschten
+NCTRL	Unternehmen, die keine ausländische Tochtergesellschaften beherrschten
+CCLOSE_ABR	Unternehmen, die die Tätigkeit im Ausland vollständig eingestellt haben
+PCLOSE_ABR	Unternehmen, die die Funktion verlagerten, während sie die Tätigkeit im Ausland teilweise einstellten
+SAME_ABR	Unternehmen, die die Funktion verlagerten, während die Tätigkeit im Ausland gleich blieb
+INCR_ABR	Unternehmen, die die Funktion verlagerten, während  sie die Tätigkeit im Ausland ausweiteten
+SPEC	Spezialisierte Unternehmen
+NSPEC	Nicht spezialisierte Unternehmen
+HG	Unternehmen mit hohem Wachstumspotenzial
+YHG	Junge Unternehmen mit hohem Wachstumspotenzial (Gazellen)
+INN	Innovative Unternehmen
+INN_ITR	Unternehmen, die eine Innovation eingeführt haben (alle Arten)
+INN_ACT	Unternehmen, die Innovationsaktivitäten haben, unabhängig davon, ob sie eine Innovation eingeführt haben (einschließlich Unternehmen mit aufgegebenen/ausgesetzten oder laufenden Innovationstätigkeiten)
+PRDPCS_ONL	Nur produkt- und/oder prozessinnovative Unternehmen (einschließlich Unternehmen mit aufgegebenen/ausgesetzten oder laufenden Innovationstätigkeiten)
+PRDPCS_ORGMKTG_ONL	Nur produkt- und/oder prozessinnovative Unternehmen und organisations- und/oder marketinginnovative Unternehmen (einschließlich Unternehmen mit aufgegebenen/ausgesetzten oder laufenden Innovationstätigkeiten)
+PRDPCS_XABDONGO	Unternehmen mit Produkt- und/oder Prozessinnovationen ausgenommen Unternehmen nur mit laufender und/oder eingestellter Innovationstätigkeit
+PRDPCSXABDONGO	Unternehmen mit Produkt- und/oder Prozessinnovationen ausgenommen Unternehmen nur mit laufender und/oder eingestellter Innovationstätigkeit
+PRDPCS	Produkt- und/oder prozessinnovative Unternehmen (einschließlich Unternehmen mit aufgegebenen/ausgesetzten Innovationstätigkeiten)
+PRD_ONL	Nur produktinnovative Unternehmen
+PRD	Produktinnovative Unternehmen (unabhängig von irgendeiner andere Art von Innovation)
+PRD_PCS_ONL	Nur produkt- und prozessinnovative Unternehmen
+PCS_ONL	Nur prozessinnovative Unternehmen
+PCS	Prozessinnovative Unternehmen (unabhängig von irgendeiner andere Art von Innovation)
+PRDBPCS	Produkt- und/oder innovative Geschäftsprozessunternehmen (einschließlich Unternehmen mit aufgegebenen/ausgesetzten Innovationstätigkeiten)
+BPCS_ONL	Nur innovative Geschäftsprozessunternehmen
+PRD_BPCS_ONL	Nur innovative Produkt- und Geschäftsprozessunternehmen
+END	Unternehmen mit abgeschlossenen Innovationstätigkeiten
+ABD	Unternehmen mit aufgegebenen/ausgesetzten Innovationstätigkeiten
+ABD_ONL	Nur Unternehmen mit aufgegebenen/ausgesetzten Innovationstätigkeiten
+ONGO	Unternehmen mit laufenden Innovationstätigkeiten
+ONGO_ONL	Unternehmen mit nur laufenden Innovationstätigkeiten
+ABD_ONGO	Unternehmen mit aufgegebenen/ausgesetzten und laufenden Innovationstätigkeiten
+ABD_ONGO_ONL	Unternehmen mit aufgegebenen/ausgesetzten und laufenden Innovationstätigkeiten
+ORGMKTG_ONL	Nur organisations- und/oder marketinginnovative Unternehmen
+ORGMKTG	Organisations- und/oder marketinginnovative Unternehmen unabhängig von Produkt- oder Prozessinnovationen
+ORG_MKTG_ONL	Nur organisations- und/oder marketinginnovative Unternehmen
+ORG_ONL	Nur organisationsinnovative Unternehmen
+ORG	Organisationsinnovative Unternehmen (unabhängig von irgendeiner andere Art von Innovation)
+MKTG_ONL	Nur marketinginnovative Unternehmen
+MKTG	Marketinginnovative Unternehmen (unabhängig von irgendeiner andere Art von Innovation)
+NINN	Nicht-innovative Unternehmen
+NINN_ITR	Unternehmen, die keine Innovation eingeführt haben (unabhängig davon, ob sie Innovationsaktivitäten haben)
+NINN_ACT	Unternehmen, die keine Innovationsaktivitäten haben (unabhängig davon, ob sie eine Innovation eingeführt haben)
+OTH	Sonstige Unternehmen
+UNK	Unbekannt

@@ -1,0 +1,16 @@
+TOTAL	Total
+KITC	Cuisine séparée dans l'unité d'habitation
+WTR	Eau courante dans l'unité d'habitation
+NWTR	Pas d'eau courante dans l'unité d'habitation
+WTR_UNK	Eau courante - inconnu
+TOIL	Toilettes avec chasse d'eau dans l'unité d'habitation
+NTOIL	Toilettes sans chasse d'eau dans l'unité d'habitation
+TOIL_UNK	Toilettes - inconnu
+BATH	Installation fixe de bain ou de douche dans l'unité d'habitation
+NBATH	Pas d'installation fixe de bain ou de douche dans l'unité d'habitation
+BATH_UNK	Bain, douche dans l'immeuble - inconnu
+HEAT	Chauffage central
+NHEAT	Pas de chauffage central
+HEAT_UNK	Chauffage central - inconnu
+UNK	Inconnu
+OTH	Autre

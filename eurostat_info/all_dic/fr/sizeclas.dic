@@ -1,0 +1,30 @@
+TOTAL	Total
+0	Zéro
+1-4	De 1 à 4 salariés
+1-5	De 1 à 5 salariés
+1-9	De 1 à 9 salariés
+1-10	De 1 à 10 salariés
+LE4	4 salariés ou moins
+5-9	De 5 à 9 salariés
+GE5	5 salariés ou plus
+6-9	De 6 à 9 salariés
+LT10	Moins de 10 salariés
+LE10	10 salariés ou moins
+10-19	De 10 à 19 salariés
+10-49	De 10 à 49 salariés
+10-249	De 10 à 249 salariés
+GE10	10 salariés ou plus
+GT10	Plus de 10 salariés
+11-19	De 11 à 19 salariés
+11-49	De 11 à 49 salariés
+20-49	De 20 à 49 salariés
+50-249	De 50 à 249 salariés
+GE50	50 salariés ou plus
+250-499	De 250 à 499 salariés
+GE250	250 salariés ou plus
+500-999	De 500 à 999 salariés
+GE500	500 salariés ou plus
+GE1000	1 000 salariés ou plus
+NAL	Non alloué
+NRP	Sans réponse
+UNK	Inconnu

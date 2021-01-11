@@ -1,0 +1,4 @@
+PLC_MKT	In Verkehr gebrachte Menge
+I_TAX_CHRG_LEV	Aus obligatorischen Steuern, Gebühren oder Abgaben berechnete Menge
+X_TAX_CHRG_LEV	Von obligatorischen Steuern, Gebühren oder Abgaben befreite Menge
+I_X_TAX_CHRG_LEV	Die aus obligatorischen Steuern, Gebühren oder Abgaben berechnete Menge und die von obligatorischen Steuern, Gebühren oder Abgaben befreite Menge

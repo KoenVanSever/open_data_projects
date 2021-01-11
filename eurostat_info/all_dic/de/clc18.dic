@@ -1,0 +1,68 @@
+CLC1	Bebaute Flächen
+CLC11	Städtisch geprägte Flächen
+CLC111	Durchgängig städtische Prägung
+CLC112	Nicht durchgängig städtische Prägung
+CLC12	Industrie-, Gewerbe- und Verkehrsflächen
+CLC121	Industrie- und Gewerbeflächen, öffentliche Einrichtungen
+CLC122	Straßen-, Eisenbahnnetze und funktionell zugeordnete Flächen
+CLC123	Hafengebiete
+CLC124	Flughäfen
+CLC13	Abbauflächen, Deponien und Baustellen 
+CLC131	Abbauflächen
+CLC132	Deponien und Abraumhalden
+CLC133	Baustellen
+CLC14	Künstlich angelegte, nicht landwirtschaftlich genutzte Grünflächen
+CLC141	Städtische Grünflächen
+CLC142	Sport- und Freizeitanlagen
+CLC2	Landwirtschaftliche Flächen
+CLC21	Ackerflächen
+CLC211	Nicht bewässertes Ackerland
+CLC212	Regelmäßig bewässertes Ackerland
+CLC213	Reisfelder
+CLC22	Dauerkulturen
+CLC221	Weinbauflächen
+CLC222	Obst- und Beerenobstbestände
+CLC223	Olivenhaine
+CLC23	Grünland
+CLC231	Wiesen und Weiden
+CLC24	Landwirtschaftliche Flächen heterogener Struktur
+CLC241	Einjährige Kulturen in Verbindung mit Dauerkulturen
+CLC242	Komplexe Parzellenstruktur
+CLC243	Landwirtschaftlich genutztes Land mit Flächen natürlicher Bodenbedeckung von signifikanter Größe
+CLC244	Land-und forstwirtschaftliche Flächen
+CLC3	Wälder und naturnahe Fläche
+CLC31	Wälder
+CLC311	Laubwälder
+CLC312	Nadelwälder
+CLC313	Mischwälder
+CLC32	Strauch-und Krautvegetation
+CLC321	Natürliches Grünland
+CLC322	Heiden und Moorheiden
+CLC323	Hartlaubbewuchs
+CLC324	Wald-Strauch-Übergangsstadien
+CLC33	Offene Flächen ohne/mit geringer Vegetation
+CLC331	Strände, Dünen und Sandflächen
+CLC332	Felsflächen ohne Vegetation
+CLC333	Flächen mit spärlicher Vegetation
+CLC334	Brandflächen
+CLC335	Gletscher und Dauerschneegebiete
+CLC4	Feuchtflächen
+CLC41	Feuchtflächen im Landesinnern
+CLC411	Sümpfe
+CLC412	Torfmoore
+CLC42	Feuchtflächen an der Küste
+CLC421	Salzwiesen
+CLC422	Salinen
+CLC423	In der Gezeitenzone liegende Flächen
+CLC5	Wasserflächen
+CLC51	Wasserflächen im Landesinnern
+CLC511	Gewässerläufe
+CLC512	Wasserflächen
+CLC52	Meeresgewässer
+CLC521	Lagunen
+CLC522	Mündungsgebiete
+CLC523	Meere und Ozeane
+CLC2_3X331_332_335	Landwirtschaftliche Flächen, Wälder und naturnahe Flächen (ohne Strände, Dünen, Sandflächen, Felsflächen ohne Vegetation, Gletscher und Dauerschneegebiete)
+CLC2_321	Landwirtschaftliche Flächen und natürliches Grünland
+CLC2X23	Landwirtschaftliche Flächen (ohne Grünland)
+CLC23_321	Wiesen, Weiden und natürliches Grünland

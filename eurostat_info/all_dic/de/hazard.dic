@@ -1,0 +1,16 @@
+HAZ_NHAZ	Gefährlich und ungefährlich - Gesamt
+HAZ	Gefährliche
+HLTH	Gesundheitsgefahr
+HLTH_CMR	Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende (CMR) Gesundheitsgefahr
+HLTH_CHRTOX	Chronisch toxische Gesundheitsgefahr
+HLTH_VTOX	Sehr toxische Gesundheitsgefahr
+HLTH_TOX	Toxische Gesundheitsgefahr
+HLTH_HRM	Gefahr für die Gesundheit
+ENV	Umweltgefahr
+ENV_SEVCHR	Schwerwiegende chronische Umweltgefahr
+ENV_SGNCHR	Signifikant chronische Umweltgefahr
+ENV_MODCHR	Moderat chronische Umweltgefahr
+ENV_CHR	Chronische Umweltgefahr
+ENV_SGNACU	Signifikante akute Umweltgefahr
+NHAZ	Ungefährliche
+OTH	Sonstige

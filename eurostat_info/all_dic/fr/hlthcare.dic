@@ -1,0 +1,14 @@
+TOTAL	Total
+HC	Soins de santé
+HC_HOSP	Hospitalisation
+HC_AMB	Les soins ambulatoires
+HC_MED	Soins médicaux
+HC_DENT	Soins dentaires
+HC_MENT	Soins de santé mentale
+HC_BLPR	Mesure de la tension artérielle
+HC_BLCH	Mesure du taux de cholestérol dans le sang
+HC_BLSU	Mesure du taux de sucre dans le sang
+NHC	Pas de soins de santé
+MG_MEDS	Médicaments
+MG_PMEDS	Médicaments prescrits par un médecin
+NRP	Sans réponse
